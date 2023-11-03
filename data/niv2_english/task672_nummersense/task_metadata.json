@@ -1,0 +1,7 @@
+{
+    "summary": "Given a cloze question, identify the missing numerical value",
+    "category": "Fill in The Blank",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

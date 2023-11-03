@@ -1,0 +1,3 @@
+{"id": "task403-045ac1eb608247748d217010691cf12e", "input": "Armenians live in a country bordered by other countries.\nArmenia is not an island.", "target": "True"}
+{"id": "task403-229ae2b0e6bf4f3f940c6ef3f3b4e55a", "input": "When Snowboarding, it's best to put your first in the water first, then your head.\nWater is not involved when snowboarding.", "target": "False"}
+{"id": "task403-24c17d55a5704610b3fc6bc3386e0b50", "input": "Rainbows pop up in the sky whenever there is rain and sunlight.\nRainbows are caused by the diffraction of sunlight through water.", "target": "True"}

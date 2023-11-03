@@ -1,0 +1,7 @@
+{
+    "summary": "Given an anecdote, judge whether the author is ethically correct or not.",
+    "category": "Ethics Classification",
+    "domain": "Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

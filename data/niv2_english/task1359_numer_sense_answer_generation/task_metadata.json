@@ -1,0 +1,7 @@
+{
+    "summary": "Generates answer to numer sense",
+    "category": "Fill in The Blank",
+    "domain": "Commonsense -> Concepts and Relations, Animals",
+    "input_lang": "English",
+    "output_lang": "English"
+}

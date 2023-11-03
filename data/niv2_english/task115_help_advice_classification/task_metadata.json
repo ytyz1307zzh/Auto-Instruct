@@ -1,0 +1,7 @@
+{
+    "summary": "Given a text, detect whether it's an advise or not.",
+    "category": "Text Categorization",
+    "domain": "Social Media -> Reddit",
+    "input_lang": "English",
+    "output_lang": "English"
+}

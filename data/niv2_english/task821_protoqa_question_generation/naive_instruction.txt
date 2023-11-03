@@ -1,0 +1,1 @@
+Given a group of answers, generate a question for all answers

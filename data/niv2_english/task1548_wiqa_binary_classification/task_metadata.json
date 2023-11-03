@@ -1,0 +1,7 @@
+{
+    "summary": "Binary Classification (based on steps in wiqa)",
+    "category": "Sentence Ordering",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

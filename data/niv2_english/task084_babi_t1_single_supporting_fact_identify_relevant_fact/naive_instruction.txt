@@ -1,0 +1,1 @@
+Given a question and an answer, identify the relevant piece of evidence.

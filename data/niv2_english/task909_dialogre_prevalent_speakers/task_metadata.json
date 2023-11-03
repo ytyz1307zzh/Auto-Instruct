@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying Prevalent Speakers with DialogRE",
+    "category": "Speaker Identification",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

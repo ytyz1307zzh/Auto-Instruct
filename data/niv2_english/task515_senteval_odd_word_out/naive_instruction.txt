@@ -1,0 +1,1 @@
+Given a sentence judge whether a single word has been replaced with another word.

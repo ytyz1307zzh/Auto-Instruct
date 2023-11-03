@@ -1,0 +1,1 @@
+Classify sentences into four kinds of stereotypes, including gender, profession, race, and religion.

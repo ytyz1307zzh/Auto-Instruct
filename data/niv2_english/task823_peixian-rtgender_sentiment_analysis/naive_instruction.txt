@@ -1,0 +1,1 @@
+Analyze the sentiment of responses under posters from social media

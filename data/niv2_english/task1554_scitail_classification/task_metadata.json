@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying supporting and non supporting statements from SciTail",
+    "category": "Textual Entailment",
+    "domain": "Web, Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

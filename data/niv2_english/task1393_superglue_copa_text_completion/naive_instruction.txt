@@ -1,0 +1,1 @@
+Given a premise sentence, two possible options and a question word, choose the best option.

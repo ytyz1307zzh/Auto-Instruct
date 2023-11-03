@@ -1,0 +1,7 @@
+{
+    "summary": "Generate an answer, given a collection of evidence sentences.",
+    "category": "Question Answering",
+    "domain": "Commonsense -> Concepts and Relations -> Spatial Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

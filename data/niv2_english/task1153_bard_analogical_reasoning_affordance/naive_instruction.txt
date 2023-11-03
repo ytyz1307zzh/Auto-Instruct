@@ -1,0 +1,1 @@
+Given an analogy that signifies affordances give the appropriate affordance of the given action

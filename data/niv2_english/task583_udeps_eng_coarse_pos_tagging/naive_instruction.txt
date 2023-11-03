@@ -1,0 +1,1 @@
+Given a sentence, a word in that sentence and the position of that word in the sentence, find the parts-of-speech tag of the word

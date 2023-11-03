@@ -1,0 +1,7 @@
+{
+    "summary": "Given a tweet, classify its sentiment as either positive or negative.",
+    "category": "Sentiment Analysis",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

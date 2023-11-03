@@ -1,0 +1,7 @@
+{
+    "summary": "Generate the ner given its required ingredients given.",
+    "category": "Named Entity Recognition",
+    "domain": "Food",
+    "input_lang": "English",
+    "output_lang": "English"
+}

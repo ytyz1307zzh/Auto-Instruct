@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying sentence into one of five action categories",
+    "category": "Dialogue Act Recognition",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers to MOCHA questions",
+    "category": "Question Answering",
+    "domain": "Wikipedia, Books, Movies, Story, History",
+    "input_lang": "English",
+    "output_lang": "English"
+}

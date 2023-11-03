@@ -1,0 +1,3 @@
+{"id": "task212-ad5b424633084e2aacce9718c97bd55a", "input": "eq { count { filter_eq { all_rows ; mens singles ; dean galt } } ; 2 }", "target": "count"}
+{"id": "task212-a262efd5036b427f97f609fb862ef568", "input": "eq { hop { argmax { all_rows ; weight } ; diameter } ; 28 mm }", "target": "superlative"}
+{"id": "task212-d53144c7b60749579c967b556d4a4748", "input": "eq { hop { nth_argmin { filter_eq { all_rows ; engine ; 5.7 l hemi v8 } ; years ; 1 } ; notes } ; limited , overland }", "target": "ordinal"}

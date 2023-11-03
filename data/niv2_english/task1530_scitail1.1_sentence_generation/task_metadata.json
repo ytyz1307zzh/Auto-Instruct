@@ -1,0 +1,7 @@
+{
+    "summary": "Generating a Premise that entails the Hypothesis",
+    "category": "Sentence Composition",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

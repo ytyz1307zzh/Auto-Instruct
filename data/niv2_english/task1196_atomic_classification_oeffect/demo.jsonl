@@ -1,0 +1,3 @@
+{"id": "task1196-72197ba2345b4f6a933b1c779acaa682", "input": "Head: PersonX answers PersonY's letter<sep>Tail: accomplished", "target": "No"}
+{"id": "task1196-3ca42c0eeb8241238640df2ac7df4612", "input": "Head: PersonX offered PersonX's hand<sep>Tail: receives support", "target": "Yes"}
+{"id": "task1196-a203a1bc7a514a49b0593423bbd4c49c", "input": "Head: PersonX asks PersonX's boyfriend<sep>Tail: get dinner", "target": "No"}

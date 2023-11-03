@@ -1,0 +1,7 @@
+{
+    "summary": "Finding overlapping words between two sentences.",
+    "category": "Overlap Extraction",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

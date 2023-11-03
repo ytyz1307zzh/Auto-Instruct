@@ -1,0 +1,7 @@
+{
+    "summary": "Given a document, generate a short title of the document.",
+    "category": "Title Generation",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

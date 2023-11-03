@@ -1,0 +1,1 @@
+Given a sentence and an aspect, paraphrase the sentence changing that aspect.

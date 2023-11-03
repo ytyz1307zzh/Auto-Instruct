@@ -1,0 +1,361 @@
+{"id": "task1614-c46d983f8e83426ba0ea0a986513e14d", "input": "sentence_B_original: a man is playing keyboards", "target": "A man is playing an instrument"}
+{"id": "task1614-8c9a621cb70944b3944496225e0d367f", "input": "sentence_B_original: a kid is playing a guitar", "target": "A kid is playing a guitar"}
+{"id": "task1614-6e2a28a73a3844c89e04c0e14d25336c", "input": "sentence_B_original: a man is playing his guitar", "target": "The guitar is being played by a man"}
+{"id": "task1614-4bebba6d68244c509c05c72752820130", "input": "sentence_B_original: a man rises from a swamp", "target": "A man is coming out of the water"}
+{"id": "task1614-4663362fdc764bf9b35e357eb12c993d", "input": "sentence_B_original: a woman is playing the flute", "target": "The flute is being played by a woman"}
+{"id": "task1614-f9629fea93a34a6eadf0ec54a466c3ca", "input": "sentence_B_original: a bmx bike rider in a black and red uniform on a dirt bike", "target": "A bike rider in a black and red uniform is standing on a dirt bike"}
+{"id": "task1614-8e6dc836a32b4218a15bfac63e63d4ea", "input": "sentence_B_original: A kitten is drinking milk.", "target": "The milk is being drunk by a cat"}
+{"id": "task1614-4ae3b1d49f79494cbd655069b57bbbd9", "input": "sentence_B_original: kids are dressed in costume and playing a game", "target": "Kids are being dressed in costumes and playing a game"}
+{"id": "task1614-73247a784b91483990af2e3af921ac0f", "input": "sentence_B_original: the girl trotted the horse", "target": "The person is trotting on the horse"}
+{"id": "task1614-13c9ab1b12864208b41e3940f2a4a9e1", "input": "sentence_B_original: A woman peels a potato.", "target": "The potato isn't being peeled by a woman"}
+{"id": "task1614-ea1ccb5577784b26a086807b25560e9a", "input": "sentence_B_original: a man is mixing a bowl", "target": "A man is mixing the content of a bowl"}
+{"id": "task1614-c56b94ba5a7e4ff0b510951a49166cc2", "input": "sentence_B_original: the man erased the work on the board", "target": "The man is erasing the drawing on the board"}
+{"id": "task1614-ff44a803fed64f98a931c3220a8724f8", "input": "sentence_B_original: a kid splashes in the ocean", "target": "A kid is splashing in the pool"}
+{"id": "task1614-567becc9e3aa4f958aaf3c32fde8bdb9", "input": "sentence_B_original: a man plays the guitar", "target": "A guitar is being played by a man"}
+{"id": "task1614-7272ed55905a4b359ece6ae99af1e6ef", "input": "sentence_B_original: a piece of paper is being cut", "target": "The piece of paper is being cut"}
+{"id": "task1614-26b495b50d9b47eb8e541fd5be4c9671", "input": "sentence_B_original: someone drills a hole in a strip of wood with a power drill", "target": "A man is drilling a hole in a piece of wood"}
+{"id": "task1614-35e2ccaf94014965b54a6f85d789357a", "input": "sentence_B_original: a downhill skier in black catches a tiny bit of air", "target": "A skier in black is catching a tiny bit of air"}
+{"id": "task1614-9469c882ed2d471eba4b2d48aa54ef9d", "input": "sentence_B_original: a man is slicing potatoes", "target": "The man is slicing potatoes"}
+{"id": "task1614-d2056a25beaf4ef099a67c8869aed037", "input": "sentence_B_original: woman is adding sugar to meat", "target": "A woman is adding spices to some meat"}
+{"id": "task1614-8ed7753bdfd7488a934667b2e8f21258", "input": "sentence_B_original: two people sitting on a park bench on a sunny day", "target": "Two people are sitting on a park bench on a rainy day"}
+{"id": "task1614-380f4d534c464239b7447fad735b00e8", "input": "sentence_B_original: a young girl wearing blue is jumping in the air", "target": "A young girl in blue is jumping in the air"}
+{"id": "task1614-26b53d4f0753453c8206527f145bb6af", "input": "sentence_B_original: a man on a motorcycle going around a corner", "target": "A man on a motorcycle is turning around a corner"}
+{"id": "task1614-41e7eeadd4e34c01afc94cf7728b94ec", "input": "sentence_B_original: adults and children stand and play in front of steps near a wooded area", "target": "Adults and children standing and playing in front of a stair near a wooded area"}
+{"id": "task1614-78f4d458b65f4f92a9d5a74d37fbe0b6", "input": "sentence_B_original: The lady is surfing and riding a wave.", "target": "A boy is surfing and riding a wave"}
+{"id": "task1614-5f25be86e4df49bebc6a05b6104aaa47", "input": "sentence_B_original: a person is tearing paper", "target": "A person is tearing paper"}
+{"id": "task1614-4f58b64df46244959a933eec28d1802f", "input": "sentence_B_original: the surfer is coming in from riding a big wave", "target": "The surfer is riding a big wave"}
+{"id": "task1614-088d3bde956b445ea345ef61f7731ce1", "input": "sentence_B_original: a woman is playing flute", "target": "A woman is playing flute"}
+{"id": "task1614-1c2c21e1a0b04d038a22277bddaf3740", "input": "sentence_B_original: this group of people are practicing water safety by wearing preservers while in a raft on the river", "target": "This group of people is practicing water safety and wearing preservers"}
+{"id": "task1614-f998fd36f5d44a0883bdce2a3fd662f2", "input": "sentence_B_original: big brown and white spotted dog laying on a jacket on the street", "target": "The dog is having a rest in the park"}
+{"id": "task1614-2746107b4dfb47578479fe2eef57cd02", "input": "sentence_B_original: the woman is seasoning the oil", "target": "The woman is seasoning the oil"}
+{"id": "task1614-a8f68c5c91a544cabf2e41a235473d3b", "input": "sentence_B_original: The back of a woman in costume ; little girl looks at her", "target": "The little girl is looking at a man in costume"}
+{"id": "task1614-d704d53954f94be5be1b13e049b3a9c7", "input": "sentence_B_original: pedestrians and cars make their way through times square in new york", "target": "Pedestrians and cars are moving through a traffic jam in the big city"}
+{"id": "task1614-367420d25a384928a8d4436cae2e3128", "input": "sentence_B_original: Two men stand near the water with their fishing poles.", "target": "Two men are holding fishing poles"}
+{"id": "task1614-88962647f7d34fd3bf927e181ef1a86c", "input": "sentence_B_original: dogs playing in a stream", "target": "Some dogs are playing in a river"}
+{"id": "task1614-ab800bcf2af243f6ac32443afd031305", "input": "sentence_B_original: two kids are bouncing on colorful balls", "target": "Two kids are bouncing on colorful balls"}
+{"id": "task1614-9e7b912f3ad04f7ab4351b14e02c8b29", "input": "sentence_B_original: people sit against a.wall", "target": "People are sitting near a wall"}
+{"id": "task1614-1c72d89eafca4e2eb2b3c60d2f20e37a", "input": "sentence_B_original: horse and rider leap over a barrier", "target": "The horse is leaping over the rider at the barrier"}
+{"id": "task1614-2d83929994ea45c3aa0c11b0368629d5", "input": "sentence_B_original: a man is praying", "target": "A man is praying"}
+{"id": "task1614-f7d64e44598b44ed9b042700dc7c255d", "input": "sentence_B_original: a woman is opening a soda and drinking it", "target": "A soda is being opened and drunk by a woman"}
+{"id": "task1614-cff28a576e6642c0b00f1d5146de2c4c", "input": "sentence_B_original: a man in a red uniform makes a jump in a dirt bike race", "target": "A man in a red uniform is making a jump in a dirt bike race"}
+{"id": "task1614-014ded505fca4ef5abae88538ef56648", "input": "sentence_B_original: a woman in a purple top is walking a bicycle between two stone columns", "target": "A woman in a top which is purple is walking a bicycle between two stone columns"}
+{"id": "task1614-a70d56c7780347ccb40403625df4384b", "input": "sentence_B_original: The cat is drinking milk.", "target": "The cat is hungrily drinking milk"}
+{"id": "task1614-e148a6db01344d22ae2ebe1e8dad0d78", "input": "sentence_B_original: young boy covered in grass jumping near a wooden fence", "target": "A young boy covered in grass is jumping near a wooden fence"}
+{"id": "task1614-d6b7c7767a324a62a3822ee6084dc98d", "input": "sentence_B_original: Two children hanging on a large branch.", "target": "Two children are hanging on a large branch"}
+{"id": "task1614-119f3dd180fa4b8981225c47a223ad0b", "input": "sentence_B_original: a collie and a springer spaniel playing outside", "target": "Two brown and white dogs are fighting on a grassy area in front of a tree"}
+{"id": "task1614-5d432bfb440b4b6c94875e25cd15d7a1", "input": "sentence_B_original: a little dog running on sand", "target": "No little dog is running on the sand"}
+{"id": "task1614-acf0424345ed4b0f900199c370eb398e", "input": "sentence_B_original: a black dog is leaping from a cylindrical hay bale", "target": "A black dog is leaping from a cylindrical hay bale"}
+{"id": "task1614-73a28638871a4256a8f20c3e66033b73", "input": "sentence_B_original: A man is climbing a rope up a cliff.", "target": "One man is climbing a cliff with a rope"}
+{"id": "task1614-ab5c1719c0eb483c80e6569ef7824567", "input": "sentence_B_original: A white dog and a black dog running side by side on the grass while onlookers watch.", "target": "A black and a white dog are joyfully running on the grass"}
+{"id": "task1614-0d48961d9009493da15f84dbcdc06a48", "input": "sentence_B_original: the male is doing a handstand on the wet sand at the edge of the water at the beach", "target": "The man is doing a handstand on the wet sand at the edge of the water at the beach"}
+{"id": "task1614-1a660c50146e4f1e8e2f37bd94012213", "input": "sentence_B_original: women are dancing", "target": "Some women are dancing"}
+{"id": "task1614-8ea2d974b2414458b1879b83556c27d1", "input": "sentence_B_original: a group of people are dancing in concert", "target": "A group of people are dancing in a show"}
+{"id": "task1614-b3279647319c4b29ba29beb292ffddf0", "input": "sentence_B_original: a man does floor exercises", "target": "A man is doing exercises"}
+{"id": "task1614-c0562ad4a4374b1395f6607792f01ee0", "input": "sentence_B_original: a man in a white hat plays guitar on a stage", "target": "A white man is staging a hat and a playing guitar"}
+{"id": "task1614-73c7cf09c39142bda5694542fc0a8d72", "input": "sentence_B_original: two brown dogs play with a frisbee in the water", "target": "Two brown dogs are playing with the frisbee in the water"}
+{"id": "task1614-57ba919fe5af4c5496e093156220d80f", "input": "sentence_B_original: one brown and one black dog in grass", "target": "A brown dog and a black dog are in the grass"}
+{"id": "task1614-b44d13d0efe742658a781716c7caec2b", "input": "sentence_B_original: a dog is running up a grassy hill", "target": "A dog is running up a grassy hill"}
+{"id": "task1614-99ffe45c36854ef0bf70386a8e660d3d", "input": "sentence_B_original: An old woman with a white dog", "target": "A woman, who is old, is near a white dog"}
+{"id": "task1614-e6c7e29acac7449683cfc055ef127b2e", "input": "sentence_B_original: a man is singing into a microphone", "target": "A woman is singing into a microphone"}
+{"id": "task1614-9c4ba841116e442fac9fb880c1b8b251", "input": "sentence_B_original: a black and a blonde dog are either playing or fighting with each other", "target": "Two dogs are playing with each other"}
+{"id": "task1614-d17e21e74e774dda8b6b0bef24f48711", "input": "sentence_B_original: Five kittens are eating out of five dishes.", "target": "The food on the trays is being eaten by the kittens"}
+{"id": "task1614-ade23db7f24e4932808bb9c99baa9d8f", "input": "sentence_B_original: a man sits on the grass and drinks from a water bottle", "target": "A man is sitting on the lawn and drinking from a water bottle"}
+{"id": "task1614-fa24073bdbc3432fa88850f30e32c497", "input": "sentence_B_original: four people sitting on low cement ledge", "target": "Some people are sitting on a low cement ledge"}
+{"id": "task1614-8a6b64d4cd5f45b9b12c0cb2a49d73f2", "input": "sentence_B_original: a group of people stand together and look at the camera", "target": "A group of people is standing together and looking at the camera"}
+{"id": "task1614-4b34e8dc61aa42b6ad5699462838a80d", "input": "sentence_B_original: children in swimming suits playing in water", "target": "Children in swimming suits are playing in the water"}
+{"id": "task1614-314ea904120442c1974af6d9d53b1c84", "input": "sentence_B_original: a woman is using a sewing machine", "target": "A woman is using a sewing machine"}
+{"id": "task1614-9c2f09296e514c01a88d557220b9de92", "input": "sentence_B_original: a horse leaps a hurdle with a rider on its back", "target": "A horse is leaping a hurdle and has a rider on its back"}
+{"id": "task1614-baafabd5e749431486428b2e91f53ee6", "input": "sentence_B_original: a dog is playing with a toy", "target": "A dog is having fun with a toy"}
+{"id": "task1614-4f700f91435c4086b8bcc8c1aa001cd4", "input": "sentence_B_original: a man is riding a horse", "target": "The person is riding the horse"}
+{"id": "task1614-86fa19a01d0f46279928aa174e8eb06c", "input": "sentence_B_original: a girl is styling her hair", "target": "A girl is styling her hair"}
+{"id": "task1614-cf06fa30fbfb495db1dfcf8d59ec68d6", "input": "sentence_B_original: someone is playing guitar", "target": "Somebody is playing the guitar"}
+{"id": "task1614-3cd82a9ce5c94b07a4253baef1314c61", "input": "sentence_B_original: a boy wearing a striped shirt runs barefoot in the sandy hill", "target": "A boy is running through the sand"}
+{"id": "task1614-a1bd760e7673497c86a5b8d189224760", "input": "sentence_B_original: the furry brown dog is running through the grassy area", "target": "The furry brown dog is running through the grassy area"}
+{"id": "task1614-1604ecb7b9094ef4ada128e6c94be5a4", "input": "sentence_B_original: four people are floating on a raft", "target": "Nobody is floating on a raft"}
+{"id": "task1614-633e0659974c49ab916c2468efd16cc3", "input": "sentence_B_original: An outdoor ice skating rink full of people.", "target": "A lot of people are in an ice skating park"}
+{"id": "task1614-434338a9e00b42ca98494085e35ba6f0", "input": "sentence_B_original: two dogs run to catch a yellow soccer ball", "target": "Two dogs are running and trying to catch a ball"}
+{"id": "task1614-c2885f4415044140a3e9f52eb31bba17", "input": "sentence_B_original: a woman marches with a pair of dogs", "target": "A woman is showing a dog with very long hair at a dog show"}
+{"id": "task1614-de627e039f7e416ba8f894616be5c7cf", "input": "sentence_B_original: a female cheerleader sits on the knee of a male cheerleader", "target": "A female cheerleader is sitting on the knee of a man"}
+{"id": "task1614-2966862c5c8346e7940361757b34b055", "input": "sentence_B_original: a man is sprinkling seasoning on several split and buttered loaves of bread", "target": "A man is sprinkling seasoning on several sliced and buttered loaves of bread"}
+{"id": "task1614-472c4b4d24544cb499c2cbf258f793a1", "input": "sentence_B_original: a man is breaking wooden boards with his hand", "target": "A man is breaking wooden boards with his hand"}
+{"id": "task1614-9e9f9a087c634180bc42117894c94d50", "input": "sentence_B_original: a german sheperd and a small white dog are playing", "target": "A big dog and a small dog with a white coat are playing together"}
+{"id": "task1614-ad4a633a41394f1588f7a6e3405b5139", "input": "sentence_B_original: a baby is playing with a doll", "target": "A baby is playing with a doll"}
+{"id": "task1614-fb38f94105f54c7795bd96b22b534a0e", "input": "sentence_B_original: the woman is putting makeup on the man", "target": "A woman is painting a man's face"}
+{"id": "task1614-e9bfd7ba554e433698c8aaf4dc4932d1", "input": "sentence_B_original: a woman is playing the violin", "target": "A woman is playing the violin"}
+{"id": "task1614-35685a5b71f243c7bfd50b49d43588c0", "input": "sentence_B_original: a man is walking along a path through wilderness", "target": "The man is walking along a track through the wilderness"}
+{"id": "task1614-6255453979af4f31b11a9ad931584607", "input": "sentence_B_original: a dog chasing an animals tail on the grass", "target": "The tail of an animal is being chasing by a dog in the grass"}
+{"id": "task1614-ee89b67657504a3bb8469d0551404908", "input": "sentence_B_original: a man climbs up a rope", "target": "The man is climbing up a rope"}
+{"id": "task1614-c789db7397e746f18b359a029934ca52", "input": "sentence_B_original: a light brown dog is running in the water", "target": "A light brown dog is sprinting in the water"}
+{"id": "task1614-374e8de5f53f4d6cae3e69b63935677e", "input": "sentence_B_original: View of a soccer ball being kicked into a goal net", "target": "A soccer ball is rolling into a goal net"}
+{"id": "task1614-144573958ffd4be7a59bc81e9637c4c2", "input": "sentence_B_original: the young boy in the blue shirt is jumping into the water", "target": "The young boy in the blue shirt is jumping into the water"}
+{"id": "task1614-c8a88bf565da4ae09a818912633710a0", "input": "sentence_B_original: rollerbladers roll in formation down a hill", "target": "A group of rollerbladers is lining up on the street"}
+{"id": "task1614-b971b353ca8f44f7b6e490b1da618917", "input": "sentence_B_original: a woman is tapping her fingers on a table", "target": "A woman is tapping her fingers"}
+{"id": "task1614-a6cedd45ec46445db2c40f4784d3e235", "input": "sentence_B_original: two people are riding a motorcycle", "target": "Two people are riding a bike"}
+{"id": "task1614-a69e3d941793458db4ed1557844b9c8e", "input": "sentence_B_original: a little boy wearing red jumps into the air", "target": "A child in a red outfit is jumping on a trampoline"}
+{"id": "task1614-2b36ce0b046e435e90bd6f9018e5185f", "input": "sentence_B_original: a woman is riding a horse", "target": "A woman is riding a horse"}
+{"id": "task1614-72d677957d0a43308889bc9f33c63297", "input": "sentence_B_original: a topless person with a back pack is shown against on a pile of rocks with a cloudy background", "target": "A topless person with a back pack is in front of a pile of rocks and clouds are in the background"}
+{"id": "task1614-e9ac87e1060b4c0eb55b3f5f2d7b4b07", "input": "sentence_B_original: the man is using a camera to hammer a nail", "target": "The camera man is nailing a hammer to the wall"}
+{"id": "task1614-973928ec450547c3a860a92bb88e2004", "input": "sentence_B_original: the person lit the cameras on fire", "target": "The person is setting fire to the cameras"}
+{"id": "task1614-988e793212494d28918e109a6e977803", "input": "sentence_B_original: a man is dancing", "target": "A male is dancing"}
+{"id": "task1614-1333ea29e4ea464db6a01de4f4e2bec1", "input": "sentence_B_original: Group of schoolchildren in uniforms standing at a gate, one kissing her mother goodbye.", "target": "A group of children wearing the same clothes is waiting at a gate and one is kissing the mother"}
+{"id": "task1614-216184d7959040ecb9a2525cf48905d5", "input": "sentence_B_original: a woman is slicing octopus", "target": "A woman is slicing an octopus"}
+{"id": "task1614-12977ba3db904a64a7179706bf196151", "input": "sentence_B_original: four people are walking along a city sidewalk, while the one in the green hat talks on a cellphone", "target": "A group of people is walking down the street and a person in a green hat is on the phone"}
+{"id": "task1614-99d75eabfe09464ca268567e36bc9bab", "input": "sentence_B_original: bikers getting airborne on a track near water and a skyline", "target": "Some bikers are getting airborne on a track near water and a skyline"}
+{"id": "task1614-20710bb68cd34d40957411accc9e139c", "input": "sentence_B_original: a darked skinned male is standing on one palm in front of a yellow building", "target": "The dark skinned male is standing on one hand in front of a yellow building"}
+{"id": "task1614-3d4f9aad0ac5488eb13624a1ce0cdf42", "input": "sentence_B_original: a group of five young adults lounging indoors", "target": "A small group of people are standing and two are sitting on the couch"}
+{"id": "task1614-1fefad5442f54491aa8b0e7a0c528f34", "input": "sentence_B_original: A small dog sprints away while it's owner tries to catch it.", "target": "A little dog is sprinting and its owner is trying to catch it"}
+{"id": "task1614-be1c534294344c66a1246d87a8bbd909", "input": "sentence_B_original: the lady sliced up the meat", "target": "The lady is eating slices of meat"}
+{"id": "task1614-161d681b0c80437db72bf115914d77ed", "input": "sentence_B_original: a man is diving into a pool", "target": "A man is diving into a pool"}
+{"id": "task1614-d3784479eba647a883bf0c716085dca5", "input": "sentence_B_original: a dog in a sandy area with the sand stirred up into the air and several plants in the background", "target": "A dog is in the sand that is blowing in the wind"}
+{"id": "task1614-a5df17b151e84a2e9729fcef0bf9ff09", "input": "sentence_B_original: a big cat opens a plastic drawer with his paws and then hops inside", "target": "A cat is opening a drawer and climbing inside"}
+{"id": "task1614-ad615d878280484a92b0d5ed12a995b0", "input": "sentence_B_original: A man is playing on a guitar and singing.", "target": "The singer is hiring a person to fire the guitar player"}
+{"id": "task1614-138ac6c64bac416b8d3771d14f9c3722", "input": "sentence_B_original: People are enjoying a sunny day on a sandy beach by the ocean.", "target": "People are on a beach full of sand by the ocean and are enjoying a day full of sun"}
+{"id": "task1614-cd472a85d1ff4c0b9e23a8c459a11344", "input": "sentence_B_original: a woman in jeans is sitting on the saddle of a horse", "target": "A woman in jeans is standing near a horse with a saddle"}
+{"id": "task1614-af8d733001bf459f9945aab05b530cb9", "input": "sentence_B_original: two dogs running through high grass", "target": "Two animals are running through high grass"}
+{"id": "task1614-d8d9c0e4672b494cab99224aa00f3b78", "input": "sentence_B_original: A lion is pacing in a pen.", "target": "A lion is slowly walking"}
+{"id": "task1614-04c01c3107b64ed89f129a1c20b9819f", "input": "sentence_B_original: a girl dressed in purple and blue walks beside her bike at night", "target": "A girl dressed in purple and blue is walking beside her bike at night"}
+{"id": "task1614-6d5c856e90ea4a7ea192a95b6757d27e", "input": "sentence_B_original: a jet is flying", "target": "A dog is barking"}
+{"id": "task1614-2ee14f2615024501ac5af517f15626ad", "input": "sentence_B_original: A man is mowing a lawn.", "target": "A man is arranging the garden"}
+{"id": "task1614-1260759c0fee44feae48f8cf771773eb", "input": "sentence_B_original: two men compete in a tire rolling race", "target": "Two women are competing in a tire rolling race"}
+{"id": "task1614-c38078c9a22a4ab99779efb64078fa71", "input": "sentence_B_original: a man is kick boxing with a trainer", "target": "The man is kick boxing with a trainer"}
+{"id": "task1614-373e3dbb431f495d941ebed03b57433b", "input": "sentence_B_original: a lady wearing a black dress carrying a white cross", "target": "A lady is dressed in black and is carrying a white cross"}
+{"id": "task1614-e8f0629fd1524fbb83b02b043a6f03fd", "input": "sentence_B_original: two small boys dressed in tuxedos sitting on a red carpeted floor", "target": "Two little boys are wearing tuxedos"}
+{"id": "task1614-fef7408aa6f348f2afed352fe7dfc640", "input": "sentence_B_original: a man in a purple had climbs a rocky wall with his hands", "target": "The young man is rock climbing"}
+{"id": "task1614-5169168d1b7246bfac306a66ed8fe3cc", "input": "sentence_B_original: a man wearing a straw hat smokes a cigarette", "target": "A person is wearing a straw hat and smoking a cigarette"}
+{"id": "task1614-7ab1df52e85c407f9e2cc25c5892d5f5", "input": "sentence_B_original: the black and white dog is running outdoors", "target": "A black and white dog is running outdoors"}
+{"id": "task1614-461e2942bac242b3bffd863036638de7", "input": "sentence_B_original: A man is playing on his keyboard.", "target": "A musician is playing a keyboard"}
+{"id": "task1614-6fcfbaf2bc8a411ab6d0374e94af52d8", "input": "sentence_B_original: Two men holding their fishing poles.", "target": "Two men are holding fishing poles"}
+{"id": "task1614-f5b93238c5eb49c3b5ac046531ae97b8", "input": "sentence_B_original: a black and white dog plays with a tattered volleyball in a brown field", "target": "A black and white dog is playing with a tattered volleyball in a brown field"}
+{"id": "task1614-17aaa482b22b4b668730c7b46d3e3cae", "input": "sentence_B_original: a woman shows a dog with very long hair at a dog show", "target": "A woman is showing a dog with very short hair at a dog show"}
+{"id": "task1614-1380c3abc2534e4584ef1a9ccd2e30a3", "input": "sentence_B_original: three men are dancing", "target": "A few men are dancing"}
+{"id": "task1614-b452a7c3eb09492aaf90f1e6304686ae", "input": "sentence_B_original: A girl is jumping onto a car.", "target": "The girl isn't jumping onto the car recklessly"}
+{"id": "task1614-acabc1dbaa054d6a841ad0f02e01769f", "input": "sentence_B_original: a woman is cracking eggs into a bowl", "target": "A woman is cracking eggs into a bowl"}
+{"id": "task1614-b1863a2fadff48f48e50357c18c2e3ca", "input": "sentence_B_original: a clown is singing and people are dancing", "target": "A clown is singing"}
+{"id": "task1614-2bb10e4319b44009b139f646f24dd2ab", "input": "sentence_B_original: a football player runs past an official carrying a football", "target": "A football player is running into an official carrying a football"}
+{"id": "task1614-f70ee23537e8468c9de8b577ff94f18d", "input": "sentence_B_original: a tan dog splashing in water on the bank of a pond or river", "target": "A tan dog is splashing in the water on the bank of a river"}
+{"id": "task1614-25280fcde8744f0fa7335857113a2239", "input": "sentence_B_original: a young girl dancing", "target": "A young girl is dancing"}
+{"id": "task1614-0339077b8d4c41af8038f19ac85bfdd7", "input": "sentence_B_original: four atheletes and a man with a crowded stadium in the background", "target": "Four athletes are with a person in a crowded stadium"}
+{"id": "task1614-e083213109c946e891ef1e6ced7beb0f", "input": "sentence_B_original: a man in blue is riding a horse on a dirt road", "target": "A man in blue is riding a animal on a dirt road"}
+{"id": "task1614-10d175613732422a80df3dd94af4b156", "input": "sentence_B_original: girl in blue tries to get a base runner number 11 out during softball game", "target": "The girl in blue is chasing the player with a number on the jersey"}
+{"id": "task1614-8c0e588a49dd40c8bf114facfdc78e65", "input": "sentence_B_original: a woman is riding on a horse", "target": "A woman is riding an animal"}
+{"id": "task1614-0dd5a7be756a4f42b0cd003e8dfa594f", "input": "sentence_B_original: a woman is slicing garlics", "target": "A woman is cutting garlic"}
+{"id": "task1614-8375e9c1a4694763ab5d519f0ce49d06", "input": "sentence_B_original: a man wearing a beret rides his bicycle on a recreation trail", "target": "A man is wearing a beret and is riding the bicycle on a recreation trail"}
+{"id": "task1614-4f479d8d16904afb8ed4ccb373150cd3", "input": "sentence_B_original: a man is climbing a rope", "target": "A man is climbing a rope"}
+{"id": "task1614-8907cbc6fe624232a4e3532384466c69", "input": "sentence_B_original: a woman is dancing on a stage", "target": "A woman is dancing and a man is playing the keyboard"}
+{"id": "task1614-0f766fb2713d460e8fe6a0b40bca21ad", "input": "sentence_B_original: a man is walking slowly across a rope bridge", "target": "A man is walking slowly across a bridge made of rope"}
+{"id": "task1614-4cc13375c6874d538ea4fc329772a9e1", "input": "sentence_B_original: a dog emerging from a lake", "target": "An animal is emerging from a lake"}
+{"id": "task1614-0bf507af958a4fa7b088d03d56533004", "input": "sentence_B_original: a woman is slicing a carrot", "target": "A woman is slicing a carrot"}
+{"id": "task1614-b76283c26c2d433e800840807971d583", "input": "sentence_B_original: a man is playing the trumpet", "target": "A man is playing the trumpet"}
+{"id": "task1614-eb7d42cde48b447f8eccd4c180a42be8", "input": "sentence_B_original: Player number 23 dunks the basketball into the net with a crowd in the background.", "target": "A man with a jersey is dunking the ball at a basketball game"}
+{"id": "task1614-493d0a64d62a4be3ba4f379dadd6615c", "input": "sentence_B_original: The man tossed a child into the swimming pool near the ocean.", "target": "A father is launching the daughter in a swimming pool"}
+{"id": "task1614-18b69d5a0bfa42079e01a8128a2e3f42", "input": "sentence_B_original: a man with a hard hat is dancing", "target": "The man with a hard hat is dancing"}
+{"id": "task1614-1029ebe9f1f64f138ca5d827798ffe02", "input": "sentence_B_original: A woman wearing a pink boa rides a bicycle down a pedestrian bridge.", "target": "A woman who is wearing a pink scarf is riding a bike down a bridge built for pedestrians"}
+{"id": "task1614-af407e7f624e4fdda4c5b591c7d3ece6", "input": "sentence_B_original: a dog with its two front paws on a rock in a field", "target": "The dog is standing with its two front paws on a rock in the field"}
+{"id": "task1614-62fcc2060e0a45b79180302cc08094f5", "input": "sentence_B_original: a person is making a bed", "target": "A person is eating at a table"}
+{"id": "task1614-687af1a4efd14bb386375f26a47f7a7f", "input": "sentence_B_original: a man crouching and holding a camera", "target": "A person is crouching and holding a camera"}
+{"id": "task1614-ca0409eaf5ce4cdca97663216fb09b1a", "input": "sentence_B_original: a bicyclist is jumping on a pyramid-shaped ramp", "target": "A bicyclist is jumping on a pyramid-shaped ramp"}
+{"id": "task1614-0f79c7c549a544db8bc391bbcf2fe38e", "input": "sentence_B_original: the little dog grabs a hold of the bedroom slipper with its mouth", "target": "The little dog is grabbing the bedroom slipper with its mouth"}
+{"id": "task1614-ada03365628a4e87a951d400bc5159e8", "input": "sentence_B_original: a lady mixed up a meat mixture in bowl", "target": "A lady is mixing a mixture of meat in a bowl"}
+{"id": "task1614-d56c34dc0796439b9beeb26c4234e3ec", "input": "sentence_B_original: an asian woman holds her fur scarf", "target": "An Asian woman is holding a fur scarf"}
+{"id": "task1614-84c0907355c243889a077b697dfffb6d", "input": "sentence_B_original: a dog with a blue collar plays ball outside", "target": "A grey dog is bouncing a soccer ball on its head in a grass field"}
+{"id": "task1614-95ad61069f02443b9bf9f5400bcfcc1e", "input": "sentence_B_original: a man is taking pictures of a lake", "target": "A man is tearing up the pictures of a lake"}
+{"id": "task1614-9f0c9886728b4e8a9ba47344c1005641", "input": "sentence_B_original: a group of people sitting on the ground outside of a monument", "target": "Some people are sitting on the ground outside a monument"}
+{"id": "task1614-2a7b137645894487adc24d1e6b9a9550", "input": "sentence_B_original: A gorup of boys are playing with a ball in front of a large wooden door.", "target": "The children are playing in front of a large door"}
+{"id": "task1614-5503e37f427c45e89ac7a03b35f4b997", "input": "sentence_B_original: three women sit together near woven walls", "target": "Three men are sitting together near woven walls"}
+{"id": "task1614-3f5031a7efd4401d872f7598b33a52d2", "input": "sentence_B_original: children play in fountains that spray water from the ground", "target": "Children are playing in ground fountains"}
+{"id": "task1614-fc63c969f57d44bb943a83bfbf2e9b24", "input": "sentence_B_original: a girl is waking up", "target": "A child is waking up"}
+{"id": "task1614-7e8004a401cf4d2c844b194e49c5ec6f", "input": "sentence_B_original: a man and two women sit in a darkened room at a table with candles", "target": "The group of people is sitting in a dim room"}
+{"id": "task1614-f080c1a3298f48029a3292fb59c96fd6", "input": "sentence_B_original: a man and woman are driving down the street in a jeep", "target": "Two persons are driving down the street in a jeep"}
+{"id": "task1614-fd49633d1c8641f2b9ce55d4a2d516ce", "input": "sentence_B_original: The man sat in his chair and stared.", "target": "One man is sitting steadily on the chair"}
+{"id": "task1614-7788875c87f641d1997d2bcc82a4d648", "input": "sentence_B_original: a brown and white dog attempts to catch a dirty tennis ball in a dirt field", "target": "A brown and white dog is biting a dirty tennis ball in a dirt field"}
+{"id": "task1614-4e2b078cf9434ed2ba7ab5e3df1e065c", "input": "sentence_B_original: A black and white dog running from under a yellow cover with a person behind them.", "target": "The dog, which is black and white, is running and a person stands behind it"}
+{"id": "task1614-5d3293dbf497422191a404ff12b5beb8", "input": "sentence_B_original: An African American boy stands in front of a blue building in the handicapped space.", "target": "A boy is standing in front of the blue building in the space reserved for handicapped people"}
+{"id": "task1614-3fab6073058f47b58ce0b55675cd5135", "input": "sentence_B_original: a man is screwing wood to a wall", "target": "A man is screwing a piece of wood to a wall"}
+{"id": "task1614-fb754b3d25314aba87365f8024f00d0b", "input": "sentence_B_original: The man is doing a wheelie with a motorcycle in mostly barren ground", "target": "The man is on ground which is mostly barren, filming a wheelie done with a motorcycle."}
+{"id": "task1614-a27f7e28070c4e1ca56ef81470760d4f", "input": "sentence_B_original: a crowd watches as two formula one cars leave the starting line", "target": "The crowd is watching two racing cars that are leaving the starting line"}
+{"id": "task1614-83f8a940a7354300b3ced1e14327ac3b", "input": "sentence_B_original: A woman is playing the flute.", "target": "One woman is practicing with a flute"}
+{"id": "task1614-a35779a762ce46bf822ba9033640d614", "input": "sentence_B_original: a woman wearing a blue helmet rides her bicycle in a parking lot", "target": "A woman is wearing a blue helmet and is riding a bicycle in a parking lot"}
+{"id": "task1614-e65d5c4e8877455483be9a5b68f4fa0c", "input": "sentence_B_original: a kid plays the guitar", "target": "A kid is playing the guitar"}
+{"id": "task1614-a6d238ba817f4c9db5f97efa760767eb", "input": "sentence_B_original: A man and bride walk down the aisle", "target": "The bride and the groom are leaving after the wedding"}
+{"id": "task1614-f13d6fcc85dd435fbb6bdb2ceb3f92f8", "input": "sentence_B_original: a brown dog jumps in the air", "target": "A brown dog is jumping in the air"}
+{"id": "task1614-78923e890e114a978121900424314333", "input": "sentence_B_original: black and white dog holding a baseball in mouth", "target": "A brown and white dog is holding a baseball in its mouth"}
+{"id": "task1614-448dafd4297449e6ad1a6fe7d2e204d1", "input": "sentence_B_original: a man is playing a violin", "target": "A man is playing a harp"}
+{"id": "task1614-922e3b2c689242d7b12ea0312909b6c2", "input": "sentence_B_original: a man and woman are driving down the road in an open air vehicle", "target": "A man and a woman are driving down the road in a car"}
+{"id": "task1614-8fd752e97bca4dc69219fb29301e718d", "input": "sentence_B_original: A boy is playing in the mud.", "target": "The boy is playing in the mud"}
+{"id": "task1614-e5174614c9384bc3a3e9271557d2a05a", "input": "sentence_B_original: a black dog walking along a rocky terrain", "target": "A black dog is moving along rocky terrain"}
+{"id": "task1614-2768ed981f7345fa8c0a56b7d33b844e", "input": "sentence_B_original: The man is feeding a mouse to the snake.", "target": "The man is cautiously feeding a mouse to the snake"}
+{"id": "task1614-81d8236e8f1b41e89f7770e3a1fcded2", "input": "sentence_B_original: a man is exercising", "target": "A man is lazing"}
+{"id": "task1614-27e40d74e8f44143a8c337d6bd95bc9d", "input": "sentence_B_original: two children are rolling in muddy water", "target": "Two children are rolling in muddy water"}
+{"id": "task1614-231a6fdf233d4843bfebd9cb6b58090f", "input": "sentence_B_original: a man is singing", "target": "A man is singing"}
+{"id": "task1614-2d226f9a664a4514bdaa6971a6600577", "input": "sentence_B_original: a slow loris is biting a persons finger", "target": "An animal is biting someone's finger"}
+{"id": "task1614-0d09fc59ba0b45efa01e9f0246b1c555", "input": "sentence_B_original: a dog chases a nerf ball in the grass", "target": "A dog is chasing a ball on the grass"}
+{"id": "task1614-1ddce100bc324b10863bc487c4759094", "input": "sentence_B_original: a man is slicing potato", "target": "The person is slicing the potato"}
+{"id": "task1614-02b2bd1e2fd64aebb2d8d30d25caab34", "input": "sentence_B_original: a child is playing with a water spout outdoors while the rest of his family watches", "target": "A child is playing with a water spout outdoors and the rest of his family is watching"}
+{"id": "task1614-d00a97426296403eb63f32b23a9e4b0f", "input": "sentence_B_original: two children in white outfits and red protective gear spar on a mat", "target": "Two children in white outfits and red protective gear are sparring on a mat"}
+{"id": "task1614-9addd4c4620445bf956c8a2ddad50092", "input": "sentence_B_original: there are two guys sitting around a table, both with beers in their hands", "target": "Two blokes are sitting around a table and holding beers in their hands"}
+{"id": "task1614-faf5b5a798ac4866a7c292eed3c2cc5d", "input": "sentence_B_original: a brown and black dog runs through the leaves", "target": "A brown and black dog is running through the leaves"}
+{"id": "task1614-0a45eaa154b14bcf99efe0ab8615c58f", "input": "sentence_B_original: a boy in blue runs away from a woman in blue", "target": "A boy in blue is running away from a woman in blue"}
+{"id": "task1614-50d56aca34d143f2b7fac5db32ce1ab1", "input": "sentence_B_original: a black and white dog playing with a broken volleyball", "target": "A black and white dog is playing with a broken volleyball"}
+{"id": "task1614-5cd4fba648b649b7b7ef103c848d2959", "input": "sentence_B_original: the people are standing around at a carnival", "target": "A white bird is landing swiftly in the water"}
+{"id": "task1614-891b04208f404a2a8aa8d8fba3acd134", "input": "sentence_B_original: rugby players tackling each other", "target": "Some people playing rugby are tackling each other"}
+{"id": "task1614-b696ce58be674a098a2973b13cb7b6ef", "input": "sentence_B_original: a dog running on the beach", "target": "A dog is running on the beach"}
+{"id": "task1614-20810205a2d14d8eba1d975cf66922cb", "input": "sentence_B_original: a football player in a purple jersey is running the ball in for a touchdown", "target": "A football player is running past an official carrying a football"}
+{"id": "task1614-a4b00c25cf32406bbaaf149692364a64", "input": "sentence_B_original: A person in a black jacket doing tricks on a motorbike.", "target": "A person in a black jacket is doing tricks on a motorbike"}
+{"id": "task1614-6ab75a776055409d8d9794b4fdbb4f27", "input": "sentence_B_original: the woman is dicing garlic", "target": "The woman is dicing garlic"}
+{"id": "task1614-765bdbd95b7d4fccb39dbcffe6d45aaa", "input": "sentence_B_original: a white cat perched on a small wooden cabinet is looking outside the window", "target": "A white cat perched on a small wooden cabinet is looking outside the window"}
+{"id": "task1614-b30e71bf244f42b0833d865084a26eea", "input": "sentence_B_original: Five children are standing in front of a wooden hut.", "target": "Five kids are standing close together and one kid has a gun"}
+{"id": "task1614-368c7e03aafc4aa98ba142e887d1589a", "input": "sentence_B_original: a brown and white dog is jumping in the air with a tennis ball in its mouth", "target": "A brown and white dog is resting on the ground with a tennis ball in its mouth"}
+{"id": "task1614-54da184e457d49caacfb2a17f8bc2e5a", "input": "sentence_B_original: a tiger walks around aimlessly", "target": "A tiger is walking around aimlessly"}
+{"id": "task1614-f7e07e80cd4b474b939b605c4a8c5c8c", "input": "sentence_B_original: the cats are playing with each other", "target": "The cats are playing with each other"}
+{"id": "task1614-77d24f7da5d14937916cffad09d3148a", "input": "sentence_B_original: The cook is slicing bell peppers.", "target": "A cook is slicing some bell peppers"}
+{"id": "task1614-a282624d03224329a9bf5594cb97d1ef", "input": "sentence_B_original: an officer is talking to recruits", "target": "An officer is talking to the soldiers"}
+{"id": "task1614-7f92d16b56fd40709debdb49dd2b375a", "input": "sentence_B_original: a group of football players running down the field", "target": "A group of football players is standing still in the field"}
+{"id": "task1614-914667c55136402da050c97e0364e9eb", "input": "sentence_B_original: the dog is on a leash and is walking out of the water", "target": "The dog is on a leash and is walking in the water"}
+{"id": "task1614-fdc1e607f37b450b87b52369740cf41b", "input": "sentence_B_original: A father launches his daughter in an Oceanside pool.", "target": "A father is launching the daughter in a swimming pool"}
+{"id": "task1614-fd301ecae66647dc922cab0c4dfe0779", "input": "sentence_B_original: four people walk on a bridge over a body of water", "target": "Four people are walking on a bridge over a body of water"}
+{"id": "task1614-937d419473064b17887307b66f54abbe", "input": "sentence_B_original: a band is playing instruments", "target": "A man is playing an electronic keyboard"}
+{"id": "task1614-0cc75cdd95844a5593169a5665eeaacc", "input": "sentence_B_original: a man is adding a silencer to a gun", "target": "A man is applying a silencer to a gun"}
+{"id": "task1614-f31619a348bb462da27427efd9a7e636", "input": "sentence_B_original: a dog has it's head inside a red and green gift bag", "target": "The dog has its head inside a red and green gift bag"}
+{"id": "task1614-2508cc391ac94e61b629817a7a265ab9", "input": "sentence_B_original: a woman is cracking an egg into a bowl", "target": "A woman is cracking an egg into a bowl"}
+{"id": "task1614-fd4b65e1a3be492bbffe3f47920110ef", "input": "sentence_B_original: a person cuts an onion", "target": "A person is cutting an onion"}
+{"id": "task1614-1069cb5834074009abd131669b168aa1", "input": "sentence_B_original: the woman is dicing onions", "target": "The woman is dicing onions"}
+{"id": "task1614-068efc16fd394548b71b4a0cb7eca707", "input": "sentence_B_original: older woman setting on a bench with people walking past her she is wearing a gray jacket and black pants", "target": "An elder man is sitting on a bench and is wearing a gray jacket and black pants"}
+{"id": "task1614-751f0ae0db234c1298b848bb50e63a9e", "input": "sentence_B_original: Women are holding each other and dancing together.", "target": "Two men are playing table tennis"}
+{"id": "task1614-8ae98174ad434335a1e9dad1f8c1d18b", "input": "sentence_B_original: one boy in orange shorts standing on a rock cliff over water, while the other boy in black shorts jumps off into the water", "target": "Two males are standing on a cliff edge and one is jumping into the water"}
+{"id": "task1614-0e0c1b1122ce4c19be322545a40fa51f", "input": "sentence_B_original: A person rides a motorbike in a motorcrossing event.", "target": "A person is riding a motorbike in the event related to motocross"}
+{"id": "task1614-69eaefd4aae34f31b1ff448d0431ebe5", "input": "sentence_B_original: a brown and white dog jumps on the sidewalk", "target": "A little brown and white dog is running on the sidewalk"}
+{"id": "task1614-1409eb4196524c94afc7981695b5b1c2", "input": "sentence_B_original: a man is eating a banana by a tree", "target": "The man is eating a banana by a tree"}
+{"id": "task1614-06d28c2de8534316b9a39b15ae999219", "input": "sentence_B_original: a person with a green shirt jumps high over the grass", "target": "A person with a green shirt is jumping high over the grass"}
+{"id": "task1614-a0de89ab717345bc9d7c61bb199e0bf3", "input": "sentence_B_original: a young girl with a heart tank top raises her hands as she slides", "target": "A young girl with a heart tank top is raising her hands as she is sliding"}
+{"id": "task1614-2419df5c816e484da1af0b3d621345fb", "input": "sentence_B_original: two kids push an inflatable crocodile around in a pool", "target": "Two kids are pushing an inflatable crocodile in a pool"}
+{"id": "task1614-bd09a477997a4371a390b670e6389132", "input": "sentence_B_original: two women are dancing", "target": "Two women are dancing"}
+{"id": "task1614-f4f937e7fc884355b3485f4855ce97f1", "input": "sentence_B_original: a woman crouches down next to her terrier dog to smile at a little girl sitting on the sidewalk", "target": "A woman is crouching down next to a dog and is smiling at a young girl sitting on the sidewalk"}
+{"id": "task1614-cf2ff3ccaf5d41279d9fb702a36a2701", "input": "sentence_B_original: a man and woman are talking", "target": "A man and a woman are having a conversation"}
+{"id": "task1614-97f141f9db4648a6bd5a6461e1282ecb", "input": "sentence_B_original: a man performs a trick on a surfboard in the water", "target": "A person is performing a trick on a surfboard in the water"}
+{"id": "task1614-982d88be9c5c480889a8a85d0b1f028c", "input": "sentence_B_original: the man in the straw hat smokes a cigarette", "target": "A cigarette is being smoked by the man in the straw hat"}
+{"id": "task1614-b984363db30d4abf8d6bca111ebbf80b", "input": "sentence_B_original: a south african airways plane is flying in a blue sky", "target": "An airplane is flying through the air"}
+{"id": "task1614-242e7cfc1e86463f859ca3fa06bc0439", "input": "sentence_B_original: a man is singing while walking down the sidewalk", "target": "A man is singing and walking down the sidewalk"}
+{"id": "task1614-af7d23a2dee34123be2521209afa8d41", "input": "sentence_B_original: a dog is running on the sand whilst chasing a ball", "target": "A brown and white dog is catching a dirty tennis ball in a dirt field"}
+{"id": "task1614-c63ee20866d94f9bae0630910cc0f9ed", "input": "sentence_B_original: someone is cooking okra in a pan", "target": "Someone is cooking okra in a pan"}
+{"id": "task1614-b90354587b714d83be6074ceabe546db", "input": "sentence_B_original: two boys on a couch are playing video games", "target": "Two boys are playing a video game"}
+{"id": "task1614-880a5f1d5936478bb9131391a583b671", "input": "sentence_B_original: a dog is eating a doll", "target": "A dog is biting a doll"}
+{"id": "task1614-905768ec392c44038248f3ce05106808", "input": "sentence_B_original: the crowd is watching a football game", "target": "The crowd is watching a football game"}
+{"id": "task1614-6208913e6018411aa14c425f5a484ff6", "input": "sentence_B_original: a woman is tapping her fingers", "target": "A woman is tapping her fingers on a table"}
+{"id": "task1614-18f7d8032d964b6db15cb85109f93c52", "input": "sentence_B_original: a man is talking to a woman", "target": "A man is talking to a woman"}
+{"id": "task1614-b8a5abbbea1046cab601860f2ce89893", "input": "sentence_B_original: a man is jumping a wall", "target": "A man is jumping a wall"}
+{"id": "task1614-9ec210e087b64a83be919b8bbd99db2a", "input": "sentence_B_original: a white car and a yellow car race down the track", "target": "Two cars are racing down the track"}
+{"id": "task1614-d4973bbd095248ddb1cd00d8a1e41583", "input": "sentence_B_original: three people are wlking across a rope and wood bridge over a river", "target": "People are walking across a rope bridge over a rocky stream"}
+{"id": "task1614-400c61adc502479690d80d48b868a2b9", "input": "sentence_B_original: people are clustered around a bonfire at night", "target": "Several people are sitting around a fire at night"}
+{"id": "task1614-93d8336312684738958dd903606e52c4", "input": "sentence_B_original: a brown dog carries a multiple colored toy in the grass", "target": "A brown dog is dropping a colored toy from its mouth"}
+{"id": "task1614-8e9e6f0706754744b90baa14fc626d6f", "input": "sentence_B_original: A group of children playing in a yard, a man in the background.", "target": "A group of boys in a yard is playing and a man is standing in the background"}
+{"id": "task1614-9ee747be1de44c289d78cdd32cebe06c", "input": "sentence_B_original: five adults are sitting on stone steps", "target": "Five adults are sitting on stone steps"}
+{"id": "task1614-71c2b78606a34bae9ea46e60097398d2", "input": "sentence_B_original: women are dancing outside", "target": "The women are dancing outside"}
+{"id": "task1614-6d91c081f1104e048abd6c0c89ca1341", "input": "sentence_B_original: A guy is playing hackysack", "target": "A guy is cheerfully playing with a footbag"}
+{"id": "task1614-29e516107518408ea5a09128bd5f3644", "input": "sentence_B_original: a small dog laying on the bed", "target": "A small animal is lying on the bed"}
+{"id": "task1614-2830240faf72426185e5285a54772ea5", "input": "sentence_B_original: three men sitting on a hill looking at the mountains and sky", "target": "Three men are sitting on a hill and looking at the mountains and sky"}
+{"id": "task1614-315d122649464f339732c582484552a3", "input": "sentence_B_original: two dogs and two people in the woods", "target": "Two women with dogs are walking on a forest path"}
+{"id": "task1614-7d31c01c16dd44a3a0f2590ecbe45a04", "input": "sentence_B_original: a man is speaking", "target": "A man is dancing"}
+{"id": "task1614-c905a15bb16f455aa0af5ca5d2a195ab", "input": "sentence_B_original: two men are talking", "target": "Two men are playing guitar"}
+{"id": "task1614-e8eecffc8a704b0f8647ce7421362177", "input": "sentence_B_original: a little boy is playing a guitar", "target": "A young boy is playing a guitar"}
+{"id": "task1614-d5dccba7d43145d9a00279224a392fae", "input": "sentence_B_original: Two dogs wrestle or hug.", "target": "Two dogs are fighting"}
+{"id": "task1614-7783d9520b5f48cd9ff6d1a4495b481d", "input": "sentence_B_original: a man is opening a door", "target": "A man is opening a door"}
+{"id": "task1614-d99781a3d28747c79bba6557bcf7e9b1", "input": "sentence_B_original: a homeless man holds up a sign begging for money for beer, pot and a hooker", "target": "A homeless man is holding up a sign and is pitifully begging for money"}
+{"id": "task1614-814616d51fd14e03822dabe1cc3904b9", "input": "sentence_B_original: a girl in a band is playing the flute", "target": "A girl in a band is playing an instrument"}
+{"id": "task1614-cc6d5e07e3304cf794efcbbc6f20b587", "input": "sentence_B_original: A man and woman are walking arm in arm through a wooded area.", "target": "A man and a woman are walking through a wooded area"}
+{"id": "task1614-61792bf4963d49c9a67c7f6e4eb3999f", "input": "sentence_B_original: a tiger is walking around his cage", "target": "A tiger is walking around a cage"}
+{"id": "task1614-32a46455680a4af584b6416abaf88934", "input": "sentence_B_original: two cats are fighting each other", "target": "Two cats are fighting each other"}
+{"id": "task1614-c6ae0ab551304269a8db456be332818a", "input": "sentence_B_original: a man is drawing", "target": "A man is drawing"}
+{"id": "task1614-3dcd06e1add745d8913ed184187193fb", "input": "sentence_B_original: a man is peeling an onion", "target": "A man is peeling an onion"}
+{"id": "task1614-133460c0cb8748a0bb0d2839a86f0388", "input": "sentence_B_original: kids in bathing suits with water splashing around them", "target": "The boys are wearing bathing suits and water is splashing around"}
+{"id": "task1614-cc1c7be01cad4a228f957fb8f44d1f65", "input": "sentence_B_original: a man sits on a boat in the sunset near a flag", "target": "A man is sitting on a boat in font of the sunset, near a flag"}
+{"id": "task1614-51b9614a2ff4490c89ead6c5bc387f01", "input": "sentence_B_original: a brown and white dog jumping over a red, yellow and white pole", "target": "A brown and white dog is passing under a red, yellow and white hurdle"}
+{"id": "task1614-afc203b1aeee447faa85e1e4805e760c", "input": "sentence_B_original: the brown dog sniffs the back of a smaller black dog", "target": "The brown dog is sniffing the back of a small black dog"}
+{"id": "task1614-e8b6fc636f674f4fae41dd4b4ee852e6", "input": "sentence_B_original: the young girl in blue is having fun on a slide", "target": "The young girl in blue is enjoying a slide"}
+{"id": "task1614-d223766460cf412bb6c2f59466ab40c3", "input": "sentence_B_original: a woman speaks on her cell phone with her purse and a yellow bag on the ledge next to her", "target": "A woman is speaking on her cell phone and is keeping a purse and a yellow bag on the near ledge"}
+{"id": "task1614-8a1cf24190704ad38ab48e9574c27c62", "input": "sentence_B_original: a man standing in the water at the base of a waterfall", "target": "The man is standing in a body of water near a waterfall"}
+{"id": "task1614-4f13d95779f54ef284c476787b032c07", "input": "sentence_B_original: a young boy is running toward and from the ocean waves", "target": "The young boy is running through the ocean waves"}
+{"id": "task1614-66a13f9ec8714b4ba86056102f890b1a", "input": "sentence_B_original: a white dog standing on fallen leaves", "target": "A white dog is standing on the leaves on the ground"}
+{"id": "task1614-e89c87977a7743a3afa6bf218f2ba423", "input": "sentence_B_original: A boy whacks a man with a sword.", "target": "A man is being hit by a kid with a weapon"}
+{"id": "task1614-f3b7ac4a27f44d728a1ab4d447d649c3", "input": "sentence_B_original: a bald man in a band is playing guitar in the spotlight", "target": "A bald man in a band is playing guitar in the spotlight"}
+{"id": "task1614-28d2581458e548f185f6c4d7bf2bf8d4", "input": "sentence_B_original: a biker with a blue jacket, black pants, and white helmet driving on dirt while people watch", "target": "A biker with a blue jacket, black pants and a white helmet is driving recklessly on dirt and people watch"}
+{"id": "task1614-ab9afe2b92ae4032b31637b717e9f2e0", "input": "sentence_B_original: the panda bear lay on the logs", "target": "The panda bear is lying on the logs"}
+{"id": "task1614-e103e2a0f3824c889fe6d5e9c6b46728", "input": "sentence_B_original: the muscular black man is dancing while the man behind him wears green beads", "target": "The muscular man is dancing and the man behind him is wearing green beads"}
+{"id": "task1614-56fcc10d5b9b44989caee502429080fe", "input": "sentence_B_original: A small child is drinking water from a cup.", "target": "One small child is drinking water from the cup"}
+{"id": "task1614-509e8a0ecbbf4b40b0358ca53e43f2dd", "input": "sentence_B_original: a black and orange bird in the grass", "target": "A black and orange bird is standing in the grass"}
+{"id": "task1614-241fb419e10c4a3c8da92ff036e02c2a", "input": "sentence_B_original: a small dog is laying on a bed", "target": "A small cat is lying on a bed"}
+{"id": "task1614-77d2211eba4f496f852b32c17b66777d", "input": "sentence_B_original: a woman puts cosmetics on her eyelid", "target": "A woman is applying cosmetics to her eyelid"}
+{"id": "task1614-c8205567a52447eda7397efb8fc2978e", "input": "sentence_B_original: a man is opening a box using a knife", "target": "A man is playing a guitar"}
+{"id": "task1614-8dccb96ebd954d18b8ce65512990294b", "input": "sentence_B_original: A man is cleaning the windows.", "target": "The windows are being cleaned by a man"}
+{"id": "task1614-b22e5cd0d6614af688c3b3fc1e74c790", "input": "sentence_B_original: a man is spitting", "target": "A man is speaking"}
+{"id": "task1614-3eac06ef05364391b4a95b711c923abe", "input": "sentence_B_original: a dog is barking at a ball", "target": "A dog is swimming after a tennis ball"}
+{"id": "task1614-f3c8a341781b4a35bda9b4414801fb24", "input": "sentence_B_original: a dog chases a ball through dirt", "target": "A dog is catching a ball"}
+{"id": "task1614-1bfc587eda424ca18de73857b5074963", "input": "sentence_B_original: a woman looking at view of a city", "target": "The woman is looking at the view of a city"}
+{"id": "task1614-6d59af845df14714a20dea502511b200", "input": "sentence_B_original: A child with a squirt gun.", "target": "A child is holding a squirt gun"}
+{"id": "task1614-be82d03fe5a34f8286967a3984e0eedf", "input": "sentence_B_original: a man dressed all in black performs a trick on a rail while wearing inline skates", "target": "A man dressed in black is wearing inline skates and performing a trick on a rail"}
+{"id": "task1614-98cb7e12bb0941e2a71bb3143cd0f2ae", "input": "sentence_B_original: a cat is crawling under a piece of furniture on it's back", "target": "An animal is crawling under a piece of furniture"}
+{"id": "task1614-68126528c2964d2caa3d3429a1da8b42", "input": "sentence_B_original: a man rock climbing pauses to calculate his route", "target": "A man is rock climbing and a city and a bay are in the background"}
+{"id": "task1614-1f90d77b648340869759a409bc7ac237", "input": "sentence_B_original: the black dog is running through the grass", "target": "The black dog is running through the grass"}
+{"id": "task1614-364354835aef4126a1bd11aca125f6cd", "input": "sentence_B_original: a shirtless man escorts a horse pulling a carriage along a paved road", "target": "A shirtless man is escorting a horse that is pulling a carriage along a road"}
+{"id": "task1614-92533f720c8641abab5ee14b0960e529", "input": "sentence_B_original: Four children do backbends in the park.", "target": "Four children are doing backbends in the park"}
+{"id": "task1614-f636fb06d0074b0080f0a5f3fef22526", "input": "sentence_B_original: a black and white dog carries a huge stick on the green grass", "target": "A black and white dog with a large branch is running in the field"}
+{"id": "task1614-e947dafb749f46aa9945236d80a229f8", "input": "sentence_B_original: woman looking curiously at a man", "target": "A man is being curiously looked at by a woman"}
+{"id": "task1614-7cb69b44a8a04f26920e58314d215f1c", "input": "sentence_B_original: young dirt bikers try to get a dirt bike up a sandy hill", "target": "Some young bikers are getting a dirt bike up a sandy hill"}
+{"id": "task1614-3d644c48fc4940fd95333c0e095e53c9", "input": "sentence_B_original: people walk across a rope bridge over a rocky stream", "target": "People are walking across a rope bridge over a rocky stream"}
+{"id": "task1614-8213299c5d694daaa27decd1e7631aa9", "input": "sentence_B_original: a boy in s striped shirt is jumping in front of a water fountain", "target": "A boy in a striped shirt is playing in front of a water fountain"}
+{"id": "task1614-323809258df84993a34b3b24445e36eb", "input": "sentence_B_original: a dog opens a can of food", "target": "A dog is biting a can"}
+{"id": "task1614-d314f82007984f1384766cd4ae2ff68f", "input": "sentence_B_original: the man is going into the water", "target": "The person is going into the water"}
+{"id": "task1614-d7843f8a26e74912a809ccada3c5841a", "input": "sentence_B_original: A man is spreading out dough.", "target": "Dough is being spread by a man"}
+{"id": "task1614-993cd6af42b24600a2272cbc2b6998c6", "input": "sentence_B_original: a man is walking in the rain", "target": "A man is walking in the rain"}
+{"id": "task1614-3abd5b5e8bf249e2941d567a901a5d64", "input": "sentence_B_original: A woman wears an Egytian-like headdress.", "target": "A woman is wearing an Egyptian headdress"}
+{"id": "task1614-e5333af5df0c468589c8982f3ba9f13d", "input": "sentence_B_original: a black dog is approaching a golden dog on pebbly beach", "target": "Two dogs are playing on a rocky beach"}
+{"id": "task1614-b985daba5f624ddcb69ab21f6ff4b53d", "input": "sentence_B_original: a man skiing down a hill and over a red obstacle", "target": "A man is skiing down a hill and jumping a red obstacle"}
+{"id": "task1614-91cfd862e23c4304a3ddddf4a25c8a3d", "input": "sentence_B_original: Two teams compete in football.", "target": "A player is running with the ball"}
+{"id": "task1614-111eeb6fbcc04f9aa86ae09bc3776272", "input": "sentence_B_original: a man is playing the guitar", "target": "A man is playing the guitar"}
+{"id": "task1614-081b2f074c2d4e8fb5333fa6cf67d0a9", "input": "sentence_B_original: a girl in orange shirt and clown makeup stands in a park while others look on", "target": "A girl in an orange shirt and clown makeup is standing in a park and others are looking on"}
+{"id": "task1614-d60df4b34782483a8350efaf6c0d8ef5", "input": "sentence_B_original: man doing a skateboard trick on an outdoor park porch", "target": "A man is doing a skateboard trick on a park porch"}
+{"id": "task1614-34d23507491f4249af11c33adcf05417", "input": "sentence_B_original: an old woman is shaking hand with a man", "target": "A man and a woman are shaking hands"}
+{"id": "task1614-6a4dd6601cff42e5b2747e210e30f733", "input": "sentence_B_original: the child is splashing water in a small blue pool", "target": "The child is splashing water in a pool"}
+{"id": "task1614-fcaf00dc62ca4bedb9db07df9130db95", "input": "sentence_B_original: a dog biting on a can", "target": "A dog is dropping a can"}
+{"id": "task1614-859b09a9899c4df2bb8786c6b809433c", "input": "sentence_B_original: a little girl and woman wearing a yellow shirt get splashed by a city fountain", "target": "A woman is playing the trumpet"}
+{"id": "task1614-6d5cebda228e4d9186b9a215669e2017", "input": "sentence_B_original: a girl in a black hat wears a bikini at the beach", "target": "A young lady in a bikini is lying on the beach"}
+{"id": "task1614-fa22378f6d374e4a952b575dbe9120cc", "input": "sentence_B_original: the man sliced through a thick rope with a sword", "target": "A man is cutting a rope with a sword"}
+{"id": "task1614-7700ca1d08e941f3ba91e6613ef5b8a6", "input": "sentence_B_original: a man cut a tree with an axe", "target": "A man is chopping down a tree with an axe"}
+{"id": "task1614-db093636aa1546dab3f073d02b9cac4c", "input": "sentence_B_original: a person is eating at a table", "target": "A person is eating at a table"}
+{"id": "task1614-a89e8be3b9434d7896af76c8e6c7d155", "input": "sentence_B_original: two people on motorbikes", "target": "Motorbikes are being ridden by two people"}
+{"id": "task1614-b4ffbaccb14f44cab867f4fb4f620b72", "input": "sentence_B_original: the doctor was helping the patient", "target": "The doctor is helping the patient"}
+{"id": "task1614-a2b61a10c3644e528d959695e710ce26", "input": "sentence_B_original: a woman cuts up a vegetable", "target": "A woman is slicing a vegetable"}
+{"id": "task1614-9edd0e036f11456e9f2836fd687c81b0", "input": "sentence_B_original: two children playing on a statue", "target": "Some children are playing on a statue"}
+{"id": "task1614-498968e61aeb43ca878ec480a3a0c469", "input": "sentence_B_original: someone is cutting a tomato", "target": "Someone is cutting a tomato"}
+{"id": "task1614-880430efc2164341b2c8f0be482d7ea7", "input": "sentence_B_original: someone is scratching an animals belly", "target": "Someone is stroking the belly of an animal"}
+{"id": "task1614-8c7c533737044fdba5a0fb5125f89f30", "input": "sentence_B_original: a man is eating food", "target": "A man is eating some food"}
+{"id": "task1614-8332b54e51164c9b99c7d2812a9041c6", "input": "sentence_B_original: two white puppies play near a pool", "target": "Two white puppies are playing near water"}
+{"id": "task1614-8685d1b255914e0e862475cd0db93cf0", "input": "sentence_B_original: an airplane is flying in the air", "target": "An airplane is being stationed on the ground"}
+{"id": "task1614-e33e85817537427c975ef8397584c861", "input": "sentence_B_original: a man is holding a frog", "target": "A person is holding a frog"}
+{"id": "task1614-a31b1c14bb2f47b3be62234fd21359b8", "input": "sentence_B_original: A woman is slicing a tomato.", "target": "A man is slicing a red tomato"}
+{"id": "task1614-ab278e0b45fb4532989df90c2e76f8d0", "input": "sentence_B_original: A deer is jumping over a fence.", "target": "A deer isn't jumping over the fence"}
+{"id": "task1614-d3a072842ac34f888ff65857e9ecd303", "input": "sentence_B_original: A blond girl rides the waves.", "target": "A blonds girl is surfing"}
+{"id": "task1614-3c55d6e6f09549c5b17c6bec6f6c5450", "input": "sentence_B_original: a man pours cleaner in his sink", "target": "A man is pouring cleaner into the sink"}
+{"id": "task1614-439581db6c124a0ab174a10a966a2237", "input": "sentence_B_original: The girl is playing the guitar.", "target": "A girl is playing the guitar"}
+{"id": "task1614-949ae6cc1edc4b878b9d589100215d7a", "input": "sentence_B_original: two people on a bench", "target": "Two people are sitting on a bench"}
+{"id": "task1614-81f184c3a1ae41b48d9ebd7193508682", "input": "sentence_B_original: a man is shown slicing a carrot with a knife", "target": "A man is putting away a carrot"}
+{"id": "task1614-f3c12b70034a4836889a5c919aca2ec9", "input": "sentence_B_original: A person is mixing ingredients in a bowl.", "target": "Some ingredients are being mixed in a bowl by a person"}
+{"id": "task1614-afaab9c7e9a241708b71b1075c4de975", "input": "sentence_B_original: someone is slicing a vegetable", "target": "The person is slicing a vegetable"}
+{"id": "task1614-f93305c19c084615a248a65e46aa8e7f", "input": "sentence_B_original: a woman is cutting a tomatoe", "target": "A woman is dancing near a fire"}
+{"id": "task1614-e8988f585bc9478d9b70ec581d2ef011", "input": "sentence_B_original: a woman is slicing an onion with a knife", "target": "The woman is slicing an onion with a knife"}
+{"id": "task1614-2f345bc2163f4f21aa7289115f564d7f", "input": "sentence_B_original: a person is cutting mushrooms", "target": "A person is cutting some mushrooms"}
+{"id": "task1614-a6f1d438cb0443b49e9c09a166c41058", "input": "sentence_B_original: two women wearing bikinis are walking on the sand", "target": "Two women are wearing bikinis on the sandy beach"}
+{"id": "task1614-b64a91fb74064d7aa19d3d37bd6dc6ea", "input": "sentence_B_original: a woman is putting on makeup", "target": "A woman is putting on makeup"}
+{"id": "task1614-b936b37ce1cf43f39e5d57f16de4cb52", "input": "sentence_B_original: A woman is cutting up some meat.", "target": "A lady is cutting up some meat"}
+{"id": "task1614-41917cf983d54f81a8ccbca1d48c7238", "input": "sentence_B_original: A man is riding a motorcycle.", "target": "A motorbike rider is running over a man"}
+{"id": "task1614-d4c9cb9fd8904dc593514f3b1c412749", "input": "sentence_B_original: A woman is playing an acoustic guitar and singing.", "target": "A person is playing a guitar and singing"}
+{"id": "task1614-6b4527f0ee464c8fb7ad93fb1281c8e4", "input": "sentence_B_original: two men are playing guitar", "target": "Two men are playing guitar"}
+{"id": "task1614-45216a8a96f64aadacd49253a7d9d52b", "input": "sentence_B_original: a man is playing a guitar", "target": "A man is playing a guitar"}
+{"id": "task1614-edc830e15e30455fac253b22513b0bfd", "input": "sentence_B_original: a woman in a bikini pulls a dog on a leash at the beach", "target": "A woman in a bikini is pulling a dog on a leash at the beach"}
+{"id": "task1614-fde1a84799a14db0af85e608aeeb86b1", "input": "sentence_B_original: a girl is playing a guitar", "target": "A girl is playing a guitar"}
+{"id": "task1614-397622c7b6d042958a092d536e01ef5f", "input": "sentence_B_original: The man is playing the guitar.", "target": "The man is a guitar player"}
+{"id": "task1614-3ba8b674c82a493186977e486ac6344e", "input": "sentence_B_original: a person wipes butter on a tray", "target": "A person is removing the butter from a tray"}
+{"id": "task1614-66a9d9507519438c8d2059ac3dd30678", "input": "sentence_B_original: a man is getting into a car", "target": "A man is getting into a car"}
+{"id": "task1614-04165dcf13144d57b6a6d8122db99598", "input": "sentence_B_original: a man is doing a card trick", "target": "A man is doing a card trick"}
+{"id": "task1614-5a4c6c2ccfdc43b5aea5cd71c85a93f5", "input": "sentence_B_original: two people in lawn chairs reading books", "target": "Some people are sitting in lawn chairs and are reading books"}
+{"id": "task1614-6aaf6fc516c24a1796fa27fe87d539e7", "input": "sentence_B_original: a man is putting foods in a box", "target": "A man is putting some food in a box"}
+{"id": "task1614-e8af535808984aa3980ba2034177f73e", "input": "sentence_B_original: a woman is playing a guitar", "target": "A man is playing a guitar"}

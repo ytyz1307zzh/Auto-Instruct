@@ -1,0 +1,7 @@
+{
+    "summary": "Identify the legal act article whether it is Regulation, Decision or Directive",
+    "category": "Text Categorization",
+    "domain": "Law",
+    "input_lang": "English",
+    "output_lang": "English"
+}

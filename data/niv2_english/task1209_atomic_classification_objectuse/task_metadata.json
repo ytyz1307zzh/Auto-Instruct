@@ -1,0 +1,7 @@
+{
+    "summary": "Given a tuple, determine whether the Head is used for the Tail or not.",
+    "category": "Commonsense Classification",
+    "domain": "Sociology, Commonsense -> Concepts and Relations -> Physical Commonsense, Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

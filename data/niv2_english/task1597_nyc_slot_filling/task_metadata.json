@@ -1,0 +1,7 @@
+{
+    "summary": "Categorizing elements of information from text from the NYC database",
+    "category": "Information Extraction",
+    "domain": "Public Places -> Restaurants",
+    "input_lang": "English",
+    "output_lang": "English"
+}

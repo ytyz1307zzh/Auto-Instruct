@@ -1,0 +1,7 @@
+{
+    "summary": "Modifying text (based on md gender bias)",
+    "category": "Sentence Perturbation",
+    "domain": "Wikipedia, Dialogue, Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

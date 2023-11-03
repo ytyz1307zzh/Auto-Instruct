@@ -1,0 +1,7 @@
+{
+    "summary": "Classify a given Yelp review to positive or negative sentiment",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews -> Movies",
+    "input_lang": "English",
+    "output_lang": "English"
+}

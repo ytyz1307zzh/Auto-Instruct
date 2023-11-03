@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers from MRQA OOD dataset",
+    "category": "Question Answering",
+    "domain": "Wikipedia, News, Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

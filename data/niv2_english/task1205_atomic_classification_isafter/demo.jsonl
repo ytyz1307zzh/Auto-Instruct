@@ -1,0 +1,3 @@
+{"id": "task1205-5dd90c6327d14501a6eb3f534a0cc86c", "input": "Head: PersonX achieves PersonX's aim<sep>Tail: to do their best", "target": "No"}
+{"id": "task1205-0ece3f31eb7a430c8ade800745fd85c8", "input": "Head: PersonX does extra chores<sep>Tail: PersonX sees their home is messy", "target": "Yes"}
+{"id": "task1205-297bc3ea15bc4e7989d398bc4ac02b06", "input": "Head: PersonX acts like a man<sep>Tail: they do it as well", "target": "No"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Classify whether given two dialogue sentences are sequential or not",
+    "category": "Coherence Classification",
+    "domain": "Dialogue, Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

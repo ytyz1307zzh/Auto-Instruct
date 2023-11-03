@@ -1,0 +1,7 @@
+{
+    "summary": "Choosing the option that makes a given short story consistent.",
+    "category": "Coherence Classification",
+    "domain": "Commonsense -> Stories",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence, judge whether or not two consecutive word have been inverted.",
+    "category": "Linguistic Probing",
+    "domain": "Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

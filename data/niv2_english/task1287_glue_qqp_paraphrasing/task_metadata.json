@@ -1,0 +1,7 @@
+{
+    "summary": "Given two questions check if these questions have the same meaning.",
+    "category": "Text Matching",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,3 @@
+{"id": "task678-498c675caaa24c568aca884300ae8b8d", "input": "Given Relationship: 'present to', Sentence: 'Paper presented to the American Society of Criminology , Nov 1995 , Boston , MA.'", "target": "presented"}
+{"id": "task678-56deebf28a2746c89c923d1f00762122", "input": "Given Relationship: 'be purchase at', Sentence: 'General Admission Tickets can be purchased either on-line or at the Shark Reef Aquarium Box Office .'", "target": "purchased"}
+{"id": "task678-21fe2cdec97841349abec922283d82dd", "input": "Given Relationship: 'publish', Sentence: 'A variety of authors and articles are published in Montana Celiac Society 's quarterly newsletter .'", "target": "published"}

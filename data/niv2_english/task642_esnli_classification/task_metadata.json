@@ -1,0 +1,7 @@
+{
+    "summary": "Classification based on if two statements agree/disagree or can't be determined.",
+    "category": "Textual Entailment",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

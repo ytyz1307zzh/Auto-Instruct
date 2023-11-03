@@ -1,0 +1,7 @@
+{
+    "summary": "Given text and headline classify if headline matches text or not",
+    "category": "Text Matching",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a math problem on gain and options to choose from, find the correct option that answers the problem

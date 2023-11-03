@@ -1,0 +1,7 @@
+{
+    "summary": "Generating a story about relations in the given paragraph.",
+    "category": "Story Composition",
+    "domain": "Wikipedia, Natural Science, School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

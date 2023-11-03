@@ -1,0 +1,7 @@
+{
+    "summary": "Given a real-life anecdote of a complex ethical situation, verify who is wrong in the situation",
+    "category": "Ethics Classification",
+    "domain": "Story, Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

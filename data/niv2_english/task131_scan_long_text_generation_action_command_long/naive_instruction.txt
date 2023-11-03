@@ -1,0 +1,1 @@
+Given a long sequence of actions, provide its natural language command.

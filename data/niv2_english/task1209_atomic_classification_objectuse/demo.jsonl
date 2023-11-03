@@ -1,0 +1,3 @@
+{"id": "task1209-e5a5f0f27ae74e4ea52f5630ce34837e", "input": "Head: PersonX affects every ___<sep>Tail: to be annoying", "target": "No"}
+{"id": "task1209-f00e8ce593f74176ae503365ca19deaa", "input": "Head: trojan horse<sep>Tail: arrive disguised as useful software", "target": "Yes"}
+{"id": "task1209-370807b0efd149b8844253b1ccd13b51", "input": "Head: PersonX arrives home from lunch<sep>Tail: to drive home", "target": "No"}

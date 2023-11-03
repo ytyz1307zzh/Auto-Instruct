@@ -1,0 +1,3 @@
+{"id": "task1199-07c8f0ff5d42433193179ed22441b8c6", "input": "Head: PersonX becomes PersonY wife<sep>Tail: to be secure", "target": "No"}
+{"id": "task1199-b9c6434487084cf095a57525f1266214", "input": "Head: PersonX drinks coffee ___<sep>Tail: thirsty", "target": "Yes"}
+{"id": "task1199-3d1897c269d841f58ed22d7fdec13dd2", "input": "Head: PersonX answers PersonY question<sep>Tail: to give out advice", "target": "No"}

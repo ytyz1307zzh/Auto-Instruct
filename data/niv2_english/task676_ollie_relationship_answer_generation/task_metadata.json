@@ -1,0 +1,7 @@
+{
+    "summary": "Generating relationship based on given inputs in Ollie dataset",
+    "category": "Information Extraction",
+    "domain": "Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

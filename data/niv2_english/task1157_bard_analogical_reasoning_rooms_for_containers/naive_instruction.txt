@@ -1,0 +1,1 @@
+Given an analogy that relates objects to the associated rooms, give the appropriate room for the given object

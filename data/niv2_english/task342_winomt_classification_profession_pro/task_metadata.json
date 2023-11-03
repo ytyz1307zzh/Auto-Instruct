@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence and a gender, identify the profession mentioned in the sentence with the given gender. pro means the gender aggrees with the cultural stereotype of the profession",
+    "category": "Gender Classification",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

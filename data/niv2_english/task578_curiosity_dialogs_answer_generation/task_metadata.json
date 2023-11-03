@@ -1,0 +1,7 @@
+{
+    "summary": "Given a conversation between 'assistant' and 'user', generate the most important location in the conversation",
+    "category": "Information Extraction",
+    "domain": "Dialogue, Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

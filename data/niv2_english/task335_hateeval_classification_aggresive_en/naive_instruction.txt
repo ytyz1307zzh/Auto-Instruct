@@ -1,0 +1,1 @@
+Given a hateful post in English, classify it into aggresive or non-aggresive

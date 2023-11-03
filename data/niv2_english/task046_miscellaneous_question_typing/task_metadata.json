@@ -1,0 +1,7 @@
+{
+    "summary": "Annotating question-answer pairs with their corresponding type(s).",
+    "category": "Question Understanding",
+    "domain": "Pop Culture, Natural Science, History, Law",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context and a question, classify the question into abstractive, extractice, or yes-no question",
+    "category": "Question Understanding",
+    "domain": "Scientific Research Papers",
+    "input_lang": "English",
+    "output_lang": "English"
+}

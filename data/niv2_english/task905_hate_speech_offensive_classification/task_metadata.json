@@ -1,0 +1,7 @@
+{
+    "summary": "Given tweet and it's category, determine whether it's true or false",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

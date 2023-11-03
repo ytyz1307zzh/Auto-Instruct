@@ -1,0 +1,7 @@
+{
+    "summary": "Generating questions (based on SciTail)",
+    "category": "Question Generation",
+    "domain": "Web, Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

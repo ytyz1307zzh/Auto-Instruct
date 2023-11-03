@@ -1,0 +1,7 @@
+{
+    "summary": "Identify whether the word is the longest in the sentence.",
+    "category": "Linguistic Probing",
+    "domain": "Captions -> Image Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

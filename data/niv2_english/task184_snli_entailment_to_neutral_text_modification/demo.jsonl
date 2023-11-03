@@ -1,0 +1,3 @@
+{"id": "task184-20a47957829a49bb872cd32e01f34310", "input": "Sentence 1: Three ladies with scarves around their heads digging up dirt. Sentence 2: Three ladies were digging.", "target": "Three ladies in scarfes held shovels."}
+{"id": "task184-f8c6c706517542278b2d13edfcbbb9a3", "input": "Sentence 1: Three men sitting at a table, one man pointing at the camera, with four red candles on the right. Sentence 2: A man points at a camera.", "target": "A few men are posing for pictures."}
+{"id": "task184-15e428eac81c494ab7bd28557b4e1d51", "input": "Sentence 1: A silhouetted person is bowling. Sentence 2: The person is a bowler.", "target": "The person gets a strike."}

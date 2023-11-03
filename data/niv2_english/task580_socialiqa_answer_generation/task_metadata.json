@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context, a question and three options; provide correct answer for the question based on the context.",
+    "category": "Question Answering",
+    "domain": "Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

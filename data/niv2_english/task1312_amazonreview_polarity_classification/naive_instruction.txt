@@ -1,0 +1,1 @@
+You are given a review of Amazon's food products. Your task is to divide them into two classes: negative or positive.

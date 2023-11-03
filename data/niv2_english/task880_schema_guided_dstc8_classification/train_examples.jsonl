@@ -1,0 +1,330 @@
+{"id": "task880-665bfd434d3b47cbaa9cb887bb1be6f9", "input": "Yes, I would like to listen to that song.", "target": "INFORM_INTENT"}
+{"id": "task880-dd267c26b85f4d4487e71ce48e82f3ad", "input": "I want to find a concert.", "target": "INFORM"}
+{"id": "task880-ef1faf9dfbb84c5b9f9187cb5f8524b3", "input": "That sounds perfect. I would love to hear that song.", "target": "INFORM_INTENT"}
+{"id": "task880-45eceaf642a346119df2955bbee2b2d1", "input": "I'd like to go to a Concert.", "target": "INFORM"}
+{"id": "task880-ff9e8d2d68324f329f164232771b62e7", "input": "I want to find events in San Diego.", "target": "INFORM"}
+{"id": "task880-f7e5b2598fc24845acafc12adcea56ab", "input": "That sounds pretty good. And that was for Saturday?", "target": "INFORM_INTENT"}
+{"id": "task880-34a00fd10b9d4d6692a01369567ebc8b", "input": "There is an event. It's Mets Vs Dodgers taking place at Citi Field.", "target": "OFFER"}
+{"id": "task880-b7e35a58cf1e4214b738527b62ebbbcc", "input": "There's 1 event with Billy Currington at Gallagher Way.", "target": "OFFER"}
+{"id": "task880-6dfe1519ca034dd1b04e18853c3427a2", "input": "I want to listen to a good song.", "target": "INFORM_INTENT"}
+{"id": "task880-34ccd4e6adf1430f98f891a8b8ba49b7", "input": "There is a Anberlin concert at The Van Buren.", "target": "OFFER"}
+{"id": "task880-11987a362c214a589cb22c329d3e8dc9", "input": "The event is Jason Isbell and it's at Prospect Park Bandshell.", "target": "OFFER"}
+{"id": "task880-efd3d36fba6b41ee9583c4de5f630518", "input": "Alejandro Sanz is playing at the Cal Coast Credit Union Amphitheater.", "target": "OFFER"}
+{"id": "task880-60ecc6bc0e284f7baed1875eced9bd87", "input": "Sounds good. I want to buy tickets.", "target": "INFORM_INTENT"}
+{"id": "task880-3cc84427080b44e28e4144b1e15dfec9", "input": "Hi, i need a help, I am interested to find events", "target": "INFORM_INTENT"}
+{"id": "task880-54c0e48040ac4aeda1e1d333f464a9bb", "input": "Any other thing you are having?", "target": "REQUEST_ALTS"}
+{"id": "task880-045f6a8b30bd40cf95a54b9a9a04bb7b", "input": "There will also be Chris Botti playing at Sony Hall.", "target": "OFFER"}
+{"id": "task880-c7bbe91293f54434bdc8dab62dd6c3c5", "input": "Look in Seattle, WA for this Sunday.", "target": "INFORM"}
+{"id": "task880-68fa21a5acba496baff08934cfbd9abd", "input": "The band Americo is playing at La Boom.", "target": "OFFER"}
+{"id": "task880-bd576e5e69e8467ea7a50941eef39344", "input": "The United Vs Red Bulls game at the Mercedes-Benz Stadium happens next Tuesday.", "target": "OFFER"}
+{"id": "task880-96c9fa1d1236491b9af579ffcd525921", "input": "There is a Nycfc Vs Dynamo at yankee Stadium.", "target": "OFFER"}
+{"id": "task880-d1b603178e1c41849c65451734bcfd31", "input": "Any other day?", "target": "REQUEST_ALTS"}
+{"id": "task880-bdea64c48cae49639ec7dede79a34222", "input": "The Whitecaps Vs Colorado Rapids game is going on at BC Place.", "target": "OFFER"}
+{"id": "task880-db5a8157a3cd40e7bc87550bba76f063", "input": "I am looking for some events.", "target": "INFORM_INTENT"}
+{"id": "task880-1e8d82cc3b6946ad83519612c55d92f9", "input": "I would like to find an event", "target": "INFORM_INTENT"}
+{"id": "task880-4b7716e465a94a22a815240bf652bc14", "input": "I found an event called Emmylou Harris in Atlanta Symphony Orchestra", "target": "OFFER"}
+{"id": "task880-216d86bf564e40439bbb85d11deb388e", "input": "At Lincoln Financial Field is located the event Owls Vs Yellow Jackets that start on day after tomorrow.", "target": "OFFER"}
+{"id": "task880-1f658141c4c84f3cbad918b49b1b4beb", "input": "What type of event would you like to attend? For example, Music or Sports would help to narrow down the search.", "target": "REQUEST"}
+{"id": "task880-d4b4aad29ff84526bb2e9e0162fd0d4d", "input": "I see 4. We got Nationals Vs Diamondbacks at Nationals Park.", "target": "OFFER"}
+{"id": "task880-bed51460c44e4d68a97dd12b1c389dcd", "input": "I was able to find 8 baseball games the first of which is the Mets Vs Cubs playing at Citi Field.", "target": "OFFER"}
+{"id": "task880-61adff18e31d49eb8193216a2d7af47b", "input": "There is an event at Warsaw, the Amber Run Brooklyn.", "target": "OFFER"}
+{"id": "task880-d6c3e6635f90410b95261aa9751e64b3", "input": "Any other events on different days?", "target": "REQUEST_ALTS"}
+{"id": "task880-85775b921e1e4818a383b0b773e28c2f", "input": "There is a Cubs Vs Brewers game at Wrigley Field.", "target": "OFFER"}
+{"id": "task880-2181e6b082ec411f8a7959f030fb366b", "input": "In 4 different days. One of them is tomorrow. Cardinal Vs Ducks at the Stanford Stadium.", "target": "OFFER"}
+{"id": "task880-e0cf1d35ec1b407a924d8d622c5656d4", "input": "There is 1 event: Huskies Vs Cougars at Husky Stadium", "target": "OFFER"}
+{"id": "task880-aec74895a80f448dad82d62c65da0e18", "input": "The Falcons Vs Buccaneers event is going to be at Mercedes-Benz Stadium.", "target": "OFFER"}
+{"id": "task880-13dc2de0202049d099b0dbf178f2b78b", "input": "Got 1 that is Bill Callahan which takes place at Lodge Room.", "target": "OFFER"}
+{"id": "task880-726527d9749b432b8798fa971701bd83", "input": "Blue Jays Vs Astros is a game at the Rogers Centre.", "target": "OFFER"}
+{"id": "task880-ad7529e425d04e09a1f44fdb5803165d", "input": "I found 7 events. There's Phillies Vs Braves at the Citizens Bank Park.", "target": "OFFER"}
+{"id": "task880-fe96b9775d3c437e8589951d8576418e", "input": "There are events on 6 different days. The Eagles Vs Cowboys game at Lincoln Financial Field is on the day after tomorrow.", "target": "OFFER"}
+{"id": "task880-bbd8f28caed14bc295d58fb8053eed83", "input": "There are 6 sports events. One event is the Mets vs Dodgers at Citi Field.", "target": "OFFER"}
+{"id": "task880-e7418aeaaab04790a0010d2f05f87b29", "input": "I want to find a song.", "target": "INFORM_INTENT"}
+{"id": "task880-6f095932657c4ed3b103c43cecde66f4", "input": "Wait a second. Two of the people I had in mind don't like soccer. I'll get two tickets instead.", "target": "INFORM"}
+{"id": "task880-d0bbf7a6ef584e1f88267c7049e54f61", "input": "Amber Run Brooklyn will perform at Warsaw next Monday.", "target": "OFFER"}
+{"id": "task880-51c753c819d84a10a6e63e4779a778b2", "input": "The date is next Monday for Alejandro Sanz at Cal Coast Credit Union Amphitheater.", "target": "OFFER"}
+{"id": "task880-596a402ff11b48f8bb557a834f5a660a", "input": "I found 10 sporting events. The first is Mets vs Braves at Citi Field.", "target": "OFFER"}
+{"id": "task880-e888ad3d04dd448c89e1099ad11091b7", "input": "There's United Vs Red Bulls at Mercedes-Benz Stadium.", "target": "OFFER"}
+{"id": "task880-274cd4c52ba340c281f707ad8570199a", "input": "Not bad, but can you find any other events?", "target": "REQUEST_ALTS"}
+{"id": "task880-43a5d6251fa945739570153cdba2e62b", "input": "I've found Dodgers Vs Giants at Dodger Stadium", "target": "OFFER"}
+{"id": "task880-47a876e2cf494adb9086a179ad9f2df8", "input": "Anything else?", "target": "REQUEST_ALTS"}
+{"id": "task880-dc5256bd9c4040d2b9850f0714e4e009", "input": "Okay, I found the Blue Jays Vs Astros event at Rogers Centre.", "target": "OFFER"}
+{"id": "task880-10547d7a33864c16a52f6f9b66a94540", "input": "I would like to find dates for events.", "target": "INFORM_INTENT"}
+{"id": "task880-ff9d71a7c29040ecbae246a7028c6b06", "input": "Sounds good. I want to find dates for the event.", "target": "INFORM_INTENT"}
+{"id": "task880-1ac96a9d72f346279072c3647535c090", "input": "The ticket has been bought and I will provide you directions to 1 AMB Drive Northwest on the day of the game. Anything else that I can help you with?", "target": "INFORM"}
+{"id": "task880-630cb983286047a5a979802dadc3b094", "input": "I wouldn't mind going to New York City. That sounds fun.", "target": "INFORM"}
+{"id": "task880-5657068ebd3543109a7c68e72208b648", "input": "Atlanta, GA - I'm looking for a soccer game.", "target": "INFORM"}
+{"id": "task880-787b7b26c09f4ba28913a619a3ca95a9", "input": "That sounds fun. I want to book tickets to that event.", "target": "INFORM_INTENT"}
+{"id": "task880-f4aa28ca9c7d4bd5b82e944813c27a58", "input": "I feel like listening to some music.", "target": "INFORM_INTENT"}
+{"id": "task880-eca5eaa3b3bd424e85c5ebf0883afefc", "input": "Yes, I would like to play that song", "target": "INFORM_INTENT"}
+{"id": "task880-4e5c6608fe7f437fa92e6629d0640d3a", "input": "What kind of event? You can say Music or Sports or anything else.", "target": "REQUEST"}
+{"id": "task880-fbba333080dc45aba7611e1024da2a82", "input": "Is there an kind of event you'd prefer? You can search saying Music or Sports or anything else you want.", "target": "REQUEST"}
+{"id": "task880-32634bbbc08842c39bc2493b5fed0e75", "input": "I found 5 events. The event Gloryhammer is at 1720(tm).", "target": "OFFER"}
+{"id": "task880-6d9d6492ef5e4d91900934a66d00d2cf", "input": "There is 1 Pop event taking place at Napa Valley Performing Arts Center featuring Todd Rundgren.", "target": "OFFER"}
+{"id": "task880-327ea78391c443f4a85e2dfa0788e431", "input": "Star City Music Festival appears to be going on at Brisbane Community Park 6 days. The next date is next Monday.", "target": "OFFER"}
+{"id": "task880-735e6315eba3432c8e7fa91a8f0f2f8d", "input": "I found 4 others. There's Phillies Vs Cubs at the Citizens Bank Park.", "target": "OFFER"}
+{"id": "task880-dcf99850b70a46f4b4b06fefb9f8b880", "input": "I will be going solo and will only be needing one ticket for the 11th of this month.", "target": "INFORM"}
+{"id": "task880-76348c06fa384311b1ab68d48609016e", "input": "I found 10 events you may enjoy. Alejandro Sanz is playing at the Cal Coast Credit Union Amphitheater.", "target": "OFFER"}
+{"id": "task880-02c1e3fa7241485a9340e6fa06faabca", "input": "I discovered 10 activities catering to your preference. There is a Falcons vs Buccaneers activity at Mercedes-Benz Stadium.", "target": "OFFER"}
+{"id": "task880-8ff84d7f0d4b43ca9216a3f87bee6824", "input": "The Mets vs Braves activity is on next Monday at Citi Field.", "target": "OFFER"}
+{"id": "task880-4c715544c74c49fe99d1a630fa7c6133", "input": "There is an Allan Rayman concert at the August Hall.", "target": "OFFER"}
+{"id": "task880-8dc572b2f41d45c09c08b40ff4d3abce", "input": "Ben Harper is also playing on March 10th at Pier 17.", "target": "OFFER"}
+{"id": "task880-4d2ffbd94734414fb607092ca5a95cc9", "input": "I've found Dodgers Vs Cubs at Dodger Stadium", "target": "OFFER"}
+{"id": "task880-20ec783bd4e4487cb6a278c2ed9a2afe", "input": "I'm showing Jethro Tull at Forest Hills Stadium.", "target": "OFFER"}
+{"id": "task880-11b110668d7346829a5d7ed016c70490", "input": "On March 10th, just 1 day. Padres Vs Diamondbacks at Petco Park.", "target": "OFFER"}
+{"id": "task880-a2b4eeb841124c6ea612865959d2ecda", "input": "The event I have found is at Oracle Park and it is Giants vs Cardinals.", "target": "OFFER"}
+{"id": "task880-849cf5208cb14d25a03c91290a6e9b35", "input": "I found 1 Warsaw, the event is Amber Run Brooklyn.", "target": "OFFER"}
+{"id": "task880-2750f5da166743c28d92ba1c8e58602f", "input": "The event is on 1 day. It is on the day after tomorrow. The event is Rob Thomas at Theater Of The Clouds.", "target": "OFFER"}
+{"id": "task880-45ab7776e80c4789ba429271a75cadea", "input": "No I want to go to the event on the 14th.", "target": "INFORM"}
+{"id": "task880-c55ec66602b1440c81e6f4471d1bd425", "input": "I found 4 events you would like. One is Giants Vs Diamondbacks at Oracle Park.", "target": "OFFER"}
+{"id": "task880-0aaa3e8532ae4a04984942d3cd179163", "input": "The Dodgers Vs Diamondbacks is the day after tomorrow at the Dodger Stadium.", "target": "OFFER"}
+{"id": "task880-8ceb8d5db4be44738f4b5a75062f3f56", "input": "That sounds good to me. I want to buy tickets for that game.", "target": "INFORM_INTENT"}
+{"id": "task880-a37eb9fee022491b8353f3096680cbc3", "input": "Any particular type of event you're interested in? How about Music or Sports?", "target": "REQUEST"}
+{"id": "task880-b6ed88e117904bb6ba62423494bc36f6", "input": "On 1 day, next Wednesday. Styx at the PNE Amphitheatre.", "target": "OFFER"}
+{"id": "task880-6de3ae6214344e1c87b64ce0ec2c550d", "input": "I found 8 events that match your request. One event is Fidlar at The Observatory North Park.", "target": "OFFER"}
+{"id": "task880-546e79c5f68344a78734abf55a4b5462", "input": "Okay, then are there any other restaurants that'll work?", "target": "REQUEST_ALTS"}
+{"id": "task880-745aea1de35e433a80dfce66012d7548", "input": "Is there any other restaurant you can suggest?", "target": "REQUEST_ALTS"}
+{"id": "task880-1af50107842e42abb8e36143f3643d31", "input": "Any other dates?", "target": "REQUEST_ALTS"}
+{"id": "task880-86effd47a8734a7dab0f410567e2cc08", "input": "Yes that is what I want to hear.", "target": "INFORM_INTENT"}
+{"id": "task880-508f4d5c9cb247fea669e7ceba62532a", "input": "No. please search something else.", "target": "REQUEST_ALTS"}
+{"id": "task880-0b648b98f65945348327845f8e35b52a", "input": "Is there anything else you can find?", "target": "REQUEST_ALTS"}
+{"id": "task880-19c7eb495d0044448a5d70e2e13186d1", "input": "Could you suggest any other restaurant?", "target": "REQUEST_ALTS"}
+{"id": "task880-cdc66aaef7d6418bbe1a5121a4024935", "input": "Any other recommendation?", "target": "REQUEST_ALTS"}
+{"id": "task880-8d05d47c91c94e45af8649ae41ea2ea1", "input": "Can you suggest other restaurants?", "target": "REQUEST_ALTS"}
+{"id": "task880-52c2edbc8aa54f4bb84512bdbc7249e4", "input": "Could you look for alternative events for me, please?", "target": "REQUEST_ALTS"}
+{"id": "task880-32da0fe491ec45369f79ee1d96ac57f8", "input": "What else you got?", "target": "REQUEST_ALTS"}
+{"id": "task880-b2344e740c8743808e7fd2f66912b73d", "input": "any other events", "target": "REQUEST_ALTS"}
+{"id": "task880-80a016030831403c8017226fef25fe52", "input": "No. Do you have anything else?", "target": "REQUEST_ALTS"}
+{"id": "task880-3131deeb3c084453a8b08ccf07619f2e", "input": "I can help with that! What type of event are you looking for? Music, Sports, or something else?", "target": "REQUEST"}
+{"id": "task880-4785fc1940304eaa899525fb4012dccc", "input": "Your reservation has been confirmed. The location of the venue is 1 AMB Drive Northwest.", "target": "INFORM"}
+{"id": "task880-f4eff847b4804fb8b5929ab851aaceaf", "input": "Yes, that is the one I wanted to hear.", "target": "INFORM_INTENT"}
+{"id": "task880-31fb9b7a611b41e19458560add2b8b23", "input": "What type of event would you like to attend. Perhaps a Sports event, or a Music event? Also, please specify a location at which you would like to attend this event.", "target": "REQUEST"}
+{"id": "task880-8f99eb08bff3403285156c82e00ebd18", "input": "That's nice but is anything else happening?", "target": "REQUEST_ALTS"}
+{"id": "task880-728214c51f024821b50b68cd88e23228", "input": "Do you have others?", "target": "REQUEST_ALTS"}
+{"id": "task880-69726b661dc8466fa13940345a06f248", "input": "Do you have any other songs?", "target": "REQUEST_ALTS"}
+{"id": "task880-5a974bf4828647229d064ce3d1fd1baf", "input": "Can you look for any other restaurant?", "target": "REQUEST_ALTS"}
+{"id": "task880-501a96aa005a4cf5aa84b8a76d33db0b", "input": "Are there any others?", "target": "REQUEST_ALTS"}
+{"id": "task880-c7eba9ecb40e42609811db2e3e2d93c2", "input": "Any other suggestions?", "target": "REQUEST_ALTS"}
+{"id": "task880-23e0f6afffaf4371ac6ce98a3dd7d22b", "input": "How about on other dates?", "target": "REQUEST_ALTS"}
+{"id": "task880-2e84bc00cd294153a4e7668d40cb6801", "input": "It conflicts my schedule. Can you find another one?", "target": "REQUEST_ALTS"}
+{"id": "task880-45cc0626d5124f948be30c982a00ca6c", "input": "How about the Phillies vs Braves at the Citizens Bank Park", "target": "OFFER"}
+{"id": "task880-01258c4aaf744495a681e5fc9596c850", "input": "Are there any other songs?", "target": "REQUEST_ALTS"}
+{"id": "task880-24dfd8b1ae3e470ea896a97490984774", "input": "At Dodger Stadium they have dodgers vs cubs.", "target": "OFFER"}
+{"id": "task880-be23f7a314834841a48004ca0658470f", "input": "There are 10 events you might like. There's Alejandro Sanz at Cal Coast Credit Union Amphitheater.", "target": "OFFER"}
+{"id": "task880-a719f2514de145f69a408d63ba47c4cd", "input": "What others do you have?", "target": "REQUEST_ALTS"}
+{"id": "task880-adb2161fcfc648d48d2bd4d8d41a6975", "input": "I've found 2 possible events. Does seeing Cody Johnson at the Flamingo Lot interest you?", "target": "OFFER"}
+{"id": "task880-c3109759aa2e4c498222406e0c29646d", "input": "Just give me a minute... I will search for you.... Hey! there are 7 events coming up and one of them, Beach Boys is to be held at PNE Amphitheatre.", "target": "OFFER"}
+{"id": "task880-dabd5b90774c48d49a0b288a81ad5be6", "input": "Another one is the Mets vs Rockies at citi Field.", "target": "OFFER"}
+{"id": "task880-08c3ade4a8b14b018b83560e79ca5629", "input": "It starts at 5:30 pm, and is at 1 blue jays way.", "target": "INFORM"}
+{"id": "task880-17338af7a3df4169bdba646ab8e226bc", "input": "Start at 5:30 pm and you can find at 1 Lincoln Financial Field Way.", "target": "INFORM"}
+{"id": "task880-91bd3ce7ada24ce2ba6612a8feda391b", "input": "I found 10 events relevant to your critera. One of them is a DC United vs Revolution match, hosted at Audi Field.", "target": "OFFER"}
+{"id": "task880-9fa724771ef7416d9637635bcab7aa35", "input": "Search for something else.", "target": "REQUEST_ALTS"}
+{"id": "task880-928e29ae272c49c69a6ba417a345facd", "input": "Is there a specific type of event you prefer, for instance Music or Sports or something else?", "target": "REQUEST"}
+{"id": "task880-586620fa16ca4e1eaf7c138eac972cda", "input": "There is one event related to what you are looking for. Its Murder City Devils and it is at The Teragram Ballroom.", "target": "OFFER"}
+{"id": "task880-5d899039fbf94269974c63fdb2667e63", "input": "On the day after tomorrow, we also have Dodgers vs Diamondbacks at Dodger Stadium.", "target": "OFFER"}
+{"id": "task880-ac61a105eaa949acb423bf88233407f3", "input": "Would you prefer Music, Sports, or another type of event?", "target": "REQUEST"}
+{"id": "task880-2eab9ceda2af4d01ba6d5557c53a8bde", "input": "There's the Nationals Vs Braves at Nationals Park.", "target": "OFFER"}
+{"id": "task880-1958eb6b27034d1d8a80e7577661f6ac", "input": "What is the other option?", "target": "REQUEST_ALTS"}
+{"id": "task880-cbb6ca6688dd4d1da6b7c47bb062df1b", "input": "Do you have another suggestion?", "target": "REQUEST_ALTS"}
+{"id": "task880-ade161a9b5ea4a9b99cb91003612b0fa", "input": "What else is there?", "target": "REQUEST_ALTS"}
+{"id": "task880-49da493283fe4127949b939e331bc925", "input": "I have successfully made your reservation. The event kicks off at 7 pm, at 104 N. Ave 56, 2nd Floor.", "target": "INFORM"}
+{"id": "task880-95f0f2577e9f454ca48ac292a893dea1", "input": "I've booked your tickets. The address is Brisbane, California 94005, United States.", "target": "INFORM"}
+{"id": "task880-5593bed0b0f647468cdc37418d88843c", "input": "The address is 2700 F Street Northwest, Washington, District of Columbia 20566, United States.", "target": "INFORM"}
+{"id": "task880-3214a0d2de074d9484b1e4144da94f78", "input": "I am interested in attending events in Washington D.C.", "target": "INFORM"}
+{"id": "task880-27a955d1bcb04639881e6043864d4950", "input": "Yes, that works for me. Where is the venue for the event located and what time does it start?", "target": "REQUEST"}
+{"id": "task880-d310e53a8e5248849ff29cf33ecb33f3", "input": "Ok, any other songs available?", "target": "REQUEST_ALTS"}
+{"id": "task880-18ae1c391a3b4e4184c6e61b1ca7b353", "input": "Are there any other restaurants?", "target": "REQUEST_ALTS"}
+{"id": "task880-c9d1e1f9011b45ad9491cb7e0480d91e", "input": "What is another restaurant?", "target": "REQUEST_ALTS"}
+{"id": "task880-2c4e52fbced244ae9f75f3732590a23d", "input": "That's good, but is there anything else?", "target": "REQUEST_ALTS"}
+{"id": "task880-3401b21467ce494aa53ac22e05ef3543", "input": "What else have you got?", "target": "REQUEST_ALTS"}
+{"id": "task880-e28cf0edc0bd4b9ba2268f9fb4cf8f77", "input": "What other choices do you have?", "target": "REQUEST_ALTS"}
+{"id": "task880-cd64486dfcfe45eba58f0c6ec3fa4f9a", "input": "What about the same event on a different day?", "target": "REQUEST_ALTS"}
+{"id": "task880-b7c728c9fa0a4157a2fc9190d5cec141", "input": "Please give a better choice.", "target": "REQUEST_ALTS"}
+{"id": "task880-5631d7536ad34f46a911e304bae77da0", "input": "I've found 8 events for you. How does Huskies Vs Warriors at Husky Stadium sound?", "target": "OFFER"}
+{"id": "task880-2e32f8a83ee445a0a0e76c07219948df", "input": "I found 1 event you may enjoy. There's Styx at the PNE Amphitheatre.", "target": "OFFER"}
+{"id": "task880-9614554a6cd14e398c2b4cb98c045241", "input": "Your reservation has been made. The venue address is 1 Lincoln Financial Field Way. The event start time is 7:30 pm.", "target": "INFORM"}
+{"id": "task880-9e0d1af1fc7a43d3b098874a2770c15a", "input": "What about Angels vs Astros at Angel Stadium of Anaheim", "target": "OFFER"}
+{"id": "task880-db42ea7bfeff41d5942b09cec2e35b29", "input": "That is good, but can you find me something else?", "target": "REQUEST_ALTS"}
+{"id": "task880-fd71e2019a614d26932b725cfa4370a0", "input": "What about Gorgasm at Kenny's Alley", "target": "OFFER"}
+{"id": "task880-85e6d91f0db943259a158ec74486650a", "input": "How about Carbon Leaf at Union Stage?", "target": "OFFER"}
+{"id": "task880-e00564a12a1947d5a5600058cfcaf8d9", "input": "The venue is at 141 Prospect Park West, Brooklyn", "target": "INFORM"}
+{"id": "task880-5045742ddd22470e87c9f7b334e17517", "input": "You can find it at 1 Lincoln Financial Field Way.Is a Football event.", "target": "INFORM"}
+{"id": "task880-063f87191d2c4c76ae13b4700ef4eb0c", "input": "I found 10 concerts matching your requirements. How about Amber Run Brooklyn at the Warsaw?", "target": "OFFER"}
+{"id": "task880-d602377b678042cabd5905cebb984de1", "input": "It's located at 1 Blue Jays Way.", "target": "INFORM"}
+{"id": "task880-e845049b54c7420984c061d020a08551", "input": "I have placed the reservation. The venue is at 1145 Coleman avenue.", "target": "INFORM"}
+{"id": "task880-3cd8784cd93b4b5a81e8c1b38d224c0c", "input": "The game starts at 7 pm and is located at 1000 Vin Scully Ave.", "target": "INFORM"}
+{"id": "task880-5b067c90be7c45ddbdeef12cfae30aa2", "input": "I've got an event like that, United Vs United at the Mercedes-Benz Stadium.", "target": "OFFER"}
+{"id": "task880-f7823d8819a5453e95b71e0d6ac827fa", "input": "What about the other days?", "target": "REQUEST_ALTS"}
+{"id": "task880-e3becc14795b46ea893c115a1ec376ef", "input": "I like this but can you show me more?", "target": "REQUEST_ALTS"}
+{"id": "task880-11de1a83e9a844a0a32699415e0f292a", "input": "It's gonna be at 123-01 Roosevelt Avenue", "target": "INFORM"}
+{"id": "task880-4da554ca2a3d447aa7ab2d294f234f6c", "input": "What type of event are you interested in?", "target": "REQUEST"}
+{"id": "task880-7177aaa549e743f1b7e26fb1994ff4ad", "input": "Yes, that's right. When does it start and what's the address?", "target": "REQUEST"}
+{"id": "task880-d317b80fc1bf47d2b2bdd840fbeadfc8", "input": "The address is 1100 Valley House Drive.", "target": "INFORM"}
+{"id": "task880-f203ba430705489398711c8633d937a1", "input": "Are there other events on other dates you would like to check?", "target": "REQUEST_ALTS"}
+{"id": "task880-4bcd58be467d437299cf8be27d9be735", "input": "Could you suggest alternative restaurants?", "target": "REQUEST_ALTS"}
+{"id": "task880-141bce01841348249e8c1f4c6c324305", "input": "Do you have any other suggestions? I've already heard those.", "target": "REQUEST_ALTS"}
+{"id": "task880-05319a8a9b1f48a19f60795bee1d3631", "input": "And what was the address again?", "target": "REQUEST"}
+{"id": "task880-8450e6a7d0b64263be824bc35461305a", "input": "Yes that works and when does the event start?", "target": "REQUEST"}
+{"id": "task880-9ae9f652adfc4aef837110e8026eac24", "input": "Sure! How many should I get?", "target": "REQUEST"}
+{"id": "task880-beeb044396834feeb9618722a3949adc", "input": "What is the start time for the event?", "target": "REQUEST"}
+{"id": "task880-c56aed153f38405fb25e9523d6b97e15", "input": "Nah, I'd rather somewhere else. Do you have another one?", "target": "REQUEST_ALTS"}
+{"id": "task880-cee57b7fb56b4048b009d5a1095803ff", "input": "No, that's not my favorite team. Can you find me something else?", "target": "REQUEST_ALTS"}
+{"id": "task880-b9dccca51ed044f6949a7c9d8c9b00bd", "input": "What is another option?", "target": "REQUEST_ALTS"}
+{"id": "task880-5188fae1dab4441696e1f15b902fbc95", "input": "What kind of events interest you and in what city?", "target": "REQUEST"}
+{"id": "task880-05a0ca7bcb1a43b98103266f8e383559", "input": "What is the other restaurant you mentioned?", "target": "REQUEST_ALTS"}
+{"id": "task880-bfc79acb6212437c9b0ea37f971fa75d", "input": "How about El Salvador Vs Haiti at RFK Stadium.", "target": "OFFER"}
+{"id": "task880-87362c8120304da1b442286ccf21fc8f", "input": "Sounds fine, but can you find me some other events?", "target": "REQUEST_ALTS"}
+{"id": "task880-e63d8ad5493e48b3a43309172b1360a8", "input": "The game kicks off at 7 pm.", "target": "INFORM"}
+{"id": "task880-bb6f58a488184a959036fe5bf6c3bc38", "input": "At 2901 East Hastings Street.", "target": "INFORM"}
+{"id": "task880-97fcb2b322d3486398dd72c1d6033088", "input": "What's the other one?", "target": "REQUEST_ALTS"}
+{"id": "task880-efead6c711474eb8b397c49e798b9c7a", "input": "Are you interested in Greensky Bluegrass at the Flamingo Lot?", "target": "OFFER"}
+{"id": "task880-dbf6d67becef47ffa4b0b8e56c4f03f5", "input": "Okay! You have got 1 event taking place at PNE Amphitheatre and the event name is Colin James. Would you prefer to attend this event?", "target": "OFFER"}
+{"id": "task880-6137d5cf911d4b2ea189bf5ea25b0ee7", "input": "The address is 50 Upper Alabama Street.", "target": "INFORM"}
+{"id": "task880-0e78c972ab314e848c30368dc3939090", "input": "That game beings at 5 pm.", "target": "INFORM"}
+{"id": "task880-da7557a1a7714a24b21271209a398d86", "input": "The Event Gloryhammer at 1720(tm) will takes place on today. Will that work for you?", "target": "OFFER"}
+{"id": "task880-d404f4d965504cb39fff59f4212cb3c6", "input": "This is good but any others?", "target": "REQUEST_ALTS"}
+{"id": "task880-069d7d3c4be74955b74d4e451c29326a", "input": "I found 10 concert events in New York. What about Amber Run Brooklyn at Warsaw?", "target": "OFFER"}
+{"id": "task880-15cc0153cd0f41548d28bd8f3aa9195b", "input": "I've found 10 options for your taste- how about Amber Run Brooklyn, at Warsaw?", "target": "OFFER"}
+{"id": "task880-9567172e6eb7404c9dec73a371b05998", "input": "What are you interested in? Music, Sports, or something else?", "target": "REQUEST"}
+{"id": "task880-7a608b3797004a87b28141bf0b218437", "input": "Any particular type of event like Music or Sports and what city are you looking in?", "target": "REQUEST"}
+{"id": "task880-c3f3374293aa4a67a4c81f01a4745b08", "input": "Then you might enjoy Greensky Bluegrass which is also at Flamingo Lot.", "target": "OFFER"}
+{"id": "task880-b2c9366fcc1241b29d0f2992793bc252", "input": "Do you have a preference such as Music, Sports, or something else?", "target": "REQUEST"}
+{"id": "task880-c28983a3484c4c0eba01fdf14f7aadce", "input": "What are the events on some other dates?", "target": "REQUEST_ALTS"}
+{"id": "task880-970ff8e7090740bfa027c0c93c0ea922", "input": "It will start at 5:30 pm", "target": "INFORM"}
+{"id": "task880-67ce9c406ef24fa5b920596e4c736135", "input": "What city would you like to look in?", "target": "REQUEST"}
+{"id": "task880-53a57a96fc254de1b0cce40c07615be3", "input": "Yes, that sounds good to me. What time is the event starting?", "target": "REQUEST"}
+{"id": "task880-8ca558e27796468c8ef7388a95582d28", "input": "What's the venue's address?", "target": "REQUEST"}
+{"id": "task880-9d38684a1bb24352877f4f9988d1ce62", "input": "The Mets vs Rockies is a baseball game. Citi Field is located at 123-01 Roosevelt Avenue.", "target": "INFORM"}
+{"id": "task880-3fed020e0d684b159099d1459f36bd43", "input": "The event will be at 1720 East 16th Street and starts at 5 pm.", "target": "INFORM"}
+{"id": "task880-551841df19e84f1499189745222ddbf6", "input": "What time is it, and what is the address?", "target": "REQUEST"}
+{"id": "task880-04ba17f2c3b24b1580d2bc7d9b045d87", "input": "Yes, sounds good. When does it start?", "target": "REQUEST"}
+{"id": "task880-f1257f1eb3304b1ebd6957594ecc5435", "input": "Where is that located again? Also, what time does the game start?", "target": "REQUEST"}
+{"id": "task880-3a79dda45be24b878825180bddd607bd", "input": "What sport is this? What time does it start?", "target": "REQUEST"}
+{"id": "task880-63713ef239414e6280f84f4c4a0916d3", "input": "What city do you want to check out the happenings of?", "target": "REQUEST"}
+{"id": "task880-6edd1a1efe08439ca2ae7b88b92fee0d", "input": "Please tell me what kind of game this is and where it is located.", "target": "REQUEST"}
+{"id": "task880-9acce600a6d6412fb9b84e6925b763b7", "input": "When does it start? And where is it located?", "target": "REQUEST"}
+{"id": "task880-776202534f7644a9959da0c1c36f8c44", "input": "What time of events do you prefer like Music, Sports, Cinema etc. Where you wish to have the event happening?", "target": "REQUEST"}
+{"id": "task880-0852d612b6f245369cb53873c7c744d7", "input": "Starts at 6 pm at 625 Nelson Road.", "target": "INFORM"}
+{"id": "task880-9a35438034d449bebaa48f82c6867939", "input": "I found 5 events in Philly. How about Don Broco, at The Foundry?", "target": "OFFER"}
+{"id": "task880-cc9e523151b74a25aa65083d1e452115", "input": "Great. So, what time does the concert start?", "target": "REQUEST"}
+{"id": "task880-250bbfb39f644bef93c9fb2657a5e8eb", "input": "At 6 pm they begin.", "target": "INFORM"}
+{"id": "task880-17ce5b57272e41c996fc8162713197e7", "input": "How about events held on other dates?", "target": "REQUEST_ALTS"}
+{"id": "task880-6fcf141a62c2412a8f4c419b17a92157", "input": "Please find a different song to listen to.", "target": "REQUEST_ALTS"}
+{"id": "task880-b8564440272d47d4b21e8362f406c7e2", "input": "What time does this event start?", "target": "REQUEST"}
+{"id": "task880-5c9052b865ac4b1882e4952876cbbe92", "input": "Perfect. What time does it start?", "target": "REQUEST"}
+{"id": "task880-20fa103dd3c54b2cb9e0334eb7a5fe23", "input": "When does the event start? Where is the venue?", "target": "REQUEST"}
+{"id": "task880-990d6774af4e40058068d96f4f2a1b31", "input": "Do you have any date in mind and how many tickets?", "target": "REQUEST"}
+{"id": "task880-ea33428d545840c4842c754110a0591c", "input": "What date?", "target": "REQUEST"}
+{"id": "task880-21bccb3f0b514a578e4a8f6d6611eeb2", "input": "Can you give me the start time of this event and the address of the venue?", "target": "REQUEST"}
+{"id": "task880-9b5cee28cd014f7b8249386821712090", "input": "This is a Pop event. It starts at 7:30 pm.", "target": "INFORM"}
+{"id": "task880-c38e4ffb000848fcbf3567a25a1bebb9", "input": "How many tickets did you want?", "target": "REQUEST"}
+{"id": "task880-6f008b2b0b344375bd4d3d3455eeadf6", "input": "What city or area would you prefer the event take place in?", "target": "REQUEST"}
+{"id": "task880-a3aa9621f6494ddbadff5595ac7c2c8d", "input": "Great, what time should we be there?", "target": "REQUEST"}
+{"id": "task880-d81f44f5db124510825b2b8e4062018e", "input": "What date are you interested in?", "target": "REQUEST"}
+{"id": "task880-b62d07f1347c4e06af85aa11f49163bc", "input": "Remind me again: when does that start?", "target": "REQUEST"}
+{"id": "task880-044699899a21493e830e1b23e1f011cd", "input": "When does it start and where is it located?", "target": "REQUEST"}
+{"id": "task880-83ffa010bca84426b785b587c61f5c69", "input": "Where is it at and what time does it start?", "target": "REQUEST"}
+{"id": "task880-2a327d7ebed7408fa0d68fbc22345c72", "input": "What are the other dates for the events?", "target": "REQUEST_ALTS"}
+{"id": "task880-3b42eaf2ff4b48d28c618648508236a0", "input": "Does the event have any other date?", "target": "REQUEST_ALTS"}
+{"id": "task880-13f41304346c438aa34f6de80d3fb35c", "input": "What is the location of that concert?", "target": "REQUEST"}
+{"id": "task880-9056e9aa72244ae288a27fff9d8b8972", "input": "Ok, How about this 1 event i've located at The Teragram Ballroom. Girl In Red is playing.", "target": "OFFER"}
+{"id": "task880-77286b984443401eb8a3fe6eac080d08", "input": "What type of concert is it?", "target": "REQUEST"}
+{"id": "task880-cd48f9be8a1946ccbc978596db8e8ed4", "input": "I like that one, but can you fin some other events?", "target": "REQUEST_ALTS"}
+{"id": "task880-489a96b874e44e4ab1e209b83a7bd585", "input": "I don't like that place, they have bad reviews, is there somewhere else?", "target": "REQUEST_ALTS"}
+{"id": "task880-3b9e9a0e9d0c4d88b290fad993e4609e", "input": "What's the address of that venue, please?", "target": "REQUEST"}
+{"id": "task880-edf82d0544574b2b9c02d8949225723d", "input": "What's happening on other dates?", "target": "REQUEST_ALTS"}
+{"id": "task880-6609cada2b744429ad068c08355a4a1e", "input": "Yes, I think Gloryhammer at 1720(tm) will be okay for you.", "target": "OFFER"}
+{"id": "task880-fc0c2260867141be90ff7928900b7d57", "input": "What type of event and when does it start?", "target": "REQUEST"}
+{"id": "task880-35f9d55cbd8041798a16eaa2d59dcf10", "input": "Thanks. Are there any other dates for The Hives?", "target": "REQUEST_ALTS"}
+{"id": "task880-5c71f9359d6d4675a99e32211e9050bd", "input": "I found 10 events occurring soon. I recommend Mets Vs Braves at Citi Field. Does that interest you at all?", "target": "OFFER"}
+{"id": "task880-5d1cca8a3b8a4ebb96e98238bf779d71", "input": "Oh! is it so! Where it's occurring? What is the category of this event?", "target": "REQUEST"}
+{"id": "task880-26de82fa74bf42ff9ef5c836767c8853", "input": "What's the next date?", "target": "REQUEST_ALTS"}
+{"id": "task880-225c499e21124f43a9631c038109e9a5", "input": "Is there something you're after, like sports or music?", "target": "REQUEST"}
+{"id": "task880-a6c369f213674d87881a8410b93d3a16", "input": "Do you have a preference on the location of the event?", "target": "REQUEST"}
+{"id": "task880-673c4b3283e54d68b96ee750a2db90a4", "input": "Is there a city that you're interested in and a particular type of event? Perhaps music or sports?", "target": "REQUEST"}
+{"id": "task880-d937245794aa42fb8909237dc17817dc", "input": "How many people are going?", "target": "REQUEST"}
+{"id": "task880-07024ec67ef045a684d82053209c2d46", "input": "How many would you like.", "target": "REQUEST"}
+{"id": "task880-28018a67ac6947c0a1194f0112526a83", "input": "Ok, no problem. There is an event at the Lodge Room. Bill Callahan, would that be of interest to you?", "target": "OFFER"}
+{"id": "task880-87b14ffdb7cf4035a1bab788df764f16", "input": "What is the category of this event?", "target": "REQUEST"}
+{"id": "task880-0ba0f156f4ef4b01b91c1dd150808dfe", "input": "It's a basketball game and it starts at 6:30 pm.", "target": "INFORM"}
+{"id": "task880-3e33a070dd514639aae64db34fb22188", "input": "What other events are happening?", "target": "REQUEST_ALTS"}
+{"id": "task880-e4c71f6c95c848fa8afd69dd99dd8e0d", "input": "Do you possess anything else?", "target": "REQUEST_ALTS"}
+{"id": "task880-c584129aa0de48cca0fd194b125096a4", "input": "Are you looking for an event in a specific city and do you have a preferred type of event? Maybe Music or Sports?", "target": "REQUEST"}
+{"id": "task880-6f1181136dd84fb8a7bfaeb0a74785e5", "input": "I'm not a big Vulfpeck fan. Do you have anything else?", "target": "REQUEST_ALTS"}
+{"id": "task880-01a15275a8804c83a9bc54fc04e0cad0", "input": "When does that start and where is that venue at?", "target": "REQUEST"}
+{"id": "task880-0d15269aefb44601809e272fb3f6354a", "input": "Tell me where is the venue located and the category.", "target": "REQUEST"}
+{"id": "task880-2ffe618f789e46d4bdeabd4a13c591a0", "input": "What activities are you into?", "target": "REQUEST"}
+{"id": "task880-083b2cdb0fd44e49b654f6142370ec39", "input": "What do you feel like doing?", "target": "REQUEST"}
+{"id": "task880-ada36b368d9e4611a7ed17ed13c88e05", "input": "Sure, no problem: this game starts at 6:30 pm.", "target": "INFORM"}
+{"id": "task880-581e0e645f2a4b9f84ee4702cb1268ec", "input": "Sure. What city should I look in to find your events?", "target": "REQUEST"}
+{"id": "task880-78dd043d0226462da0803af012d477f0", "input": "Well, I don't know. Can you find event for something else?", "target": "REQUEST_ALTS"}
+{"id": "task880-947479d6b27747fbbffcafc2c521de19", "input": "Do you show any other events coming up, please?", "target": "REQUEST_ALTS"}
+{"id": "task880-1d17d038fff84794ac49ed33e8f83cf1", "input": "How many tickets are you planning on buying?", "target": "REQUEST"}
+{"id": "task880-1f1d7c1499934cd5b0397e94f8df0897", "input": "I'm not interested in that, can you recommend me something else?", "target": "REQUEST_ALTS"}
+{"id": "task880-bbc3e30150bb43429960448c255dc6dd", "input": "the address is 3180 Peachtree road northeast", "target": "INFORM"}
+{"id": "task880-005dd3d31f2f435ab8d3ed553d8e0bea", "input": "It's an International event and it starts at 7:30 pm.", "target": "INFORM"}
+{"id": "task880-9a27dbad4b5e4ef986bc1de4302f973e", "input": "Can you tell me where the venue for the event is located?", "target": "REQUEST"}
+{"id": "task880-0684f7386817460b83693d3b519e5799", "input": "How many tickets, and which game?", "target": "REQUEST"}
+{"id": "task880-96e7fb4298a74f8885066c17a9ace8d2", "input": "That sounds okay, but what else is there?", "target": "REQUEST_ALTS"}
+{"id": "task880-f9bc6453ced440939fc72fa26740255d", "input": "What date would you like to attend the event?", "target": "REQUEST"}
+{"id": "task880-f5ac0665f23a4da58ad4dbdbada136ff", "input": "When does that start? What genre is this?", "target": "REQUEST"}
+{"id": "task880-24bf34d0616c40fea743b4bf1f99b82a", "input": "Okay, what city should I look in?", "target": "REQUEST"}
+{"id": "task880-60b1268025b6412eb46b974de077c655", "input": "Where is that stadium located?", "target": "REQUEST"}
+{"id": "task880-6fee9a4106cb4524882f38e89afac043", "input": "Where is this and when does it start", "target": "REQUEST"}
+{"id": "task880-b9756a30bee740359bd230cd0bf0ebff", "input": "Certainly. Is there a particular city search in for the events?", "target": "REQUEST"}
+{"id": "task880-72f8592093a5414581cf21c8eb9cdb0a", "input": "In which city are you planning to see the Match?", "target": "REQUEST"}
+{"id": "task880-255dedbba02449a0808904f2c3716731", "input": "This will start at 6 pm at 50 Upper alabama street", "target": "INFORM"}
+{"id": "task880-086a38bf305e4d90958ced4aec4b0e87", "input": "When does that game begin and what kind of event is it?", "target": "REQUEST"}
+{"id": "task880-27d2d28c37ca4750b5f3c7fd120a8ce8", "input": "Please let me know the city to search in, and the type of events that interest you.", "target": "REQUEST"}
+{"id": "task880-a3c05115f4ee45efa0f04076e18f19af", "input": "Where's the event venue, and what time does it start?", "target": "REQUEST"}
+{"id": "task880-e3952c53a8e64f6c94e69f3a2b2f9773", "input": "What is your preferred date?", "target": "REQUEST"}
+{"id": "task880-3cd6933bd92745fcbe3640f43acdeb04", "input": "How many tickets do you want me to get?", "target": "REQUEST"}
+{"id": "task880-472050fb5ad24174805a408ee02c8470", "input": "Where is the venue located at?", "target": "REQUEST"}
+{"id": "task880-df67705ccc7848dc8d23d2b49844eae2", "input": "What time will it begin?", "target": "REQUEST"}
+{"id": "task880-625d725c9f5a4a64bf771454d6a69a75", "input": "Sounds great. Where is it? When does it start?", "target": "REQUEST"}
+{"id": "task880-1573399ff4314074b327fd66e84aa3e8", "input": "You are looking for events in which city?", "target": "REQUEST"}
+{"id": "task880-098383686884413b970f6414b39d5494", "input": "Where is it located", "target": "REQUEST"}
+{"id": "task880-48dbdbab49164603a3e147002a57774a", "input": "First what city are you in?", "target": "REQUEST"}
+{"id": "task880-2a4a016853cd4ee8808a7f1fccf1fc82", "input": "What date would you like?", "target": "REQUEST"}
+{"id": "task880-b2caf27b6820448899f4ad42b2a1a208", "input": "What city are you in?", "target": "REQUEST"}
+{"id": "task880-17da9ed425454517a70f8ea222b82eec", "input": "Let's keep looking. Are there some other events coming up?", "target": "REQUEST_ALTS"}
+{"id": "task880-9b9f03f4366344a18542a1982faef49c", "input": "What about the other dates?", "target": "REQUEST_ALTS"}
+{"id": "task880-95202d87d0d1494aadae69853697f84d", "input": "Are there any other restauarnts nearby?", "target": "REQUEST_ALTS"}
+{"id": "task880-33fa971257294a009e213da76ff5b06e", "input": "This is perfect! Can you find some other events for me? I would like to have multiple options.", "target": "REQUEST_ALTS"}
+{"id": "task880-4b28f1f9d88e43089ca1a4424d580f58", "input": "Is there anything else you might recommend?", "target": "REQUEST_ALTS"}
+{"id": "task880-b49b8bb0aa744cb5b39ca88bc4d05b3e", "input": "Can you suggest anything else?", "target": "REQUEST_ALTS"}
+{"id": "task880-1a18ced2a0ab491c8a9de9ad55c819dc", "input": "What others dates is he playing?", "target": "REQUEST_ALTS"}
+{"id": "task880-4d371e7a26214a52b1b76ff84a496f6a", "input": "What other search results do you have?", "target": "REQUEST_ALTS"}
+{"id": "task880-f02187d5e7ec46eea0bd69a851660ef1", "input": "What is the address to the venue?", "target": "REQUEST"}
+{"id": "task880-ac80d5e44260461396471f76fceb101a", "input": "What about events on other days?", "target": "REQUEST_ALTS"}
+{"id": "task880-679bdd43fc814812af50cdbc5d9be75c", "input": "Is there any events on some other dates?", "target": "REQUEST_ALTS"}
+{"id": "task880-24c24a14390546448508fc1cbd502a3b", "input": "Where is it at again?", "target": "REQUEST"}
+{"id": "task880-e91ac3c6937d4591a7cf3104645b8542", "input": "Okay. Are there games on any other dates?", "target": "REQUEST_ALTS"}
+{"id": "task880-e754947e908e46c0ad9f3d1838b34b85", "input": "I have 1 event that should suit you. The event is Cardinal Vs Wildcats at Stanford Stadium.", "target": "OFFER"}
+{"id": "task880-fbeb2e2d03ed4226b31a7dbd72bc8a75", "input": "What other dates are available?", "target": "REQUEST_ALTS"}
+{"id": "task880-dd60eee4ee7a4cdf9cb9d607a21b7164", "input": "What are some events that are taking place on different dates.", "target": "REQUEST_ALTS"}
+{"id": "task880-9e33376ae5514689996ae3eb47e9f987", "input": "Is there any other restaurant that you can suggest?", "target": "REQUEST_ALTS"}
+{"id": "task880-db14945005be431d9b9cfdb1eba1092e", "input": "What other dates are his concerts?", "target": "REQUEST_ALTS"}
+{"id": "task880-85657dcb331a48e988c54b9b0e35a04c", "input": "I found 6 events next Tuesday. Dodgers Vs Giants will be playing at Dodger Stadium. How does that sound?", "target": "OFFER"}
+{"id": "task880-fba841a65eca40b0a2d0efd238c3ba56", "input": "What type of event is this and what is the start time?", "target": "REQUEST"}
+{"id": "task880-70ffdf8622064ea1b0b363f362706f8e", "input": "Starts at 7:30 pm.", "target": "INFORM"}
+{"id": "task880-0e8f9a94da324371ad74e24f91d6ad9b", "input": "I hate the Earthquakes. What other games are there?", "target": "REQUEST_ALTS"}
+{"id": "task880-45dbe53321644d96b65d03675ccefb86", "input": "Do you have any preferred types of events? Music, Sports, or anything else.", "target": "REQUEST"}
+{"id": "task880-378eb4372b61421ea6377654510eadf6", "input": "Please look for something else.", "target": "REQUEST_ALTS"}
+{"id": "task880-dd1956294cf14f6996959b434055826f", "input": "How about the blue jays vs braves, at the Rogers Centre", "target": "OFFER"}
+{"id": "task880-b1958dedcd984d0a9a63bf0c240d3372", "input": "I would like you to search for something else.", "target": "REQUEST_ALTS"}
+{"id": "task880-71bc6ee06cd9453bad9fb2918cbf5a86", "input": "Could you suggest something else?", "target": "REQUEST_ALTS"}
+{"id": "task880-78d6d92c8632476387d0008e59f23c30", "input": "It's a Country event that will be taking place at 104 N. Ave 56, 2nd Floor.", "target": "INFORM"}
+{"id": "task880-5ab1034b232246ffbce22b180bd3630e", "input": "What's the address and what time does it start?", "target": "REQUEST"}
+{"id": "task880-79ed899927514c3687c023eb3d18c062", "input": "Okay, where is that venue located and what time does it start?", "target": "REQUEST"}
+{"id": "task880-2e42d8511a4344ffa8b5437e00ee677a", "input": "When does the game start? What's the address that the game is at?", "target": "REQUEST"}
+{"id": "task880-2b447136c56346948f1b8baa753ad8a9", "input": "That sounds great. Can you give me the address of the venue location?", "target": "REQUEST"}
+{"id": "task880-27e2a129281246c0b9c90d9b9c4e6b77", "input": "The event begins at 6 pm.", "target": "INFORM"}
+{"id": "task880-ecb99457ab334350957fcc368219f5cf", "input": "I'd like to find another event please.", "target": "REQUEST_ALTS"}
+{"id": "task880-8efdeea2809248c3a421081734bbd80f", "input": "How many you want?", "target": "REQUEST"}
+{"id": "task880-11f1c78e7d0d425a9b6a9a1657f38c66", "input": "What time does the game start? And can you give me the address to Dodger Stadium?", "target": "REQUEST"}
+{"id": "task880-65b21be97033455ba69d461737c6872f", "input": "What time does the event start that day?", "target": "REQUEST"}
+{"id": "task880-f2245058696a4855b5e0d50592c70de9", "input": "What is the address and start time?", "target": "REQUEST"}
+{"id": "task880-e01d5b65c5f343c09e82795172ee44ad", "input": "Do you have a type like Music or Sports?", "target": "REQUEST"}
+{"id": "task880-8f720d2af2d744338d511a6a6c49127c", "input": "Can you find me other events please?", "target": "REQUEST_ALTS"}
+{"id": "task880-21e08c0131ae41c581e0732a7250241d", "input": "That works. What is the address?", "target": "REQUEST"}
+{"id": "task880-d505611b9dca4fa29d43a789c09c8035", "input": "Do you have a specific city? What are you interested in?", "target": "REQUEST"}

@@ -1,0 +1,3 @@
+{"id": "task1212-fb54485fc61d4cd9847d1644dad8642a", "input": "Head: gymnastics<sep>Tail: good for body", "target": "Yes"}
+{"id": "task1212-11ad3864385f4eefa6256a04616b26ba", "input": "Head: PersonX asks if PersonY was okay<sep>Tail: thanks PersonX", "target": "No"}
+{"id": "task1212-16bfe01117d24beaaf30e9157ee0d135", "input": "Head: sunlight<sep>Tail: converted into energy", "target": "Yes"}

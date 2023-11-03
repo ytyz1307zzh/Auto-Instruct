@@ -1,0 +1,3 @@
+{"id": "task1283-cfae647991ae4990bbda7802a51f117e", "input": "System Reference: shangri la vegetarian restaurant serves vegetarian food at a cheap price range.\nOriginal Reference: shangri la vegetarian restaurant is a cheap vegetarian restaurant.", "target": "1"}
+{"id": "task1283-2577570218da4c868ae36db5c0ce680c", "input": "System Reference: can i confirm what area you are looking for a hotel near?\nOriginal Reference: what area do you want it near?.", "target": "0"}
+{"id": "task1283-c325298c71e44ff1b1a6778a045bd0a4", "input": "System Reference: there is no match for a hotel in the fort mason area near the mission.\nOriginal Reference: there are no hotel -s in the fort mason area that are near mission.", "target": "1"}

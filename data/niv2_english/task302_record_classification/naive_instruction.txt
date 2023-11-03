@@ -1,0 +1,1 @@
+Given a passage and a question, classify the answer to the question based on the options.

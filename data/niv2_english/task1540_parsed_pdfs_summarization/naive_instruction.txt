@@ -1,0 +1,1 @@
+Given a text, generate a title for it

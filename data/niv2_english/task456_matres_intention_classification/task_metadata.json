@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context and a verb, answer if the given verb is about an intention or not",
+    "category": "Information Extraction",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a hateful post in English, classify the target being harassed into individual or generic",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

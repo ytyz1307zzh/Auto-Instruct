@@ -1,0 +1,7 @@
+{
+    "summary": "Extracting RDF relationships from DART sentences",
+    "category": "Information Extraction",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

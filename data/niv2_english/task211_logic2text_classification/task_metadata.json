@@ -1,0 +1,7 @@
+{
+    "summary": "Given a command and corresponding interpretation, classify whether it is the right interpretation or not.",
+    "category": "Text to Code",
+    "domain": "Wikipedia, Logic -> Propositional Logic",
+    "input_lang": "English",
+    "output_lang": "English"
+}

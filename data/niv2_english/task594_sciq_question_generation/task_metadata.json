@@ -1,0 +1,7 @@
+{
+    "summary": "Given a scientific passage and an answer, generate a question for the given answer.",
+    "category": "Question Generation",
+    "domain": "Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

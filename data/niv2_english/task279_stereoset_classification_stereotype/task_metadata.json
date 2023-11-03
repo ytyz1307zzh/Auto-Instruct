@@ -1,0 +1,7 @@
+{
+    "summary": "Classify sentences into stereotype, anti-stereotype, and unrelated.",
+    "category": "Stereotype Detection",
+    "domain": "Stereotypes",
+    "input_lang": "English",
+    "output_lang": "English"
+}

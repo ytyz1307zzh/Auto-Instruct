@@ -1,0 +1,3 @@
+{"id": "task196-b0648ac339fb408bb8bfb208fb306256", "input": "Tweet: @Oxhorn Thanks for the plug  Question: is it a positive tweet?", "target": "yes"}
+{"id": "task196-7b5304e91aaf4b978094b131a5b58edc", "input": "Tweet: Where do I go? What do I do? I can't deny I still feel something  x Question: is it a positive tweet?", "target": "no"}
+{"id": "task196-85f6a0b7160b4c1dbd2c6257e9f32228", "input": "Tweet: @Courageous_one i've been there .. a lot recently  hopefully you catch up soon ! Question: is it a negative tweet?", "target": "yes"}

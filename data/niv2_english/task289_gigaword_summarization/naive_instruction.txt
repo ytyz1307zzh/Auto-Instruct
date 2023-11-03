@@ -1,0 +1,1 @@
+Given the text of an article and its title, decide whether the title is appropriate for the article.

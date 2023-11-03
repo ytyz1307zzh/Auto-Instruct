@@ -1,0 +1,1 @@
+Given a sentence, specify the tense of the main verb.

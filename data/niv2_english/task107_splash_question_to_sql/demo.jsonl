@@ -1,0 +1,3 @@
+{"id": "task107-980d2b4d58bc4480b8fbd5c73b348b19", "input": "Find the average price of all product clothes.", "target": "SELECT avg(product_price) FROM products WHERE product_type_code  =  'Clothes'"}
+{"id": "task107-e4b6f5558342470bb599dfa0c1178ba4", "input": "Display the first name, and department number for all employees whose last name is \"McEwen\".", "target": "SELECT first_name ,  department_id FROM employees WHERE last_name  =  'McEwen'"}
+{"id": "task107-3d782202dbc04de4bbab68e4e7a3ed73", "input": "What is the alphabetically ordered list of all distinct medications?", "target": "SELECT DISTINCT name FROM medication ORDER BY name"}

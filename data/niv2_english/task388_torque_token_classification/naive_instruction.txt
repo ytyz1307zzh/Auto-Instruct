@@ -1,0 +1,1 @@
+Given a passage, identify a token from the passage representing an event

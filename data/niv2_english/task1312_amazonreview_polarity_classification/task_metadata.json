@@ -1,0 +1,7 @@
+{
+    "summary": "You are given a review of Amazon's food products. Your task is to divide them into two classes: negative or positive.",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

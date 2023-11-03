@@ -1,0 +1,400 @@
+{"id": "task143-db0428cb4b064cc79db79c0067408033", "input": "sandpiper, crane, tackle, swift", "target": "bird"}
+{"id": "task143-7db16b7454fd480dba4d25c39c2dbb16", "input": "spider, walk, fly, dangle", "target": "animal"}
+{"id": "task143-670372d3e8e344aa9b352724c6188ff3", "input": "fish, jump, dive, fly", "target": "animal"}
+{"id": "task143-b23cc84e1bb940eab42c5cac0d432b39", "input": "jump, fly, cockroach, waggle", "target": "animal"}
+{"id": "task143-e2c3a6e61b174b22b68743984126ebe5", "input": "firstrate, penalty, wispy, fine", "target": "police punishment"}
+{"id": "task143-f24cf5b604b3427e9f73676b8c10719c", "input": "wienerwurst, frank, wiener, grub", "target": "food"}
+{"id": "task143-6cf8d4491da349e5b23aa2ba6ca9765d", "input": "weenie, bun, frank, meat", "target": "food"}
+{"id": "task143-56e08da2b0da45e8a97ed02b19573cd2", "input": "fritter, dally, lollygag, goodbye", "target": "activity"}
+{"id": "task143-77a5508612a147a39c2f54fa86c11b87", "input": "misuse, fritter, blow, spend", "target": "activity"}
+{"id": "task143-8f02a8d1f5744f278e8f8ae465c90ef7", "input": "dolphin, stingray, whale, fish", "target": "animal"}
+{"id": "task143-ef028ac4738c4978b088636fa0e25042", "input": "sea, current, course, jetstream", "target": "ocean"}
+{"id": "task143-67cd0db8f78e474cb864922e9e5b20a7", "input": "pounce, waggle, fly, jump", "target": "animal"}
+{"id": "task143-ad6cb22a97a84cffafc2621d40b50325", "input": "coating, metal, frame, glass", "target": "window material"}
+{"id": "task143-1d478539fece42c8bbc9fe69d32f2c68", "input": "pelican, davit, crane, swift", "target": "bird"}
+{"id": "task143-7e6f7a48768048adae2affdd838ae1b0", "input": "chocolate, fudge, chocolate cake, cake", "target": "chocolate food"}
+{"id": "task143-f102ec30d0f446c890c5d6f8f6ceafab", "input": "metal, panel, glass, coating", "target": "window material"}
+{"id": "task143-ad187f5b298545c58c2dba598f2964a7", "input": "mansion, flat, hotel, round", "target": "accomodation"}
+{"id": "task143-5a14ee8f6b0e44bfa107700f4bfc0446", "input": "cool, unruffled, classy, persistent", "target": "personal characteristic"}
+{"id": "task143-b2af7511afa946f58f60b1c9bbd248a4", "input": "program, clothing, content, food", "target": "consumer product"}
+{"id": "task143-02e79af400204ba0997c7f5216e22b96", "input": "fair, cold, luke, mild", "target": "weather"}
+{"id": "task143-569125a379654c269ebfa04a46e1021e", "input": "truffles, chocolate, molasses, fudge", "target": "chocolate food"}
+{"id": "task143-0bdb9ba746984b379ac7773b1a03d89d", "input": "studio, flat, level, paved", "target": "accomodation"}
+{"id": "task143-8458d34d463c4677b0598594cc7b774c", "input": "doughnut, sweet roll, fritter, pastry", "target": "fried food"}
+{"id": "task143-86806f5c60fa402d8680b07b74f4e7cf", "input": "chocolate cake, brownies, fudge, brownie", "target": "chocolate food"}
+{"id": "task143-ee53f39a82104557a7820862f111d57c", "input": "wood, woodwork, glass, spyhole", "target": "window material"}
+{"id": "task143-0068f23916364ff1a5abfab4bc771962", "input": "bat, fish, shark, horse", "target": "animal"}
+{"id": "task143-cf6eb2dd6b6d4acd923cf9835d734bc7", "input": "up to the moment, prompt, belated, current", "target": "date status"}
+{"id": "task143-d674daf7a5b142c190c78296857ab4bd", "input": "lift, trip, fall, roll", "target": "physical activity"}
+{"id": "task143-d99d7e58e9cf414dbe0cb9ed191b4596", "input": "popular, cool, persistent, ethical", "target": "personal characteristic"}
+{"id": "task143-266eaa2311914af5a0e83f149f09d54e", "input": "fret, worried, nervous, anxious", "target": "emotional status"}
+{"id": "task143-1b2cab548d7f449380ca2780e1f0df03", "input": "crane, goose, heron, tackle", "target": "bird"}
+{"id": "task143-16c2a25febff463ebc171a64b531b17a", "input": "miserable, emotional state, ashamed, down", "target": "emotional status"}
+{"id": "task143-a085e12f3b3345b19756b19be359d617", "input": "impartial, well, ok, fair", "target": "moral characteristic"}
+{"id": "task143-d2d1f61f8e0143f7b8f640ee24d9c461", "input": "chocolate cake, cake, cream, fudge", "target": "chocolate food"}
+{"id": "task143-d64a5ce3b5df4abc9c474bf16ec7ed15", "input": "sad, emotional supports, emotionalities, down", "target": "emotional status"}
+{"id": "task143-cbba2f3a92d649b7be7c9ccef35a91e0", "input": "fudge, cupcake, cream, rich", "target": "chocolate food"}
+{"id": "task143-83b40570464b480b828602ec4f530a87", "input": "content, relaxed, fine, annoyed", "target": "emotional status"}
+{"id": "task143-6c3c4b0423fd4ee6921f8ac774bf8a25", "input": "brash, stern, frank, harsh", "target": "moral characteristic"}
+{"id": "task143-4deda27f988e4e58b25ea3aa99067aff", "input": "cool, positive, optimist, unflappalbe", "target": "personal characteristic"}
+{"id": "task143-1a374aa727ae4a7fb36bc5e2fa29873d", "input": "current, early, data sets, detestings", "target": "date status"}
+{"id": "task143-a5afe610d8a54d9caacc6432e0cacf50", "input": "truffles, cupcake, fudge, cookies", "target": "chocolate food"}
+{"id": "task143-920b0f01d81043a8ad1fc0ee588724ac", "input": "capacitance, fat, skinny, large", "target": "physical property"}
+{"id": "task143-87800a1e58d248449845a199c0d67034", "input": "crane, swift, heron, hoist", "target": "bird"}
+{"id": "task143-f3179e38d3174756900931d641747e54", "input": "firm, solid, rigged, unyielding", "target": "type of rigidity"}
+{"id": "task143-ca54fb2afd8b41bf81c3fe2bccfea0bc", "input": "level, duplex, flat, apartment", "target": "accomodation"}
+{"id": "task143-e400fa361437400aa5b1cde6601e86f0", "input": "tko, deck, fight, punch", "target": "boxing terminology"}
+{"id": "task143-4db69a092d884bbd8cb8b13f438d029d", "input": "fish, pounce, fly, eagle", "target": "animal"}
+{"id": "task143-4178712b2c024f38b92da96461d5334a", "input": "plummet, exercise, trip, fall", "target": "physical activity"}
+{"id": "task143-b8773767420c4e6a8ccb46be7a211669", "input": "arrest, penalty, probation, fine", "target": "police punishment"}
+{"id": "task143-392b3f2a41e0480ca6a8b87f7a746bb7", "input": "flat, studio, round, townhome", "target": "accomodation"}
+{"id": "task143-78560294dd4148f38c446d5c2cc09ac1", "input": "attractive, fine, level, beautiful", "target": "aesthetic characteristic"}
+{"id": "task143-746ab80065954600bf2d93cc468873bf", "input": "acceptable, happy, relaxed, fine", "target": "emotional status"}
+{"id": "task143-49362feaae3446caa9a88f0ea129fa73", "input": "hunting, fish, hiking, hike", "target": "outdoor sport activity"}
+{"id": "task143-63b8878dc2fe49bd99e960b14a542371", "input": "bird, fish, fly, waggle", "target": "animal"}
+{"id": "task143-491a46c2079f49088db310a9aabc8116", "input": "loyalty, honesty, frank, courage", "target": "moral characteristic"}
+{"id": "task143-385115cb3bb14c259d48b5e541eff32d", "input": "custody, prime, fine, probation", "target": "police punishment"}
+{"id": "task143-fa9117c171f44315a94ac78d562168c3", "input": "arrest, suspension, money, fine", "target": "police punishment"}
+{"id": "task143-2c49f4567c454ff19aad070bd0a85b94", "input": "frank, blunt, precise, bold", "target": "moral characteristic"}
+{"id": "task143-b01851886771440882aba3e99130fc84", "input": "fair, color, flaxen, variety", "target": "aesthetic characteristic"}
+{"id": "task143-295d96e5e3694c52b7dbbef574a71940", "input": "horse, hamster, fish, goat", "target": "animal"}
+{"id": "task143-6375b47d5f884f2d8e4ab3a82ec8b6f7", "input": "swallow, swift, crane, davit", "target": "bird"}
+{"id": "task143-da5ad526540e4564a59dc8316c42adb0", "input": "dastards, detestings, prompt, current", "target": "date status"}
+{"id": "task143-74cb3367e62f41408582edd36e3b36f7", "input": "panel, glass, metal, wood", "target": "window material"}
+{"id": "task143-30065654beda492f8437d1619c86add1", "input": "cool, flaxen, fair, milky", "target": "aesthetic characteristic"}
+{"id": "task143-9281293bb2394c9b8aa840427e737907", "input": "fudge, cream, cake, tart", "target": "chocolate food"}
+{"id": "task143-9127c38c09ef460a9001c7009fa486e0", "input": "impartial, fair, fine, unprejudiced", "target": "moral characteristic"}
+{"id": "task143-a9e61c8442b9454aa265b92e83848b73", "input": "lined, mountain, flat, plain", "target": "geographical property"}
+{"id": "task143-9fe23b80801441bc913bbe04c546e28c", "input": "dolphin, whale, hamster, fish", "target": "animal"}
+{"id": "task143-ba73ed6995de4d0eab986e7f97a3555d", "input": "punch, blocking, deck, level", "target": "boxing terminology"}
+{"id": "task143-099f37cbcb10424592243f2ce447be6b", "input": "duck, davit, crane, ostrich", "target": "bird"}
+{"id": "task143-a5a16ed441e949f4b6ce7cc58c674a94", "input": "derrick, heron, crane, goose", "target": "bird"}
+{"id": "task143-7f43bc8b3338469a9ef7cc0492ee5183", "input": "current, postponed, up to the moment, prompt", "target": "date status"}
+{"id": "task143-cef87c6db1324db1a15c65832335138d", "input": "large, skinny, fat, absorption", "target": "physical property"}
+{"id": "task143-8aa69cbc9fc7402592e5c40d1d9fbdcb", "input": "frank, matter of fact, integrity, bold", "target": "moral characteristic"}
+{"id": "task143-9ace3b77460343adb97d7a87f62f91e2", "input": "positive, persistent, optimist, cool", "target": "personal characteristic"}
+{"id": "task143-6e35b2d4f54b4209b5407850c383989e", "input": "pie, fritter, pastry, dunker", "target": "fried food"}
+{"id": "task143-0a4403cf4cea41c18b0410433e114876", "input": "detests, timely, current, postponed", "target": "date status"}
+{"id": "task143-fee90425fc55427b872be4a16021c885", "input": "cool, classy, popular, optimist", "target": "personal characteristic"}
+{"id": "task143-3ed074c35ac94795ab9bd178021b0b28", "input": "smuggled, fix, fudge, smear", "target": "shady activities"}
+{"id": "task143-018ec61c1f5f4a3a8557ba55a04b5c53", "input": "alright, fair, well, decent", "target": "moral characteristic"}
+{"id": "task143-673383e4a6954987a0c9a918cede5103", "input": "fork, knive, dish, glass", "target": "kitchenware"}
+{"id": "task143-d12688db5f60407cad7d222adf03c423", "input": "flat, condominium, mansion, duplex", "target": "accomodation"}
+{"id": "task143-e459d50b270642fc930b4795d08aec6a", "input": "fritter, skin, cake, blueberry", "target": "fried food"}
+{"id": "task143-e4c1143b99c849f1a109cf863d1fb6d8", "input": "egret, crane, duck, hoist", "target": "bird"}
+{"id": "task143-bd2f278f3f6a44f090bb0c45b794ea65", "input": "townhome, studio, flat, paved", "target": "accomodation"}
+{"id": "task143-bb72061c132140ceaa284532252d2bdb", "input": "matter of fact, courage, frank, bold", "target": "moral characteristic"}
+{"id": "task143-2d2a772a71864af8b0e38145eb9005a5", "input": "down, kind, emotional supports, disgusted", "target": "emotional status"}
+{"id": "task143-6526aae7497f4e5fa5008ea2f12daf63", "input": "knife, glass, dish, cup", "target": "kitchenware"}
+{"id": "task143-9f391f45746f424c96603c8246b12c3e", "input": "lust, pester, fawn, identity", "target": "emotional display"}
+{"id": "task143-3f87f59bd194465aab79e388d2b3cb3e", "input": "danish, croquet, skin, fritter", "target": "fried food"}
+{"id": "task143-a5acb32038a44c2ca233f994e154e991", "input": "down, kind, emotional supports, melancholy", "target": "emotional status"}
+{"id": "task143-3078125ec8d840c58fae5cc3a68649f1", "input": "sweet roll, skin, patty, fritter", "target": "fried food"}
+{"id": "task143-77faee19de8a422b9264e138701400e9", "input": "truffles, fudge, cake, molasses", "target": "chocolate food"}
+{"id": "task143-9e6756f73f0b44e380e6e92d71466a4b", "input": "emotional state, remorseful, sad, down", "target": "emotional status"}
+{"id": "task143-baddaa1db1c94a2ba253bcb60c796160", "input": "barred, close, shut down, locked", "target": "store status"}
+{"id": "task143-96a17c95ebef42f5885173c0573c724d", "input": "belated, late, current, do tests", "target": "date status"}
+{"id": "task143-2cb71de374f64aba8d27b6f48704af5a", "input": "colt, hatchling, cub, fawn", "target": "baby animals"}
+{"id": "task143-f7892d1d68db484794517e8afca25475", "input": "penalty, fine, probation, prison", "target": "police punishment"}
+{"id": "task143-d25294683ed7436c84d4ce841a80af50", "input": "flamingo, neck, crane, winch", "target": "bird"}
+{"id": "task143-ec23923fffb94976b479146074e12b52", "input": "fritter, blueberry, dumpling, apple", "target": "fried food"}
+{"id": "task143-b7264f67b202479c8a06cec1b8cf81ea", "input": "fritter, doughnut, dessert, dumpling", "target": "fried food"}
+{"id": "task143-c024347d019d49348ae1581774716b43", "input": "neat, high quality, classy, fine", "target": "aesthetic characteristic"}
+{"id": "task143-52c7389483904887ac8cde145d09bb68", "input": "flamingo, crane, swift, tackle", "target": "bird"}
+{"id": "task143-1b46944f0ea24806a88dbabd522723dd", "input": "patty, fritter, blueberry, pie", "target": "fried food"}
+{"id": "task143-657ee6828544431292daba952dc4a4ef", "input": "suspension, penalty, hearing, fine", "target": "police punishment"}
+{"id": "task143-4ab1d96b0587423bae1cc1ddddb24b96", "input": "frank, sausage, pork, hot dog", "target": "food"}
+{"id": "task143-27bca25b27304a289f5c5334e5a17756", "input": "hunt, kayak, hiking, fish", "target": "outdoor sport activity"}
+{"id": "task143-adad2d11c15a4f28abb546d414c9eff7", "input": "head, heel, foot, hand", "target": "body part"}
+{"id": "task143-545e2613f10c4cffb955285f63e662ec", "input": "ear, foot, finger, elbow", "target": "body part"}
+{"id": "task143-6dc6536f1da246eca95e1568a0ee921e", "input": "war, spider, gin, spades", "target": "card games"}
+{"id": "task143-586f647de772479eada8ddc7e3ca7077", "input": "shin, head, foot, knee", "target": "body part"}
+{"id": "task143-e1b638460e914774b007904edb686be6", "input": "area, bulky, absorption, fat", "target": "physical property"}
+{"id": "task143-8e2946ee97b648f5988a6e7720a4abb2", "input": "heel, eye, foot, ear", "target": "body part"}
+{"id": "task143-bafa06df3a77402899d2bf0ea12af317", "input": "coating, glass, panel, handle", "target": "window material"}
+{"id": "task143-94e881ed19424a7e939c10146b40c7f3", "input": "acrylic, coating, glass, metal", "target": "window material"}
+{"id": "task143-5fd15393f9b14d2fa37928d0d8edefd4", "input": "coating, acrylic, woodwork, glass", "target": "window material"}
+{"id": "task143-9bdbf3e858444e0b9f5b0e5dc87f4553", "input": "empower, replace, fire, retire", "target": "employment activity"}
+{"id": "task143-4350041385964c429e84c6fab091f3a6", "input": "box, knockout, caution, deck", "target": "boxing terminology"}
+{"id": "task143-84cb6ea6253d400a8e2ee1ecea1e3cb5", "input": "exquisite, fine, pretty, bright", "target": "aesthetic characteristic"}
+{"id": "task143-4797fe03151748ffa58b1c36ec8ba1bc", "input": "climb, jump, roll, fall", "target": "physical activity"}
+{"id": "task143-71cfae55e4934879bb6e3ef4686ba545", "input": "retire, fire, instruct, sack", "target": "employment activity"}
+{"id": "task143-7d90aea90d1f4333a96e2dc3ad8bf4fc", "input": "soar, bus, car, fly", "target": "mode of transportation"}
+{"id": "task143-9772672d9d2a458084e7686c91d92162", "input": "wienerwurst, frank, pork, vittles", "target": "food"}
+{"id": "task143-edc6333cb12c4b5f86b10aec13979166", "input": "bike, wave, fly, car", "target": "mode of transportation"}
+{"id": "task143-fc20971030ea4879a9db1e5a2e35d036", "input": "hatchling, deer, fawn, doe", "target": "baby animals"}
+{"id": "task143-b8150ac96a95432c9180b3e176970719", "input": "car, fly, train, jog", "target": "mode of transportation"}
+{"id": "task143-b359387fa21d4feb9ff19970ea6134e4", "input": "translucent fabric, glass, panel, vinyl", "target": "window material"}
+{"id": "task143-71630097f42e470a8d8a6d6d06516021", "input": "metal, spyhole, wood, glass", "target": "window material"}
+{"id": "task143-e9507e9c67794a71adb1ac060f41000f", "input": "coating, glass, woodwork, handle", "target": "window material"}
+{"id": "task143-77d7c633f2a843b988f32d6e9cb7578a", "input": "warm, fair, endure, brisk", "target": "weather"}
+{"id": "task143-1bdc7541c7dc4d0ab7ce4575805fb8ff", "input": "integrity, frank, precise, stern", "target": "moral characteristic"}
+{"id": "task143-f03635ad85d546948e22552d04f3132a", "input": "shin, head, foot, ear", "target": "body part"}
+{"id": "task143-2deb0ed684804a2fabd49a6e9be8d11d", "input": "angular momentum, capacitance, obese, fat", "target": "physical property"}
+{"id": "task143-f67a2571123f45cc8fe0574454aca34d", "input": "fritter, dessert, cake, patty", "target": "fried food"}
+{"id": "task143-8d2d8b1a93834f7e84f795805a59cc59", "input": "cool, variety, fair, level", "target": "aesthetic characteristic"}
+{"id": "task143-ca96379a8fdf426aa4d859f71f01f330", "input": "sandpiper, davit, ostrich, crane", "target": "bird"}
+{"id": "task143-0db5638d48504175b2b1e292ab65ef22", "input": "handsome, classy, fine, there", "target": "aesthetic characteristic"}
+{"id": "task143-55d8c743209c4057baa46755df37a6ce", "input": "comfortable, content, ok, fine", "target": "emotional status"}
+{"id": "task143-6872ed7cbea54334abfd123b4cf47871", "input": "equitable, fine, fair, well", "target": "moral characteristic"}
+{"id": "task143-8fd19aff85b44ab7875cbd58ac608d8c", "input": "smuggled, falsification, smear, fudge", "target": "shady activities"}
+{"id": "task143-03fa90df957e4b36be21cc394c6e0b25", "input": "replace, recruit, fire, praise", "target": "employment activity"}
+{"id": "task143-d6d70e37ed754f2f93c35d02bc4f194e", "input": "color, variety, well, fair", "target": "aesthetic characteristic"}
+{"id": "task143-0ebc64092fcb4a609ef6b90e4d9eef06", "input": "heel, foot, ankle, finger", "target": "body part"}
+{"id": "task143-69b48cced075453ca191fe328048c7b0", "input": "down, emotional state, remorseful, kind", "target": "emotional status"}
+{"id": "task143-841dc2d3f36142888f689cf67fcd62fd", "input": "fair, ghostly, size, medium", "target": "aesthetic characteristic"}
+{"id": "task143-4198c4fd2e1d491abe9f0426e7e97901", "input": "mansion, squashed, flat, hotel", "target": "accomodation"}
+{"id": "task143-dbf26ef5e26b4ba19cf65679c585af61", "input": "emotional state, down, kind, emotional supports", "target": "emotional status"}
+{"id": "task143-95d19193fa164224a44d4b9bbd12822f", "input": "flat, cabin, townhome, squashed", "target": "accomodation"}
+{"id": "task143-e75b9c536f584a8a8bd8783d77c640b0", "input": "data sets, current, timely, postponed", "target": "date status"}
+{"id": "task143-4e4f0b40c4814e18a5a764d3213fa87e", "input": "stingray, tiger, cow, fish", "target": "animal"}
+{"id": "task143-9c41051ede71430ba8edd3aa4c4d7872", "input": "french toast, blt, club, grilled cheese", "target": "type of sandwich"}
+{"id": "task143-f58ec3ee0bb64bc1846be74c06751843", "input": "flamingo, heron, tackle, crane", "target": "bird"}
+{"id": "task143-16719cc16c514044bd0784f81bbd6703", "input": "courage, harsh, frank, honest", "target": "moral characteristic"}
+{"id": "task143-1dee494ede4c4823b9e6d84d5ce8c1e7", "input": "fat, area, ugly, capacitance", "target": "physical property"}
+{"id": "task143-f6bd0f5320274f47918f06d4fb295d73", "input": "bacon, grilled cheese, club, roll", "target": "type of sandwich"}
+{"id": "task143-a71ca88da42741a6a0b12a14c731f825", "input": "closer, close, closest, beside", "target": "location (proximity)"}
+{"id": "task143-e2e7ac6ad028402e8d0da36d974c8807", "input": "ring, jab, deck, fight", "target": "boxing terminology"}
+{"id": "task143-50cd30da18cb4ce9ba08e1e0fe4b54f7", "input": "fine, jail, penalty, prime", "target": "police punishment"}
+{"id": "task143-a8b1ff90425f45b7872033092b0e26c8", "input": "right there, close, bordering, near", "target": "location (proximity)"}
+{"id": "task143-0baf2320c46e4d49b508b2c6a0bd8664", "input": "fly, bus, wave, train", "target": "mode of transportation"}
+{"id": "task143-59abfb1937424d7980ceb70a7cf7eda5", "input": "fly, pounce, dive, leap", "target": "animal"}
+{"id": "task143-a70a545f6e644b789bda2cabea1219b6", "input": "heron, egret, neck, crane", "target": "bird"}
+{"id": "task143-975ef72ecf25422c969e615068ebc123", "input": "open, close, finished for the day, slow", "target": "store status"}
+{"id": "task143-b5d1c939f9ff4ab49ecea35f93a178cb", "input": "dangle, bee, swim, fly", "target": "animal"}
+{"id": "task143-44c786b4180e4097a78ebbc3376e28eb", "input": "coating, glass, vinyl, spyhole", "target": "window material"}
+{"id": "task143-7fbbf7bd97ed4f3b838dcd2a6b491040", "input": "fly, pounce, dangle, bats", "target": "animal"}
+{"id": "task143-1ffee90db30d45ba9ed29bcaae7525eb", "input": "crane, tackle, neck, hummingbird", "target": "bird"}
+{"id": "task143-d55c6f7220c642559f71e8815d31a379", "input": "fold, call, check, deck", "target": "poker"}
+{"id": "task143-e22bb5c7a66d416e95c9524a58a373f0", "input": "excavator, derrick, winch, crane", "target": "construction"}
+{"id": "task143-89d049fd119d4ab3959fd4f694b61868", "input": "close, right there, closest, touching", "target": "location (proximity)"}
+{"id": "task143-643a964d4e6b4f53af09d6eb0ce318c3", "input": "run, pounce, fly, bird", "target": "animal"}
+{"id": "task143-33663e419307480abda8b002cafc85ab", "input": "croquet, pie, patty, fritter", "target": "fried food"}
+{"id": "task143-a8b9140cb0a240d8a5afdbc864b92ff8", "input": "air, inferno, fire, combustion", "target": "elements"}
+{"id": "task143-d828baf8e2ec4ccfade2283b707c6035", "input": "croquet, blueberry, pie, fritter", "target": "fried food"}
+{"id": "task143-38c27c45515c4d869bec70754fc54e7f", "input": "fine, probation, custody, firstrate", "target": "police punishment"}
+{"id": "task143-eb61d591923a4cf58392562e135c5b96", "input": "crane, neck, egret, winch", "target": "bird"}
+{"id": "task143-9e9516bf7bc546c99b7122a46e8735ad", "input": "probation, fine, custody, flyaway", "target": "police punishment"}
+{"id": "task143-35b0db78dee444acbb96dd42ada32b01", "input": "money, fine, probation, prime", "target": "police punishment"}
+{"id": "task143-dc66be128e2a47feb07bb7b621815bff", "input": "flamingo, sandpiper, crane, neck", "target": "bird"}
+{"id": "task143-3bf2e2a2a53d4c5385155d9ff995976a", "input": "sunny, endure, fair, tangle", "target": "weather"}
+{"id": "task143-43c49290b11a4ae8b63067d391e113ac", "input": "hike, swim, fish, camp", "target": "outdoor sport activity"}
+{"id": "task143-bd69113eee1845f69b70855359497699", "input": "finger, foot, heel, eye", "target": "body part"}
+{"id": "task143-ebcaed715d2a47bfab7ce882d06211a8", "input": "hike, hunting, wrestle, fish", "target": "outdoor sport activity"}
+{"id": "task143-c708fcb5e2a046e19cec050960c97132", "input": "hiking, fish, climbing, hike", "target": "outdoor sport activity"}
+{"id": "task143-ce943306e4ff4c4ca86893a7ccd52ecb", "input": "ant, fish, fly, leap", "target": "animal"}
+{"id": "task143-9cdef7df50ff4fd58265e4766b4fdd76", "input": "hamburger, open-faced, blt, club", "target": "type of sandwich"}
+{"id": "task143-a5727ec0dbc841188455c4f17cc2c89d", "input": "inferno, earth, flame, fire", "target": "elements"}
+{"id": "task143-bcb0dd81d7c747d493c220b9b4e6d21b", "input": "plastic, glass, fiberglass, lead", "target": "window material"}
+{"id": "task143-9b5d4e48a9a84ea89ab7f1fa24433fcd", "input": "frame, spyhole, acrylic, glass", "target": "window material"}
+{"id": "task143-72e8fb23a06141a9b7d6b876fd525abe", "input": "glide, fly, car, drive", "target": "mode of transportation"}
+{"id": "task143-2208a573f70d4f49b5de9059876915a6", "input": "club, open-faced, toast, submarine", "target": "type of sandwich"}
+{"id": "task143-de9e4851b59d4270b8781883da3d2d24", "input": "calf, kitten, fawn, kid", "target": "baby animals"}
+{"id": "task143-3ae6df0434f04dc98d8be26131ed519e", "input": "wave, fly, swim, bus", "target": "mode of transportation"}
+{"id": "task143-bc7ded812db8470685c5507dd8f140bd", "input": "slow, finished for the day, close, out of service", "target": "store status"}
+{"id": "task143-45c43cf51bc7414cbf1d9c76f1eb8743", "input": "replace, fire, recruit, sack", "target": "employment activity"}
+{"id": "task143-6b4e201892c4467da471902f1d360989", "input": "well, fine, happy, content", "target": "emotional status"}
+{"id": "task143-2bca122c8d6f4266a2625dd40271c27d", "input": "string, inlays, fret, pick", "target": "guitar part"}
+{"id": "task143-1e41a1533db8426ea9655e03c81f4663", "input": "vinyl, plastic, coating, glass", "target": "window material"}
+{"id": "task143-56a6f8f4f56c465a89f2cbab5d40ffef", "input": "jump, bats, run, fly", "target": "animal"}
+{"id": "task143-fe07ff40fd5d423fabcff2920f5d2911", "input": "ostrich, heron, crane, winch", "target": "bird"}
+{"id": "task143-fdbd6a999000400b8300bd786b158956", "input": "skin, blueberry, fried, fritter", "target": "fried food"}
+{"id": "task143-b9d259121d994180a1b463609d3ec74a", "input": "mallet, duck, ostrich, geese", "target": "animals"}
+{"id": "task143-983eed123e1e480c984215e06fecfae0", "input": "comfortable, fine, mad, content", "target": "emotional status"}
+{"id": "task143-1656d0a3a3fa4b31861069e2a2e04243", "input": "let go, remove, fire, recruit", "target": "employment activity"}
+{"id": "task143-037171e71c9c4aeba180580578f847a1", "input": "detached, fine, acceptable, content", "target": "emotional status"}
+{"id": "task143-a164fe57b3374764a7cfade92d9a41a3", "input": "pasty, absorption, area, fat", "target": "physical property"}
+{"id": "task143-e3abd15297674ea19b8aa311b4d8a6a0", "input": "spend, blow, seperate, fritter", "target": "activity"}
+{"id": "task143-a76f5e31585b471690e17de2c71fbb86", "input": "glass, fiberglass, wood, acrylic", "target": "window material"}
+{"id": "task143-3f41bcd2c04c41d0873be76ef3b77505", "input": "heavy, fudge, chocolate cake, chocolate", "target": "chocolate food"}
+{"id": "task143-a9777821aa5a440e8d5364640f1b0f90", "input": "emotional state, down, ashamed, emotional supports", "target": "emotional status"}
+{"id": "task143-4a72f60156f44a4db2967e72cfea9186", "input": "car, bike, glide, fly", "target": "mode of transportation"}
+{"id": "task143-0137a775a72c4dfa943437f7284187c6", "input": "history, belated, timely, current", "target": "date status"}
+{"id": "task143-e506cb6a41884743849f8c52fb6362a0", "input": "alright, decent, fine, mad", "target": "emotional status"}
+{"id": "task143-09c67a105a774f01a7bf1adb486d0835", "input": "nervous, emotional state, fret, bored", "target": "emotional status"}
+{"id": "task143-9e643eaa7b20451fa5423cf30e4509a0", "input": "duck, jog, push, crouch", "target": "physical activity"}
+{"id": "task143-fb2bee63dd344c8ab144f5e66cd4531b", "input": "flutter, car, fly, walk", "target": "mode of transportation"}
+{"id": "task143-722302aec83245c598a82229e5055568", "input": "club, picnic, dance hall, convention", "target": "social gathering"}
+{"id": "task143-88a420e750864a469aff28727ef8941c", "input": "fish, row, camp, canoe", "target": "outdoor sport activity"}
+{"id": "task143-10a24082a33d4b0a9922807a7e37d2c9", "input": "wrestle, climbing, kayak, fish", "target": "outdoor sport activity"}
+{"id": "task143-6a9e8f41d606402881ea26caa2f4c734", "input": "cub, fawn, kid, deer", "target": "baby animals"}
+{"id": "task143-7dc8fc93702e4a988ec9da21002c33ec", "input": "glass, handle, translucent fabric, plastic", "target": "window material"}
+{"id": "task143-2d74e878dd4a446c84c8a54ae7971fad", "input": "knockout, deck, punch, ring", "target": "boxing terminology"}
+{"id": "task143-ba7492f1b6f94f468540f08a6d7c0834", "input": "jog, drive, swim, fly", "target": "mode of transportation"}
+{"id": "task143-fa2d4615d1cc4fee85268be898fd073b", "input": "frank, vittles, wiener, bun", "target": "food"}
+{"id": "task143-a82f6aebf6c6449ca0607af063974dfd", "input": "jog, fly, glide, bike", "target": "mode of transportation"}
+{"id": "task143-9bc778138ae54d7981edf0c6551df16a", "input": "windy, mild, brisk, fair", "target": "weather"}
+{"id": "task143-b3d738d4527245899408db30e1fdb053", "input": "tangle, windy, warm, fair", "target": "weather"}
+{"id": "task143-eca7c3285cfc4b2fb911dc9d35b83b0f", "input": "goodies, provision, frank, vittles", "target": "food"}
+{"id": "task143-bf589f68d7514b32b4c0d69d3906cce7", "input": "flutter, bike, car, fly", "target": "mode of transportation"}
+{"id": "task143-d0b3bcb5ea954fceb8d0647e783a80fd", "input": "fair, cool, ghostly, size", "target": "aesthetic characteristic"}
+{"id": "task143-6b2a2b659d3045ccafcde40e0c49e9e1", "input": "jump, fly, waggle, eagle", "target": "animal"}
+{"id": "task143-b5510a48433343dfb0ad489914ba89bd", "input": "blaze, flame, fire, water", "target": "elements"}
+{"id": "task143-1c3c9fb31f9f43cfb0205cfe45b24f30", "input": "fine, unjust, trustworthy, fair", "target": "moral characteristic"}
+{"id": "task143-6f1d9355a86a4d94a461075dd13612ee", "input": "fret, emotionalities, angry, emotional state", "target": "emotional status"}
+{"id": "task143-63b6e4ab58a34a2cbf35ad1889eaa0b9", "input": "hike, fall, stoop, duck", "target": "physical activity"}
+{"id": "task143-83f8c4ed37f74b159041e750902dbc9e", "input": "close, running., finished for the day, not open", "target": "store status"}
+{"id": "task143-ec1757ca4ec24202b055f09fe39d8d59", "input": "thin, area, fat, angular momentum", "target": "physical property"}
+{"id": "task143-f8694199a4814e90b2dda8fcf72a3aae", "input": "jab, fight, deck, blocking", "target": "boxing terminology"}
+{"id": "task143-5d2e12c19187498fb125a697529b0d54", "input": "fine, hot, pretty, neat", "target": "aesthetic characteristic"}
+{"id": "task143-e9cbb4d00a184b838b323be3ec5e7311", "input": "equitable, fair, impartial, dishonest", "target": "moral characteristic"}
+{"id": "task143-6d3503a6fe0940e584a16d1611eead3f", "input": "fret, anxious, crying, nervous", "target": "emotional status"}
+{"id": "task143-38baf7696d2640ae9bf72dcd22bbb074", "input": "fret, emotional upsets, emotional state, angry", "target": "emotional status"}
+{"id": "task143-a0cc4067e5df4f9f8b2d5165eff61f02", "input": "deal, brisk, fair, stormy", "target": "weather"}
+{"id": "task143-1dde3f43016544ae8fe3773e69ce2054", "input": "fair, honorable, equitable, fine", "target": "moral characteristic"}
+{"id": "task143-f504b5045c184f2083e4d54dde4bf916", "input": "fair, sunny, deal, brisk", "target": "weather"}
+{"id": "task143-c11022a662874b60bde11457edad592e", "input": "fish, camp, row, hunting", "target": "outdoor sport activity"}
+{"id": "task143-02bec625fe444f6f999f96a4f1a75c2f", "input": "club, hero, hoagie, blt", "target": "type of sandwich"}
+{"id": "task143-6eb2e27127fd4fcbb1083638bb26bdb7", "input": "equitable, fair, honorable, impartial", "target": "moral characteristic"}
+{"id": "task143-bc3bff42ec8d49a8b5b2923a0b1f9cd9", "input": "variety, fair, texture, milky", "target": "aesthetic characteristic"}
+{"id": "task143-785cc1d898084ec69cb9867adbe607eb", "input": "deck, corner, tko, caution", "target": "boxing terminology"}
+{"id": "task143-fc93816eb07a4ddcb2fc8a599f5b15d0", "input": "bar, outing, clan, club", "target": "social gathering"}
+{"id": "task143-059f4778b9ab4cf3bba1e60372289051", "input": "ostrich, hoist, crane, neck", "target": "bird"}
+{"id": "task143-94144640f7f24a58b9ed9dcf9de24491", "input": "fine, probation, jail time, money", "target": "police punishment"}
+{"id": "task143-778f4a20dde74befadc4e32dd9196c78", "input": "jack, string, fingerpick, fret", "target": "guitar part"}
+{"id": "task143-ccd69137b08a425599c66174552ee409", "input": "fair, 70, endure, mild", "target": "weather"}
+{"id": "task143-a85a8ac9c7bd4cd9a819b633eae5550c", "input": "windy, sunny, fair, 70", "target": "weather"}
+{"id": "task143-ced5de1051f54d5a9f38682561c00df7", "input": "club, lettuce, dagwood, open-faced", "target": "type of sandwich"}
+{"id": "task143-41102716e4534f6ebb43ae45799f084b", "input": "out of service, not open, open, close", "target": "store status"}
+{"id": "task143-13aa5479a62649a38ff936ea0371e602", "input": "upraise, crane, steam roller, derrick", "target": "construction"}
+{"id": "task143-27b8e27e6cb3484fae04ccc88a972a88", "input": "club, toast, hamburger, dagwood", "target": "type of sandwich"}
+{"id": "task143-de81eaad57934323bc0183f5997b258a", "input": "hunting, hike, fish, hunt", "target": "outdoor sport activity"}
+{"id": "task143-52309832cbf24c97b1755ba17461bb34", "input": "jail time, hearing, fine, flyaway", "target": "police punishment"}
+{"id": "task143-bc02d42648be42abb96bbb517521b3ef", "input": "entree, pork, frank, goodies", "target": "food"}
+{"id": "task143-f04d473664334e3ba1bb820c9d784f9d", "input": "color, light, even, fair", "target": "aesthetic characteristic"}
+{"id": "task143-bdd473d3fea94da6a8185d71fbd397cb", "input": "bright, exquisite, fine, detailed", "target": "aesthetic characteristic"}
+{"id": "task143-48646ee92f3844bbb425f1418b0fb191", "input": "submarine, club, toast, grilled cheese", "target": "type of sandwich"}
+{"id": "task143-48ac15824d7945b3b7d2afe839127083", "input": "fried, danish, croquet, fritter", "target": "fried food"}
+{"id": "task143-6b8a21f32d9844959a0fee12b2ead8fd", "input": "fine, ticket, penalty, wispy", "target": "police punishment"}
+{"id": "task143-4b32c91620024e0fb9d06a263d57c026", "input": "large, fat, heavy, capacitance", "target": "physical property"}
+{"id": "task143-0a1a0a94c3a041b8b867ea1eeb5b55d8", "input": "deck, fight, box, apron", "target": "boxing terminology"}
+{"id": "task143-edf4cef213e547f8843d32879bc2e083", "input": "fall, swim, bend, drop", "target": "physical activity"}
+{"id": "task143-45a473d65fd941f68f3ffd13fbc4657f", "input": "detailed, high quality, fine, beautiful", "target": "aesthetic characteristic"}
+{"id": "task143-b7737a2407ac42338a61adc58970fe22", "input": "burger, french toast, club, hoagie", "target": "type of sandwich"}
+{"id": "task143-7e9c13174e6f4bb083f801b1f41811de", "input": "buck, hatchling, calf, fawn", "target": "baby animals"}
+{"id": "task143-ba640b0f692e484e97cf652e3c12d262", "input": "frank, meat, grub, hot dog", "target": "food"}
+{"id": "task143-a3a34f95e9e64396ab517447a08d6d26", "input": "frank, weenie, sausage, entree", "target": "food"}
+{"id": "task143-11882a57ac99446880ed59ea60d234a9", "input": "ticket, wispy, hearing, fine", "target": "police punishment"}
+{"id": "task143-344e93dce03148daaa5d6f425f515249", "input": "provision, frank, wienerwurst, goodies", "target": "food"}
+{"id": "task143-e887fb3570bb4eb09c8b0f4796e080bb", "input": "sunny, deal, clime, fair", "target": "weather"}
+{"id": "task143-9e0f7b352ed546debe06125dd2081877", "input": "cold, fair, make the grade, windy", "target": "weather"}
+{"id": "task143-45a17b5f321b4f988342e769260efaa7", "input": "70, deal, stormy, fair", "target": "weather"}
+{"id": "task143-786ee085a1b64002a9d748e3a015c027", "input": "cold, fair, raining, make the grade", "target": "weather"}
+{"id": "task143-89fc161fd11e4a47ae82cd6f8e0fd92f", "input": "fly, drive, jog, train", "target": "mode of transportation"}
+{"id": "task143-b39987defa9048a19893b373d6dc68c6", "input": "dagwood, club, submarine, open-faced", "target": "type of sandwich"}
+{"id": "task143-24d0a632338a4ef0b635a3a92e72c08f", "input": "trap, camp, fish, kayak", "target": "outdoor sport activity"}
+{"id": "task143-26d615c3f80542e7b50a29feb2fa62b8", "input": "chunky, obese, pasty, fat", "target": "physical property"}
+{"id": "task143-c526843bf37f4a16917b7606ad280c11", "input": "tumble, run, climb, fall", "target": "physical activity"}
+{"id": "task143-8d2b18a5c9ea46b995a769847cc834b7", "input": "emotional state, crying, fret, emotional supports", "target": "emotional status"}
+{"id": "task143-308f38d03ca945908d287cd4d1fea852", "input": "blt, club, dagwood, lettuce", "target": "type of sandwich"}
+{"id": "task143-0771e33b7dfe489faf404f2c8dbd038d", "input": "water, cool, burn, fire", "target": "elements"}
+{"id": "task143-bb13fb6e22714484b75f51b000b9eeea", "input": "bend, fall, jump, roll", "target": "physical activity"}
+{"id": "task143-1653c6566c90440f98e0589d263e9cbc", "input": "fair, raining, 70, cold", "target": "weather"}
+{"id": "task143-904b3283df7747c489f33d487e518fb2", "input": "beside, touching, bordering, close", "target": "location (proximity)"}
+{"id": "task143-3c1db1ef3d564e3587b75eb1063fdbb8", "input": "fine, trustworthy, fair, impartial", "target": "moral characteristic"}
+{"id": "task143-5b6ddc3936c748c485b7170cf6f51ae7", "input": "fall, climb, jump, drop", "target": "physical activity"}
+{"id": "task143-54edb92d6ba5415798f973c3d115b6a8", "input": "fair, dishonest, trustworthy, honorable", "target": "moral characteristic"}
+{"id": "task143-2c5c538144a2483883eb2738bffd0766", "input": "fingerpick, chord, strap lock, fret", "target": "guitar part"}
+{"id": "task143-446d5a68d33c4b5381547d565f8947bb", "input": "notes, fret, headstock, string", "target": "guitar part"}
+{"id": "task143-9b4b581e0cf841f68f52330e45b35e9a", "input": "fine, dull, exquisite, pretty", "target": "aesthetic characteristic"}
+{"id": "task143-8eff6fe742b34528bda2f401a41dbb60", "input": "close, out of service, busy, running.", "target": "store status"}
+{"id": "task143-672ccf3f6faa486a88b309db9ecb7b70", "input": "attractive, hot, fine, handsome", "target": "aesthetic characteristic"}
+{"id": "task143-2366709119be4b22834d8fd10329e85d", "input": "replace, scold, recruit, fire", "target": "employment activity"}
+{"id": "task143-6d02c8e0a7934275afd0e198840ee26c", "input": "duck, geese, pig, ostrich", "target": "animals"}
+{"id": "task143-c04850b4517e4603a0f541bc3ded44e0", "input": "dagwood, blt, open-faced, club", "target": "type of sandwich"}
+{"id": "task143-55b986439af94c1aae0e2c0e8c506717", "input": "deck, canvas, punch, tko", "target": "boxing terminology"}
+{"id": "task143-d345e22f44794791a72a61a728c840c3", "input": "cat, goose, mallet, duck", "target": "animals"}
+{"id": "task143-43935475ef034b0695727be2bdcfedbb", "input": "fire, sack, ban, recruit", "target": "employment activity"}
+{"id": "task143-ce898d2bb355496c94f378f0a9c2e59f", "input": "just, fair, decent, impartial", "target": "moral characteristic"}
+{"id": "task143-0a5beb3207564cf289a30a37da0662e6", "input": "bend, duck, bow, get down", "target": "physical activity"}
+{"id": "task143-3565a3d8a11743219485009503f463d9", "input": "duck, swim, sprint, jog", "target": "physical activity"}
+{"id": "task143-2b62e629771a4d19817d1e184c9c5d77", "input": "hot, fine, pretty, attractive", "target": "aesthetic characteristic"}
+{"id": "task143-0c54bed294164a36b5748eff38b29569", "input": "glove, level, punch, deck", "target": "boxing terminology"}
+{"id": "task143-1e1c13d7b6c64d3c816c682ca224605f", "input": "fair, loyal, unprejudiced, fine", "target": "moral characteristic"}
+{"id": "task143-47362dec536642fe9e66de879786f66a", "input": "duck, fall, bend, hike", "target": "physical activity"}
+{"id": "task143-fbcd96a93f47469a9b7451ca14a1da17", "input": "raining, clime, fair, 70", "target": "weather"}
+{"id": "task143-1ac4286427364f9f8c3decd3d042ad12", "input": "frank, cheese, pork, goodies", "target": "food"}
+{"id": "task143-9f38724e25294d29b27c185acdfcd793", "input": "custody, penalty, fine, jail", "target": "police punishment"}
+{"id": "task143-6746ff262a204a6a92e22e763ceea4fc", "input": "ticket, fine, probation, prison", "target": "police punishment"}
+{"id": "task143-0806e2550cd94e739be44bc2dea19aab", "input": "club, roll, dagwood, bacon", "target": "type of sandwich"}
+{"id": "task143-eb9f6e3892b4475788fa2473e46f9cc9", "input": "fine, probation, penalty, jail", "target": "police punishment"}
+{"id": "task143-9b97be0bfc624058a9d732a4dd0e6041", "input": "fat, brittleness, thin, ugly", "target": "physical property"}
+{"id": "task143-094f0ebf221a4291845c2a0472b62ea4", "input": "brandy, beer, wine, gin", "target": "alcoholic drinks"}
+{"id": "task143-497fdbb068494307969ed490573022f4", "input": "freezing, hot, tropical, cool", "target": "temperature"}
+{"id": "task143-70f791c751af4f0d9edd27c959457b48", "input": "fair, milky, color, texture", "target": "aesthetic characteristic"}
+{"id": "task143-8415539dc19746c7b787f9e19d552d79", "input": "foot, pound, mile, meter", "target": "measurement unit"}
+{"id": "task143-c67bcab0ba804eb7814ee8f09fd0e848", "input": "promote, hire, retire, fire", "target": "employment activity"}
+{"id": "task143-3180b080fa5045a5b96afbb60cb973d7", "input": "fall, bend, stoop, lift", "target": "physical activity"}
+{"id": "task143-5fdc211a55ae40de886161852e0aee03", "input": "gin, poker, canasta, hearts", "target": "card games"}
+{"id": "task143-673e3ba1b1f649488e503ca298e70edb", "input": "community, picnic, group, club", "target": "social gathering"}
+{"id": "task143-39e5160093054f13b27df84aeba45880", "input": "goose, cow, ostrich, duck", "target": "animals"}
+{"id": "task143-9c8eaed79d25461682da6b19870c78a2", "input": "hike, wrestle, fish, climbing", "target": "outdoor sport activity"}
+{"id": "task143-8db9598f49214ee38ddced1d64de3a43", "input": "flyaway, jail, penalty, fine", "target": "police punishment"}
+{"id": "task143-33679a40627a4574bf40ac1bdd6b46d9", "input": "exquisite, neat, beautiful, fine", "target": "aesthetic characteristic"}
+{"id": "task143-d8c074cff6ac48aea60326fef8475623", "input": "warm, mild, cool, tropical", "target": "temperature"}
+{"id": "task143-d4c7eb13f2b94c4fb500272faa523b33", "input": "fat, absorption, large, heavy", "target": "physical property"}
+{"id": "task143-0db802b844194ed69926fbfbd6c30eb2", "input": "honorable, decent, unjust, fair", "target": "moral characteristic"}
+{"id": "task143-fac23adb9109446a8ef5d941df740949", "input": "heavy, ugly, capacitance, fat", "target": "physical property"}
+{"id": "task143-5000b59a2abc4a66a21b9963a888c965", "input": "hearts, uno, gin, pinochle", "target": "card games"}
+{"id": "task143-9da84d1a33014fc3a4ac672d5d874aff", "input": "hunting, swim, raft, fish", "target": "outdoor sport activity"}
+{"id": "task143-7d44abdc93ce4d6988c20331952a2bb1", "input": "hire, sack, ban, fire", "target": "employment activity"}
+{"id": "task143-3a4076ead34b421f8a90305aa9e1a4f2", "input": "bar, team, club, picnic", "target": "social gathering"}
+{"id": "task143-8c5a9e7228864b62b047792fd71877c2", "input": "descending, left, down, below", "target": "direction"}
+{"id": "task143-e27fa4a0d5594bf5a3d4c7d4dd2f8bd0", "input": "bulky, angular momentum, brittleness, fat", "target": "physical property"}
+{"id": "task143-f977a06dc8a04efdb91b94e9f080926f", "input": "crane, steam roller, hoist, dump truck", "target": "construction"}
+{"id": "task143-d996cc6e9a9947d28aedafe1b84553d3", "input": "glass, panel, handle, translucent fabric", "target": "window material"}
+{"id": "task143-becea19843744d9293df57dd4ca31bdb", "input": "lower, down, ground, downward", "target": "direction"}
+{"id": "task143-68367b48e7f543b7a4b81afb37da8e35", "input": "fine, ok, detached, calm", "target": "emotional status"}
+{"id": "task143-76ec1b483a1d4c1c902f9f9a2e791687", "input": "climb, bend, fall, exercise", "target": "physical activity"}
+{"id": "task143-daaf83fe7f07497981ba603db62ee6e0", "input": "fair, even, ghostly, texture", "target": "aesthetic characteristic"}
+{"id": "task143-4d3ad8624a27493a98bf6f9f7fd29861", "input": "cool, mild, cold, tropical", "target": "temperature"}
+{"id": "task143-8ce634dce42844cabd2fed03bf3901aa", "input": "blt, club, roll, hero", "target": "type of sandwich"}
+{"id": "task143-e778e2d0261849dd8b699b252e66c4cb", "input": "head, elbow, shin, foot", "target": "body part"}
+{"id": "task143-7c2e90867e0a4134b499b194f85cd0e9", "input": "gin, go fish, blackjack, hearts", "target": "card games"}
+{"id": "task143-727889e5a31b41ea96f0fca9cc89e054", "input": "fair, unprejudiced, impartial, ok", "target": "moral characteristic"}
+{"id": "task143-2c534db70ba44d659f776c916ff3c336", "input": "head, eye, foot, ankle", "target": "body part"}
+{"id": "task143-45ba2131fdb84a4eb20c42f0e6fab25b", "input": "club, blt, submarine, bacon", "target": "type of sandwich"}
+{"id": "task143-855038e2a5254e2eb6590ded4e13e856", "input": "provision, meat, vittles, frank", "target": "food"}
+{"id": "task143-851b655fb18e4a99ae4d91fa7e9b7761", "input": "near, beside, on top of, close", "target": "location (proximity)"}
+{"id": "task143-9f7404677e36498ab37d652dcad67198", "input": "doorstep, roll, grilled cheese, club", "target": "type of sandwich"}
+{"id": "task143-9fe4022c7682466688ffd718b08ebfaa", "input": "well, calm, happy, fine", "target": "emotional status"}
+{"id": "task143-5a6189f1f8db4fb88a6a4ab60955a7e0", "input": "neat, detailed, attractive, fine", "target": "aesthetic characteristic"}
+{"id": "task143-bc2309d705a04f1f9f6126cfc5289382", "input": "praise, pay, fire, replace", "target": "employment activity"}
+{"id": "task143-b9f89b823c514c96af62a96f0199355c", "input": "clime, fair, warm, make the grade", "target": "weather"}
+{"id": "task143-65ea9c9b0e174bd08e33ddd6fc42a4b7", "input": "duck, jog, hike, dodge", "target": "physical activity"}
+{"id": "task143-6c05bbae2431418caf708bd64dad3c7d", "input": "goose, cow, duck, dog", "target": "animals"}
+{"id": "task143-73c4ad23976a46079357d0cf7a0e463d", "input": "goose, duck, lion, cat", "target": "animals"}
+{"id": "task143-2617526589db4b97bdf278181806f091", "input": "clime, fair, stormy, brisk", "target": "weather"}
+{"id": "task143-36f90fc3ac6b4f02b3002d53fe327a0f", "input": "fine, honorable, unprejudiced, fair", "target": "moral characteristic"}
+{"id": "task143-1903b3fea5744d36a438fc60572a1f8d", "input": "french toast, roll, club, hero", "target": "type of sandwich"}
+{"id": "task143-0dac1cbd3f1e44b29be053c0f5f22e4d", "input": "corner, punch, deck, knockout", "target": "boxing terminology"}
+{"id": "task143-522a1208d4f5445490dece026a702c53", "input": "calm, relaxed, fine, detached", "target": "emotional status"}
+{"id": "task143-dc744a1631c64f5e85d412414da69481", "input": "hunting, fish, camp, canyoning", "target": "outdoor sport activity"}
+{"id": "task143-466fbbd5379c414581c07766d04f44fd", "input": "falling, down, south, downward", "target": "direction"}
+{"id": "task143-3f621d7520a545df898a5a6f7af9ec03", "input": "hunt, canyoning, fish, wrestle", "target": "outdoor sport activity"}
+{"id": "task143-ba425ef117164a2ca374b04b1258a5a6", "input": "glass, plate, dish, knifer", "target": "kitchenware"}
+{"id": "task143-3bd3c0d78d93420ba05a2500a1970273", "input": "air, fire, combustion, water", "target": "elements"}
+{"id": "task143-492b7915a4d84298a9cdb56509eef913", "input": "cool, icy, freezing, refreshing", "target": "temperature"}
+{"id": "task143-ca85a2dbf7a24f14b18cd18b4de31160", "input": "stoop, fall, swim, run", "target": "physical activity"}
+{"id": "task143-3904223015aa42dc82d2fb388a655565", "input": "concrete pourer, derrick, crane, winch", "target": "construction"}
+{"id": "task143-b6104c99db28409fa8e89af8d1987307", "input": "dump truck, digger, crane, upraise", "target": "construction"}
+{"id": "task143-02f27cf7397d47719a1a9fc2cf252056", "input": "heel, leg, elbow, foot", "target": "body part"}
+{"id": "task143-a9a250d5ffd54a9d943f9d13d35bb794", "input": "crane, digger, steam roller, derrick", "target": "construction"}
+{"id": "task143-3869794df06f41a0b63fcfe57fa51ddc", "input": "frank, grub, bun, provision", "target": "food"}
+{"id": "task143-267bd3aefc2c453592663b7f4be26f16", "input": "tropical, cool, refreshing, scorching", "target": "temperature"}
+{"id": "task143-d069e0ae250a457681a33523cca19fcf", "input": "steam roller, winch, crane, digger", "target": "construction"}
+{"id": "task143-d5242407579f4b8ca5578105f50fe84a", "input": "jab, blocking, deck, corner", "target": "boxing terminology"}
+{"id": "task143-be38c04d088d4deca14aed71607b1cb9", "input": "tko, caution, deck, punch", "target": "boxing terminology"}
+{"id": "task143-e51213511b1f47ef8f15d040586dce59", "input": "elephant, duck, pig, swan", "target": "animals"}
+{"id": "task143-0e62c5524af4472fa0756a78ad3c1ece", "input": "bend, jump, swim, fall", "target": "physical activity"}
+{"id": "task143-b236ef2535384ec0a108e44407011ddd", "input": "fall, cold, summer, autumn", "target": "season"}
+{"id": "task143-5f4678d5b3844ee4a81fc3c30be53136", "input": "bridge, go fish, gin, blackjack", "target": "card games"}
+{"id": "task143-af8b3fe632364f71b31032489082fc6b", "input": "opposite of up, ground, falling, down", "target": "direction"}
+{"id": "task143-b41730579a714f008828a047c8d756a2", "input": "gin, poker, pinochle, bridge", "target": "card games"}
+{"id": "task143-82dd42796b4f408085b22803c1c19e33", "input": "inlays, fret, strap lock, headstock", "target": "guitar part"}
+{"id": "task143-ab2387ac36514069ac245cfd4d334029", "input": "war, hearts, gin, slapjack", "target": "card games"}
+{"id": "task143-32acfe801ab942c695e7d76c2980629d", "input": "fall, jump, bend, climb", "target": "physical activity"}
+{"id": "task143-b8770356a64d4cd4a20930b0b7da5c66", "input": "soldier, major, general, admiral", "target": "military rank"}
+{"id": "task143-5d4f08fa20dc4275b3cdd6faa53668e4", "input": "cheese, frank, provision, entree", "target": "food"}
+{"id": "task143-40a470f2b6d74ed2a1bb61f18ac4ce8f", "input": "general, cadet, fighter, major", "target": "military rank"}
+{"id": "task143-023909e33eed4ef5ad5b6ee60950ec81", "input": "colonel, general, admiral, captain", "target": "military rank"}

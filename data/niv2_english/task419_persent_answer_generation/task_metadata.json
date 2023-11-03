@@ -1,0 +1,7 @@
+{
+    "summary": "Given a document, find the main entity about whom the author is writing.",
+    "category": "Named Entity Recognition",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

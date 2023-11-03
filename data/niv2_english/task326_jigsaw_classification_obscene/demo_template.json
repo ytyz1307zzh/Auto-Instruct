@@ -1,0 +1,4 @@
+{
+    "template": "Input: {{input}}\nOutput: {{target}}",
+    "delimiter": "\n\n"
+}

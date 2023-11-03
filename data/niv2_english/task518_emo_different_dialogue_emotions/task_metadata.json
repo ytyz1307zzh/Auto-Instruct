@@ -1,0 +1,7 @@
+{
+    "summary": "Given different dialogue determine if they have the same emotion",
+    "category": "Sentiment Analysis",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

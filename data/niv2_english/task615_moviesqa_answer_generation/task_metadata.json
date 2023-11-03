@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question from an open movie database, generate an answer for that.",
+    "category": "Question Answering",
+    "domain": "Movies",
+    "input_lang": "English",
+    "output_lang": "English"
+}

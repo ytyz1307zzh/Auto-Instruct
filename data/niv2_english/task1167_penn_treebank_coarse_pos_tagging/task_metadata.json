@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence, a word in that sentence and the position of that word in the sentence, find the parts-of-speech tag of the word",
+    "category": "Pos Tagging",
+    "domain": "News, Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

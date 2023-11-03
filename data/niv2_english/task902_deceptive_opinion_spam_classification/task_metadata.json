@@ -1,0 +1,7 @@
+{
+    "summary": "Identity polarity of hotel reviews",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

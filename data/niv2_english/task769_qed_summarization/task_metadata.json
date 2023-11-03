@@ -1,0 +1,7 @@
+{
+    "summary": "Generating titles for passage",
+    "category": "Title Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

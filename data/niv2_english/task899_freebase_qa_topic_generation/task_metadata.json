@@ -1,0 +1,7 @@
+{
+    "summary": "Generate the specific topic for a given question",
+    "category": "Question Understanding",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

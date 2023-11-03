@@ -1,0 +1,7 @@
+{
+    "summary": "Given a five sentence story, generate an appropriate title for the story.",
+    "category": "Title Generation",
+    "domain": "Narrative, Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

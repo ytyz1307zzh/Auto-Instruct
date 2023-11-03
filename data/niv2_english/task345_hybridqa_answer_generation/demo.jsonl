@@ -1,0 +1,3 @@
+{"id": "task345-3da89ee0c28f484798d77fc579256ece", "input": "How much money is given to the winner of the award named after an engineer who was instrumental in the development of the first transcontinental telephone line ?", "target": "WRB JJ NN VBZ VBN TO DT NN IN DT NN VBN IN DT NN WP VBD JJ IN DT NN IN DT JJ JJ NN NN ."}
+{"id": "task345-660027454c704327b7c5f7a3f7a405cb", "input": "Which two events did the athlete born May 5 , 1966 win gold in ?", "target": "WDT CD NNS VBD DT NN NN NNP CD , CD NN NN IN ."}
+{"id": "task345-66a95c0c9f1f4641b29358aa933b244d", "input": "What is the full name of the player that attended Colorado State ?", "target": "WP VBZ DT JJ NN IN DT NN WDT VBD NNP NNP ."}

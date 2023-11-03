@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answer to question ((dbpedia_14 dataset))",
+    "category": "Text Categorization",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

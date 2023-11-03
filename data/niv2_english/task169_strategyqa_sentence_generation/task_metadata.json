@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question, write the facts one needs to know in order to answer the question.",
+    "category": "Misc.",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given the text of a social media post, generate a short summary the post",
+    "category": "Summarization",
+    "domain": "Social Media -> Reddit",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a term, write questions based on two or more facts.",
+    "category": "Question Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

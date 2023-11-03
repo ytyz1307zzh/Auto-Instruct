@@ -1,0 +1,7 @@
+{
+    "summary": "Checking whether the given sentence contains answer to the given question.",
+    "category": "Answerability Classification",
+    "domain": "News, Wikipedia, Law, Justice, History, History -> 9/11 Reports, Anthropology, School Science Textbooks, Fiction",
+    "input_lang": "English",
+    "output_lang": "English"
+}

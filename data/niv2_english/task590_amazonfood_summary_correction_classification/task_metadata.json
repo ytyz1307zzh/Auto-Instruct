@@ -1,0 +1,7 @@
+{
+    "summary": "Given a review of amazon's food product and its summary, you have to classify whether the summary is correct or not.",
+    "category": "Text Matching",
+    "domain": "Reviews -> Food",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,400 @@
+{"id": "task046-e60243ce24ef4e648aa630b7a6d63d23", "input": "Question: Who won the war? (Answer: The Bolsheviks).", "target": "Event."}
+{"id": "task046-05362444e8a746eb8eecdf5197a7a074", "input": "Question: Which song did Bowersox cover for her first release? (Answer: Up to the Mountain).", "target": "Entity."}
+{"id": "task046-b0010d0de47745aab00110ed18c6bc43", "input": "Question: Form whom was Kanye's 2011 fashion label designed for? (Answer: women).", "target": "Humans."}
+{"id": "task046-4250228450ac4936b218dfcfa4ebaa45", "input": "Question: What other device shares the interface used by the iPod Touch? (Answer: iPhone).", "target": "Entity."}
+{"id": "task046-23db37f24fd9473cac37d17ee3ff3142", "input": "Question: The version of Twilight Princess fo which console won three IGN awards? (Answer: GameCube).", "target": "Entity."}
+{"id": "task046-49cdace4ac7745408704af411f0b1006", "input": "Question: What is the oldest engineering school of the Americas? (Answer: the Real Academia de Artilharia, Fortifica\u00e7\u00e3o e Desenho of Rio de Janeiro).", "target": "Facility."}
+{"id": "task046-6380b4ec6ed546259a6f494d29f46479", "input": "Question: Prajna is the wisom that is able to extinguish afflictions and bring about what? (Answer: bodhi).", "target": "Entity."}
+{"id": "task046-b8f026fecbc34d1180414c6b53fe1abb", "input": "Question: Of the eight precepts which one is on sexual misconduct? (Answer: third).", "target": "Quantity."}
+{"id": "task046-254854cbd66048319b75ec87929836f2", "input": "Question: What type of bass do Chopin's mazurkas exhibit? (Answer: drone bass).", "target": "Entity."}
+{"id": "task046-61a9c53d3ac94f3d9531721597405eba", "input": "Question: What doctrine rejects the idea of permanent self? (Answer: anatta).", "target": "Entity."}
+{"id": "task046-2ce7badcdaf946579afd35e782d858ac", "input": "Question: What typeface does the current iPod use? (Answer: Helvetica).", "target": "Entity."}
+{"id": "task046-f43cf7d366cd432ab7b4d42aecdd828e", "input": "Question: Which famous rapper bought Aspiro? (Answer: Jay Z).", "target": "Facility."}
+{"id": "task046-0f1719263084447cbb5f0f822f357976", "input": "Question: Who was the first record label to give the girls a record deal? (Answer: Elektra Records).", "target": "Entity."}
+{"id": "task046-d5e8da687fa14cee9cf6d1f4a0dc917d", "input": "Question: When did the wildcard round become a factor? (Answer: season one).", "target": "Date."}
+{"id": "task046-0fbba7025bea4cc4a3bdb8effc9f704e", "input": "Question: \"The Hildebrand Rarity\"  is from what short story collection? (Answer: For Your Eyes Only).", "target": "Entity."}
+{"id": "task046-c300f898e9e348329027c7dc4a00fd14", "input": "Question: In 2011, what school was built on Roosevelt Island? (Answer: Cornell Tech).", "target": "Entity."}
+{"id": "task046-b666a926fc974e8fa57642c3942ccfbb", "input": "Question: Notre Dame has a center in Beijing, what is it referred to as? (Answer: Global Gateways).", "target": "Facility."}
+{"id": "task046-ea390e9702ec47ba821403205d2f3239", "input": "Question: What program allowed users to exchange iPod Nanos which suffered from overheating problems with new safe models? (Answer: Apple product replacement program).", "target": "Entity."}
+{"id": "task046-8dfa02b004b542f899c472cb3c834db4", "input": "Question: Is it OK to drink alcohol while taking any antibiotic? (Answer: there are specific types of antibiotics with which alcohol consumption may cause serious side-effects).", "target": "Entity."}
+{"id": "task046-7450197e970449848be589537024ae82", "input": "Question: What did they go to war against Bolshevick? (Answer: to maintain independence).", "target": "Event."}
+{"id": "task046-5be74df727574e2583e577cde613e4eb", "input": "Question: The Three Jewels are preceived as possessed of an eternal and unchanging what? (Answer: essence.).", "target": "Entity."}
+{"id": "task046-8d752d0735dc4d71ae46167dbd936b4f", "input": "Question: What are the names of Atticus Finch's children in the book? (Answer: Jem and Scout).", "target": "Entity."}
+{"id": "task046-c3bef293f45a48eda8763a826e6f8636", "input": "Question: In which centuries did Portugal establish the first global empire? (Answer: 15th and 16th centuries).", "target": "Date."}
+{"id": "task046-10a1d1e7aeac4349923a2a5db6fb9939", "input": "Question: What is the condition for third parties using the dock connector? (Answer: paying royalties).", "target": "Entity."}
+{"id": "task046-663e0cf2a5e44ec88de40757b07780d6", "input": "Question: Which distinguished academic of genocide highlighted several other countries opposed to including political genocide in the Convention? (Answer: William Schabas).", "target": "Entity."}
+{"id": "task046-b8904937542b4f3ea5bf01a44f2da140", "input": "Question: Which season of American Idol stands out for having the highest ratings? (Answer: Season five).", "target": "Date."}
+{"id": "task046-93dc0f974a82486e998336c62c7d96c8", "input": "Question: Beyonce's first album by herself was called what? (Answer: Dangerously in Love).", "target": "Entity."}
+{"id": "task046-3ab8096c164a4ad789137fd349c69903", "input": "Question: Other possiblities for Chopin's death include cirrhosis, alpha 1-antitrypsin deficiency, and what? (Answer: cystic fibrosis).", "target": "Entity."}
+{"id": "task046-d747fb5abe8d42d4a1a67af0ee3dc296", "input": "Question: Samsara is caused by what? (Answer: avidya).", "target": "Entity."}
+{"id": "task046-4327f9b90344446fa6fcbc4d4708e4b8", "input": "Question: Beyonce's first child is named what? (Answer: Blue Ivy Carter).", "target": "Humans."}
+{"id": "task046-9369645edf6c40a8ae9fde7dbee4947d", "input": "Question: At the time of release which episode of the Legend of Zelda series was considered the greatest entry? (Answer: Twilight Princess).", "target": "Entity."}
+{"id": "task046-eff15005c1f2473ebe7db2e1f182c0ee", "input": "Question: What industry is Madison Avenue associated with? (Answer: advertising).", "target": "Entity."}
+{"id": "task046-8034b11b9fce45da9ab9daedfe58abb4", "input": "Question: What is used by Mahayana followers to name the early schools? (Answer: Hinayana).", "target": "Entity."}
+{"id": "task046-20ba006bd39442a2a9799ad273d69778", "input": "Question: On what digital platform were contestants performances released to after airing on American Idol? (Answer: iTunes).", "target": "Entity."}
+{"id": "task046-a29b7d85ee00485fa457f896feb0e0c2", "input": "Question: Beyonce was listed in 2011 as the highest paid performer per what? (Answer: minute).", "target": "Time."}
+{"id": "task046-8520ad4e438847f78f56ad8d739b902a", "input": "Question: What is a something that determines the size of thermal mass? (Answer: climates).", "target": "Entity."}
+{"id": "task046-25c18f8e082d43c98faca3883dc4abbd", "input": "Question: Who wrote about Chopin's \"novel harmonic effects\"? (Answer: Temperley).", "target": "Humans."}
+{"id": "task046-94cbeb3f0eda4f86a7dc2c0159d55bac", "input": "Question: What is Link's job at the start of Twilight Princess? (Answer: ranch hand).", "target": "Entity."}
+{"id": "task046-1fb70ae8e40142b1aa3f41825e9b3120", "input": "Question: What was Fantasia's coronation song? (Answer: I Believe).", "target": "Entity."}
+{"id": "task046-881a7c0cadda4c5093662aa4142b98d5", "input": "Question: What happened to the Fatburger chains that Kanye established? (Answer: shut down).", "target": "Event."}
+{"id": "task046-c5f5cbbca0e841fa8aeaa633964d9e86", "input": "Question: When the eight factors are developed together, is leads to the cessation of what? (Answer: dukkha).", "target": "Entity."}
+{"id": "task046-2b87d942563f4ec78bcfaa7ff82f6c37", "input": "Question: At what age did Harper Lee's mother die? (Answer: 25).", "target": "Date."}
+{"id": "task046-36d2d6b33d674b6d8c737c59d8f31686", "input": "Question: In what building is the current School of Architecture housed at Notre Dame? (Answer: Bond Hall).", "target": "Facility."}
+{"id": "task046-cc11b33f8fd449a8b90e6bafc9c60159", "input": "Question: What is the goal of Theravada Buddhism? (Answer: the attainment of the sublime state of Nirvana).", "target": "Event."}
+{"id": "task046-731c04d072e741fea41bc767ceb49566", "input": "Question: What is the parent company of the music service Beyonc\u00e9 owns part of? (Answer: Aspiro).", "target": "Entity."}
+{"id": "task046-0c5043b7300a439eb2fb6dce09cb7fda", "input": "Question: What are the discourses of the Buddha called? (Answer: s\u016btras).", "target": "Entity."}
+{"id": "task046-19506001b93f4f0eabfff5067903f62a", "input": "Question: In what month was the inaugural concert held for the \"Ed in '08\" campaign? (Answer: August).", "target": "Date."}
+{"id": "task046-faf3aa5d920e4b25ba7918e9e3c41d2b", "input": "Question: What company ended its deal with Apple's music store in July of 2007? (Answer: Universal Music Group).", "target": "Entity."}
+{"id": "task046-3ac00f7f179c430484a7a86d9c5aad1a", "input": "Question: When were some kinds of antimicrobials first used? (Answer: over 2000 years ago).", "target": "Date."}
+{"id": "task046-d27b0711d20040a7a8112839eca3c7dc", "input": "Question: Later edition of texts such as what has the Rupa Jhanas? (Answer: Majjhima Nikaya).", "target": "Entity."}
+{"id": "task046-c21fceccca9e44519008ebd14c09c34c", "input": "Question: Beyonc\u00e9's early recordings empowered who? (Answer: Women).", "target": "Humans."}
+{"id": "task046-4cc72786cfc34a7db908e078f0feec3c", "input": "Question: What did the winner win? (Answer: Dream Ticket).", "target": "Entity."}
+{"id": "task046-7c80ed1ec59e49cda5de3a7f1d1a7a13", "input": "Question: Where was the season one finale broadcast from? (Answer: Dolby Theatre).", "target": "Facility."}
+{"id": "task046-6bc9443936bf4ef8b26d1071e8d74f26", "input": "Question: What are two landmarks in Rome used in filming Spectre? (Answer: Ponte Sisto bridge and the Roman Forum).", "target": "Facility."}
+{"id": "task046-506f9a6617d74302bc5b1edf46c9e78d", "input": "Question: What time period was the beginning of Buddhism? (Answer: second half of the first millennium BCE).", "target": "Date."}
+{"id": "task046-9b8031fb572b41bf94fae181b69a3192", "input": "Question: Which band did Kanye West travel with for the Vertigo Tour? (Answer: U2).", "target": "Entity."}
+{"id": "task046-1305b59154864bad94e5aa5776df6ada", "input": "Question: The vast majority of Brazilians have what ancestry in common? (Answer: Portuguese).", "target": "Entity."}
+{"id": "task046-47032e3bf323460e86f0aa72e50b9dec", "input": "Question: What was the name of the White Rabbits' album? (Answer: Milk Famous).", "target": "Entity."}
+{"id": "task046-bc7546e445384e0bac1c1d2cd69be705", "input": "Question: What are six companies that made some of the first peripherals for the iPod? (Answer: Griffin Technology, Belkin, JBL, Bose, Monster Cable, and SendStation).", "target": "Organization."}
+{"id": "task046-45fcc5ba1b2e420797d200b16d913516", "input": "Question: What is the Ministry of Health responsible for? (Answer: developing health policy as well as managing the SNS).", "target": "Entity."}
+{"id": "task046-eda423ee78f94e96ae6c91b03dd93d6f", "input": "Question: It is one of only five areas to contain two teams of what sport? (Answer: Baseball).", "target": "Entity."}
+{"id": "task046-2e82b031bfd24d5f9ce72b9ab45bf25f", "input": "Question: Which sites gave the Wii copy of Twilight Princess scores of 95% and 95? (Answer: GameRankings and Metacritic).", "target": "Entity."}
+{"id": "task046-38e21f1a6dcf4547a704201b85ee76e2", "input": "Question: When approximately was Buddha alive? (Answer: sometime between the 6th and 4th centuries BCE).", "target": "Date."}
+{"id": "task046-95a3d30f60354fc5bad0efde9a5ab25e", "input": "Question: Which sub-specialty of anthropology takes an active role in looking at how humans interact with their environment? (Answer: Environmental).", "target": "Entity."}
+{"id": "task046-63ae2046e99248a28780140da5f3a86f", "input": "Question: About how much capital did Accelerator raise as of the middle of 2014? (Answer: US$30 million).", "target": "Money."}
+{"id": "task046-5ed9a74a9ab145be95b4b2675d822acd", "input": "Question: What has been widely debated as a possible act of genocide in Sudan? (Answer: situation in Darfur).", "target": "Event."}
+{"id": "task046-67898cc415af420188b045fa7f9a45d2", "input": "Question: The most expensive office tower built in the world today is what? (Answer: One World Trade Center).", "target": "Facility."}
+{"id": "task046-7c9d23d9860d442ebcbb93a08fe23426", "input": "Question: What Schumann suite contained the name of a piece Schumann named for Chopin? (Answer: Carnaval).", "target": "Entity."}
+{"id": "task046-5a549e6a66704810b2181542adbdb7f0", "input": "Question: Which music genre has had the most success from American Idol?  (Answer: country).", "target": "Entity."}
+{"id": "task046-6cd53f4cc1d146c99cc34be72910ea31", "input": "Question: What reporter compared Kanye West to a lightning rod? (Answer: Jon Caramanic).", "target": "Humans."}
+{"id": "task046-11fbb70574124b049e1226365e80e7fc", "input": "Question: Who is the main character of the story? (Answer: Link).", "target": "Entity."}
+{"id": "task046-7d832bddbf234989bfd53738e2ad6cff", "input": "Question: Other than U2 and Led Zeppelin, what other band inspired Kanye West? (Answer: The Rolling Stones).", "target": "Entity."}
+{"id": "task046-ef16ce3509974f4a8163d361fa682c6c", "input": "Question: Which season of American Idol had the highest profit on its tour? (Answer: season five).", "target": "Date."}
+{"id": "task046-a8db853746984dc0af6dc4aa251561e8", "input": "Question: What did Chopin play at the funeral? (Answer: Franz Schubert's lied Die Gestirne.).", "target": "Entity."}
+{"id": "task046-f9a872d867f34bd1ba1086463e05d3b4", "input": "Question: What industry did Kanye turn to after taking a break from recording music? (Answer: fashion).", "target": "Entity."}
+{"id": "task046-4a485e157073481a931c78ceebc53475", "input": "Question: What are 3 other common forms of bad antibiotic practices? (Answer: failure to take the entire prescribed course of the antibiotic, incorrect dosage and administration, or failure to rest for sufficient recovery).", "target": "Entity."}
+{"id": "task046-3ebe0c0866804e15b417e34692240ec2", "input": "Question: Which prize does the Architecture School at Notre Dame give out? (Answer: Driehaus Architecture Prize).", "target": "Entity."}
+{"id": "task046-c1d24a3636624a7da172e11ddd56db3c", "input": "Question: What is the name of the American Idol theme attraction with Disney?  (Answer: The American Idol Experience).", "target": "Facility."}
+{"id": "task046-e6228f4fddec4aa1a6d3971053ad54e1", "input": "Question: What noted religious building was destroyed in the Great Fire? (Answer: Trinity Church).", "target": "Facility."}
+{"id": "task046-528f878acddc41ff96cf7c998a3eb996", "input": "Question: What did the other families fail to establish? (Answer: hegemonies).", "target": "Entity."}
+{"id": "task046-a9e4f07e503f4235be36f6d7e261b646", "input": "Question: What lanuage do the people of Tajikistan speak? (Answer: Tajik).", "target": "Entity."}
+{"id": "task046-768b0d08aa094218bef9a0fe2346d979", "input": "Question: Season six was the first season where what had more viewers? (Answer: results show).", "target": "Entity."}
+{"id": "task046-d1f05fc1cd124ee584ed115efaa7acf2", "input": "Question: Who is the protagonist is Legend of Zelda? (Answer: Link).", "target": "Entity."}
+{"id": "task046-3f04c239deee4b7395aa475b52204b65", "input": "Question: Which company produces the iPod? (Answer: Apple).", "target": "Facility."}
+{"id": "task046-113cb57ebd244d2dbdf9c4a3a4a9c309", "input": "Question: The book's availablity increased through inclusion in what book service? (Answer: Book of the Month Club).", "target": "Entity."}
+{"id": "task046-3d245966baf4404c8455f8110ca51fcb", "input": "Question: Which character is chastised in the book for marrying a black woman? (Answer: Dolphus Raymond).", "target": "Entity."}
+{"id": "task046-96633f9fc6bd4dd2b967778720881ea6", "input": "Question: Which organization received Beyonc\u00e9's entire Cadillac Records salary? (Answer: Phoenix House).", "target": "Entity."}
+{"id": "task046-2734d2a670b6439c99b4564e2fc28ba9", "input": "Question: When was Shania Twain a guest judge for auditions? (Answer: season eight).", "target": "Date."}
+{"id": "task046-04aa8956cf21485bbc09222eac4419a1", "input": "Question: With the help of strong iPod sales, how much profit did they turn in 2007? (Answer: $3.5 billion).", "target": "Money."}
+{"id": "task046-5836538bd5c74750a27625d6181c82f9", "input": "Question: What Canadian network began airing American Idol in 2015?  (Answer: Yes TV).", "target": "Entity."}
+{"id": "task046-c4f60368f8a045779b7b23f0ed5d3506", "input": "Question: What is the only Tipitaka to survive intact in its original language? (Answer: P\u0101li Tipitaka).", "target": "Entity."}
+{"id": "task046-7a07e60705b44e939464009c6566e1d2", "input": "Question: Chopin's chord progressions are similar in style to what other composer? (Answer: Claude Debussy).", "target": "Entity."}
+{"id": "task046-ee15d3ab345d457d9b05a8de3d88af69", "input": "Question: What is Mr. White dying of? (Answer: thallium poisoning.).", "target": "Entity."}
+{"id": "task046-bdc6a5b8e00844d0bc2e646c8e99c434", "input": "Question: What was the source of the live feeds? (Answer: CCTV-1).", "target": "Abbreviation."}
+{"id": "task046-d46ee7c02e0b46ebb97d715a386b01a8", "input": "Question: Which family member came to Paris in June 1849? (Answer: his sister).", "target": "Humans."}
+{"id": "task046-62982f30c6f44953b0a5277f123c19a0", "input": "Question: What songs did Kanye dedicate to his late mother as his performance at The O2 in London? (Answer: \"Hey Mama\", as well as a cover of Journey's \"Don't Stop Believin'\").", "target": "Event."}
+{"id": "task046-4c53fbb4ce834883b9ca417109c9df76", "input": "Question: What figures restore health? (Answer: Zelda and Sheik).", "target": "Entity."}
+{"id": "task046-2caa2f848cd24529a5c1cbece7e45fe1", "input": "Question: What is an example of a solar distillation design? (Answer: single-slope).", "target": "Entity."}
+{"id": "task046-bd73d8125ada4e83a47e627917097b91", "input": "Question: The lead single from the album was which song? (Answer: D\u00e9j\u00e0 Vu).", "target": "Entity."}
+{"id": "task046-08d581ff18014bd0b322969d5c683689", "input": "Question: Sergei Diaghilev obtained additional orchestrations for subsequent productions, using which title? (Answer: Les Sylphides.).", "target": "Entity."}
+{"id": "task046-2cb03933920344308ee74d8d0c0e033f", "input": "Question: Who was Lu\u00eds de Cam\u00f5es? (Answer: Adventurer and poet).", "target": "Humans."}
+{"id": "task046-cfca17d7af1a45fabc8d985dfe394782", "input": "Question: What mental health issue did Beyonce go through? (Answer: depression).", "target": "Entity."}
+{"id": "task046-58369513224a46899fc8d3935a1a3f8a", "input": "Question: What is in dispute regarding the research into the core of the teachings? (Answer: The reliability).", "target": "Entity."}
+{"id": "task046-9a139277985546d9b15ff0fef4500984", "input": "Question: Where did Beyonc\u00e9 exclusively release her single, Formation? (Answer: Tidal).", "target": "Location."}
+{"id": "task046-d60283c3618a4e7d90b7ce11ea2cb798", "input": "Question: What ended up not being supported in the GameCube version of Twilight Princess? (Answer: Wii controller).", "target": "Entity."}
+{"id": "task046-742cb73ae98740769916c9dc71ee0b59", "input": "Question: What investigation are the prosecutors pursuing? (Answer: professional crime).", "target": "Entity."}
+{"id": "task046-3147ad1555974679b7fcfda497a11ad8", "input": "Question: What is dry cod known as in Portuguese? (Answer: bacalhau).", "target": "Entity."}
+{"id": "task046-0d928a6e8bf043908f6b360935a1471d", "input": "Question: What are two examples of Portuguese pastries? (Answer: past\u00e9is de Bel\u00e9m (or past\u00e9is de nata) originally from Lisbon, and ovos moles from Aveiro).", "target": "Entity."}
+{"id": "task046-bf3a5c112d2047768a30a868905d9b10", "input": "Question: What musical comedy did Beyonc\u00e9 star in along with Cuba Gooding, Jr. in 2003? (Answer: The Fighting Temptations).", "target": "Entity."}
+{"id": "task046-961bfc5b180149b4866ad598606bfe0f", "input": "Question: If environmental changes in a community affect access to food, then there is an eventual connection to what? (Answer: globalization).", "target": "Entity."}
+{"id": "task046-293a4c99d70c422dacd99581d336a2f1", "input": "Question: What is included in the beta-lactam antibiotics? (Answer: penicillins).", "target": "Entity."}
+{"id": "task046-0a1bac1897fc47328b5587a773296090", "input": "Question: Which institute involving animal life did Cavanaugh create at Notre Dame? (Answer: Lobund Institute for Animal Studies).", "target": "Organization."}
+{"id": "task046-2b1de21fb88a4e0c924220bda3c66aaf", "input": "Question: What does Ganondorf transform into? (Answer: beast).", "target": "Entity."}
+{"id": "task046-f189b705fc924b85b16f114a72da27f7", "input": "Question: What industry is Wall Street associated with? (Answer: finance).", "target": "Entity."}
+{"id": "task046-f14277d3db67490eb5413f3e4b45a0b7", "input": "Question: What Bay do rivers from Montana feed? (Answer: Hudson Bay).", "target": "Entity."}
+{"id": "task046-e9043a9aec1d45f893b337714e31decb", "input": "Question: What government blocked aid after Cyclone Nargis? (Answer: Myanmar).", "target": "Organization."}
+{"id": "task046-486ba88df15b490d9b1519530508a367", "input": "Question: What was Pop Idol renamed to for its American debut? (Answer: American Idol: The Search for a Superstar).", "target": "Entity."}
+{"id": "task046-bc0a2fbe98f6436bb67f44581239b78c", "input": "Question: What restaurant chain did Kanye aspire to open in his native Chicago? (Answer: Fatburger).", "target": "Entity."}
+{"id": "task046-f3ae0046c86d4102854530340dd3fbd2", "input": "Question: In which music video did Beyonc\u00e9 star as Jay Z's girlfriend, creating speculation about their relationship? (Answer: '03 Bonnie & Clyde).", "target": "Entity."}
+{"id": "task046-ab214852aed041aba1d89cabbc9bc46f", "input": "Question: In what era of music did Chopin compose? (Answer: Romantic).", "target": "Entity."}
+{"id": "task046-30f90c4697f54cdeb075bee843ffd08f", "input": "Question: What is the oldest structure at Notre Dame? (Answer: Old College).", "target": "Facility."}
+{"id": "task046-dda2c74ea88b4d0d83401b1ee223750e", "input": "Question: What title was given by the Yuan court to Tai Situ Changchub Gyaltsen ? (Answer: Education Minister).", "target": "Entity."}
+{"id": "task046-1a13742f99a24df6b4254da848a577f7", "input": "Question: The four truths depict what type of path of practice? (Answer: linear).", "target": "Entity."}
+{"id": "task046-0cf30d4e39624518aab20b84a3f162d9", "input": "Question: What were some of the different kindoms and people that called Tajikistan home? (Answer: Oxus civilization, Andronovo culture, Buddhism, Nestorian Christianity, Zoroastrianism, and Manichaeism).", "target": "Entity."}
+{"id": "task046-fbb3a402051f4efaaf7719aa60c82fae", "input": "Question: Who directed the 1962 film? (Answer: Robert Mulligan).", "target": "Humans."}
+{"id": "task046-bafc75c22b1448578fe905ad4b98f783", "input": "Question: Who was the winner of American Idols tenth season? (Answer: Scotty McCreery).", "target": "Humans."}
+{"id": "task046-dfcbdf4577a3407bbdb74860c53266da", "input": "Question: What musician did West tie with for topping the annual Pazz & Jop critic poll 4 times each? (Answer: Bob Dylan).", "target": "Humans."}
+{"id": "task046-192876f7cfad446bac5c724985bd438d", "input": "Question: Which original judge was a choreographer? (Answer: Paula Abdul).", "target": "Humans."}
+{"id": "task046-2e21d90bf5e3424f9234589243db6dfc", "input": "Question: Buddhism may have spread quickly because of what Mauryan emperor? (Answer: Ashoka).", "target": "Humans."}
+{"id": "task046-2c7dad3d554e4639a651f3f1ac269672", "input": "Question: Who is responsible for writing the music for \"Notre Dame Victory March?\" (Answer: Rev. Michael J. Shea).", "target": "Humans."}
+{"id": "task046-06f145ef25b84a90b6a1eb12f488081b", "input": "Question: What is Link's main weapon? (Answer: sword).", "target": "Entity."}
+{"id": "task046-757a21e60c814d09b6db95e2a1d4d410", "input": "Question: What software did Apple use as the basis for their iPod software? (Answer: PortalPlayer).", "target": "Entity."}
+{"id": "task046-1354ff96522143d683136671d62fcdcc", "input": "Question: When was Tamyra Gray eliminated? (Answer: top four).", "target": "Other."}
+{"id": "task046-8eddd673c7d6454297593396c6c6cec4", "input": "Question: What is an honorary synonym for Bodhisattvayana? (Answer: Mahayana).", "target": "Entity."}
+{"id": "task046-a3b97da31aad4d56aaa18cb060b88859", "input": "Question: What Apple program is used to communicate between computers and portable devices? (Answer: iTunes).", "target": "Entity."}
+{"id": "task046-e423fd773e954cdab81dabc70a940c5c", "input": "Question: What is the name of New York City's highest point? (Answer: Todt Hill).", "target": "Entity."}
+{"id": "task046-d7d8de42cc5745ae9ffad5cf9ad5cb97", "input": "Question: What does she get credits for in her music? (Answer: co-producing credits).", "target": "Other."}
+{"id": "task046-d7004e7c526d42d68c7d0f7d07e29905", "input": "Question: What processor model is used in the iPod Touch? (Answer: A8).", "target": "Entity."}
+{"id": "task046-9d4bb0d8cb12446d8c4426e3a4ef150a", "input": "Question: What did the donations total for the program? (Answer: US$208 million).", "target": "Money."}
+{"id": "task046-2b031fffd5824802bafcc7e2f544d2a4", "input": "Question: What was the name of Kanye's fifth album? (Answer: My Beautiful Dark Twisted Fantasy).", "target": "Entity."}
+{"id": "task046-11697bfefb5a436e85cc7078b85a47ad", "input": "Question: Who has joined an official inquiry into the school scandal? (Answer: Chinese prosecutors).", "target": "Entity."}
+{"id": "task046-5d9e2f943b8246df81f206e8affb5d49", "input": "Question: According to the Buddhist doctrine of impermanence, how does life express impermanence? (Answer: in the aging process, the cycle of rebirth (sa\u1e43s\u0101ra), and in any experience of loss).", "target": "Other."}
+{"id": "task046-50402682d9e849ab902b0fed644cb17a", "input": "Question: Who published a Seismic Risk Analysis Study? (Answer: Chen Xuezhong).", "target": "Humans."}
+{"id": "task046-b852853265c34becaf3aedc97f41179b", "input": "Question: Texts concerning Aksobhya Buddha were probably composed in what century BCE? (Answer: 1st).", "target": "Date."}
+{"id": "task046-3141b7e0501b4de59363c79bfe2cced0", "input": "Question: Who recognizes the utility of music, folkore and language? (Answer: Practitioners).", "target": "Humans."}
+{"id": "task046-a13246d7555b4b928635a9f840ef4b1f", "input": "Question: What is another name for the earthquake in Sichuan? (Answer: the Wenchuan earthquake).", "target": "Entity."}
+{"id": "task046-6909c3abe6af4ebd812ddec0531553da", "input": "Question: What company did Beyonc\u00e9's father work for when she was a child? (Answer: Xerox).", "target": "Entity."}
+{"id": "task046-bd62127dcca1443094399c52d260d305", "input": "Question: What was important to Harff and Gurr to distinguish from genocides? (Answer: politicides).", "target": "Entity."}
+{"id": "task046-03faf9a84fbd4fa3b182fb6192cb8100", "input": "Question: What is the nickname given to Grand Central Terminal? (Answer: Grand Central Station).", "target": "Entity."}
+{"id": "task046-c9a9ba6bd0174cacbb215479bfef39a2", "input": "Question: What type of processor does the current iPod Touch use? (Answer: A8).", "target": "Entity."}
+{"id": "task046-8439feb098fc4400955bb68ebba2917e", "input": "Question: When was there an epistemological shift away from positivist traditions in anthropology? (Answer: During the 1970s and 1990s).", "target": "Date."}
+{"id": "task046-8975ab244e064375b5de9db4049086f0", "input": "Question: In what years was T\u00f6regene Khatun the regent of the Mongol Empire? (Answer: 1241\u20131246).", "target": "Date."}
+{"id": "task046-7f33834c87504ab79a26ee78657445dd", "input": "Question: What mountian range runs through Tajikistan? (Answer: the Pamir range).", "target": "Entity."}
+{"id": "task046-a3443e83fe824162b029c4178c1aa191", "input": "Question: In which round was Chris Medina eliminated n season ten of American Idol? (Answer: Top 40).", "target": "Event."}
+{"id": "task046-a398d1063d76446a84a263ca3234088d", "input": "Question: What director win an Emmy Award for his work on American Idol?  (Answer: Bruce Gower).", "target": "Humans."}
+{"id": "task046-8ee925655c0f4185bb026a24e82b67c0", "input": "Question: How much did Spectre make in its first week? (Answer: \u00a341.7 million ($63.8 million)).", "target": "Money."}
+{"id": "task046-db4440a4433c4825a096cb94ebb34a50", "input": "Question: In what form is anatta not meant as a metaphysical assertion? (Answer: Nikayas).", "target": "Entity."}
+{"id": "task046-a4dc47d860c6450bbe6fb1abeefd8e5a", "input": "Question: Of the final two, which was an early favorite to win? (Answer: Justin Guarini).", "target": "Humans."}
+{"id": "task046-81ab57ee7b814863b546a6aeb3b47d56", "input": "Question: Horace de Saussure built the first box cooker in what year? (Answer: 1767).", "target": "Date."}
+{"id": "task046-891d00edd3a0456299a9202ca8f1eb85", "input": "Question: Gurian created what in 1939 at Notre Dame? (Answer: The Review of Politics).", "target": "Entity."}
+{"id": "task046-2f2a0ed4c17641518849e0d9563f97b6", "input": "Question: What publication does Alyssa Rosenberg write for? (Answer: The Washington Post).", "target": "Entity."}
+{"id": "task046-1b88ff8d408d47398db143634e5d951b", "input": "Question: The name Destiny's Child was based on a quote in which book of the Bible? (Answer: Book of Isaiah).", "target": "Entity."}
+{"id": "task046-634b393ca734418dba1b40541858a02b", "input": "Question: Who was the Tangs biggest rival? (Answer: Tibet).", "target": "Entity."}
+{"id": "task046-4fd062fe185e4d0f85217f6ac46b49ef", "input": "Question: What was modern Tajikistan part of around 500 BE? (Answer: the Achaemenid Empire).", "target": "Location."}
+{"id": "task046-2aa97c6511eb465aadbf2905758b5ff4", "input": "Question: Convicted perpetrators Popovic and Beara were found guilty of genocide despite what evasive action? (Answer: several plea bargains).", "target": "Other."}
+{"id": "task046-d3d242a968f7451bb58e13cacf25522f", "input": "Question: In which year was Pelayos proclaimed king? (Answer: 722 AD).", "target": "Date."}
+{"id": "task046-a1d122ec5d004d2b8b2926eae9210db5", "input": "Question: Who has the power to destroy bad karma? (Answer: Amit\u0101bha).", "target": "Entity."}
+{"id": "task046-a56123fbda0146bbb3ac6ba5612f5c2b", "input": "Question: In 2014 what entity named Notre Dame 10th best of all American universities? (Answer: USA Today).", "target": "Entity."}
+{"id": "task046-9f1e82f1d6f74295a49ea63fd9e449ae", "input": "Question: Beyonc\u00e9's Pepsi commercial inspired which star to join Pepsi's global campaign in 2012? (Answer: Nicki Minaj).", "target": "Humans."}
+{"id": "task046-4cdf1e6cf8444e4c961f665bbcafbe49", "input": "Question: Who was the mayor of New York City in 1861?  (Answer: Fernando Wood).", "target": "Humans."}
+{"id": "task046-db86b576e0f44a0c9f6fbf7f274052cf", "input": "Question: What proliferated in the last three decades of the 19th century? (Answer: anthropological societies).", "target": "Entity."}
+{"id": "task046-6af7016cd2ef4df7a09db1214382a779", "input": "Question: What did the Vice Minster of Health call the public health system in China? (Answer: insufficient).", "target": "Other."}
+{"id": "task046-1c28cad9135e4800894bfe275756d2c3", "input": "Question: What doctor was with Chopin when he wrote out his will? (Answer: Adam \u0141yszczy\u0144ski).", "target": "Humans."}
+{"id": "task046-684285ee1ad34a7980d0c62a171acac5", "input": "Question: What year did Fr\u00e9d\u00e9ric leave Warsaw after moving with his family to the south annex of Krasi\u0144ski Palace? (Answer: 1830).", "target": "Date."}
+{"id": "task046-c87dcc9c10fc4888bff78f38b78fb5b8", "input": "Question: What is the largest fire department force in the world? (Answer: Tokyo Fire Department).", "target": "Location."}
+{"id": "task046-7c7a625727c94f06a7f71283bd9d5135", "input": "Question: Where was Beyonc\u00e9's first public performance after giving birth? (Answer: Revel Atlantic City's Ovation Hall).", "target": "Facility."}
+{"id": "task046-2ec4073ddd7f41c68892a932be10dd60", "input": "Question: Jazz became popular during which decade in NYC? (Answer: 1940s).", "target": "Date."}
+{"id": "task046-14ed2a6facb74262b68004b64182a22a", "input": "Question: Since 1999, what average rate has the solar water heating sector progressed at? (Answer: 20% per year).", "target": "Quantity."}
+{"id": "task046-8594b0f379044360987c019d8a16f332", "input": "Question: What was the most important Mahayana centre of learning? (Answer: N\u0101land\u0101 University).", "target": "Entity."}
+{"id": "task046-94925e8f42a342acbacfa37f817af85e", "input": "Question: What artist did Kanye draw inspiration from when crafting Yeezus? (Answer: Le Corbusier).", "target": "Humans."}
+{"id": "task046-9be15e8161634fc19f2cdc0d5e71d439", "input": "Question: What was the title chopin gave of some spoof letters he wrote? (Answer: The Szafarnia Courier).", "target": "Entity."}
+{"id": "task046-a8d0c1c2a66443e791726e8b4f1db6cf", "input": "Question: What famous electronic duo did Kanye sample on his third album? (Answer: Daft Punk).", "target": "Entity."}
+{"id": "task046-dac7210a84ca4bd1a9b1b85bc42458be", "input": "Question: Against which opponent did Knute Rockne tell his team to \"win one for the Gipper?\" (Answer: the Army team).", "target": "Event."}
+{"id": "task046-88bed1b5e1324b7f9cb628ce38b7757c", "input": "Question: When did the use of solar water heaters in the US first begin? (Answer: in the 1890s).", "target": "Date."}
+{"id": "task046-b826f568f8a149cca70a6267f314ada3", "input": "Question: How much revenue did Spectre produce from the British, Scottish, and Irish market by 2/21/2016? (Answer: $138.1 million).", "target": "Money."}
+{"id": "task046-95025c6c6f774c4d9cac370aa0c29dc5", "input": "Question: What company manufactures the iPod? (Answer: Apple).", "target": "Organization."}
+{"id": "task046-45760d9b98014663bed3ac88d70f3d0f", "input": "Question: Into what country does Portugal's railway system expand? (Answer: Spain).", "target": "Location."}
+{"id": "task046-a93a367ad758457e906b9d18c16b6f0d", "input": "Question: In what year did Lusitania become a Roman province? (Answer: 27 BC).", "target": "Date."}
+{"id": "task046-133defc170254e8b82dc432582cdfaae", "input": "Question: In early Buddhism Bodhi used a meaning synonymous to what word? (Answer: nirvana).", "target": "Other."}
+{"id": "task046-70e6f15d22bd415898512758b224377d", "input": "Question: What happens when a doctor doesn't know the microorganism yet? (Answer: broad spectrum antibiotic).", "target": "Other."}
+{"id": "task046-1c000e879b8a49c6acbbce33fb28f2a4", "input": "Question: In what centuries did the Roman Catholic Church play a role in the reconquest? (Answer: 13th and 14th).", "target": "Date."}
+{"id": "task046-b2489567317147d68814df1330b5d016", "input": "Question: From what airport did the chartered flight leave? (Answer: Taiwan Taoyuan International Airport).", "target": "Facility."}
+{"id": "task046-06e0c09462d143f187bbd037b5151b54", "input": "Question: When is solar power is foreseen to become the largest source of electricity? (Answer: 2050).", "target": "Date."}
+{"id": "task046-f79c9d9add3f4785bae29892defb6cfb", "input": "Question: Which PC magazine praised the iPod for having \"altered the landscape for portable audio players\"? (Answer: PC World).", "target": "Organization."}
+{"id": "task046-c240d06935b5444f98737fd083a87231", "input": "Question: What does the China Seismic Intensity Scale call the earthquake? (Answer: very destructive).", "target": "Other."}
+{"id": "task046-3fda9a3bbe264ff9b95273706c515102", "input": "Question: When was Medina eliminated from the competition? (Answer: Top 40 round).", "target": "Event."}
+{"id": "task046-a31b88dbdc98423f837081e54a33f2e5", "input": "Question: Who published a book with unnecessarily long title, \"Exploring the City: Inquires Toward an Urban Anthropology\"? (Answer: Ulf Hannerz).", "target": "Humans."}
+{"id": "task046-6f89d8f2e30244ce860ed3ec95dbed19", "input": "Question: Who was accused of teaching the public how to power text for the winner? (Answer: AT&T employees).", "target": "Humans."}
+{"id": "task046-c910bdb12fe744999305f57d92a63b5a", "input": "Question: What is the name of the actor who received and Oscar nomination for his role as Chopin? (Answer: Cornel Wilde).", "target": "Humans."}
+{"id": "task046-c1bbf38385704ba0a65452e415f52fa5", "input": "Question: Who did Kanye West say doesn't care about black people? (Answer: George Bush).", "target": "Humans."}
+{"id": "task046-0d26f71bf6fd4bfe9ba485c55962c66a", "input": "Question: Pop Songwriter of the Year award in 2001 was awarded to whom? (Answer: Beyonc\u00e9).", "target": "Humans."}
+{"id": "task046-f0c975de02894926a2f79fc74eadc5bd", "input": "Question: Who was the fourth Dalai Lama? (Answer: Yonten Gyatso).", "target": "Humans."}
+{"id": "task046-399157b08c994e1aaa7617af9e2b5f02", "input": "Question: What was the name of the poet Chopin became acquainted with in Paris? (Answer: Adam Mickiewicz).", "target": "Humans."}
+{"id": "task046-b023ffa8b02c487992396697f2b31579", "input": "Question: What is the English term for Vajrayana? (Answer: Diamond Vehicle).", "target": "Other."}
+{"id": "task046-4c96512dfd204fbf8a6ee944decd2639", "input": "Question: What have researchers been denied? (Answer: access to seismological and geological data).", "target": "Other."}
+{"id": "task046-5cadb57d1dc14a3ba2ebfe7568cee17e", "input": "Question: Who was the winner? (Answer: David Cook).", "target": "Humans."}
+{"id": "task046-c6dfa5de032342f1acf334bd66861dd9", "input": "Question: From what old Germanic word is Alenquer originate? (Answer: Alankerk).", "target": "Entity."}
+{"id": "task046-3abefb6dcd80418a860278a05b758166", "input": "Question: What 3 US organizations have called for the banning of antibiotics in the production of food animals? (Answer: American Society for Microbiology (ASM), American Public Health Association (APHA) and the American Medical Association (AMA)).", "target": "Organization."}
+{"id": "task046-a30d0986f4524b8698bc35d38c5941d1", "input": "Question: Which dynasty became ruler of Tibet?   (Answer: the Phagmodrupa Dynasty).", "target": "Entity."}
+{"id": "task046-c335ce5b40554af4be1150e7bbfdd544", "input": "Question: What country borders Tajikistan to the east? (Answer: China).", "target": "Location."}
+{"id": "task046-a95d933f58894bc29b26535292ba15c9", "input": "Question: Who manufactured the hard drives for the first iPods? (Answer: Toshiba).", "target": "Organization."}
+{"id": "task046-562783ee9b7a49388902424c17e10cec", "input": "Question: When did Gautama Buddha discover the Middle Way? (Answer: prior to his enlightenment).", "target": "Date."}
+{"id": "task046-05232ca33d9443a18d1de774a818bbae", "input": "Question: Who lost their power over Tibet? (Answer: the Phagmodrupa).", "target": "Humans."}
+{"id": "task046-7564d6b25efb49bb9d7ddba05ea9411c", "input": "Question: The majority of peripherals for iPod are produced by what kinds of companies? (Answer: third parties).", "target": "Organization."}
+{"id": "task046-bd7e4900a0bd400791f4e00d81926981", "input": "Question: What was done for the anniversary? (Answer: a moment of silence).", "target": "Event."}
+{"id": "task046-7d6aa31ba86d4331bc54a64872b17f70", "input": "Question: In what year did Nintendo reveal that the two different releases of Twilight Princess were planned for launch at the same time as the Wii? (Answer: 2006).", "target": "Date."}
+{"id": "task046-8107d5e136844ac6a80aaa15399093d8", "input": "Question: In what year was the Notre Dame College of Science formed? (Answer: 1865).", "target": "Date."}
+{"id": "task046-b7c91d3da65247b78674142d05ae25c1", "input": "Question: What comedy channel on cable television is headquartered in New York? (Answer: Comedy Central).", "target": "Entity."}
+{"id": "task046-f5c06666b1664f9b9bb19b8379cc3c6d", "input": "Question: In 2013-4, what percentage of New York state tax revenues came from the securities business on Wall Street? (Answer: 19%).", "target": "Quantity."}
+{"id": "task046-d6955ca6536043d0aa0a68a62d999dfb", "input": "Question: What percent of the state is Native American Indian? (Answer: 6.3 percent).", "target": "Quantity."}
+{"id": "task046-796185b55e5c466e944ef74c19e1bf6e", "input": "Question: Who wrote the music used in the game's trailer and demo? (Answer: Koji Kondo).", "target": "Humans."}
+{"id": "task046-115c0c3bb6eb45cd90c31b3b380c1b8e", "input": "Question: Which version of the theme was used in the actual movie? (Answer: demo).", "target": "Other."}
+{"id": "task046-ddda3b25cd804d80a323267e16c930ea", "input": "Question: During what years did Fr\u00e9d\u00e9ric visit the Warsaw Lyceum for lessons? (Answer: 1823 to 1826).", "target": "Date."}
+{"id": "task046-53556c69a5c34c309fa65bf764aad6c8", "input": "Question: What are a couple examples of Summer music festivals held in Portugal? (Answer: Festival Sudoeste in Zambujeira do Mar, Festival de Paredes de Coura in Paredes de Coura, Festival Vilar de Mouros near Caminha,).", "target": "Event."}
+{"id": "task046-8b97d7d929274e5194cd08123c744e49", "input": "Question: What does AI stand for? (Answer: artificial intelligence).", "target": "Abbreviation."}
+{"id": "task046-6415077c4ff24e95957312c7181456b1", "input": "Question: Beyonce portrayed which character in the film, Cadillac Records? (Answer: Etta James).", "target": "Entity."}
+{"id": "task046-a5c89b46b8c9460f9df66d7936d64a05", "input": "Question: Which American Idol contestant has won the biggest number of Grammy Awards? (Answer: Carrie Underwood).", "target": "Humans."}
+{"id": "task046-5381c7d062114883a78a3efe3cb4a48e", "input": "Question: While in Berlin he saw the operatic work of who? (Answer: Gaspare Spontini).", "target": "Humans."}
+{"id": "task046-c9ad36f08a824ca59a971a2540836cc2", "input": "Question: What actor was Kanye defending on Twitter in February 2016? (Answer: Bill Cosby).", "target": "Humans."}
+{"id": "task046-c7a5ce5528344e7baaa1022ea53621a6", "input": "Question: Which contestant was surprisingly eliminated during the top four episode?  (Answer: Tamyra Gray).", "target": "Humans."}
+{"id": "task046-c55ee98e382545239eb7d91e3dc4b9a8", "input": "Question: Who was rumored to have written the book instead of Lee? (Answer: Truman Capote).", "target": "Humans."}
+{"id": "task046-b0b19858e5a14a0da2cecbe3963da543", "input": "Question: Who was the host of American idol in its thirteenth season? (Answer: Ryan Seacrest).", "target": "Humans."}
+{"id": "task046-1661a73ce23a4945a05e00813975fc6c", "input": "Question: Where did Khubilai seek support as Emperor? (Answer: China).", "target": "Location."}
+{"id": "task046-454a90045b8d4279bc6f46b88bab0559", "input": "Question: Who was the letter addressed to? (Answer: Angela Merkel and Nkosazana Dlamini-Zuma).", "target": "Humans."}
+{"id": "task046-2ee0093fab784e5d8c79636f23a94922", "input": "Question: What year did building begin of Fort Amsterdam on Manhattan Island? (Answer: 1625).", "target": "Date."}
+{"id": "task046-77a52167063242ad918c54cae4055d83", "input": "Question: When did Vote for the Girls start? (Answer: 2010).", "target": "Date."}
+{"id": "task046-534644ce31a94892bae7e2df4a185f88", "input": "Question: What are the names of the two people that created a documentary for Italian tele vision? (Answer: Angelo Bozzolini and Roberto Prosseda).", "target": "Humans."}
+{"id": "task046-fa84f4f1bb534c10aa8001830c43c427", "input": "Question: Who was in charge of overseeing audio production? (Answer: Koji Kondo).", "target": "Humans."}
+{"id": "task046-5a920339d9cb41fb924b669541f0c9d0", "input": "Question: Who believed that they were the true Han Western representatives?  (Answer: foreign officials).", "target": "Humans."}
+{"id": "task046-1e65159d00bb499d980cbef5f48a8903", "input": "Question: August 24, 1673 is when which Dutch officer  took control of NYC? (Answer: Anthonio Colve).", "target": "Date."}
+{"id": "task046-1ee6ec11be7a451d92cbf215497d2160", "input": "Question: What publishing company bought To Kill a Mockingbird? (Answer: J. B. Lippincott).", "target": "Entity."}
+{"id": "task046-ee2b55d6e48e49a8a9e50a62823f88b4", "input": "Question: What artist made portraits of the Chopin family in 1829? (Answer: Ambro\u017cy Mieroszewski).", "target": "Humans."}
+{"id": "task046-7dae213962384cf1b3b1f592aaba76e4", "input": "Question: When did Chopin's family move to Warsaw? (Answer: October 1810).", "target": "Date."}
+{"id": "task046-9a8cd7fd766a47d4b5ed8ad110465040", "input": "Question: What have several anthropologists noted about Western artistic endeavors and their place in non-Western contexts? (Answer: do not exist).", "target": "Other."}
+{"id": "task046-428e1a6803d5401ba8f670c5dd3085c4", "input": "Question: In what year did the initial degrees get handed out at Notre Dame? (Answer: 1849).", "target": "Date."}
+{"id": "task046-078199cc6de84d7ebbd5c7ff79ad6f36", "input": "Question: In what year was the 6th gen iPod Classic released? (Answer: 2007).", "target": "Date."}
+{"id": "task046-6b056daade7a41e79650e1740de6f78a", "input": "Question: What city is home to the largest municipal fire department in the world? (Answer: Tokyo).", "target": "Location."}
+{"id": "task046-1f0f81035dbc44019b950d751c8b91f1", "input": "Question: Who was a pop idol that started on American Idol? (Answer: Fantasia).", "target": "Humans."}
+{"id": "task046-def0e6d2bf2d4ae8af5873f5a6c77899", "input": "Question: In what year did the population of New York first reach an all-time high in this period? (Answer: 2000).", "target": "Date."}
+{"id": "task046-a405d832828146b3903242793e7119ae", "input": "Question: In what year did Notre Dame football begin? (Answer: 1887).", "target": "Date."}
+{"id": "task046-4aaa9d318ac246348970e6d3fa89e0ed", "input": "Question: what year was the history of Ming produced?  (Answer: 1739).", "target": "Date."}
+{"id": "task046-ee1a51e348884bf6b8d81a353187ced2", "input": "Question: A movie adaptation of the book was released in what year? (Answer: 1962).", "target": "Date."}
+{"id": "task046-564bc70e2743489b9dcce616d88e18f4", "input": "Question: Which year was Lee awarded an induction into the Alabama Academy of Honor? (Answer: 2001).", "target": "Date."}
+{"id": "task046-462d3a48235d4d7795d4920e5c5e3063", "input": "Question: In what year was Father Edward Sorin given two years to create a college? (Answer: 1842).", "target": "Date."}
+{"id": "task046-fbd9a70cdb234e10b35f525bd3453149", "input": "Question: What year was Beyonc\u00e9 featured both on the Time 100 list as well as the cover of the issue? (Answer: 2014).", "target": "Date."}
+{"id": "task046-8a966c96be204bf0bd10bdab4d9d8ede", "input": "Question: Which years were plagued by the Black Death? (Answer: 1348 and 1349).", "target": "Date."}
+{"id": "task046-01dac0c69ae5414fb56e02a1d5b03c33", "input": "Question: In what year was the Grotto of Our Lady of Lourdes at Notre Dame constructed? (Answer: 1896).", "target": "Date."}
+{"id": "task046-dd0018fcbcb54ce8813a8d3b38fc431d", "input": "Question: What two cities have a population over 50,000? (Answer: Missoula and Great Falls).", "target": "Location."}
+{"id": "task046-f6cde8b23f2b4090897ab51830fa2896", "input": "Question: What does Sperling claim did not have any control over Tibet? (Answer: China's intervening Ming dynasty).", "target": "Entity."}
+{"id": "task046-3dffa511bddf4354b6f7705d2688d708", "input": "Question: In what year did the Netherlands claim the area between Delaware Bay and Cape Cod? (Answer: 1614).", "target": "Date."}
+{"id": "task046-2a7a6f639a8f46a7801362b6f3148738", "input": "Question: What university was Lok-Ham Chan a professor at? (Answer: the University of Washington).", "target": "Location."}
+{"id": "task046-1095c70679114b18bfa4a14ff1397491", "input": "Question: When could GameCube owners purchase Twilight Princess? (Answer: December 2006).", "target": "Date."}
+{"id": "task046-261750cd6b56455da1d315386a3ea889", "input": "Question: Who was given the grandiose title? (Answer: Sonam Gyatso).", "target": "Humans."}
+{"id": "task046-ffd4d7eae33b46bca933088c70fe6ea1", "input": "Question: By which year, did New York City become the largest city in the United States? (Answer: 1790).", "target": "Date."}
+{"id": "task046-42e660d0e5ca4a2390eef6f18f66dffd", "input": "Question: What patent holding company sued Apple in 2007? (Answer: Burst.com).", "target": "Organization."}
+{"id": "task046-b6deaf6f0afe4fe69d95cfabeae1d8e5", "input": "Question: What year did Simon Cowell announce that he was leaving American Idol? (Answer: 2010).", "target": "Date."}
+{"id": "task046-c96ca05df4324b2fa756656fce5b7b5d", "input": "Question: What is the world's oldest monographic music competition? (Answer: the International Chopin Piano Competition).", "target": "Event."}
+{"id": "task046-fdd42dcc058845318181e809a4465eef", "input": "Question: What is the term for someone who has achieved nirvana? (Answer: arahant).", "target": "Other."}
+{"id": "task046-89b833b855694f90a6f5aa3da7e10fd0", "input": "Question: Which contestant was talked about more than any other this season? (Answer: Sanjaya Malakar).", "target": "Humans."}
+{"id": "task046-7e15b8cb35ff43feb01502798088508b", "input": "Question: Which judge is a country music singer? (Answer: Keith Urban).", "target": "Humans."}
+{"id": "task046-3248d78f5d334f56aeb42b8d95aa407e", "input": "Question: Who was the first Rock and Roll artist to win American Idol? (Answer: David Cook).", "target": "Humans."}
+{"id": "task046-e6ea686a8a1246f2b7ad898f42f32d8b", "input": "Question: Who is Beyonc\u00e9 married to? (Answer: Jay Z).", "target": "Humans."}
+{"id": "task046-43334eb678c14870b954991be1a2e919", "input": "Question: Who was Altan Khan's nominal superior? (Answer: T\u00fcmen Khan).", "target": "Humans."}
+{"id": "task046-3b16b00a1fe44c969eb929689918bf95", "input": "Question: As of 2007, what percentage of Apple's revenue came from iPod sales? (Answer: 32%).", "target": "Quantity."}
+{"id": "task046-a34175c2c60449ee8e9f0702a4304fe4", "input": "Question: When was the Guggenheim built? (Answer: 1959).", "target": "Date."}
+{"id": "task046-1cb5a227e0d94d9d84ba90479b29897f", "input": "Question: Who wrote in their will that they received loving care from the emperor in the east? (Answer: The Tai Situpa).", "target": "Humans."}
+{"id": "task046-cde3e2a09d544b67824de25960000b4e", "input": "Question: When did season four premiere? (Answer: January 18, 2005).", "target": "Date."}
+{"id": "task046-a65d1099690b44beb0ef2e76f02d3826", "input": "Question: Fort Wadsworth and Fort Totten are located in which area of New York City? (Answer: Queens).", "target": "Location."}
+{"id": "task046-109065a4e58c46cdb52ae8e96e8a6078", "input": "Question: In what borough is the Appellate Division of the Supreme Court located? (Answer: Manhattan).", "target": "Location."}
+{"id": "task046-7f54ecb79f9d4009b6eb4cf6ce76edf4", "input": "Question: The Brooklyn Bridge was the worlds largest until what date? (Answer: 1903).", "target": "Date."}
+{"id": "task046-94ae7821fb03439393b32898b71ad1c7", "input": "Question: What country does Akiko Komoto come from? (Answer: Japan).", "target": "Location."}
+{"id": "task046-365a367b0dac43e7ab05281704a7d074", "input": "Question: How many years does the story of To Kill a Mockingbird take place? (Answer: three).", "target": "Quantity."}
+{"id": "task046-abb2f544748e48719a55e3d9f2de97a3", "input": "Question: What network broadcasted American Idol live in Canada for thirteen seasons?  (Answer: CTV).", "target": "Organization."}
+{"id": "task046-09c1656234e5400faec003d6ea20f0be", "input": "Question: Who was the 8th Karmapa Lama? (Answer: Miky\u00f6 Dorje).", "target": "Humans."}
+{"id": "task046-96519056d71b4187bd026fb48f03500f", "input": "Question: When did Alexis Phifer and Kanye West get engaged? (Answer: August 2006).", "target": "Date."}
+{"id": "task046-02bd25bffa2d437e8fb19bd2409115cf", "input": "Question: Which member of Spectre had been presumed to be dead? (Answer: Franz Oberhauser).", "target": "Humans."}
+{"id": "task046-715e28e2f7a14b1e8dd106721a6b8d6c", "input": "Question: When did Fox announce that American Idol is ending? (Answer: May 11, 2015).", "target": "Date."}
+{"id": "task046-78ec7cb0962b4b5ba907c927b1451c34", "input": "Question: The English occupied New York City beginning on what date? (Answer: 1664).", "target": "Date."}
+{"id": "task046-e696caf3f9b6457c9706bdeb7fb06cb3", "input": "Question: What year was Montana's statehood approved? (Answer: 1889).", "target": "Date."}
+{"id": "task046-eae62e75a4074f86abbbd94ad18fda00", "input": "Question: iPods released before what year had issues with distorted bass? (Answer: 2006).", "target": "Date."}
+{"id": "task046-21de69c3330d4a658a0e32b04791c0e6", "input": "Question: What year did Vote for the Worst cease operations?  (Answer: 2013).", "target": "Date."}
+{"id": "task046-ddbbe9359514439b800406217175f3aa", "input": "Question: Who complimented West in Time Magazine? (Answer: inventor Elon Musk).", "target": "Humans."}
+{"id": "task046-3f29227838be474e9409853f5020f538", "input": "Question: When did Kanye West start dating Kim Kardashian? (Answer: April 2012).", "target": "Date."}
+{"id": "task046-025886a225ed441fa75cfe013c02020d", "input": "Question: What actor portrayed Franz Oberhauser? (Answer: Christoph Waltz.).", "target": "Humans."}
+{"id": "task046-8f9d58515f094092a6abe7caad17860a", "input": "Question: When did the EU ban antibiotics for speeding up growth? (Answer: 2003).", "target": "Date."}
+{"id": "task046-9b9a5c474630485eb7e5d5cee1ab8659", "input": "Question: In what year did New York City adopt the mayor-council form of government? (Answer: 1898).", "target": "Date."}
+{"id": "task046-636fba447a5b47308b561d24a846bed2", "input": "Question: By what year had the situation in Europe cool down enough so that Joao VI would have been able to safely return to Lisbon? (Answer: 1815).", "target": "Date."}
+{"id": "task046-1d47f6b47c784295b4d4a983a693d6c7", "input": "Question: When was the first teaser trailer of Spectre released? (Answer: March 2015).", "target": "Date."}
+{"id": "task046-50cf8e7b2be5413d90e15265bde96683", "input": "Question: What are two of the large non-state run research institutions in Portugal? (Answer: Instituto Gulbenkian de Ci\u00eancia and the Champalimaud Foundation).", "target": "Organization."}
+{"id": "task046-d2813fa9ac7848f6bee80b1bf0e51ee4", "input": "Question: In what year was the grand opening of the Museum for African Art on 110th Street? (Answer: 2012).", "target": "Date."}
+{"id": "task046-e451fda1777c496dbab50ae80d93adc2", "input": "Question: When did Beijing agree to aid from Taiwan? (Answer: late on May 13).", "target": "Date."}
+{"id": "task046-00e0c8e8e4d441599c265387c36f53fd", "input": "Question: Which company was accused of coloring Beyonce's hair? (Answer: L'Or\u00e9al).", "target": "Organization."}
+{"id": "task046-abd99ffd7de14ab494cc1da171083888", "input": "Question: What was the median age for viewers for season one? (Answer: 32.1).", "target": "Quantity."}
+{"id": "task046-67e72ea19b7f454784b2af4531b5147e", "input": "Question: Who gave Chopin money in the last years of his life? (Answer: Jane Stirling).", "target": "Humans."}
+{"id": "task046-f0cb5d0e04024beb98a2c855b7ca6bff", "input": "Question: What countries had Tajikistan been working with to use ports? (Answer: Iran and Pakistan).", "target": "Location."}
+{"id": "task046-5d05708d60ac4c589118c7fa31e534d5", "input": "Question: What influenced Nicki Minaj to join the Pepsi global campaign? (Answer: Beyonc\u00e9's Pepsi commercial).", "target": "Event."}
+{"id": "task046-a56fb3530db64463b8fa410416d3007d", "input": "Question: Who was the fortune hunter engaged to Sand's daughter? (Answer: Auguste Cl\u00e9singer.).", "target": "Humans."}
+{"id": "task046-dcde2342fc6c45668d6af5e910adeaca", "input": "Question: Which prominent star felt the 2009 Female Video of the Year award should have went to Beyonc\u00e9 instead of Taylor Swift? (Answer: Kanye West).", "target": "Humans."}
+{"id": "task046-27a15a589f6b4325a335649a5da82134", "input": "Question: What record label signed the winner of season fourteen of American Idol? (Answer: Big Machine Records).", "target": "Organization."}
+{"id": "task046-41c23886d7994027bdfbba33221aaadd", "input": "Question: What is the shortened reference for the Kobyla\u0144ska Catalogue? (Answer: KK).", "target": "Abbreviation."}
+{"id": "task046-5b88bd9717fb4891ac4b956053b3aac0", "input": "Question: What percentage of the population identifies as Hispanic? (Answer: 28.6%).", "target": "Quantity."}
+{"id": "task046-970390fe3b1e4497a970c2f8825be537", "input": "Question: Who was the director that unintentionally announced a Zelda game was in the works? (Answer: Eiji Aonuma).", "target": "Humans."}
+{"id": "task046-4351a512f1144455a89e6489ecf6d45f", "input": "Question: Who is the main example of an innocent destroyed in the novel? (Answer: Tom Robinson).", "target": "Humans."}
+{"id": "task046-5bf484bf58804ea4b2ce0fa82e0627c3", "input": "Question: who talked about Beyonce's tone and timbre as distinctive? (Answer: Jody Rosen).", "target": "Humans."}
+{"id": "task046-26cee3e3029b435faf4f4cfc4689444a", "input": "Question: Who was Maria's mother? (Answer: Countess Wodzi\u0144ska).", "target": "Humans."}
+{"id": "task046-da78c992a97b429f8f5a2802afb54635", "input": "Question: Who is responsible for the first fictionalized account of Chopin's life? (Answer: Giacomo Orefice).", "target": "Humans."}
+{"id": "task046-80cc05084f1d41a79eadefc416998bd7", "input": "Question: What famous basketball player made two large donations to the crisis? (Answer: Yao Ming).", "target": "Humans."}
+{"id": "task046-d23ea868f7644d008a08f6ebbb181d35", "input": "Question: On what date did Fr\u00e9d\u00e9ric give his first performance of Piano Concerto No. 2 in F minor, Op. 21? (Answer: 17 March 1830).", "target": "Date."}
+{"id": "task046-72321fe483ac4cbea8fe92f61aaff90d", "input": "Question: Who became the second Karmapa Lama? (Answer: Karma Pakshi).", "target": "Humans."}
+{"id": "task046-50333101f3ab4c83b44661b6bbfcf3c6", "input": "Question: Which British tabloid accused Apple of unfair worker conditions in 2006? (Answer: The Mail).", "target": "Organization."}
+{"id": "task046-6851f90b740d4246a95098cfc3a46ed5", "input": "Question: At which location is the London Center operated by Notre Dame found? (Answer: 1 Suffolk Street in Trafalgar Square).", "target": "Location."}
+{"id": "task046-39b02a8e02654143b7c7daea03c39f93", "input": "Question: Who annexed the County of Portugal into the Kingdom of Asturias? (Answer: King Alfonso III).", "target": "Humans."}
+{"id": "task046-d4f41d35a3774a338096d8944a71c26b", "input": "Question: When did the English army start to retreat and evacuate NYC during the Battle of Long Island? (Answer: 1783).", "target": "Date."}
+{"id": "task046-15ce42fd4e7046a29bbb740197f0d27a", "input": "Question: To who did Kanye state that Beck should hand his award over to? (Answer: Beyonc\u00e9).", "target": "Humans."}
+{"id": "task046-3930e5f75a124866a2bc99566d7d5739", "input": "Question: In what neighborhood did the Stonewall riots occur? (Answer: Greenwich Village).", "target": "Location."}
+{"id": "task046-bf5b2d46e7cb47b0b8189706d292ab89", "input": "Question: Who was the founder of the Gelug school? (Answer: Je Tsongkhapa).", "target": "Humans."}
+{"id": "task046-52902d7b32f6442abdacac74a401c8f2", "input": "Question: Who wrote a glowing review of Chopin's love for his country through his music in 1836? (Answer: Schumann).", "target": "Humans."}
+{"id": "task046-bcbfb4f339d94893b3311711af209526", "input": "Question: What American city welcomes the largest number of legal immigrants? (Answer: New York).", "target": "Location."}
+{"id": "task046-362242396dfa4cffac78ac920c57eecf", "input": "Question: Where is the Longmenshan Fault located? (Answer: the eastern border of the Tibetan Plateau).", "target": "Location."}
+{"id": "task046-ebd7ef22da084bad911cf3c5e29ab4d7", "input": "Question: In what year did Lee stop giving interviews about the book? (Answer: 1964).", "target": "Date."}
+{"id": "task046-262c6c181e9849fbbd43ac4fb875fff1", "input": "Question: About what percentage of New York City travel is done by bike or on foot? (Answer: 21%).", "target": "Quantity."}
+{"id": "task046-1cb9aa73a26b4332b74f6138ac53e325", "input": "Question: When did Deshin Shekpa travels start? (Answer: 1403).", "target": "Date."}
+{"id": "task046-cfbd60aba50b473092af87e0ea8befc0", "input": "Question: When did season 14 premiere? (Answer: January 7, 2015).", "target": "Date."}
+{"id": "task046-093e5272b8ff4ab3a39cb72d3c0c7bde", "input": "Question: On what day was King Manuel II overthrown? (Answer: 5 October 1910).", "target": "Date."}
+{"id": "task046-35e1533852414c048fe7420b56a117c8", "input": "Question: Which country did Skyfall move its pre-title sequence filming to? (Answer: Istanbul).", "target": "Location."}
+{"id": "task046-6595c95d936244dbb245bec8636249ee", "input": "Question: When was 808s & Heartbreaks released?  (Answer: November 2008).", "target": "Date."}
+{"id": "task046-d1c193bcadea49eda6a53bc1f2221bfc", "input": "Question: Where did Chopin and Hiller go with the person Chopin met in the spring of 1834? (Answer: D\u00fcsseldorf).", "target": "Location."}
+{"id": "task046-d9015a6ec82142a781c1024f9b1d7e9d", "input": "Question: When did Portugal exit the bailout? (Answer: May 2014).", "target": "Date."}
+{"id": "task046-13528ae436db4d56a4f14ce6009add00", "input": "Question: When did Tajikistan become an independent nation? (Answer: 1991).", "target": "Date."}
+{"id": "task046-a2d760d6161c49e59b13cb1832b84387", "input": "Question: Who ruled as the the Hongwu Emperor? (Answer: Zhu Yuanzhang).", "target": "Humans."}
+{"id": "task046-8520c4fa33f243a095b312963febdd0e", "input": "Question: When was the second constitutional convention held? (Answer: 1884).", "target": "Date."}
+{"id": "task046-78e012327f2c447bbbd195e20b42412c", "input": "Question: When did season ten premiere? (Answer: January 19, 2011).", "target": "Date."}
+{"id": "task046-1011f9f17d6d47db94da12c72df11a4d", "input": "Question: In what borough is the Douglaston neighborhood located? (Answer: Queens).", "target": "Location."}
+{"id": "task046-4655de9ea1d340f2bbb80c6c993f1ec3", "input": "Question: Who was the previous overseer of the London interbank offered rate? (Answer: British Bankers Association).", "target": "Organization."}
+{"id": "task046-eed81aa573a74ad482051a7f3557de23", "input": "Question: Where did Fr\u00e9d\u00e9ric live with his family while they were in Warsaw? (Answer: the Palace grounds).", "target": "Location."}
+{"id": "task046-72884626abfa4bb0b12898d926a357e1", "input": "Question: As of 2002, to what city did New York have a comparable crime rate? (Answer: Provo, Utah).", "target": "Location."}
+{"id": "task046-294a7eda647e4a6bad0d76fe309b64a8", "input": "Question: What year did Fox announce the cancellation of American Idol? (Answer: 2015).", "target": "Date."}
+{"id": "task046-f5104c097e874e0d987bb99e9e389a07", "input": "Question: When did Beyonce have her first child? (Answer: January 7, 2012).", "target": "Date."}
+{"id": "task046-cd9289a20f6b4a668a632dd599ecf903", "input": "Question: On what day did the Kanye's famous George W. Bush criticism take place? (Answer: September 2, 2005).", "target": "Date."}
+{"id": "task046-6273698a9bcd496398ff3b94f4a75824", "input": "Question: After which war did England gain New York in exchange for Run, an Indonesian island? (Answer: Second Anglo-Dutch War).", "target": "Event."}
+{"id": "task046-127c6661558b416cb72e462a8425fc77", "input": "Question: In what year was the Sun Power Company formed? (Answer: 1908).", "target": "Date."}
+{"id": "task046-b7f9e805972248a7b2bbd6fa90f2d332", "input": "Question: In what year was \"Cruel Summer\" released? (Answer: 2012).", "target": "Date."}
+{"id": "task046-3b53dea435cb4d639dccf50a9e5dc108", "input": "Question: In minutes, how long does it take for the average New Yorker to get to work? (Answer: 38.4).", "target": "Quantity."}
+{"id": "task046-a3841a2be18144a18455d7abff155ec2", "input": "Question: What borough has the largest population of Jewish people? (Answer: Brooklyn).", "target": "Location."}
+{"id": "task046-f99b396775834fe19049a65ec9ffdcb6", "input": "Question: When did Beyonce and her mother start Dereon? (Answer: 2005).", "target": "Date."}
+{"id": "task046-4b38043580504d268cdf23f0c762f9bd", "input": "Question: In one of his works who affirmed the popularity of Chopin as a child? (Answer: Julian Ursyn Niemcewicz).", "target": "Humans."}
+{"id": "task046-656c44e3d47a458daca973c03e6e9b7f", "input": "Question: Which contestant was removed from the show for modelling for an adult website? (Answer: Frenchie Davis).", "target": "Humans."}
+{"id": "task046-ed1e6c60acba43819bde2ea4a3686ec4", "input": "Question: Who drove through the Queens-Midtown Tunnel before anyone else? (Answer: Franklin D. Roosevelt).", "target": "Humans."}
+{"id": "task046-f01f868af2a24cb1880205558920bfa0", "input": "Question: Who was Kanye's greatest cultural figure? (Answer: Puff Daddy).", "target": "Humans."}
+{"id": "task046-9d60ee7a0b964240a8a9d9a4345af6b4", "input": "Question: How many awards was Beyonce nominated for at the 52nd Grammy Awards? (Answer: ten).", "target": "Quantity."}
+{"id": "task046-ab51b569ac67482ab5fea31a66655efd", "input": "Question: Who was Yongle Emperor's father? (Answer: the Hongwu Emperor).", "target": "Humans."}
+{"id": "task046-30ba2faec9b744ce8d0cf8d4832d2e5b", "input": "Question: Which former contestant replaced Keith Urban for auditions in New York City? (Answer: Adam Lambert).", "target": "Humans."}
+{"id": "task046-166410ca9ecb46838c3c6487adf1d7dd", "input": "Question: Where is the Sangzao Middle School? (Answer: Sangzao).", "target": "Location."}
+{"id": "task046-54751f6411714200a3d4e837d899045a", "input": "Question: Buddha recommended viewing thing by how many marks of existence? (Answer: three).", "target": "Quantity."}
+{"id": "task046-76720ed723d24b95a3f6def57ce1e686", "input": "Question: What company had a partnership with The Walt Disney Company for The American Idol Experience?  (Answer: 19 Entertainment).", "target": "Organization."}
+{"id": "task046-ff9d8c389764453fb3663fb8a92f6bf8", "input": "Question: In what state did the president of HHC previously work? (Answer: Illinois).", "target": "Location."}
+{"id": "task046-9006288f52e145bb9cfd3d63944b065d", "input": "Question: How many judges did this season have? (Answer: four).", "target": "Quantity."}
+{"id": "task046-053ffc0075fd4da1b9b2fec9b54342fc", "input": "Question: When did Chopin end his relationship with Sand? (Answer: 1847).", "target": "Date."}
+{"id": "task046-659d74fdc04f43269782625b7ab514c0", "input": "Question: NYC has the largest white population by how many people? (Answer: 2.7 million).", "target": "Quantity."}
+{"id": "task046-a863f60ea5d74685b9705b4995453555", "input": "Question: How many people watched the first episode of American Idol? (Answer: 9.9 million).", "target": "Quantity."}
+{"id": "task046-c9c4dd82119c40a9ae115391441c524f", "input": "Question: How many pairs of shoes were sold in the initial release in New York City? (Answer: 9000).", "target": "Quantity."}
+{"id": "task046-798c5b846d3c4e879c89ac1712c5f46a", "input": "Question: How many liters of water per minute did Shuman's engine pump in litres? (Answer: 22,000).", "target": "Quantity."}
+{"id": "task046-72ef9c6e30d44e25bfac77285b7bd560", "input": "Question: How many students were disabled in Xinhua? (Answer: 546).", "target": "Quantity."}
+{"id": "task046-9fcb8413dad94d5698acad08e486fad0", "input": "Question: What is the non-Hispanic white population of Houston? (Answer: 550,000).", "target": "Quantity."}
+{"id": "task046-732a2b1e3d284220a5fd7e25fff30a59", "input": "Question: How many homes had been rebuilt? (Answer: 200,000).", "target": "Quantity."}
+{"id": "task046-83ae573c91f040d597a2b3997ea15fff", "input": "Question: In what year was the Portuguese Constitution approved? (Answer: 1976).", "target": "Date."}
+{"id": "task046-fcaf0b6a642045f59150cd3befb793b1", "input": "Question: How many square miles are water in NYC? (Answer: 164.1).", "target": "Quantity."}
+{"id": "task046-47904e5b895a4881bdcb0bf07696e1a0", "input": "Question: How many people were left without housing? (Answer: 5 million).", "target": "Quantity."}
+{"id": "task046-fc19c21c41be445fabd0dff3ae0a302c", "input": "Question: When did Jenny Lind visit Chopin? (Answer: June 1849).", "target": "Date."}
+{"id": "task046-a5ff3a847b3945fc94f2acf53ffe176a", "input": "Question: How many tourists visited New York in 2011? (Answer: 51 million).", "target": "Quantity."}
+{"id": "task046-afff9dd8b82a4919a0c60d9d6bbf3ea5", "input": "Question: Solar water disinfection is recommended by which organization? (Answer: the World Health Organization).", "target": "Organization."}
+{"id": "task046-ce1dcd601c574f93aa04fafd7ad99bc4", "input": "Question: In what city are the New York Red Bulls based? (Answer: Harrison, New Jersey).", "target": "Location."}
+{"id": "task046-5c8fd22d8d2b44c5be5561d939934650", "input": "Question: How many awards did Beyonc\u00e9 win at the 46th Grammy's Awards? (Answer: five.).", "target": "Quantity."}
+{"id": "task046-64f9a91dae0e44afb874244bce9b95da", "input": "Question: Who visited Chopin in 1844 and wrote about his inability to move? (Answer: Charles Hall\u00e9).", "target": "Humans."}
+{"id": "task046-c97d675696c0455e9a19007dc1d8a8b6", "input": "Question: Who eradicated the Sakya viceregal regime?  (Answer: the Phagmodru myriarch Tai Situ Changchub Gyaltsen).", "target": "Humans."}
+{"id": "task046-e4936a31eb4a4d34b323f7be41a1bfb2", "input": "Question: What number of Portuguese adults rated their health as good or very good? (Answer: one third).", "target": "Quantity."}
+{"id": "task046-43afd4f71bdb4240a650f9018426f26f", "input": "Question: On what date did a rescue helicopter crash with no survivors? (Answer: May 31).", "target": "Date."}
+{"id": "task046-0e99f7e803724c28ba4126d79d7835a6", "input": "Question: Who aided the Yongle Emperor? (Answer: the Buddhist monk Yao Guangxiao).", "target": "Humans."}
+{"id": "task046-22582ee884d54ee9b240bf10336eb0b3", "input": "Question: How many albums has Kanye sold? (Answer: 32 million).", "target": "Quantity."}
+{"id": "task046-569f446471f44e7c8c33746e4ac1e580", "input": "Question: When did the division of cyborg anthropology originate? (Answer: 1993).", "target": "Date."}
+{"id": "task046-e84e52f663e1463f96cbbe1f01863209", "input": "Question: Which singer did Beyonce honor by entertaining with her song \"Deja Vu\"? (Answer: Josephine Baker).", "target": "Humans."}
+{"id": "task046-ba079cf2ce7248b2aa688b876b77ba6f", "input": "Question: When did Craig go back to work? (Answer: 22 April).", "target": "Date."}
+{"id": "task046-85481320766e42c79affc428f12d832c", "input": "Question: How many restaurants did Kanye open? (Answer: 2).", "target": "Quantity."}
+{"id": "task046-d4f89858047c4fe58662a9ee0acacc24", "input": "Question: On what day did Kanye do an interview about President Obama pushing policies in Washington? (Answer: November 26, 2013).", "target": "Date."}
+{"id": "task046-b2d515f5f72a4e0ebb54b6782fac1e89", "input": "Question: How many votes were cast for the final two? (Answer: 100 million).", "target": "Quantity."}
+{"id": "task046-2e265c2a57a8454b92d25b1c2cd54bd9", "input": "Question: How many dams were damaged? (Answer: 391).", "target": "Quantity."}
+{"id": "task046-c8a1e3507eb24a95a6b90789193643be", "input": "Question: Who is Beyonc\u00e9's biggest musical influence? (Answer: Michael Jackson).", "target": "Humans."}
+{"id": "task046-cf7434b7c58043cab04d9eba95910866", "input": "Question: Kanye, Shakira, and Rage Against the Machine refused to perform in what state due to a new law against illegal aliens? (Answer: Arizona).", "target": "Location."}
+{"id": "task046-6679285d74394090b72bb479891d85a5", "input": "Question: On what date did the Stonewall riots take place? (Answer: June 28, 1969).", "target": "Date."}
+{"id": "task046-908088e75cea495fa9fd6cfd701d2f74", "input": "Question: What is the split in the State House of Representatives? (Answer: 59 to 41.).", "target": "Quantity."}

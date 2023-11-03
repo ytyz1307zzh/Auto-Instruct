@@ -1,0 +1,3 @@
+{"id": "task1602-e825d17d8d5546b8a8171559dfa904f7", "input": "concept: Korea  answers:  ['North Korea']", "target": "which part of korea is communist?"}
+{"id": "task1602-23bd5fd108e5450593c85fce993577f5", "input": "concept: Kim Kardashian  answers:  ['Damon Thomas']", "target": "who was kim kardashian's first husband?"}
+{"id": "task1602-39994168cc034a69b4cac4994424c068", "input": "concept: Hogwarts  answers:  ['Ravenclaw House', 'Gryffindor House', 'Slytherin House', 'Hufflepuff House']", "target": "what are the four harry potter house names?"}

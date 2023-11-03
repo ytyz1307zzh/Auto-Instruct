@@ -1,0 +1,7 @@
+{
+    "summary": "Given two questions, decide whether the second one is a valid paraphrase of the first one",
+    "category": "Text Matching",
+    "domain": "Knowledge Base -> Freebase",
+    "input_lang": "English",
+    "output_lang": "English"
+}

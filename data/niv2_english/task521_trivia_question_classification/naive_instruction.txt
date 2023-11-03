@@ -1,0 +1,1 @@
+Given a text from a trivia quiz, decide the category the question belongs to

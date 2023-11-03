@@ -1,0 +1,7 @@
+{
+    "summary": "Given a passage, generate a fill-in-the-gap question based on it.",
+    "category": "Question Generation",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

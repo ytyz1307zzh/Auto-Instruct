@@ -1,0 +1,7 @@
+{
+    "summary": "Given the text of a social media post, generate a title summarizing the post",
+    "category": "Title Generation",
+    "domain": "Social Media -> Reddit",
+    "input_lang": "English",
+    "output_lang": "English"
+}

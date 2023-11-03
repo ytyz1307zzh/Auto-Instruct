@@ -1,0 +1,1 @@
+Calculate the absolute difference for each two consecutive elements.

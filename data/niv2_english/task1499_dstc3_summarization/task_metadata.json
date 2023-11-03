@@ -1,0 +1,7 @@
+{
+    "summary": "Summarization of conversations in DSTC 3",
+    "category": "Summarization",
+    "domain": "Public Places, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

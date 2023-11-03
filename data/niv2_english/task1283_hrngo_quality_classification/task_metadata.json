@@ -1,0 +1,7 @@
+{
+    "summary": "Evaluate quality of system generated reference.",
+    "category": "Text Quality Evaluation",
+    "domain": "Dialogue, Public Places -> Restaurants",
+    "input_lang": "English",
+    "output_lang": "English"
+}

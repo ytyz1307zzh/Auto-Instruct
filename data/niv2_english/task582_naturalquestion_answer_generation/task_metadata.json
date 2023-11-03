@@ -1,0 +1,7 @@
+{
+    "summary": "You are given an open-domain question and return an answer based on factual information",
+    "category": "Question Answering",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

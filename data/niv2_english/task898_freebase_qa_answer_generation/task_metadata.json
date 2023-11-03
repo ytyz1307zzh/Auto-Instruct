@@ -1,0 +1,7 @@
+{
+    "summary": "Answering questions based on an open ended topic",
+    "category": "Question Answering",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

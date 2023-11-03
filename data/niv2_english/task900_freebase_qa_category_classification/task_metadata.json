@@ -1,0 +1,7 @@
+{
+    "summary": "Classify the general category for questions",
+    "category": "Question Understanding",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

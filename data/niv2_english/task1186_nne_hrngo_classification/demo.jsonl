@@ -1,0 +1,3 @@
+{"id": "task1186-74ee1181dfb74dac9513f2ad6dcf7926", "input": "System Reference: he inn at the presidio is located near presidio.\nOriginal Reference: the inn at the presidio is near presidio.", "target": "0"}
+{"id": "task1186-a7b430594cbc4f85b368399873f2a73b", "input": "System Reference: there is a nice restaurant near inner richmond named burma superstar are between 15 and 22 euro.\nOriginal Reference: burma superstar is near inner richmond priced between 15 and 22 euro.", "target": "1"}
+{"id": "task1186-dfb0496cc7744cbaa0432be5a97c6cf1", "input": "System Reference: you may find the noe 7s nest bed and breakfast at 1257 guerrero st.\nOriginal Reference: the address for noe 7s nest bed and breakfast is 1257 guerrero st.", "target": "0"}

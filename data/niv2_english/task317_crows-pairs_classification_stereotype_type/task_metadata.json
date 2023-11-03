@@ -1,0 +1,7 @@
+{
+    "summary": "Classify a sentence into different types of stereotype",
+    "category": "Stereotype Detection",
+    "domain": "Stereotypes",
+    "input_lang": "English",
+    "output_lang": "English"
+}

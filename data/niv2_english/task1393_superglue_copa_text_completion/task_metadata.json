@@ -1,0 +1,7 @@
+{
+    "summary": "Given a premise sentence, two possible options and a question word, choose the best option.",
+    "category": "Cause Effect Classification",
+    "domain": "Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

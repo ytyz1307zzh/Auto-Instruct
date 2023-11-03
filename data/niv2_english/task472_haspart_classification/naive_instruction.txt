@@ -1,0 +1,1 @@
+Identifying whether given two entities has in-part-relationship or not.

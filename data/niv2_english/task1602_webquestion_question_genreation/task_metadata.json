@@ -1,0 +1,7 @@
+{
+    "summary": "Given an answer and URL, generate a question",
+    "category": "Question Generation",
+    "domain": "Knowledge Base -> Freebase",
+    "input_lang": "English",
+    "output_lang": "English"
+}

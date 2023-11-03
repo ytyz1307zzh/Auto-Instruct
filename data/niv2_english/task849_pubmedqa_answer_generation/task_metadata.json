@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answer from context and question (based on pubmed_QA)",
+    "category": "Question Answering",
+    "domain": "Medicine",
+    "input_lang": "English",
+    "output_lang": "English"
+}

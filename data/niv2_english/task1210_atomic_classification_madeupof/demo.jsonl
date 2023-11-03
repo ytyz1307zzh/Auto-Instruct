@@ -1,0 +1,3 @@
+{"id": "task1210-50b670a74c9d4132b3014ff25f3fea33", "input": "Head: cockpit<sep>Tail: ejection seat", "target": "Yes"}
+{"id": "task1210-407cdcc6279b4fb08c87e60a5fdbaf52", "input": "Head: PersonX asks PersonX's mother for help<sep>Tail: none", "target": "No"}
+{"id": "task1210-4786025b548b4c8990173967f8b164a0", "input": "Head: wheel<sep>Tail: felloe", "target": "Yes"}

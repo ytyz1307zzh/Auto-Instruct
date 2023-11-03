@@ -1,0 +1,7 @@
+{
+    "summary": "Predict the title given its required ingredients and directions.",
+    "category": "Title Generation",
+    "domain": "Food",
+    "input_lang": "English",
+    "output_lang": "English"
+}

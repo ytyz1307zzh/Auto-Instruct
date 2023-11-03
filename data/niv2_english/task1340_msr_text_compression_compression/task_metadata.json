@@ -1,0 +1,7 @@
+{
+    "summary": "Generating Compressed text based on MSR dataset",
+    "category": "Sentence Compression",
+    "domain": "News, Dialogue, Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

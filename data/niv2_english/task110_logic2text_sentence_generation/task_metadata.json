@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a natural language interpretation of the given logical operators.",
+    "category": "Code to Text",
+    "domain": "Code -> Language -> SQL",
+    "input_lang": "English",
+    "output_lang": "English"
+}

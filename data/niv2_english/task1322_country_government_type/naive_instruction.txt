@@ -1,0 +1,1 @@
+Given a country name, return the government type of the given country

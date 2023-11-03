@@ -1,0 +1,7 @@
+{
+    "summary": "Identifying whether given two entities has in-part-relationship or not.",
+    "category": "Entity Relation Classification",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

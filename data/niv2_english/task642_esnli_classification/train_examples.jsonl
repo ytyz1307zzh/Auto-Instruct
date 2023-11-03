@@ -1,0 +1,145 @@
+{"id": "task642-5abd7cc766f846eeb2a881da9155733a", "input": "A choir of youths are singing. <sep> they are singing in a christmas program", "target": "no"}
+{"id": "task642-59331febf52e4f758e83483dcae81e5c", "input": "A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror. <sep> The woman is a model.", "target": "no"}
+{"id": "task642-ddac9936dcc54342bbabee26fd3641e2", "input": "kid practicing karate move <sep> A kid is practicing a complicated karate move.", "target": "no"}
+{"id": "task642-cc9b5361a359467a9e2f8668a0d12025", "input": "A young woman is about to descend the stairs into a metro station. <sep> A lady is walking to her train", "target": "no"}
+{"id": "task642-cf43150fdb7445629569ad62d00d98ad", "input": "An Asian young woman wearing a white shirt and black pants is holding a pink purse. <sep> The woman is in her 20s.", "target": "no"}
+{"id": "task642-fa8c02f0b21f4c92b5a83ff8c402ce12", "input": "Three people sitting on a table, one woman is speaking, and people are listening to them. <sep> There are three women sitting on a table.", "target": "no"}
+{"id": "task642-725ba00e37914d2488cadcfc84c0ea01", "input": "A singer wearing a leather jacket performs on stage with dramatic lighting behind him. <sep> a singer is on american idol", "target": "no"}
+{"id": "task642-7050854f0a7d4013b4e29136938a5bc1", "input": "A man with a red helmet and numbers on his arm and leg is riding a red racing bike. <sep> The man in the red helmet is winning his bicycle race.", "target": "no"}
+{"id": "task642-a20d42a5ab9a4711920c93569d199255", "input": "Six women wait to use a port-o-john in a field. <sep> Friends are waiting together.", "target": "no"}
+{"id": "task642-6a41f0fbb56f47769608348d2ee0bec8", "input": "A man is laying down inside a black, non-working boat. <sep> The man is asleep.", "target": "no"}
+{"id": "task642-b99cd09ca4514b9ebc0a9155bc790d27", "input": "Two girls in a crowd are dressed up, one as the cartoon character Wall-E. <sep> Two girls cosplay at a convention.", "target": "no"}
+{"id": "task642-83241864fc7e478281c5c4c571391944", "input": "A young woman wearing a yellow sweater and black pants is ice skating outdoors. <sep> a woman is practicing for the olympics", "target": "no"}
+{"id": "task642-b026f1729b2d4c0f87c45e0fb29ecafe", "input": "A group of people sitting around a small round table eating. <sep> The group is discussing the next project for work.", "target": "no"}
+{"id": "task642-e1fd121b3dc14705ab2e3ca0f52e1f78", "input": "A girl dressed in a Halloween costume is carrying bag of candy and a scythe with a jack-o-lantern on someones porch in the background. <sep> The girl is wearing her school uniform.", "target": "yes"}
+{"id": "task642-b6486b1c7287469e878d4b266f90cab5", "input": "A gymnastics performer is in mid-pose as she completes her jump. <sep> A gymnast is completing her jump in the finals.", "target": "no"}
+{"id": "task642-45cf0077e80b432a8cf8e2712276da13", "input": "A man in a blue jacket leans on a post and talks on the phone while an old man carries yellow bags. <sep> An old man works.", "target": "no"}
+{"id": "task642-6e80c7ce4f0a4bed95c3e55bb2b77541", "input": "The children play in the pool. <sep> The children are playing Marco Polo.", "target": "no"}
+{"id": "task642-0ef16dab5db24b7280af8d037867f99a", "input": "Two little boys are smiling and laughing while one is standing and one is in a bouncy seat. <sep> The boys are siblings playing with each other.", "target": "no"}
+{"id": "task642-dec0e31fc50a4134a7dec6af0ad59659", "input": "Three children are shooting guns in the woods. <sep> Three children are in a forested area.", "target": "yes"}
+{"id": "task642-5f6b3df551e74af68ce0ab7dafdd672e", "input": "Two construction workers are working in front of a wall which has a bunch of names carved into it. <sep> Two workers are working.", "target": "yes"}
+{"id": "task642-38a566e27fba4cea8ab7bc13e8719245", "input": "Two young musicians play from a stage. <sep> The two musicians are playing the trumpet", "target": "no"}
+{"id": "task642-11613bf6084d45da9859f099b3b719ac", "input": "A skateboarding youth does a trick on a rail. <sep> A young boy showing his new skateboard tricks to his friends.", "target": "no"}
+{"id": "task642-3b1afe6fb26a42d489d5968052d1539c", "input": "A man in a purple mascot costume is standing outside of a store while a man and a woman each wearing flamboyant clothing stand off to the side. <sep> The costume is green.", "target": "yes"}
+{"id": "task642-81ca9ad6c8c3466fbed06cec30c7a12c", "input": "Two female martial artists demonstrate a kick for an audience. <sep> Two female martial artists are teaching the audience how to kick for self-defense class.", "target": "no"}
+{"id": "task642-cb89358212fa495f9a4f388a88033ccb", "input": "Times Square in New York. <sep> Times Square is packed.", "target": "no"}
+{"id": "task642-79300b5fec8a4c5b9e3f9e665281a8f3", "input": "A blond woman in a black shirt is standing behind a counter. <sep> The woman has her hair pulled back in a bun.", "target": "no"}
+{"id": "task642-28c6c7476aa347ec8423e3f90334a521", "input": "A photo of a woman in a black coat standing in front of a large two-paneled photo depicting a woman in a gray dress looking down with her hand in a bag. <sep> The photo was of two men.", "target": "yes"}
+{"id": "task642-8541459fd16d4710abfba0cf94a9dca8", "input": "Red-haired female answers questions while sitting at a table for craftzine. <sep> The PR rep fielded questions during the interview.", "target": "no"}
+{"id": "task642-6d5eb64b76734e02896c3b28ccf713d4", "input": "A man in glasses and an orange shirt is sitting outside next to a table with drinks on it. <sep> A man sits near a table with his drinks", "target": "no"}
+{"id": "task642-0a2f57013fe148c482027d243745bd08", "input": "A woman stands smiling while holding a stuffed cat. <sep> A female is posing for the camera.", "target": "no"}
+{"id": "task642-ec9f98f9533543baa4a2d0b49076d82e", "input": "An old man looking over a sculpture. <sep> The man is young", "target": "yes"}
+{"id": "task642-a3b92d9b4cda4c5083c7f7959929ed0b", "input": "Four kids pose on a stage. <sep> Four siblings pose for a photo on a stage.", "target": "no"}
+{"id": "task642-5e0c3701330d4a2aa6d1ecaa22529e4d", "input": "A person attempts to rope a black cow while riding a horse. <sep> The person is riding a brown horse.", "target": "no"}
+{"id": "task642-965749ccf0974cf9b679f3f19099ad3b", "input": "Two young girls show prints of a line drawing of an animal. <sep> Girls are displaying their animal drawings in a local kid's drawing competition.", "target": "no"}
+{"id": "task642-47d33e80e76b453a8d6c44591996bbd3", "input": "Men wearing blue uniforms sit on a bus. <sep> Men sit on the bus going to work,", "target": "no"}
+{"id": "task642-c73eb7ad7caa4f02981fabb59098f038", "input": "Female in a military uniform with her hair tied back. <sep> the man has long hair", "target": "yes"}
+{"id": "task642-dd40c78355f9428d8215f2c7f2400529", "input": "A crowd of people in winter garb gather in the street against a backdrop of bare trees and snow. <sep> It is cold and snowy outside.", "target": "no"}
+{"id": "task642-54a4bca130d04fc4b1b6863bc365d8d9", "input": "A person sweeping stairs in a park. <sep> A person outside.", "target": "yes"}
+{"id": "task642-755f01deb6aa47398577bcaf2d1d9c2c", "input": "two boys reading superhero books <sep> Two boys reading a book about spiderman.", "target": "no"}
+{"id": "task642-0ce8515dbbd64bff997e7c7a6d7954a1", "input": "The blond young man who had been splattered with paint colors of blue, orange, and green held up his camera to take a picture. <sep> A man covered in paint after a paintball fight takes a photo.", "target": "no"}
+{"id": "task642-dbb4677750a6427c9f1c377b71856fa0", "input": "A man is holding a microphone in front of his mouth. <sep> The man was about to record his music album.", "target": "no"}
+{"id": "task642-f51620bb1ba74b709680086a8e2a28d7", "input": "Women in blue dress singing on stage. <sep> A man is singing on stage.", "target": "yes"}
+{"id": "task642-5142df0cd8ab4d209c8f5f43e37add4e", "input": "a man walks on the icy sidewalk. <sep> The man almost slipped earlier.", "target": "no"}
+{"id": "task642-a5c79a62c5014199920b287ea674619f", "input": "A man wearing a purple cap, yellow snow goggles, a periwinkle jacket and red backpack moves quickly through powdery snow near a winter tree. <sep> The man is skiing.", "target": "no"}
+{"id": "task642-138a50a075624b08ad2841c7a5c10d18", "input": "Two ladies at workout in mother nature. <sep> The ladies are sitting on the floor.", "target": "yes"}
+{"id": "task642-8e7ab09ee9ab49ffacf7b121e9b010b5", "input": "A sign indicates 'Dangerous Shorebreak' on an overcast day while several people hang out on the beach. <sep> A giant wave splashes the beach.", "target": "no"}
+{"id": "task642-f0b00dd85bf14caaa2f4283571ecca6f", "input": "A group of children in African clothing. <sep> Some humans in green clothing", "target": "no"}
+{"id": "task642-82a00d413254468e9d8872d4d9b8611f", "input": "a girl wearing pink pulls weeds. <sep> She is indoors.", "target": "yes"}
+{"id": "task642-347d3fad411c43b585ea6353b7c6fcf4", "input": "A woman with a pink purse walks down a crowded sidewalk. <sep> A woman escapes a from a hostile enviroment", "target": "no"}
+{"id": "task642-48c2d1bfe2c440b8b9d369fdf744b371", "input": "A young face-painted boy is sucking his thumb. <sep> The boy lost his pacifier.", "target": "no"}
+{"id": "task642-d1d1d1cd239346f3bb535a590704b51c", "input": "A man wearing feathers on his head and dressed in a Native American costume, stands in front of a crowd of people on the street. <sep> The costume is Asian.", "target": "yes"}
+{"id": "task642-820e855cdd1246968881ce069c82a514", "input": "A woman in a black leather shirt trench-coat and black leather calf-high boots and carrying a colorful bag with a shoulder strap faces away from the camera with a yellow post visible just in front of her. <sep> Some stars are walking past the paparazzis and getting into an awards building", "target": "no"}
+{"id": "task642-7b7d6e47b661412dbd36f6f5eee5762d", "input": "A street performer wearing sunglasses and painted in bronze colored paint is acting like he is filming with an old-fashioned prop film camera. <sep> A mime is practicing his art.", "target": "no"}
+{"id": "task642-15e009daf8ec45ecbc6cffcef59f0096", "input": "A man in a brown jacket stands with his arms spread. <sep> The man pleads for mercy.", "target": "no"}
+{"id": "task642-a2efd7f5cb624e42b6480f62d3fe6f88", "input": "I am squatting on a dock, looking into a lake. <sep> I am near a lake.", "target": "yes"}
+{"id": "task642-773209e57f95480f9530f1f1f9fce16c", "input": "A little girl in a gray jacket is riding her bicycle. <sep> A little girl in a gray jacket is doing a wheelie on a ten speed mountain bike.", "target": "no"}
+{"id": "task642-01dc00fe76a9435396d703552f653645", "input": "A small girl in a green shirt plays on a swing. <sep> girl plays swing", "target": "yes"}
+{"id": "task642-fa8900f54df2461abeee448e2bc6af3c", "input": "A man, woman, and child get their picture taken in front of the mountains. <sep> People are outdoors.", "target": "yes"}
+{"id": "task642-c95a6c0db9704476958527d8640aabc7", "input": "Five girls and two guys are crossing a overpass. <sep> There are people outside.", "target": "yes"}
+{"id": "task642-f16bf47d51d248c3854f3dbf1f2d84b0", "input": "Three kids in a forest standing on a tree log. <sep> Children crossing stream in forest.", "target": "no"}
+{"id": "task642-b52572306b34416c935ee9b78813c801", "input": "A man juggles a flaming staff in the dark. <sep> A man juggling.", "target": "yes"}
+{"id": "task642-f232f93fe0994c9d963fef691671b014", "input": "Young boys in green and blue jerseys kick around a soccer ball while other soccer games take place in the background. <sep> Young boys waiting for their soccer game.", "target": "no"}
+{"id": "task642-7b65d5fdffc44e2fb3bf149fe07a90c4", "input": "In a small village a Man sets sail along the Swamp. <sep> A man hunting crocodiles", "target": "no"}
+{"id": "task642-7c89f6b6613a48b4b52d5b0b57d89d01", "input": "A group of young men in a gym take turns scoring in basketball. <sep> Guys are playing shirts vs skins.", "target": "no"}
+{"id": "task642-c95b8d4994a14974926853921763b387", "input": "Two men are running down a road and carrying a canoe. <sep> The men are stealing a canoe", "target": "no"}
+{"id": "task642-e94d88868dd340aa8c036c42896b2874", "input": "The young man is trying to balance on the train tracks. <sep> A young man is trying to balance.", "target": "yes"}
+{"id": "task642-7b6b8d49da8349ec85c700891b10c1dd", "input": "A bare-chested man fitting his head and arm into a toilet seat ring while spectators watch in a city. <sep> A man does magic tricks.", "target": "no"}
+{"id": "task642-4efb5a4ffb7f4c20bb72185fbee9ad2b", "input": "A woman with a blue hat is taking photos in an area covered in brush. <sep> The woman is photographing a wedding.", "target": "no"}
+{"id": "task642-38ca06308306464894dc79348304917a", "input": "A girl in a blue dress takes off her shoes and eats blue cotton candy. <sep> The girl in a blue dress is a flower girl at a wedding.", "target": "no"}
+{"id": "task642-9d6ba9ab7a0a4cbbb01ad81dc5652eb5", "input": "A man in a suit speaking to a seated woman. <sep> A dark headed man in a suit speaking to a seated woman.", "target": "yes"}
+{"id": "task642-91ac558476ce4f708eda27b3f2688f7a", "input": "Three girls jumping in front of a house's flower garden. <sep> Three girls are jumping", "target": "yes"}
+{"id": "task642-d85103316f8f42ed915abc6ede9d1326", "input": "A small child dressed for winter stares across a lake while leaning on a mesh fence in a scenic park setting. <sep> A small child dressed for winter stares across a large lake while leaning on a mesh fence", "target": "yes"}
+{"id": "task642-6fac516bad20417da14df8217c84ad17", "input": "Two girls feeding a horse an apple. <sep> Two girls are getting ready to ride horses.", "target": "no"}
+{"id": "task642-0718238e5bde46abaa67cb46612f1f40", "input": "Two gondola operators sit along a road in Italy. <sep> The gondola operators are in the water, pushing their boats.", "target": "yes"}
+{"id": "task642-9a37bf6c8fb24c8abf04c921e3c80570", "input": "A racer on a motorcycle lifts one hand in the air. <sep> A person waves at the camera.", "target": "yes"}
+{"id": "task642-d460590a47cb4c8ab51d88130c5a645e", "input": "Two men and a Frisbee <sep> Two men with a toy.", "target": "yes"}
+{"id": "task642-6f61a27a659d4acf8c5ec8cd9bb78ea0", "input": "A crowd of people are packed into a subway car. <sep> A crowd of people are together.", "target": "yes"}
+{"id": "task642-ccef9af896a942b08ad31be8131f56fa", "input": "Brown and cream dog with tongue out in front of grassy forest <sep> The dog is lying on the ground.", "target": "yes"}
+{"id": "task642-695b165c6dcc46169df59b175a1e5841", "input": "Athletic men in matching black pants performing under the spotlight. <sep> The men are wearing black pants.", "target": "yes"}
+{"id": "task642-152cce547db84eed949a8dde2a21ebe8", "input": "Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle. <sep> the men are musicians", "target": "yes"}
+{"id": "task642-202d4f115b3b44ea8717f9b2d311b158", "input": "She is cooking food while wearing a dress. <sep> A woman in a dress cooks food.", "target": "yes"}
+{"id": "task642-524b9a1de3df4bafb1c043a6211c99e3", "input": "A woman in a red shirt looks at a map while with a view of a river and several boats in the background. <sep> A woman looks at a map outdoors, a river and boats are behind her.", "target": "yes"}
+{"id": "task642-1bd1d69f51284778b49d820658187331", "input": "A bare chested smiling child plays in water. <sep> There is a topless child playing in the water.", "target": "yes"}
+{"id": "task642-ba3bb4003ac44835b92d278ff24a2d81", "input": "Topless girl riding a red bike. <sep> A woman is on a bike.", "target": "yes"}
+{"id": "task642-72f72c632f8049a6b83d40a32231aa65", "input": "A crowd gathers and watches a bonfire. <sep> A crowd feels the warmth of a bonfire.", "target": "yes"}
+{"id": "task642-a51e97e0b8ef4feba07e9c325b5c089f", "input": "A young boy giving his brother a piggyback ride <sep> a boy is giving his brother a ride", "target": "yes"}
+{"id": "task642-0d859467a13840fc851662a829e4d206", "input": "Three young women perform a dance in a crowded hall. <sep> Three young women are performing in front of a big audience.", "target": "yes"}
+{"id": "task642-9e78528fdc6f49398166ae14259feed6", "input": "A man with a beard is playing an acoustic guitar on the street. <sep> A man plays guitar outside.", "target": "yes"}
+{"id": "task642-0a579c00595f4453b588fba8faaa85b5", "input": "Two little boys are playing on stairs that have a carpet runner going down them. <sep> The children are playing together.", "target": "yes"}
+{"id": "task642-1ee854f66230424bba6c24dcfa11447a", "input": "A bike is parked against a window to a store called Winter Sport where inside some people sit next to a computer and an older woman stands in the background. <sep> There is a computer with people seated nearby and a woman standing nearby them inside Winter Sport, which is a store with a bike next to it.", "target": "yes"}
+{"id": "task642-2b4e3a6cf25541e38a5b1d2ba7d26c65", "input": "A young man is standing near his bike outside a shop called, 'Sara's Old Fashioned Ice Cream.' <sep> The young man is standing.", "target": "yes"}
+{"id": "task642-8d95db59962946b396f632bdc8032c1e", "input": "A group of runners are running towards two identical skyscrapers. <sep> The runners are running towards the large buildings.", "target": "yes"}
+{"id": "task642-a6df8de209674adc99bd0d6b9b36cdb1", "input": "Man recording a video of a woman. <sep> A woman is being recorded by a man.", "target": "yes"}
+{"id": "task642-0e607bd7c8d34fd88902b852977d54b0", "input": "Several people are laying on the floor sleeping covered by blankets. <sep> A group of people rest", "target": "yes"}
+{"id": "task642-e0c8d5df431045389904a3dfbdddc2bb", "input": "Workers at Basking Robbins are filling orders. <sep> Workers busy in handling orders", "target": "yes"}
+{"id": "task642-1db53ecc09a147f59d60c00163c8cbea", "input": "A girl with a blue shirt and a girl with a striped shirt stand next to a girl with a green shirt sitting in a chair. <sep> Two girls are standing next to a girl who is sitting.", "target": "yes"}
+{"id": "task642-6a9880c602344bc18830d6b3e5acc87c", "input": "A band performing at a local bar or club. <sep> The band is playing music", "target": "yes"}
+{"id": "task642-5c3b408b62ee449eb66d82df6b029dfd", "input": "A group of motorcycles wearing black. <sep> Some motorcycles wearing black outside.", "target": "yes"}
+{"id": "task642-3158216123574e05801df39c06e1de42", "input": "A woman in black is getting ready in her bathroom. <sep> The woman is wearing black", "target": "yes"}
+{"id": "task642-28c063399c1b4fd38188a46c20e68ca6", "input": "Two guys playing soccer, one in red and the other in blue. <sep> The men are playing soccer.", "target": "yes"}
+{"id": "task642-a65fd92e2fba4cfd87c8a009d657d8be", "input": "A woman wearing sunglasses. <sep> A woman is wearing a pair of sunglasses.", "target": "yes"}
+{"id": "task642-7bd1a933d7ea4ada84eadf88ab77d609", "input": "Two women competing in a roller derby with several teammates and referee in the background. <sep> Two roller derby competitors are near their teammates and a referee.", "target": "yes"}
+{"id": "task642-91594780a5ab47c8a2c141929d3a4f1b", "input": "A man is pushing many cartons of bread down the street. <sep> A person has food outside.", "target": "yes"}
+{"id": "task642-ef448e0cce5f423d8b831aa36fd355e8", "input": "A man wearing a hat sitting on the side of a hill looking towards the water. <sep> The man wearing a hat is seated, slightly elevated, facing the water.", "target": "yes"}
+{"id": "task642-8453bfa3a4e94dbb9f52d09cbf44cb80", "input": "A woman is walking her dog along a snowy ground. <sep> A woman is with her dog outside.", "target": "yes"}
+{"id": "task642-ad3171cac3614ea5a5b63ff98c5eb446", "input": "A kneeling man bends his ear to listen on another in front of a guitar and audio equipment. <sep> Two men are near audio equipment.", "target": "yes"}
+{"id": "task642-86878e2819f9452482df1776ac08d350", "input": "Two dogs are looking through a rusty wire fence. <sep> Two dogs are outside.", "target": "yes"}
+{"id": "task642-eed3c4236a8c41aab1cbd60302b303af", "input": "A woman in a bathing suit is sitting on a dock over a body of water. <sep> A woman sits outside on the dock.", "target": "yes"}
+{"id": "task642-acf1ccb474894d10b9762f0efe8a6355", "input": "A young couple sitting in a black chair smiling. <sep> Two young people sit in a black chair happily.", "target": "yes"}
+{"id": "task642-5b9234e3bc1c4d518f33450329af0782", "input": "A man on a bicycle rides past a park, with a group of people in the background. <sep> A guy rides past the park.", "target": "yes"}
+{"id": "task642-17adb551766a4b60a639ea76ae7a55ce", "input": "The young lady is giving the old man a hug. <sep> The lady is giving the old man a hug.", "target": "yes"}
+{"id": "task642-2abe49d7bedd45cf8e3faa3cdf7dc15a", "input": "Two construction workers perched on an I beam, assembling a building frame. <sep> The men are working on something.", "target": "yes"}
+{"id": "task642-ae20041936c442f6bf557a43a90f60da", "input": "a snowboarder wearing a green hat is riding along a metal railing. <sep> A snowboarder is riding along a metal railing while wearing a green hat.", "target": "yes"}
+{"id": "task642-ef79b453d3ae45fb88b1863b0a0e6703", "input": "The female soccer team is getting last minute instruction from their coach. <sep> A female soccer team is listening to their coach.", "target": "yes"}
+{"id": "task642-4392d5a241b44455b831b6de1ec62531", "input": "A group of men, women and children are standing around. <sep> A large group of people are standing around.", "target": "yes"}
+{"id": "task642-e61e4c777638411da7b018b5b95c642b", "input": "Man sleeping in a couch in a sitting position wearing a blue jeans and a plaided shirt <sep> There is someone sleeping on the couch.", "target": "yes"}
+{"id": "task642-101c738c29704bc6b363d563e1da764a", "input": "Two young girls looking very concerned. <sep> Their faces convey their feelings.", "target": "yes"}
+{"id": "task642-13e6335a00b142429c18d7f573c82bb4", "input": "A man is holding a child on his shoulders. <sep> A child is going for a ride on that man.", "target": "yes"}
+{"id": "task642-ee22a53ab12249b89a491d910cf0be96", "input": "Three puppies are in the tub being sprayed with water by a person. <sep> Animals are in a tub.", "target": "yes"}
+{"id": "task642-44faa572d9eb42bbba145bf669a26728", "input": "The man in the black t-shirt is trying to throw something. <sep> The man is in a black shirt.", "target": "yes"}
+{"id": "task642-7ca9f1c41ef44bad917c75beb30181c3", "input": "a big black dog jumps in the air to catch the tennis ball in his mouth. <sep> A dog is jumping.", "target": "yes"}
+{"id": "task642-7f6c9515c84b4a41a1d86311be5815a7", "input": "Two young boys are playing in a fountain in a city plaza. <sep> Kids are are standing in a fountain.", "target": "yes"}
+{"id": "task642-63f51390df2746cb8931809dc5765803", "input": "An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background. <sep> The employee is indoors.", "target": "yes"}
+{"id": "task642-a15c0aed46a04106a81e479a73e89e39", "input": "A man in a suit stands on a walkway with is suitcase with a large display in front of him announcing airline flights. <sep> A man is at an airport.", "target": "yes"}
+{"id": "task642-21f4dc4ba40646ed8b0992c7153c47d6", "input": "A policeman on a motorcycle from the rear. <sep> An officer on a chopper.", "target": "yes"}
+{"id": "task642-63c7a3258adf4356b6aa44dfe8097460", "input": "A group of people are buying fruits and vegetables from a stand located in a street market. <sep> The stand selling produce is in a street market.", "target": "yes"}
+{"id": "task642-a0759e6e87bf48e1a4b7e2debb23ff43", "input": "A group of people in black outfits drinking beer. <sep> People drink a beverage.", "target": "yes"}
+{"id": "task642-f31bda13dfea437aa5bc9f6f0d3cbd9c", "input": "A group of women observing an event while one in military attire takes a photograph <sep> A group of people are watching something and one takes a picture.", "target": "yes"}
+{"id": "task642-b3e40f155d6d46bdaa89e44876ff2c20", "input": "Clowning around in the bathroom, toothpaste makeup! <sep> fooling around in the bathroom", "target": "yes"}
+{"id": "task642-0bbf7266b4b6477da9cdd533ecba11a8", "input": "A person with brown hair wearing a blue shirt and purple bandanna around their neck is chiseling a design into a round, brick pillar. <sep> The person wearing a blue shirt is chiseling on a brick pillar.", "target": "yes"}
+{"id": "task642-e6aeece410c44ea5bb52a79a358a68be", "input": "A black dog with a blue collar is jumping into the water. <sep> A dog is going to get wet.", "target": "yes"}
+{"id": "task642-530e84ed9673435ea0a3f9fa148f4159", "input": "Small dog in costume stands on hind legs to reach dangling flowers. <sep> A small animal is trying to get some plant life.", "target": "yes"}
+{"id": "task642-ff13b95356644d30ad0421ebaf444510", "input": "a woman in a black shirt looking at a bicycle. <sep> A woman sees a bicycle.", "target": "yes"}
+{"id": "task642-c2a3af8428ef4e37aba5cac1cb307bdc", "input": "group of people sweeping the floor and cleaning <sep> There are people working.", "target": "yes"}
+{"id": "task642-7f942dc6bc5f403395d332e79393b67f", "input": "a young woman siting on a park bench in the sun. <sep> A young woman is sitting down", "target": "yes"}
+{"id": "task642-b64237c819b848cb8d065e5b50b90225", "input": "A group of people watch a breakdancer in a red jacket do a one-handed trick. <sep> A person is doing tricks in front of crowd.", "target": "yes"}
+{"id": "task642-05e11fe9b5b1464ba17ea1bb26931015", "input": "Two people standing behind a Sonoma display and a woman with a stroller on the other side. <sep> Two people are near a Sonoma store.", "target": "yes"}
+{"id": "task642-ff7bc3fb35ce461cbffc852ce27c5895", "input": "Two men entering a brick home during the snow. <sep> There is snow outside", "target": "yes"}
+{"id": "task642-dc5305e50cfd439399c68034ca890cf6", "input": "Women in blue dress singing on stage. <sep> A woman is singing on stage.", "target": "yes"}
+{"id": "task642-af6dee5f37bf49cd98e685b8c3517ebc", "input": "A man in a blue plaid shirt with black pants is sitting on a box and holding something in his hand. <sep> someone in a plaid shirt sits on a box with something in hand", "target": "yes"}
+{"id": "task642-541897d437154b458c040c3fb40c15b7", "input": "Three people on bikes are coming over a ridge, while a man in orange watches. <sep> People are biking outdoors.", "target": "yes"}
+{"id": "task642-5143abe586704147988cd01f5c7aeae3", "input": "A group of seven individuals wearing rafting gear, white water raft down a river. <sep> Seven men and women are in a yellow boat.", "target": "no"}
+{"id": "task642-f95c440d81784a8ca581278fef25139b", "input": "A man and woman are taking a picture of themselves while a woman in a scarf walks by them. <sep> A man and woman take selfies of themselves.", "target": "yes"}
+{"id": "task642-0c54f3d4b9734907855b93a0f14fceb9", "input": "A man is in front of a dryer in a laundromat with both hands reaching into a bin or basket. <sep> A man reaches into a basket at a laundromat", "target": "yes"}
+{"id": "task642-43b6ea1b4117488183fb231b9f6a4251", "input": "a green and white trolley car with an advertisement of coffee on the side and front of it in a city. <sep> A trolley making it's way through a city.", "target": "yes"}

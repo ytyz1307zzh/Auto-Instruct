@@ -1,0 +1,7 @@
+{
+    "summary": "Classify the input sentence into one of the 5 classes : unknown, commissive, question, information, directive",
+    "category": "Dialogue Act Recognition",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

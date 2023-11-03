@@ -1,0 +1,7 @@
+{
+    "summary": "Answering multiple choices dialogue act problems.",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue, Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

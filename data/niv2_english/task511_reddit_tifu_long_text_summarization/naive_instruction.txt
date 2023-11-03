@@ -1,0 +1,1 @@
+Given the text of a social media post, generate a short summary the post

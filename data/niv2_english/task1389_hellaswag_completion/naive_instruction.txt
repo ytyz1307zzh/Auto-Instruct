@@ -1,0 +1,1 @@
+Given a context and four options, pick the best ending for the context.

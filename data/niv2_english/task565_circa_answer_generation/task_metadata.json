@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question generate an answer that is relevant to the question.",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a question, given a collection of facts.",
+    "category": "Question Generation",
+    "domain": "Commonsense -> Concepts and Relations -> Spatial Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given two excerpts of text, choose the one that is simpler and easier to understand by non-native speakers.",
+    "category": "Text Simplification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

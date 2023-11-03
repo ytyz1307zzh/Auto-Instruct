@@ -1,0 +1,7 @@
+{
+    "summary": "Generate entities from given text",
+    "category": "Named Entity Recognition",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

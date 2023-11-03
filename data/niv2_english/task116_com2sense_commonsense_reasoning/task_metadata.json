@@ -1,0 +1,7 @@
+{
+    "summary": "Decide whether a sentence is plausible and matches commonsense.",
+    "category": "Commonsense Classification",
+    "domain": "Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

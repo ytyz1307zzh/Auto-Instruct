@@ -1,0 +1,7 @@
+{
+    "summary": "Given an analogy that on manipulating items in a kitchen, give with the appropriate word",
+    "category": "Word Analogy",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

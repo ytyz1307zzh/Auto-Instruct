@@ -1,0 +1,1 @@
+Given a question and answer pair, generate a fact statement

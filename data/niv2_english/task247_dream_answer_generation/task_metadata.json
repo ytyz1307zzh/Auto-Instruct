@@ -1,0 +1,7 @@
+{
+    "summary": "Given a conversation and a question, answer the question based on the conversation.",
+    "category": "Question Answering",
+    "domain": "Dialogue, Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

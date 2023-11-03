@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a claim based on a given paragraph",
+    "category": "Sentence Composition",
+    "domain": "Healthcare",
+    "input_lang": "English",
+    "output_lang": "English"
+}

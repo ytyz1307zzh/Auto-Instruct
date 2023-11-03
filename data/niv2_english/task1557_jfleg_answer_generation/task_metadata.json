@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers (based on jfleg)",
+    "category": "Grammar Error Correction",
+    "domain": "English Exams, Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

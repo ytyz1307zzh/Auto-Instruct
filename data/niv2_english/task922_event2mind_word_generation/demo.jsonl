@@ -1,0 +1,3 @@
+{"id": "task922-5bdf1e50269446e68949e2a25d213fa0", "input": "Event:PersonX buys all of the ingredients. Intent: 1) to make something", "target": "good"}
+{"id": "task922-97ee40e55dec48eaa7f1f5c2d12666c9", "input": "Event:PersonX scratches PersonY's head. Intent:", "target": "confused"}
+{"id": "task922-ce4f54ef4d0d445196d13194cc4b58cb", "input": "Event:PersonX feels like hours. Intent: 1) because x need something till to get", "target": "boring"}

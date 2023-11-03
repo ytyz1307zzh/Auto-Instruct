@@ -1,0 +1,7 @@
+{
+    "summary": "Writing correct answer to a given question based on a given sentence.",
+    "category": "Question Answering",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

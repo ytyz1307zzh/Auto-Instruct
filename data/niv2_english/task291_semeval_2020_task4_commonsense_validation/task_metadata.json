@@ -1,0 +1,7 @@
+{
+    "summary": "Given two statements, choose the one that makes less sense.",
+    "category": "Commonsense Classification",
+    "domain": "Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

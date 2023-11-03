@@ -1,0 +1,7 @@
+{
+    "summary": "Given a hard science question, provide the answer based on scientific facts and reasoning.",
+    "category": "Question Answering",
+    "domain": "School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

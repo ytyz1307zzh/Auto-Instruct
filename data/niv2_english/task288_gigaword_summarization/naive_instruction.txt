@@ -1,0 +1,1 @@
+Given a text of article, generate a title for the article.

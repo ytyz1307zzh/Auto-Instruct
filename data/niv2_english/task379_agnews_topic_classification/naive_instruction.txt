@@ -1,0 +1,1 @@
+Given a news article, classify the article's topic to four classes.

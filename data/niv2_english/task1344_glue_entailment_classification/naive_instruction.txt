@@ -1,0 +1,1 @@
+Checking if the second sentance entails the first or not

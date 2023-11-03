@@ -1,0 +1,7 @@
+{
+    "summary": "You're given a review from Amazon and category of the product, classify whether category matchs the review.",
+    "category": "Text Categorization",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

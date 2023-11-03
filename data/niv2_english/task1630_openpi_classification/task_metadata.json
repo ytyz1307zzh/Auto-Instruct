@@ -1,0 +1,7 @@
+{
+    "summary": "Given a passage as input, print the output as the category to which the passage belongs",
+    "category": "Text Categorization",
+    "domain": "Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

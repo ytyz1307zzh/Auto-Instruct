@@ -1,0 +1,7 @@
+{
+    "summary": "Given a passage and a question determine if the question can be answered by the passage",
+    "category": "Answerability Classification",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

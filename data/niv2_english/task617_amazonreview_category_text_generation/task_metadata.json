@@ -1,0 +1,7 @@
+{
+    "summary": "Given an Amazon product review your task is to generate the category of product.",
+    "category": "Text Categorization",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

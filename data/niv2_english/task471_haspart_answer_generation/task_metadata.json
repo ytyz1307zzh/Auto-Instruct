@@ -1,0 +1,7 @@
+{
+    "summary": "Generating entity which is in has-part-relationship with input entity",
+    "category": "Entity Generation",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

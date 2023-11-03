@@ -1,0 +1,1 @@
+Given a multiple-choice question and you have to pick the correct option.

@@ -1,0 +1,7 @@
+{
+    "summary": "Answering multiple choice commonsense question in English language.",
+    "category": "Question Answering",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given two sentences and the genre they should belong to, determine if they belong to the same genre or not.",
+    "category": "Text Categorization",
+    "domain": "History, Fiction, Dialogue, Law, Government and Politics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

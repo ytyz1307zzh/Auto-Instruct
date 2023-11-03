@@ -1,0 +1,1 @@
+Given a post in English, classify it into hateful or non-hateful

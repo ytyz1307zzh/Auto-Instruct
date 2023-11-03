@@ -1,0 +1,7 @@
+{
+    "summary": "Given an analogy that relates objects to the associated rooms, give the appropriate room for the given object",
+    "category": "Word Analogy",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

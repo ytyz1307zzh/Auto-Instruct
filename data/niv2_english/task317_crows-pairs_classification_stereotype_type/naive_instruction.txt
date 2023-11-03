@@ -1,0 +1,1 @@
+Classify a sentence into different types of stereotype

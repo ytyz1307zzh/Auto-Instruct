@@ -1,0 +1,1 @@
+Given an analogy that relates actions to the tools used to perform the action, give the appropriate tool for the given action

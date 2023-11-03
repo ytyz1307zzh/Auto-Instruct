@@ -1,0 +1,7 @@
+{
+    "summary": "Given a dialogue, classify whether both participants agree to the deal",
+    "category": "Dialogue State Tracking",
+    "domain": "Dialogue, Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

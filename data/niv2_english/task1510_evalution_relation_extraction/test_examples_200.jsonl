@@ -1,0 +1,200 @@
+{"id": "task1510-b3842bae31564d72aace8c6ae99d5ebd", "input": "animal can be used as the opposite of vegetable", "target": "animal Antonym vegetable"}
+{"id": "task1510-fc903c0fe24b4a50b50aaa8dd9a3d110", "input": "cake is made of sugar", "target": "cake MadeOf sugar"}
+{"id": "task1510-7b9d8470e31c4f89840ee5fa3d8ce4d0", "input": "mate is part of couple", "target": "mate PartOf couple"}
+{"id": "task1510-60ab46089c2a45d5b75e8a5e2b0411fd", "input": "mind can be used as the opposite of matter", "target": "mind Antonym matter"}
+{"id": "task1510-034bff40a45c4b2199ca70138f9be767", "input": "carry can be used with the same meaning of have", "target": "carry Synonym have"}
+{"id": "task1510-751196137db04bcab7688da0499c3bb2", "input": "part is part of hair", "target": "part PartOf hair"}
+{"id": "task1510-caac0e9fabfc442e9bcb7f44b9843f86", "input": "airplane is a kind of machine", "target": "airplane IsA machine"}
+{"id": "task1510-d4f33193168e44a1aea087211944ae50", "input": "nature can have or can contain life", "target": "nature HasA life"}
+{"id": "task1510-6ff79be28c2c40f68786b9eb0ae6f233", "input": "point can be used with the same meaning of time", "target": "point Synonym time"}
+{"id": "task1510-3636a9e7fea04c3d9639f0c21704a1d9", "input": "fire is a kind of element", "target": "fire IsA element"}
+{"id": "task1510-da8e3892d7264bd59ca98c5146f41eb6", "input": "handle is part of umbrella", "target": "handle PartOf umbrella"}
+{"id": "task1510-94083f7bcc77484cae1a2a089694ebb5", "input": "room is a kind of build", "target": "room IsA build"}
+{"id": "task1510-338480769a084cfab958e1c51f44e86c", "input": "spit can be characterized by wet", "target": "spit HasProperty wet"}
+{"id": "task1510-7a327dbb7c804b368c6790940e051dae", "input": "life can be used with the same meaning of experience", "target": "life Synonym experience"}
+{"id": "task1510-9f0be70041a449dfb30e752eed2293db", "input": "object can be characterized by solid", "target": "object HasProperty solid"}
+{"id": "task1510-4932fb7310ef457eae1aa2552af3bad1", "input": "drive can be characterized by fun", "target": "drive HasProperty fun"}
+{"id": "task1510-1b7a214934754de7afcff12792a98543", "input": "heel is part of shoe", "target": "heel PartOf shoe"}
+{"id": "task1510-c69a1fdbf3834ccc86c4875f4e548563", "input": "depression can be characterized by bad", "target": "depression HasProperty bad"}
+{"id": "task1510-25556bc876c54fcaa0b06cee7c5c9c2e", "input": "bat is a kind of animal", "target": "bat IsA animal"}
+{"id": "task1510-3f0dfa74036d4d6fbb26f11edd899fa3", "input": "balloon can have or can contain air", "target": "balloon HasA air"}
+{"id": "task1510-20a5711477014361bed32feea9e2b167", "input": "chocolate is a kind of candy", "target": "chocolate IsA candy"}
+{"id": "task1510-fe12465f0c5841b68e6773569b18375f", "input": "crop is a kind of plant", "target": "crop IsA plant"}
+{"id": "task1510-4f396a998ca842ceb33d243e33bc3bad", "input": "draw is a kind of art", "target": "draw IsA art"}
+{"id": "task1510-1ec414ff6acb487fa0a1a20504e9d2b2", "input": "historic_period is part of history", "target": "historic_period PartOf history"}
+{"id": "task1510-57fbe6181dfc46f3a51562d9e72c382a", "input": "sport can be characterized by healthy", "target": "sport HasProperty healthy"}
+{"id": "task1510-ed2e2965f1f64976add9ac51dd6f64bc", "input": "pain can be characterized by bad", "target": "pain HasProperty bad"}
+{"id": "task1510-cddc87e5e5c54ec2b8fdcbc776ce0e2f", "input": "boot can be characterized by black", "target": "boot HasProperty black"}
+{"id": "task1510-a3088855c270400f8ce1fbe03b980bf2", "input": "play is a kind of perform", "target": "play IsA perform"}
+{"id": "task1510-3f3cdfd2ef4a4d889af7565a6c6fbb43", "input": "family can be characterized by important", "target": "family HasProperty important"}
+{"id": "task1510-9a18056de6dc415da72009cbf88a97dd", "input": "keep can be used as the opposite of share", "target": "keep Antonym share"}
+{"id": "task1510-56e7cae25be64e35a05c7c116b839240", "input": "kitten can be used as the opposite of puppy", "target": "kitten Antonym puppy"}
+{"id": "task1510-34cc2ad141484f1cb50a25167f6895fa", "input": "ceiling can be used as the opposite of wall", "target": "ceiling Antonym wall"}
+{"id": "task1510-5a41d882ac3b45438e145e24372cbc7b", "input": "active is a kind of person", "target": "active IsA person"}
+{"id": "task1510-90a150302c794dffb59034f963b868e2", "input": "person can be characterized by entertain", "target": "person HasProperty entertain"}
+{"id": "task1510-3713683c9ff54c659514f92760ffd4d2", "input": "house can have or can contain bedroom", "target": "house HasA bedroom"}
+{"id": "task1510-3845d6ef0b734c0db5368644675f9353", "input": "fish is a kind of animal", "target": "fish IsA animal"}
+{"id": "task1510-55cefb2ac345488eadce5b590890017c", "input": "hockey can be characterized by cold", "target": "hockey HasProperty cold"}
+{"id": "task1510-6934f0503efc43aa9485c7f2d2dc894b", "input": "purpose can be used with the same meaning of reason", "target": "purpose Synonym reason"}
+{"id": "task1510-04ac609733c746608131f3a2ea74ecdb", "input": "horse can be characterized by fast", "target": "horse HasProperty fast"}
+{"id": "task1510-ca2b868f8e114c73bd213e9ce4e4b9a6", "input": "make can be used with the same meaning of manufacture", "target": "make Synonym manufacture"}
+{"id": "task1510-194d4022544a4e90af1f5c910d9acea3", "input": "fruit is a kind of food", "target": "fruit IsA food"}
+{"id": "task1510-dc6eaf4e3b62486280b7ae78d7cfeeb0", "input": "blanket is made of fabric", "target": "blanket MadeOf fabric"}
+{"id": "task1510-c8749bfbb19c4ed7b0e8957f47d1600f", "input": "beef is part of cattle", "target": "beef PartOf cattle"}
+{"id": "task1510-24d5515f7aac42c09323c07d57ba61ec", "input": "blood is a kind of liquid", "target": "blood IsA liquid"}
+{"id": "task1510-dfef97914894455b87021a6524342e51", "input": "hit can be used as the opposite of miss", "target": "hit Antonym miss"}
+{"id": "task1510-cec73176eada40ca8b6bce8a94aa6fa2", "input": "face is part of body", "target": "face PartOf body"}
+{"id": "task1510-7a670d60e4ae4726ac347ff07c034d19", "input": "picture can be used as the opposite of movie", "target": "picture Antonym movie"}
+{"id": "task1510-89296a38b6934ea8be077b1d4d814382", "input": "birthday is a kind of fun", "target": "birthday IsA fun"}
+{"id": "task1510-b268354639cd4a7e8673da7eab4345e6", "input": "sell is true then also give is true", "target": "sell Entails give"}
+{"id": "task1510-ee9ee775aece42cb8f3c3472bbcc97bc", "input": "ranch can be characterized by large", "target": "ranch HasProperty large"}
+{"id": "task1510-400ef3d51c614ab3b93071ed443860f1", "input": "relax can be used as the opposite of stress", "target": "relax Antonym stress"}
+{"id": "task1510-b1877224e7134190b2a4c30c14ae9c04", "input": "couch is a kind of bed", "target": "couch IsA bed"}
+{"id": "task1510-c169498750514986a0743f9d44c02b80", "input": "child can be characterized by vulnerable", "target": "child HasProperty vulnerable"}
+{"id": "task1510-a554beed06a041a19c680c6e58cc9cfd", "input": "road can be used as the opposite of street", "target": "road Antonym street"}
+{"id": "task1510-a1ef86aad75a4cbf814782cf1cad688f", "input": "bird is a kind of meat", "target": "bird IsA meat"}
+{"id": "task1510-813606934fb04fa7a9e9beafe088b2cf", "input": "nose is part of head", "target": "nose PartOf head"}
+{"id": "task1510-1622b89fcae44d99910095b81e6d85ce", "input": "church is a kind of build", "target": "church IsA build"}
+{"id": "task1510-0007dfe4bf884d8b96cf36720222ad5f", "input": "sheet_of_paper is a kind of paper", "target": "sheet_of_paper IsA paper"}
+{"id": "task1510-437953d4fde44c76bc4d2562f2917149", "input": "hard can be used as the opposite of simple", "target": "hard Antonym simple"}
+{"id": "task1510-285651d83d264f608c7fb20262a84f74", "input": "long can be used as the opposite of short", "target": "long Antonym short"}
+{"id": "task1510-1ce4275e63dd45828a58393b0f81ea25", "input": "sing can be used as the opposite of talk", "target": "sing Antonym talk"}
+{"id": "task1510-4bc36a2dade44371a84f7024b14aa560", "input": "chocolate can be characterized by cool", "target": "chocolate HasProperty cool"}
+{"id": "task1510-1d01a88dda4641358a92fa1aa309b28f", "input": "compact can be used as the opposite of big", "target": "compact Antonym big"}
+{"id": "task1510-cb7639ffb0154e17a6e0c6ff2388ad37", "input": "divorce is a kind of separation", "target": "divorce IsA separation"}
+{"id": "task1510-f988c68d02944a13bb42ef5de2260251", "input": "game can be characterized by thrill", "target": "game HasProperty thrill"}
+{"id": "task1510-f556d3ff7d3a4f648a6f658332096cbe", "input": "paper is a kind of solid", "target": "paper IsA solid"}
+{"id": "task1510-ba686f6ca69f421fb8a057766507efcb", "input": "back is part of chair", "target": "back PartOf chair"}
+{"id": "task1510-ce7e5588993b47069b10e4d3a5d03e4e", "input": "north can be used as the opposite of west", "target": "north Antonym west"}
+{"id": "task1510-9ce0a7f61fea4b07ade21dd0a1fbcb5a", "input": "crash can be characterized by violent", "target": "crash HasProperty violent"}
+{"id": "task1510-82ba915f00244bb199100b700d97412e", "input": "rank is a kind of stand", "target": "rank IsA stand"}
+{"id": "task1510-9225d657e59140b18a0339aac2f3846d", "input": "bedroom is a kind of place", "target": "bedroom IsA place"}
+{"id": "task1510-479f786ddfd0444aada923b9f9925c0a", "input": "queen is a kind of woman", "target": "queen IsA woman"}
+{"id": "task1510-7ed1c714f11444deaa453dec541dddc8", "input": "politician is a kind of human", "target": "politician IsA human"}
+{"id": "task1510-acf7d2952086413aba84bbfbf4782a56", "input": "screen is a kind of choose", "target": "screen IsA choose"}
+{"id": "task1510-c15c5f5071c34aa6b65da93d19235d90", "input": "party can be used as the opposite of funeral", "target": "party Antonym funeral"}
+{"id": "task1510-d5fe4d6d00334c7db5b3df6702541e4f", "input": "car is made of aluminium", "target": "car MadeOf aluminium"}
+{"id": "task1510-be64cb02f73c4e1f96c25a388da14f0a", "input": "sock is made of thread", "target": "sock MadeOf thread"}
+{"id": "task1510-db6f28808fd84118a0525ebc9f39a964", "input": "death is a kind of end", "target": "death IsA end"}
+{"id": "task1510-afd928c9b6994075a0f2f40000bb6f6d", "input": "fisherman is a kind of human", "target": "fisherman IsA human"}
+{"id": "task1510-8ce9bb3ccd504c7082bc80acdfb5a84f", "input": "language can be used with the same meaning of tongue", "target": "language Synonym tongue"}
+{"id": "task1510-452959cf22ec497db96322a3859bbdb5", "input": "profit can be used as the opposite of benefit", "target": "profit Antonym benefit"}
+{"id": "task1510-db8f9a9ee5b04417beeaa6ccb0db7440", "input": "language can have or can contain word", "target": "language HasA word"}
+{"id": "task1510-c71a1e479c384bef829716749439e570", "input": "metal can be used as the opposite of plastic", "target": "metal Antonym plastic"}
+{"id": "task1510-92a81baf5a95476bb79ed812f488d256", "input": "shape is a kind of change", "target": "shape IsA change"}
+{"id": "task1510-69e2a021128d4eb2b827281bae5c941d", "input": "bath can be used as the opposite of shower", "target": "bath Antonym shower"}
+{"id": "task1510-478530b197d048668f8182797e267cea", "input": "column can be characterized by heavy", "target": "column HasProperty heavy"}
+{"id": "task1510-8f18ca5e002742edb5c94e70a638d697", "input": "horizontal can be used as the opposite of vertical", "target": "horizontal Antonym vertical"}
+{"id": "task1510-271e76f848954ffaa2df54d078bdbf2a", "input": "low can be used with the same meaning of sink", "target": "low Synonym sink"}
+{"id": "task1510-eedafe7364dd48228fdc89ec54295f58", "input": "cat can be characterized by soft", "target": "cat HasProperty soft"}
+{"id": "task1510-664b8c6517f84e9d882787104f2e165b", "input": "commerce can be used with the same meaning of traffic", "target": "commerce Synonym traffic"}
+{"id": "task1510-40a121501be24e6aa0f4cdc5d0b7e71c", "input": "grow can be used as the opposite of die", "target": "grow Antonym die"}
+{"id": "task1510-c55893a7a52b48f68926410a9fea06dd", "input": "face is part of head", "target": "face PartOf head"}
+{"id": "task1510-112a5480d0704987a1d6800ff03fd3ea", "input": "diamond can be used with the same meaning of baseball_diamond", "target": "diamond Synonym baseball_diamond"}
+{"id": "task1510-4a868b4b64f44c8f988e2756c97fabc0", "input": "Intimidate is a kind of frighten", "target": "intimidate IsA frighten"}
+{"id": "task1510-45491c305ceb46af8aba531758f1b481", "input": "love can be used with the same meaning of lover", "target": "love Synonym lover"}
+{"id": "task1510-099e304824b44fe9b78f63eb9dedc243", "input": "actor can be used with the same meaning of actress", "target": "actor Synonym actress"}
+{"id": "task1510-94d04686decc4ad592fa4b1d47342460", "input": "complete can be used as the opposite of empty", "target": "complete Antonym empty"}
+{"id": "task1510-4c09f978bc254570a84d762c40eb05f6", "input": "smoke can be used as the opposite of clean", "target": "smoke Antonym clean"}
+{"id": "task1510-16206732d983444982b84f7a4d834cba", "input": "show is a kind of entertainment", "target": "show IsA entertainment"}
+{"id": "task1510-479add2a22724d7aa168f9aad24b1cbc", "input": "closet can be used as the opposite of out", "target": "closet Antonym out"}
+{"id": "task1510-faa9f6248d03422c9bac961a3b46d68a", "input": "silk can be used as the opposite of lace", "target": "silk Antonym lace"}
+{"id": "task1510-f8d028013d66440c87dc0e7d234c063e", "input": "bird can have or can contain egg", "target": "bird HasA egg"}
+{"id": "task1510-89f4ef9821a9435a8c82739401747bb7", "input": "run is a kind of travel", "target": "run IsA travel"}
+{"id": "task1510-c09874e338d94facb348a6ae788038a0", "input": "bed can be used as the opposite of chair", "target": "bed Antonym chair"}
+{"id": "task1510-ba54ea3589c44d748aaad97b6a459f03", "input": "anchor is part of vessel", "target": "anchor PartOf vessel"}
+{"id": "task1510-3e5a815985db44968e2d48c95e354df0", "input": "back can be used as the opposite of main", "target": "back Antonym main"}
+{"id": "task1510-4a5917d1bbdc4b4dad1738e220696791", "input": "praise can be characterized by good", "target": "praise HasProperty good"}
+{"id": "task1510-ba1838ab7cf04dc4aa35d7abca50c406", "input": "sister is part of family", "target": "sister PartOf family"}
+{"id": "task1510-843aaa93ca094399a9ee841050457458", "input": "minister is part of cabinet", "target": "minister PartOf cabinet"}
+{"id": "task1510-9b12057d84194794ae8809161d586f8f", "input": "car can be characterized by heavy", "target": "car HasProperty heavy"}
+{"id": "task1510-137743991ae7404d85ef3b741101e063", "input": "room can be used with the same meaning of place", "target": "room Synonym place"}
+{"id": "task1510-feb8bcc262d04aaa9dad2533100497e1", "input": "garden is a kind of hobby", "target": "garden IsA hobby"}
+{"id": "task1510-e7b055f064da4bb194ba3203bc241acc", "input": "frame is a kind of construct", "target": "frame IsA construct"}
+{"id": "task1510-3c8284cd552b4da5926503a5536fd63a", "input": "sight can be used with the same meaning of spot", "target": "sight Synonym spot"}
+{"id": "task1510-e74a759241924ea6b745661066b70b96", "input": "mistake can be used as the opposite of right", "target": "mistake Antonym right"}
+{"id": "task1510-7805aecd689041b4986236b157cbfea7", "input": "business can be used as the opposite of personal", "target": "business Antonym personal"}
+{"id": "task1510-8f465ea51b3e4ea0b35386b2eef6bad7", "input": "meat is a kind of food", "target": "meat IsA food"}
+{"id": "task1510-8b7043d3c5874257901f7141b8d7ccf9", "input": "dog is made of hair", "target": "dog MadeOf hair"}
+{"id": "task1510-efcd3ce89db84e448a8431b39f44c70c", "input": "pillow is part of bed", "target": "pillow PartOf bed"}
+{"id": "task1510-4a849c19e828495fac5bc2dc663de6da", "input": "division is a kind of separation", "target": "division IsA separation"}
+{"id": "task1510-05f7c89c9c79438c9f570c4477b3a210", "input": "keyboard is a kind of device", "target": "keyboard IsA device"}
+{"id": "task1510-837eb7f6a22b45d1bbe7fc2f7991daef", "input": "cloud can be characterized by white", "target": "cloud HasProperty white"}
+{"id": "task1510-afb5144b733542c388295d6878e8d849", "input": "expand can be used with the same meaning of spread", "target": "expand Synonym spread"}
+{"id": "task1510-7ebd613794bf4d51bd677a0dc2618934", "input": "exit is a kind of move", "target": "exit IsA move"}
+{"id": "task1510-c40c4883daf846b994e25428df86adfc", "input": "humanity can be used with the same meaning of mankind", "target": "humanity Synonym mankind"}
+{"id": "task1510-19c6b8afebbc47cf897ec20e420e217f", "input": "pull can be used with the same meaning of get", "target": "pull Synonym get"}
+{"id": "task1510-5ac6c4c1bfa24dd0b8ea3e7bb0e649e1", "input": "sister can be used with the same meaning of darling", "target": "sister Synonym darling"}
+{"id": "task1510-6c4b58b6ad344a8a84ea965a1e278bab", "input": "column can be used as the opposite of row", "target": "column Antonym row"}
+{"id": "task1510-47300503cf2e4d14b03e7f3864fa68d2", "input": "damage can be used with the same meaning of hurt", "target": "damage Synonym hurt"}
+{"id": "task1510-deb1d413269e40fa9fdddec1c2efbd50", "input": "follower can be used as the opposite of leader", "target": "follower Antonym leader"}
+{"id": "task1510-442ae429a3204e498b58c6c60bbbf029", "input": "affection can be characterized by healthy", "target": "affection HasProperty healthy"}
+{"id": "task1510-b668057ed35d4561b7f51b5b8ebd28d4", "input": "enlightenment can be used as the opposite of ignorance", "target": "enlightenment Antonym ignorance"}
+{"id": "task1510-00d727d5dec04ebfaf2c562481471aa4", "input": "body can have or can contain organ", "target": "body HasA organ"}
+{"id": "task1510-ed254c03038649ad8f096c2d4c43a7f0", "input": "mouth is part of jar", "target": "mouth PartOf jar"}
+{"id": "task1510-90fb4b9c7bef467ab8b33255da018ce8", "input": "record can be used as the opposite of cd", "target": "record Antonym cd"}
+{"id": "task1510-4c2569dabfff447f9cb6ac42fa6d8cff", "input": "full can be used with the same meaning of complete", "target": "full Synonym complete"}
+{"id": "task1510-2b38d984aef84dfbbcfd20fe93677796", "input": "nothing can be used as the opposite of exist", "target": "nothing Antonym exist"}
+{"id": "task1510-3a513c7653c84d8ea1b5ca24541eaba4", "input": "pan is a kind of container", "target": "pan IsA container"}
+{"id": "task1510-82b3b1f49ce9401498a6fe3731007374", "input": "cold can be used as the opposite of warm", "target": "cold Antonym warm"}
+{"id": "task1510-a5790f8c42f742a4b2a5687fd96efbad", "input": "human can have or can contain skin", "target": "human HasA skin"}
+{"id": "task1510-e27506f7125b437c905c73f87ff5d79c", "input": "hollow is a kind of empty", "target": "hollow IsA empty"}
+{"id": "task1510-e987a872f1344b08bffea217540253b9", "input": "action is a kind of play", "target": "action IsA play"}
+{"id": "task1510-92f83dc4a1af4ad9ae8e98fdcc215e5f", "input": "noise can be characterized by sound", "target": "noise HasProperty sound"}
+{"id": "task1510-aa550f0db9cb41fc96817a7f102171d5", "input": "sky can be used as the opposite of ocean", "target": "sky Antonym ocean"}
+{"id": "task1510-983e4925465e420b8a446f41a48ff885", "input": "end is part of event", "target": "end PartOf event"}
+{"id": "task1510-9e655096e303487a82fa722655bfcdc6", "input": "metal is a kind of music", "target": "metal IsA music"}
+{"id": "task1510-6ec75c68cc864401b62f8ad92e7d5c6d", "input": "dog can have or can contain brain", "target": "dog HasA brain"}
+{"id": "task1510-72cfb645b77c4a5b98556a6e87dabaeb", "input": "aluminium can be used with the same meaning of aluminum", "target": "aluminium Synonym aluminum"}
+{"id": "task1510-663ef03332f24aecbd3a84ac25e184f7", "input": "record can be used with the same meaning of log", "target": "record Synonym log"}
+{"id": "task1510-a31a6f277b4744989f895351420968a2", "input": "function can be used with the same meaning of work", "target": "function Synonym work"}
+{"id": "task1510-d8cec5d3c4fa41d28534b2cf938bbbcd", "input": "brass can be used with the same meaning of brass_instrument", "target": "brass Synonym brass_instrument"}
+{"id": "task1510-cdf81ef03e2e45b59fc9c0cbf1f47206", "input": "joy can be used as the opposite of sad", "target": "joy Antonym sad"}
+{"id": "task1510-493419d0916f40febfefef6b9a37dd21", "input": "function can be used with the same meaning of part", "target": "function Synonym part"}
+{"id": "task1510-a5f70ccb2f0746f691e4d259f7431577", "input": "light can be used with the same meaning of ignite", "target": "light Synonym ignite"}
+{"id": "task1510-be8aa95c585e4eeb9392a7b883471536", "input": "seat can be characterized by comfortable", "target": "seat HasProperty comfortable"}
+{"id": "task1510-cb27ac12b05f4bd7bcd3074b952b5f3c", "input": "cell_phone can be used with the same meaning of mobile", "target": "cell_phone Synonym mobile"}
+{"id": "task1510-e5d983fed6e948009d254b63a88cc624", "input": "happiness can be used as the opposite of sadness", "target": "happiness Antonym sadness"}
+{"id": "task1510-acd03d4fe7ac4c87b0d8b934cf14dda4", "input": "lazy can be used as the opposite of energetic", "target": "lazy Antonym energetic"}
+{"id": "task1510-a95305ea1d514a6ca1ce59beaa173be8", "input": "basketball is a kind of game", "target": "basketball IsA game"}
+{"id": "task1510-92fab013ce6f451a90e963de59ffd056", "input": "care can be used as the opposite of hurt", "target": "care Antonym hurt"}
+{"id": "task1510-bb4e587a11a24f41885496d2c5cef0a0", "input": "roll can be used as the opposite of sit", "target": "roll Antonym sit"}
+{"id": "task1510-bd8f8c2ba7eb4d849320818da6478feb", "input": "Growth is a kind of object", "target": "growth IsA object"}
+{"id": "task1510-c091d9c757f64fb081f5f09045148880", "input": "birth can be used as the opposite of death", "target": "birth Antonym death"}
+{"id": "task1510-274964e2c0ff4d2f9deb3f99fff19714", "input": "Ear is a kind of hear", "target": "ear IsA hear"}
+{"id": "task1510-5f54ca725e6a408dac857a2dd0f2bd23", "input": "free can be used as the opposite of prison", "target": "free Antonym prison"}
+{"id": "task1510-5f46e04d2269434a9aa42499c91a2436", "input": "company can be used with the same meaning of business", "target": "company Synonym business"}
+{"id": "task1510-8991b9aaa5b642dfa68c34f524ff5e4d", "input": "knife can be characterized by sharp", "target": "knife HasProperty sharp"}
+{"id": "task1510-69157fd30e87443b90eff08648fc9fe7", "input": "penis is a kind of body_part", "target": "penis IsA body_part"}
+{"id": "task1510-404ee55debd3409c94e9a3465c8b9c82", "input": "ingredient is part of dish", "target": "ingredient PartOf dish"}
+{"id": "task1510-828567c350db4c57a711aa6807d67341", "input": "bone can be used as the opposite of tissue", "target": "bone Antonym tissue"}
+{"id": "task1510-058a43e3f9b44ca4abfbfea8ea42436c", "input": "ride can be characterized by smooth", "target": "ride HasProperty smooth"}
+{"id": "task1510-618006f92ebb4afdbfcad3f9277bdce1", "input": "part can be used with the same meaning of organ", "target": "part Synonym organ"}
+{"id": "task1510-e6d429ff72a0423a90e66fe5be9fbf64", "input": "lyric is a kind of text", "target": "lyric IsA text"}
+{"id": "task1510-6c06f9b4f0294df4aff106bea4ac2ac9", "input": "fire is a kind of bake", "target": "fire IsA bake"}
+{"id": "task1510-115cf88d2c0b4c9e9cefecdc8ba669bd", "input": "Gentle can be used as the opposite of hard", "target": "gentle Antonym hard"}
+{"id": "task1510-c248161bf4504f63be37b832896abdf1", "input": "ram is part of computer", "target": "ram PartOf computer"}
+{"id": "task1510-732b319a284f4ba381503bb6e5df73e7", "input": "aisle is part of store", "target": "aisle PartOf store"}
+{"id": "task1510-4bca085e13a54c1fbb486746a3f63982", "input": "christian can be used with the same meaning of kind", "target": "christian Synonym kind"}
+{"id": "task1510-a4575af7a4ec43878f1162f2cbf5fae5", "input": "baby can have or can contain hair", "target": "baby HasA hair"}
+{"id": "task1510-ff703da1691d4ca39a829c416493d364", "input": "banana can have or can contain peel", "target": "banana HasA peel"}
+{"id": "task1510-6bd18ce86c99451f9011debe6d90083f", "input": "god can be characterized by great", "target": "god HasProperty great"}
+{"id": "task1510-10da85b4d5244a66a14c77e0e5c3a90d", "input": "nice can be used with the same meaning of fine", "target": "nice Synonym fine"}
+{"id": "task1510-908efea9eef4405daffffc8cfb1f9b0d", "input": "attach is a kind of connect", "target": "attach IsA connect"}
+{"id": "task1510-c1e055ec100a4118b7466053f0d34d51", "input": "set is a kind of stage", "target": "set IsA stage"}
+{"id": "task1510-1c89a7fa63d541bea2eb00964614ac68", "input": "loose can be used as the opposite of tight", "target": "loose Antonym tight"}
+{"id": "task1510-7b81b3198370458f8b91f7889dd76394", "input": "conflict can be used as the opposite of agreement", "target": "conflict Antonym agreement"}
+{"id": "task1510-94ddbea6bf644cac8a849630293547d7", "input": "object is part of sentence", "target": "object PartOf sentence"}
+{"id": "task1510-fb77009263e146b39e1c0240818e17ae", "input": "illness is a kind of feel", "target": "illness IsA feel"}
+{"id": "task1510-846f600ed2444b21808b6a4519b4df5b", "input": "flight can be used with the same meaning of fly", "target": "flight Synonym fly"}
+{"id": "task1510-c0267a2d840b4787aa4481d9ed936260", "input": "material can be used with the same meaning of fabric", "target": "material Synonym fabric"}
+{"id": "task1510-c445b03413cf421d8d06f520e25aa5bc", "input": "air can be used with the same meaning of atmosphere", "target": "air Synonym atmosphere"}
+{"id": "task1510-dd7639cbb873401e8f0248d0489d8ebe", "input": "faith can be used with the same meaning of belief", "target": "faith Synonym belief"}
+{"id": "task1510-775c609dd31a4e248543f542afa7021a", "input": "cloudy is a kind of weather", "target": "cloudy IsA weather"}
+{"id": "task1510-a210d8f58d4b407b8c2d92e0db0874ea", "input": "continent can have or can contain country", "target": "continent HasA country"}
+{"id": "task1510-12dba3cb28c5465591ab89d2953a9f77", "input": "idol can be used with the same meaning of image", "target": "idol Synonym image"}
+{"id": "task1510-4ddcc5345c0a4c9f961c338d6ba1fbda", "input": "person can have or can contain something", "target": "person HasA something"}
+{"id": "task1510-34060c1c83174ed4a38ac365bef7f2e1", "input": "room can be used with the same meaning of space", "target": "room Synonym space"}
+{"id": "task1510-dbab93903791475cbec42d0956197932", "input": "peace can be used as the opposite of fight", "target": "peace Antonym fight"}
+{"id": "task1510-c9128734af774b8f87687f80d30326b5", "input": "galaxy is part of universe", "target": "galaxy PartOf universe"}
+{"id": "task1510-66a671878a8f4615a5f7789886f55df4", "input": "accident can be used as the opposite of plan", "target": "accident Antonym plan"}

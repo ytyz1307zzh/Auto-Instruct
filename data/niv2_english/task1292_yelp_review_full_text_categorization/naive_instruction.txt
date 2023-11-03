@@ -1,0 +1,1 @@
+Given a review about a place, provide a rating for it.

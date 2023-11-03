@@ -1,0 +1,7 @@
+{
+    "summary": "Given a news headline in English, classify whether it is sarcastic or non-sarcastic in nature.",
+    "category": "Text Categorization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

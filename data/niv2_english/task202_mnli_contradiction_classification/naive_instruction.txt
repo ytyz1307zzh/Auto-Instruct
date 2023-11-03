@@ -1,0 +1,1 @@
+Given a context statement and 3 sentences as choices, choose the sentence that clearly disagrees with the context statement.

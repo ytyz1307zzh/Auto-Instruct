@@ -1,0 +1,7 @@
+{
+    "summary": "Given a paragraph from the research paper and the title, your task is to classify whether title belong to paper.",
+    "category": "Text Matching",
+    "domain": "Scientific Research Papers",
+    "input_lang": "English",
+    "output_lang": "English"
+}

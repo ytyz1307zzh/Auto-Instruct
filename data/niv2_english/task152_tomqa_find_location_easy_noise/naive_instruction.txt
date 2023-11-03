@@ -1,0 +1,1 @@
+Given an easy story with distractor sentences, answer the question regarding the location of an object.

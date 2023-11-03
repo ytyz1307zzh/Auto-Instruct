@@ -1,0 +1,1 @@
+Checking whether the given sentence contains answer to the given question.

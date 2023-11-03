@@ -1,0 +1,7 @@
+{
+    "summary": "Classification of Medical Question Pair Dataset in two categories",
+    "category": "Text Matching",
+    "domain": "Medicine, Healthcare",
+    "input_lang": "English",
+    "output_lang": "English"
+}

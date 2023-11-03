@@ -1,0 +1,7 @@
+{
+    "summary": "Given a query, classify whether it's a good or bad query",
+    "category": "Question Understanding",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

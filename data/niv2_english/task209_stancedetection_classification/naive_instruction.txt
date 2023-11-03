@@ -1,0 +1,1 @@
+Given a topic and an argument, detect whether topic is in favor or against in the argument.

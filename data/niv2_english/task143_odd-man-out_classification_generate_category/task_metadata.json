@@ -1,0 +1,7 @@
+{
+    "summary": "Given a set of words, select the category that represents the words.",
+    "category": "Text Categorization",
+    "domain": "Game -> Card Game",
+    "input_lang": "English",
+    "output_lang": "English"
+}

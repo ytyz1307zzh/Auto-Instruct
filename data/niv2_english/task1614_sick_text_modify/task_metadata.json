@@ -1,0 +1,7 @@
+{
+    "summary": "Derive a sentence from the given sentence (based on the sick dataset)",
+    "category": "Paraphrasing",
+    "domain": "Captions -> Video Captions, Captions -> Image Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

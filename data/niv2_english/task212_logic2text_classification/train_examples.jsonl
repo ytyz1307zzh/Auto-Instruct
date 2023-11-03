@@ -1,0 +1,400 @@
+{"id": "task212-fac5f6f0d79f4dd480bcd04653cc7a64", "input": "less { hop { filter_eq { all_rows ; incumbent ; frank wolf } ; first elected } ; hop { filter_eq { all_rows ; incumbent ; rick boucher } ; first elected } }", "target": "comparative"}
+{"id": "task212-3e48c0b0a81f494e92dcf955fd40e143", "input": "most_eq { all_rows ; high points ; tim duncan }", "target": "majority"}
+{"id": "task212-23feb268fbc24652b916303fdb4557c2", "input": "and { only { filter_eq { all_rows ; country ; canada } } ; eq { hop { filter_eq { all_rows ; country ; canada } ; player } ; mike weir } }", "target": "unique"}
+{"id": "task212-48f45f6214874b0180db72df3a023802", "input": "greater { hop { filter_eq { all_rows ; selected caribbean and n latin america countries ; mexico } ; internl tourist arrivals 2011 ( x1000 ) } ; hop { filter_eq { all_rows ; selected caribbean and n latin america countries ; barbados } ; internl tourist arrivals 2011 ( x1000 ) } }", "target": "comparative"}
+{"id": "task212-ec1b16c6d323480dbda0add7e1249003", "input": "all_greater_eq { all_rows ; rebounds ; 100 }", "target": "majority"}
+{"id": "task212-9857a92c92cb40398a4bee622dae2f68", "input": "less { hop { filter_eq { all_rows ; title ; rumble } ; original air date } ; hop { filter_eq { all_rows ; title ; sweetie } ; original air date } }", "target": "comparative"}
+{"id": "task212-a7b648d28d9c4069ab0b9a76083eb284", "input": "and { only { filter_eq { filter_eq { all_rows ; college ; saskatchewan } ; position ; k } } ; eq { hop { filter_eq { filter_eq { all_rows ; college ; saskatchewan } ; position ; k } ; player } ; matt kellett } }", "target": "unique"}
+{"id": "task212-580a6efcb39a41b09083c269d1445eb3", "input": "most_eq { filter_less { all_rows ; points ; 10 } ; difference ; - }", "target": "majority"}
+{"id": "task212-897b8fd31a9a450dadd76a2c4765c5f4", "input": "round_eq { avg { filter_eq { all_rows ; pos ; qb } ; contract } ; 2 }", "target": "aggregation"}
+{"id": "task212-5702b32648ba4f3faf2fdcc6a40e2e30", "input": "less { hop { filter_eq { all_rows ; tournament ; commonwealth games } ; result } ; hop { filter_eq { all_rows ; tournament ; summer olympics } ; result } }", "target": "comparative"}
+{"id": "task212-17e4d55b99944549ad19a67c46a6f3a5", "input": "eq { diff { hop { filter_eq { all_rows ; singer ; pedro migu\u00e9is } ; points } ; hop { filter_eq { all_rows ; singer ; jo\u00e3o portugal } ; points } } ; 20 }", "target": "comparative"}
+{"id": "task212-25a231039d214b4193e1237c0c8fb6bb", "input": "most_greater { all_rows ; goals for ; 50 }", "target": "majority"}
+{"id": "task212-d76516f94c8a4d68b65539575885232d", "input": "less { hop { filter_eq { all_rows ; incumbent ; john j hemphill } ; first elected } ; hop { filter_eq { all_rows ; incumbent ; william h perry } ; first elected } }", "target": "comparative"}
+{"id": "task212-8f9b5c37e08b4636a2a2112f8de2707e", "input": "greater { hop { filter_eq { all_rows ; singer ( s ) ; the script } ; ratings } ; hop { filter_eq { all_rows ; singer ( s ) ; hurts } ; ratings } }", "target": "comparative"}
+{"id": "task212-196b460dae4b4f8a8597abe07c217018", "input": "all_eq { filter_greater { all_rows ; races ; 20 } ; wins ; 0 }", "target": "majority"}
+{"id": "task212-c30490b4c7ae4cf787ae8dbdc9091903", "input": "greater { hop { filter_eq { all_rows ; athlete ; thuso mpuang } ; time } ; hop { filter_eq { all_rows ; athlete ; wallace spearmon } ; time } }", "target": "comparative"}
+{"id": "task212-216102d78d394084ba776247ca3d3239", "input": "greater { hop { filter_eq { all_rows ; state ; oklahoma } ; interview } ; hop { filter_eq { all_rows ; state ; new jersey } ; interview } }", "target": "comparative"}
+{"id": "task212-19523d06568440d1af4ded888fa67e5a", "input": "round_eq { avg { all_rows ; total } ; 145.5 }", "target": "aggregation"}
+{"id": "task212-c72953b2a92e4586b2f4e58a21603c83", "input": "less { hop { filter_eq { all_rows ; name ; newport } ; year withdrawn } ; hop { filter_eq { all_rows ; name ; cowes } ; year withdrawn } }", "target": "comparative"}
+{"id": "task212-96a92b134fa64a278aa0cc509e9f87c0", "input": "only { filter_eq { all_rows ; date ; may } }", "target": "unique"}
+{"id": "task212-cb80917e56144a279af585ec53cb9066", "input": "and { only { filter_eq { all_rows ; erp w ; 33 } } ; eq { hop { filter_eq { all_rows ; erp w ; 33 } ; call sign } ; w267 am } }", "target": "unique"}
+{"id": "task212-ea82f15c78074ac0b2c0c54c2b09b113", "input": "all_eq { all_rows ; played ; 14 }", "target": "majority"}
+{"id": "task212-347e4aa15c454539b8f1cbbe70278317", "input": "round_eq { sum { filter_less { all_rows ; total dismissals ; 10 } ; total dismissals } ; 8 }", "target": "aggregation"}
+{"id": "task212-121022b5a1484507bd5d3097bb47f458", "input": "less { hop { filter_eq { all_rows ; opponent ; jason st louis } ; time } ; hop { filter_eq { all_rows ; opponent ; mike swick } ; time } }", "target": "comparative"}
+{"id": "task212-9b005420ed61485a93c8843539365158", "input": "all_greater { filter_eq { all_rows ; away team ; south melbourne } ; crowd ; 20000 }", "target": "majority"}
+{"id": "task212-2596289200c549c29c9c4538d7d02b51", "input": "all_eq { all_rows ; away captain ; joe darling }", "target": "majority"}
+{"id": "task212-1197013f88874b60ac680cfa64f1a5d4", "input": "greater { hop { filter_eq { all_rows ; book series ; where 's wally } ; no of installments } ; hop { filter_eq { all_rows ; book series ; millennium trilogy } ; no of installments } }", "target": "comparative"}
+{"id": "task212-ddaef0bc78df47c394f6d8ee56942fd6", "input": "and { only { filter_eq { all_rows ; ceased to be duchess ; husband 's execution } } ; eq { hop { filter_eq { all_rows ; ceased to be duchess ; husband 's execution } ; name } ; louise marie ad\u00e9la\u00efde de bourbon } }", "target": "unique"}
+{"id": "task212-e8dcb6031ddc4de989ea259fe632b5b4", "input": "greater { hop { filter_eq { all_rows ; ; soybean oil } ; polyunsaturated fat } ; hop { filter_eq { all_rows ; ; rice bran oil } ; polyunsaturated fat } }", "target": "comparative"}
+{"id": "task212-0f046cf3df3c4bf8949290056b627b04", "input": "greater { hop { filter_eq { all_rows ; year ; 1993 } ; laps } ; hop { filter_eq { all_rows ; year ; 1997 } ; laps } }", "target": "comparative"}
+{"id": "task212-db28a5d3e72a4e3788b1909467b45966", "input": "less { hop { filter_eq { all_rows ; player ; john daly } ; year ( s ) won } ; hop { filter_eq { all_rows ; player ; david toms } ; year ( s ) won } }", "target": "comparative"}
+{"id": "task212-42c30b8789b24f75964f6bdccc4264dc", "input": "and { only { filter_eq { all_rows ; country ; burma } } ; eq { hop { filter_eq { all_rows ; country ; burma } ; city } ; yangon } }", "target": "unique"}
+{"id": "task212-cc4567a8908a4dbdbf89d9489f0b2273", "input": "round_eq { sum { filter_eq { all_rows ; year ; 1954 } ; points } ; 4 }", "target": "aggregation"}
+{"id": "task212-b9ad5e9c926a44c69923e8822481e0e7", "input": "less { hop { filter_eq { all_rows ; months in malayalam era ; chingam } ; gregorian calendar } ; hop { filter_eq { all_rows ; months in malayalam era ; tulam } ; gregorian calendar } }", "target": "comparative"}
+{"id": "task212-00396022c83f44fe96adcac2f9f468a6", "input": "most_greater { all_rows ; conversions ; 50 }", "target": "majority"}
+{"id": "task212-e525087dddc04079a742a131b71a81a5", "input": "and { only { filter_eq { filter_eq { all_rows ; launch date ( ddmmyyyy ) ; 2005 } ; connection speed ; 236.8 kbit/s } } ; eq { hop { filter_eq { filter_eq { all_rows ; launch date ( ddmmyyyy ) ; 2005 } ; connection speed ; 236.8 kbit/s } ; carrier } ; moldcell } }", "target": "unique"}
+{"id": "task212-38aae5963c154c01979717ed9cced153", "input": "and { eq { hop { argmax { all_rows ; score } ; home team } ; melbourne tigers } ; eq { hop { argmax { all_rows ; score } ; away team } ; wollongong hawks } }", "target": "superlative"}
+{"id": "task212-e5d12abf5ec345da98c9486478304d24", "input": "greater { hop { filter_eq { all_rows ; home team ; richmond } ; crowd } ; hop { filter_eq { all_rows ; home team ; footscray } ; crowd } }", "target": "comparative"}
+{"id": "task212-11d52d846d2a40e09e49a42f50121740", "input": "less { hop { filter_eq { all_rows ; opponent ; atlanta falcons } ; attendance } ; hop { filter_eq { all_rows ; opponent ; san francisco 49ers } ; attendance } }", "target": "comparative"}
+{"id": "task212-3105c71ce91844e99dc26f637ef83bbb", "input": "only { filter_eq { all_rows ; directed by ; tj scott } }", "target": "unique"}
+{"id": "task212-981ab938e62a473b9d36843203ce74cc", "input": "less { hop { filter_eq { all_rows ; episode summary ; richard is made into boyfriend material } ; premier date } ; hop { filter_eq { all_rows ; episode summary ; lawryn is made into a bmx biker } ; premier date } }", "target": "comparative"}
+{"id": "task212-b214b06184754ad5862bd0c173778898", "input": "and { less { hop { filter_eq { all_rows ; film title used in nomination ; vukovar poste restante } ; year ( ceremony ) } ; hop { filter_eq { all_rows ; film title used in nomination ; underground } ; year ( ceremony ) } } ; and { eq { hop { filter_eq { all_rows ; film title used in nomination ; vukovar poste restante } ; year ( ceremony ) } ; 1994 ( 67th ) } ; eq { hop { filter_eq { all_rows ; film title used in nomination ; underground } ; year ( ceremony ) } ; 1995 ( 68th ) } } }", "target": "comparative"}
+{"id": "task212-a235553f4fc34279a34a9d165ed705a3", "input": "and { only { filter_eq { all_rows ; motogp winner ; andrea dovizioso } } ; eq { hop { filter_eq { all_rows ; motogp winner ; andrea dovizioso } ; round } ; 10 } }", "target": "unique"}
+{"id": "task212-0cc62029e57b45759dc300e934b0de8f", "input": "eq { nth_max { all_rows ; weeks ; 2 } ; 16 weeks }", "target": "ordinal"}
+{"id": "task212-3b7637bf2cfa443580a4d1562ab15730", "input": "and { only { filter_eq { all_rows ; wkt keeper ; no regular keeper } } ; eq { hop { filter_eq { all_rows ; wkt keeper ; no regular keeper } ; season } ; 1890 } }", "target": "unique"}
+{"id": "task212-28188133c8724c28b7c81e1f276f471c", "input": "most_greater { all_rows ; won ; 10 }", "target": "majority"}
+{"id": "task212-12baa02e39154cba9db3dacb5d622773", "input": "round_eq { avg { filter_eq { all_rows ; years ; 2010 } ; power } ; 3875 }", "target": "aggregation"}
+{"id": "task212-22b7a68b9d584611bda75e2010713b3a", "input": "and { eq { max { all_rows ; total } ; 8 } ; and { eq { hop { argmax { all_rows ; total } ; nation } ; soviet union ( urs ) } ; and { eq { hop { argmax { all_rows ; total } ; gold } ; 3 } ; eq { hop { argmax { all_rows ; total } ; silver } ; 3 } } } }", "target": "superlative"}
+{"id": "task212-16ef4b9c24a04a8eb465255eef06866b", "input": "round_eq { sum { all_rows ; mintage } ; 418918 }", "target": "aggregation"}
+{"id": "task212-2fa3cad1f7b24f7595769937c67d994e", "input": "less { hop { filter_eq { all_rows ; incumbent ; otto passman } ; first elected } ; hop { filter_eq { all_rows ; incumbent ; t ashton thompson } ; first elected } }", "target": "comparative"}
+{"id": "task212-4fe580eca5454fb48eba6ec8e6b0a172", "input": "most_eq { filter_eq { all_rows ; category ; best series - drama } ; recipients and nominees ; best series-drama }", "target": "majority"}
+{"id": "task212-bdf55d8cca2a4aada6dabbfe3f27b932", "input": "and { only { filter_eq { all_rows ; first elected ; 1972 } } ; eq { hop { filter_eq { all_rows ; first elected ; 1972 } ; incumbent } ; gene taylor } }", "target": "unique"}
+{"id": "task212-613970a9f539427d9824e20441a1734a", "input": "less { hop { filter_eq { all_rows ; winner ; klavdija bojarskikh } ; winter olympics } ; hop { filter_eq { all_rows ; winner ; toini gustafsson } ; winter olympics } }", "target": "comparative"}
+{"id": "task212-1fc39a995c674281bca0292dd30e9581", "input": "less { hop { filter_eq { all_rows ; team ; eurointernational } ; season } ; hop { filter_eq { all_rows ; team ; us racetronics } ; season } }", "target": "comparative"}
+{"id": "task212-2078a6be2a20465ba93d96bbcb10779d", "input": "and { less { hop { filter_eq { all_rows ; winner ; ryan sutter } ; premiered } ; hop { filter_eq { all_rows ; winner ; jesse csincsak } ; premiered } } ; and { eq { hop { filter_eq { all_rows ; winner ; ryan sutter } ; premiered } ; january 8 , 2003 } ; eq { hop { filter_eq { all_rows ; winner ; jesse csincsak } ; premiered } ; may 19 , 2008 } } }", "target": "comparative"}
+{"id": "task212-7d7d1b2e00a347f5a9e36eac1ca92224", "input": "round_eq { sum { all_rows ; points } ; 97 }", "target": "aggregation"}
+{"id": "task212-803e9ff37799411bab8fcd101156ad56", "input": "less { hop { filter_eq { all_rows ; channel ; atv world } ; launch date } ; hop { filter_eq { all_rows ; channel ; tvb pearl } ; launch date } }", "target": "comparative"}
+{"id": "task212-5f2baaff581349d6b3018374d7edd99c", "input": "round_eq { avg { all_rows ; balls } ; 670 }", "target": "aggregation"}
+{"id": "task212-33d917e3ac0f4c1882445c1771c4a226", "input": "greater { hop { filter_eq { all_rows ; player ; frederick l conklin } ; touchdowns } ; hop { filter_eq { all_rows ; player ; jimmy craig } ; touchdowns } }", "target": "comparative"}
+{"id": "task212-6a3ac1c83fc840e8b9aca6250301ebb5", "input": "and { only { filter_eq { all_rows ; country ; spain } } ; eq { hop { filter_eq { all_rows ; country ; spain } ; player } ; jos\u00e9 mar\u00eda olaz\u00e1bal } }", "target": "unique"}
+{"id": "task212-c8e6bc7cd944456eb8cf5108a43fab8d", "input": "greater { hop { filter_eq { all_rows ; general election ; 10th lok sabha } ; % of votes } ; hop { filter_eq { all_rows ; general election ; 8th lok sabha } ; % of votes } }", "target": "comparative"}
+{"id": "task212-ebe4c12aea61480087b3353c4c31f005", "input": "greater { hop { filter_eq { all_rows ; team ; aa das palmeiras } ; drawn } ; hop { filter_eq { all_rows ; team ; minas gerais } ; drawn } }", "target": "comparative"}
+{"id": "task212-c6f92dccd9864798b558986b87d33446", "input": "round_eq { avg { all_rows ; attendance } ; 43800 }", "target": "aggregation"}
+{"id": "task212-6e2fbc7627094755a7812e6511017d34", "input": "eq { min { filter_eq { all_rows ; winner ; edvald boasson hagen } ; stage } ; 4 }", "target": "superlative"}
+{"id": "task212-7e665b606b5b405a9ef54ecd95cd237a", "input": "round_eq { avg { all_rows ; points ( pts ) } ; 24.6 }", "target": "aggregation"}
+{"id": "task212-bfe22b752c6f405a97ff72454d51c9c4", "input": "and { only { filter_eq { all_rows ; country ; france } } ; eq { hop { filter_eq { all_rows ; country ; france } ; player } ; thomas levet } }", "target": "unique"}
+{"id": "task212-1f4b76a923d74f4fa0d9b8dd671ba384", "input": "round_eq { avg { all_rows ; power rpm } ; 5500 }", "target": "aggregation"}
+{"id": "task212-724d3686498f4d509e993103843f7f22", "input": "most_greater_eq { filter_greater_eq { all_rows ; matches ; 3 } ; average ; 8 }", "target": "majority"}
+{"id": "task212-19c432ca529043cd833550b289dbfd2a", "input": "less { hop { filter_eq { all_rows ; opponent ; minnesota timberwolves } ; score } ; hop { filter_eq { all_rows ; opponent ; indiana pacers } ; score } }", "target": "comparative"}
+{"id": "task212-d321e37a984e402e81f6d3eea80a872f", "input": "and { only { filter_eq { all_rows ; player ; ( a ) } } ; eq { hop { filter_eq { all_rows ; player ; ( a ) } ; player } ; jim simons ( a ) } }", "target": "unique"}
+{"id": "task212-f63dc92b66bf449c8861a7c44c32608d", "input": "greater { hop { filter_eq { all_rows ; driver / passenger ; dani\u00e3l willemsen / sven verbrugge 1 } ; points } ; hop { filter_eq { all_rows ; driver / passenger ; janis daiders / lauris daiders } ; points } }", "target": "comparative"}
+{"id": "task212-c5a4d66a54fc445f8b21ed89b9527df2", "input": "less { hop { filter_eq { all_rows ; player ; wayne walker } ; overall pick } ; hop { filter_eq { all_rows ; player ; john yarno } ; overall pick } }", "target": "comparative"}
+{"id": "task212-ecf305effd5243188d833a4bbaabd64b", "input": "most_eq { all_rows ; sport ; football }", "target": "majority"}
+{"id": "task212-69412cacb33a4563945cadcef49387da", "input": "less { hop { filter_eq { all_rows ; stadium ; white hart lane } ; opened } ; hop { filter_eq { all_rows ; stadium ; ashton gate } ; opened } }", "target": "comparative"}
+{"id": "task212-5e631b49452149e78f5329385fb3f63d", "input": "and { eq { nth_min { all_rows ; pos ; 1 } ; 1 } ; eq { hop { nth_argmin { all_rows ; pos ; 1 } ; diff } ; + 176 } }", "target": "ordinal"}
+{"id": "task212-188cfa9ab2fd46e2a71adf8923f45962", "input": "most_eq { all_rows ; platforms ; 2 }", "target": "majority"}
+{"id": "task212-61b4f78eb67b4d9c9bb86ab07d860fd8", "input": "round_eq { avg { all_rows ; height ft ( m ) } ; 325.4 }", "target": "aggregation"}
+{"id": "task212-2e99ac854a9c4ec6850e3930ee239968", "input": "greater { hop { filter_eq { all_rows ; settlement ; gardinovci } ; population ( 2011 ) } ; hop { filter_eq { all_rows ; settlement ; lok } ; population ( 2011 ) } }", "target": "comparative"}
+{"id": "task212-1aa0697ebf62498a8489b487b0566dad", "input": "eq { hop { nth_argmax { all_rows ; capacity ; 2 } ; stadium } ; sydney sports ground }", "target": "ordinal"}
+{"id": "task212-e09007019cb74aa79ceef6cb4c8843fc", "input": "round_eq { sum { filter_eq { all_rows ; date ; september } ; attendance } ; under 200,000 }", "target": "aggregation"}
+{"id": "task212-2238a41c47e24ea2b04ea7376998456a", "input": "round_eq { avg { all_rows ; episode } ; 240 }", "target": "aggregation"}
+{"id": "task212-7e0c336d6419406e9538c723da1f4bfd", "input": "most_eq { all_rows ; status ; nominated }", "target": "majority"}
+{"id": "task212-375db6fa4c5042a7a333b219e18439fd", "input": "less { hop { filter_eq { all_rows ; vacator ; william f norrell ( d ) } ; reason for change } ; hop { filter_eq { all_rows ; vacator ; walter m mumma ( r ) } ; reason for change } }", "target": "comparative"}
+{"id": "task212-27d681ec1b9e44babb715fdab12a4c4a", "input": "most_eq { all_rows ; status ; tour match }", "target": "majority"}
+{"id": "task212-891afe6a921a4d6d824b37535d5752c7", "input": "round_eq { avg { all_rows ; games } ; 70 }", "target": "aggregation"}
+{"id": "task212-dee5f0af874048ddb1cf40f118a49638", "input": "most_eq { all_rows ; top - 5 ; 0 }", "target": "majority"}
+{"id": "task212-dd643d35540546de86489f8d20c05cf0", "input": "most_not_eq { all_rows ; ownership ; state - owned }", "target": "majority"}
+{"id": "task212-a229db936c3345078ca7e7e84f9a7da0", "input": "round_eq { sum { all_rows ; attendance } ; 791,469 }", "target": "aggregation"}
+{"id": "task212-a577f104baa54da8a755724c40e28edb", "input": "most_eq { all_rows ; seat percentage ; 0.0 }", "target": "majority"}
+{"id": "task212-6083bdb0ed494f74a4307e33b9e271a3", "input": "less { hop { filter_eq { all_rows ; annual ridership ( 2012 ) ; 280904200 } ; stations } ; hop { filter_eq { all_rows ; annual ridership ( 2012 ) ; 231154300 } ; stations } }", "target": "comparative"}
+{"id": "task212-258fcd8ea49642c9ba5d2ed080937cf7", "input": "and { only { filter_eq { all_rows ; time / retired ; off course } } ; eq { hop { filter_eq { all_rows ; time / retired ; off course } ; driver } ; gast\u00f3n mazzacane } }", "target": "unique"}
+{"id": "task212-93ff2c56c2b549989a3cad352a49f54b", "input": "round_eq { sum { filter_eq { all_rows ; year ; 1978 } ; result } ; 62 }", "target": "aggregation"}
+{"id": "task212-7ac6a477bf614bdda515a39d47c01d88", "input": "most_eq { all_rows ; paper type ; tullis russell coatings }", "target": "majority"}
+{"id": "task212-a2f444f334e047b5a7fd3f05cafbcbcb", "input": "most_greater { all_rows ; capacity ( mw ) ; 20 }", "target": "majority"}
+{"id": "task212-7ec25d4869f84a3a9089437f05840ee6", "input": "round_eq { sum { all_rows ; laps } ; 1279 }", "target": "aggregation"}
+{"id": "task212-2476f9e6719e4a008a7e17b100854314", "input": "round_eq { avg { all_rows ; goals for } ; 38.5 }", "target": "aggregation"}
+{"id": "task212-32ad8bac85084f109f957a985e77621d", "input": "most_greater { all_rows ; single day net gross ; 25 , 00 , 00000 }", "target": "majority"}
+{"id": "task212-4800e084f9764f4eb932ade5aff80fea", "input": "round_eq { avg { all_rows ; height } ; 6 ' 4 \" }", "target": "aggregation"}
+{"id": "task212-fad70634a3544c508ea3624682c9cf4b", "input": "round_eq { avg { all_rows ; games played } ; 7.6 }", "target": "aggregation"}
+{"id": "task212-3e790acd42f0429691432c89d00d6d91", "input": "round_eq { avg { all_rows ; lost } ; 28.2 }", "target": "aggregation"}
+{"id": "task212-c76f3fc79ab243fc897e8ad35bbbf1c1", "input": "most_eq { all_rows ; partner ; sherwood stewart }", "target": "majority"}
+{"id": "task212-729584f7e38d48f1b3e4fa5932f8945f", "input": "round_eq { sum { all_rows ; tries for } ; 475 }", "target": "aggregation"}
+{"id": "task212-e27471a9f4be4d8fa80c5d5683f9bdad", "input": "round_eq { avg { filter_eq { all_rows ; release date ; january 2011 } ; release price ( usd ) } ; 507.71 }", "target": "aggregation"}
+{"id": "task212-8154f4c7f8b14105863cfaf90dea19a7", "input": "round_eq { avg { all_rows ; pick } ; 27.8 }", "target": "aggregation"}
+{"id": "task212-0da7069fe0784db7b77c11029f402fef", "input": "greater { hop { filter_eq { all_rows ; date ; 6 september 2006 } ; score } ; hop { filter_eq { all_rows ; date ; 11 october 2006 } ; score } }", "target": "comparative"}
+{"id": "task212-b668afcd1a7048d8bb33a6743a2ecc24", "input": "less { hop { filter_eq { all_rows ; player ; jason gore } ; to par } ; hop { filter_eq { all_rows ; player ; mark hensby } ; to par } }", "target": "comparative"}
+{"id": "task212-ffffef8c7f5e4afda58e758035164c11", "input": "most_eq { all_rows ; year joined ; 1962 }", "target": "majority"}
+{"id": "task212-dd15a7840b2643ee85e1866e7624d8aa", "input": "round_eq { avg { all_rows ; weight } ; 95.5 }", "target": "aggregation"}
+{"id": "task212-43cf3f7427ec4114bf8a7aaafcd2d057", "input": "less { hop { filter_eq { all_rows ; sportsperson ; albert pujols } ; year } ; hop { filter_eq { all_rows ; sportsperson ; usain bolt } ; year } }", "target": "comparative"}
+{"id": "task212-eba9380dc6884417905deabf8d7a2456", "input": "eq { count { filter_greater { all_rows ; money ; 100000 } } ; 4 }", "target": "count"}
+{"id": "task212-243cfe487f434f6e8b38d5077b29a898", "input": "round_eq { avg { all_rows ; margin of victory } ; 4 }", "target": "aggregation"}
+{"id": "task212-7ad0c162dc5f4d2c93378fc108c46f4a", "input": "round_eq { avg { all_rows ; viewers ( millions ) } ; 7.52 }", "target": "aggregation"}
+{"id": "task212-545a8adb9c7343cc85a3b3648a36bcba", "input": "and { eq { max { all_rows ; points } ; 11 } ; eq { hop { argmax { all_rows ; points } ; entrant } ; team lotus } }", "target": "superlative"}
+{"id": "task212-8eae85a412c847179ec8307fed0939d3", "input": "greater { hop { filter_eq { all_rows ; opponent ; ramazan ramazanov } ; round } ; hop { filter_eq { all_rows ; opponent ; eduardo maiorino } ; round } }", "target": "comparative"}
+{"id": "task212-6619211e057d4a8f82e29f6fda36433f", "input": "round_eq { avg { all_rows ; score in the final } ; 6 }", "target": "aggregation"}
+{"id": "task212-8567f5f36b884360a88d0f66764d7ff8", "input": "most_eq { all_rows ; engine ; i }", "target": "majority"}
+{"id": "task212-15696d6348334b80934f05f490dc56a2", "input": "most_eq { all_rows ; county ; 12 clinton }", "target": "majority"}
+{"id": "task212-e4a60228a4254bf89ab6aac777eb471b", "input": "round_eq { avg { all_rows ; rating } ; 0.6 }", "target": "aggregation"}
+{"id": "task212-af5566e61ffc456bac3adb2e986ad5d4", "input": "most_eq { all_rows ; high points ; lennox }", "target": "majority"}
+{"id": "task212-1a07b58593434b7d9a426f9ddd66ecc3", "input": "most_eq { all_rows ; date ; may }", "target": "majority"}
+{"id": "task212-9f74f8d15dd1450e8ee3f30ab06303c1", "input": "greater { hop { filter_eq { all_rows ; location ; bridgewater , massachusetts } ; enrollment } ; hop { filter_eq { all_rows ; location ; fitchburg , massachusetts } ; enrollment } }", "target": "comparative"}
+{"id": "task212-5d464f69cbcf4a1d92cdd08128e7b356", "input": "less { hop { filter_eq { all_rows ; country ; united kingdom } ; date } ; hop { filter_eq { all_rows ; country ; united states } ; date } }", "target": "comparative"}
+{"id": "task212-f8fc4b43f6014a849ab45d04e6bf1e5b", "input": "eq { max { filter_eq { all_rows ; team ; san antonio } ; location attendance } ; staples center 18997 }", "target": "superlative"}
+{"id": "task212-f58d8e9a67654f5890eb0928d4ed7fb4", "input": "less { hop { filter_eq { all_rows ; candidate 's name ; michael mackay } ; rank } ; hop { filter_eq { all_rows ; candidate 's name ; joe larkin } ; rank } }", "target": "comparative"}
+{"id": "task212-c7d8902981c64e9dbd7a7e6ddc8f5211", "input": "round_eq { sum { filter_greater_eq { all_rows ; week ; 13 } ; attendance } ; 95,901 }", "target": "aggregation"}
+{"id": "task212-f7f8eb95548a4c4cb8f0458c4c4e7602", "input": "most_greater { all_rows ; attendance ; 40000 }", "target": "majority"}
+{"id": "task212-0dba975993bc4ba68fbde06d52639b5f", "input": "round_eq { avg { all_rows ; lost } ; 9 }", "target": "aggregation"}
+{"id": "task212-755d3f28612948a585edb51968447fce", "input": "all_greater { filter_greater_eq { all_rows ; points ; 40 } ; difference ; 40 }", "target": "majority"}
+{"id": "task212-905f25d8ab3549188b27716f287a75f3", "input": "round_eq { sum { all_rows ; transfer fee } ; 95700000 }", "target": "aggregation"}
+{"id": "task212-49471528d9b340a6815bc3bc887790af", "input": "round_eq { avg { all_rows ; episodes } ; 38.167 }", "target": "aggregation"}
+{"id": "task212-114b3db9ffa1489dbc0d8b747f35acc5", "input": "round_eq { avg { all_rows ; goals } ; 146.8 }", "target": "aggregation"}
+{"id": "task212-e68f0c54abda464aa63abd64144f1534", "input": "round_eq { avg { all_rows ; yards } ; 888.8 }", "target": "aggregation"}
+{"id": "task212-07115975fde945bab3c09f42fbeb30e6", "input": "greater { hop { filter_eq { all_rows ; player ; adam voges } ; runs } ; hop { filter_eq { all_rows ; player ; callum ferguson } ; runs } }", "target": "comparative"}
+{"id": "task212-143ac963392c435fa04e7a2bd0b3b4f2", "input": "eq { diff { hop { filter_eq { all_rows ; champions ; ivan lendl } ; year } ; hop { filter_eq { all_rows ; champions ; andrei medvedev } ; year } } ; -3 years }", "target": "comparative"}
+{"id": "task212-4c4ef80317dc4e5d87db14a0f48868ef", "input": "less { hop { filter_eq { all_rows ; institution ; university of leicester } ; established } ; hop { filter_eq { all_rows ; institution ; university of east anglia } ; established } }", "target": "comparative"}
+{"id": "task212-180e5fc39e7845bbb0812a40c2b0bc26", "input": "round_eq { sum { filter_less { all_rows ; decile ; 8 } ; roll } ; 770 }", "target": "aggregation"}
+{"id": "task212-c8009ac2aea74977b1447ebddf861163", "input": "most_eq { all_rows ; category ; utilities }", "target": "majority"}
+{"id": "task212-69bcd58482b443ccb63fbb1001184452", "input": "less { hop { filter_eq { all_rows ; title ; wreck - it ralph } ; worldwide gross } ; hop { filter_eq { all_rows ; title ; the twilight saga : breaking dawn - part 2 } ; worldwide gross } }", "target": "comparative"}
+{"id": "task212-130a1637922c4617bdf777d04b35d7e8", "input": "round_eq { avg { all_rows ; rebounds } ; 269 }", "target": "aggregation"}
+{"id": "task212-f0519a05e4464ce48fb8e3f27ecab904", "input": "round_eq { avg { all_rows ; attendance } ; 43583 }", "target": "aggregation"}
+{"id": "task212-b793c415e9b545869674e93eb48c162d", "input": "greater { hop { filter_eq { all_rows ; name ; pete sessions } ; took office } ; hop { filter_eq { all_rows ; name ; jim mattox } ; took office } }", "target": "comparative"}
+{"id": "task212-f5c568d2b25345fa90de48528f70f53f", "input": "greater { hop { filter_eq { all_rows ; driver ; timo glock } ; laps } ; hop { filter_eq { all_rows ; driver ; adrian sutil } ; laps } }", "target": "comparative"}
+{"id": "task212-f20c3de3432745398504ee846824875a", "input": "most_eq { filter_eq { all_rows ; score ; w } ; high points ; tim duncan }", "target": "majority"}
+{"id": "task212-c327ab6fb3d045289a3a75e3b1521594", "input": "most_greater { all_rows ; commenced operations ; 2000 }", "target": "majority"}
+{"id": "task212-22bf7296d477447084fcc1eb624024b4", "input": "most_less { all_rows ; year named ; 1998 }", "target": "majority"}
+{"id": "task212-5bbf84133f4b4eeea2565bb3408a32d4", "input": "round_eq { avg { all_rows ; attendance } ; 17863 }", "target": "aggregation"}
+{"id": "task212-1769a1e70e294d9aae9ca5f8b7e957b9", "input": "and { eq { max { all_rows ; away team score } ; 22.19 ( 151 ) } ; eq { hop { argmax { all_rows ; away team score } ; date } ; 1 june 1935 } }", "target": "superlative"}
+{"id": "task212-405657bc13424c93a7a41d1bc3aa874e", "input": "most_less { all_rows ; length ; 5:00 }", "target": "majority"}
+{"id": "task212-4c1b85894d834ff7ad4e5581978da709", "input": "round_eq { sum { all_rows ; number of reviews } ; 83 }", "target": "aggregation"}
+{"id": "task212-404d239936424e65bf9295c8784585c1", "input": "round_eq { avg { all_rows ; us msrp } ; 365 }", "target": "aggregation"}
+{"id": "task212-9ec225a93dd44466b731c5ce98dfdd53", "input": "greater { hop { filter_eq { all_rows ; date ; october 16 , 1977 } ; attendance } ; hop { filter_eq { all_rows ; date ; november 13 , 1977 } ; attendance } }", "target": "comparative"}
+{"id": "task212-f52b8887e8d142d8b625df5b76242156", "input": "and { eq { max { all_rows ; 2010 - list } ; 27 } ; eq { hop { argmax { all_rows ; 2010 - list } ; country } ; sweden } }", "target": "superlative"}
+{"id": "task212-9a093a8acc2b4071848c352f0c3d43d6", "input": "most_eq { all_rows ; tv ; nbc }", "target": "majority"}
+{"id": "task212-9fa01b0c301441308c5d7f020a84ed5b", "input": "round_eq { avg { all_rows ; area } ; over 2700 }", "target": "aggregation"}
+{"id": "task212-be52da94a40545d8882e130e6178a09d", "input": "round_eq { avg { all_rows ; weight ( kg ) } ; 58 }", "target": "aggregation"}
+{"id": "task212-1b7271b47b704ad285b9f8eb8e9a32e1", "input": "round_eq { avg { all_rows ; draw } ; 4.8 }", "target": "aggregation"}
+{"id": "task212-803c4e854cc94fb6b46e060fa9e80502", "input": "less { hop { filter_eq { all_rows ; colony ; chandernagore } ; de facto transfer } ; hop { filter_eq { all_rows ; colony ; karikal } ; de facto transfer } }", "target": "comparative"}
+{"id": "task212-42e0e61ad21c4e19ae71ea5eb794defa", "input": "eq { hop { nth_argmax { all_rows ; crowd ; 2 } ; venue } ; punt road oval }", "target": "ordinal"}
+{"id": "task212-eefea2fa68694d089f8e22a73ebaa74d", "input": "round_eq { avg { all_rows ; weight } ; 188 }", "target": "aggregation"}
+{"id": "task212-35fed8eee6504d46ab76e0b815580b58", "input": "most_eq { all_rows ; outcome ; runner - up }", "target": "majority"}
+{"id": "task212-754cde691e1847d88690a217fddbe1c0", "input": "most_eq { all_rows ; result ; won }", "target": "majority"}
+{"id": "task212-e4adb378e65244e8af3066021339ecf0", "input": "round_eq { avg { all_rows ; number of powiats } ; 2.5 }", "target": "aggregation"}
+{"id": "task212-d9817b4be67743a0a0a5c26ea7697d09", "input": "eq { nth_min { all_rows ; year ; 4 } ; 1985 }", "target": "ordinal"}
+{"id": "task212-b0e4b25e7b444d59aa9763edd0938367", "input": "eq { count { filter_less { all_rows ; time / retired ; 10 secs } } ; 6 }", "target": "count"}
+{"id": "task212-1670cc7fec264490973b814a41563c8f", "input": "eq { nth_min { all_rows ; date ; 16 } ; december 20 , 1981 }", "target": "ordinal"}
+{"id": "task212-b0476e0ffcfc4e388aa500494d91db47", "input": "eq { hop { nth_argmax { all_rows ; attendance ; 1 } ; season } ; 1993 }", "target": "ordinal"}
+{"id": "task212-906de38ec11d4e0f970d76ec942bcc92", "input": "eq { max { filter_eq { all_rows ; date ; november } ; final score } ; 24 - 38 }", "target": "superlative"}
+{"id": "task212-c184eb4d13ac4f659cd94b870a27cfdd", "input": "most_eq { all_rows ; pole position ; a j foyt }", "target": "majority"}
+{"id": "task212-bf92f7f48743413f884b0aa9a8458364", "input": "most_eq { all_rows ; date ; 26 january 1985 }", "target": "majority"}
+{"id": "task212-52c590689e7542f8bc7060d7b14d7ce0", "input": "eq { count { filter_eq { filter_less { all_rows ; played ; 10 } ; palace wins ; 0 } } ; 3 }", "target": "count"}
+{"id": "task212-ae41ee7aba0b49ad9a7ea4b64ec19141", "input": "most_eq { all_rows ; competition ; 1908 olympics }", "target": "majority"}
+{"id": "task212-e79cc867538a4041af24d4ac86b8de6b", "input": "round_eq { avg { all_rows ; round } ; 1.95 }", "target": "aggregation"}
+{"id": "task212-1cbba0b3b64f48468ca0a26625c4e42b", "input": "round_eq { sum { filter_eq { all_rows ; opponent ; oakland raiders } ; attendance } ; 123032 }", "target": "aggregation"}
+{"id": "task212-951686c8bd764edd82cadc3c3e586728", "input": "round_eq { avg { all_rows ; attendance } ; 45585 }", "target": "aggregation"}
+{"id": "task212-3d069f5265904bc192d4434bd97be316", "input": "less { hop { filter_eq { all_rows ; player ; bob brown } ; pick } ; hop { filter_eq { all_rows ; player ; ted davis } ; pick } }", "target": "comparative"}
+{"id": "task212-8377757bf7554ab3966d92d4798ac789", "input": "most_less { all_rows ; margin of victory ; 2 }", "target": "majority"}
+{"id": "task212-5395b31b63914eafb1891b23bdcf2bb7", "input": "most_eq { all_rows ; court surface ; hard }", "target": "majority"}
+{"id": "task212-8097bc4d8d8648c28b4040608626fa9e", "input": "and { eq { max { all_rows ; points } ; 78 } ; and { eq { hop { argmax { all_rows ; points } ; year } ; 1972 } ; eq { hop { argmax { all_rows ; points } ; class } ; 125cc } } }", "target": "superlative"}
+{"id": "task212-2af060a267dc4267920d02f1fe4bc810", "input": "less { hop { filter_eq { all_rows ; venue ; tsirion stadium , limassol } ; date } ; hop { filter_eq { all_rows ; venue ; king abdullah stadium , amman } ; date } }", "target": "comparative"}
+{"id": "task212-749b3899126f43d39313d50dffe30610", "input": "eq { count { filter_greater { all_rows ; average ; 10000 } } ; 3 }", "target": "count"}
+{"id": "task212-3c3eddff6b2041a9a8c6c6268e0ed2a2", "input": "round_eq { avg { all_rows ; score } ; 1.4 }", "target": "aggregation"}
+{"id": "task212-c2c4ebd905a247ce8371541f76c3e900", "input": "and { eq { max { all_rows ; goals } ; 1468 } ; eq { hop { argmax { all_rows ; goals } ; country } ; austria czech republic } }", "target": "superlative"}
+{"id": "task212-085d2c74065d49f6a294aaf2f08e6e2b", "input": "most_eq { all_rows ; period ; 3rd }", "target": "majority"}
+{"id": "task212-587a11d1c5c4466598764276f141363c", "input": "round_eq { avg { all_rows ; wins } ; 10.9 }", "target": "aggregation"}
+{"id": "task212-aa7576a9509b415da27a6d30b52fc60e", "input": "eq { hop { nth_argmax { all_rows ; attendance / g ; 2 } ; season } ; 2005 }", "target": "ordinal"}
+{"id": "task212-cae23a181c6e447491f535d670fb3604", "input": "round_eq { avg { all_rows ; money } ; 18630 }", "target": "aggregation"}
+{"id": "task212-45a65938badb460d84d1eb73f8d42d16", "input": "most_eq { all_rows ; extra ; 4x400 m relay }", "target": "majority"}
+{"id": "task212-a07ece9717e34024b18cfcb4fc57d940", "input": "most_less { all_rows ; 3:26.00 ; 3:30 }", "target": "majority"}
+{"id": "task212-5031f7f2d3df4ef6955f6cd250b24053", "input": "round_eq { sum { all_rows ; games played } ; 52 }", "target": "aggregation"}
+{"id": "task212-6d1d9f918bc14a86b44ab928850b23eb", "input": "round_eq { sum { all_rows ; score } ; 1258 }", "target": "aggregation"}
+{"id": "task212-644fba8a0615477299380d18164cf1ae", "input": "most_eq { all_rows ; nationality ; aut }", "target": "majority"}
+{"id": "task212-c3aa51cebfa84441a9e0214914c9ad65", "input": "most_greater_eq { all_rows ; bodyweight ; 70 }", "target": "majority"}
+{"id": "task212-4d39aa954e5f4eedae5f678c9f5b164d", "input": "round_eq { sum { all_rows ; wins } ; 18 }", "target": "aggregation"}
+{"id": "task212-6b98dca0854c4c50aa8568d0c1d8fdff", "input": "round_eq { avg { all_rows ; first downs } ; 19.42 }", "target": "aggregation"}
+{"id": "task212-e54895d9ff134dd69f65d40c4f3e75d5", "input": "round_eq { sum { filter_eq { all_rows ; location attendance ; ford center } ; location attendance } ; over 36000 }", "target": "aggregation"}
+{"id": "task212-4817923353a7488dbc6ef970c6868e7b", "input": "eq { count { filter_eq { filter_less { all_rows ; date ; jun 27 } ; set 5 ; na } } ; 2 }", "target": "count"}
+{"id": "task212-0cd3269482024a369f063529df868d08", "input": "most_eq { all_rows ; power ( kw ) ; 5 kw }", "target": "majority"}
+{"id": "task212-aec82f4250cd44baabe29bbc5ee72cbd", "input": "most_not_eq { all_rows ; kitmaker ; n / a }", "target": "majority"}
+{"id": "task212-2ecd1bdee7ea41f0b0e41f1cfcf20053", "input": "most_less { all_rows ; capacity ; 10000 }", "target": "majority"}
+{"id": "task212-944c0e7eb252469099d14b8adb130640", "input": "eq { nth_min { filter_eq { all_rows ; team ; new jersey } ; date ; 1 } ; october 5 }", "target": "ordinal"}
+{"id": "task212-6af0e80d8870407384e9f147b1c822de", "input": "round_eq { sum { filter_eq { all_rows ; team ; forsythe racing } ; points } ; 8 }", "target": "aggregation"}
+{"id": "task212-e7eb2d588e3a464eaccff51ad798d736", "input": "round_eq { avg { all_rows ; distance ( km ) } ; 7.1 }", "target": "aggregation"}
+{"id": "task212-7f06531791364925a5f1a10c5635ef25", "input": "eq { hop { nth_argmin { filter_eq { all_rows ; tournament ; japan } ; date ; 2 } ; surface } ; carpet ( i ) }", "target": "ordinal"}
+{"id": "task212-0037c53cfbb745e491cebc659dbb27af", "input": "round_eq { sum { all_rows ; winner 's share } ; 147500 }", "target": "aggregation"}
+{"id": "task212-29bda5ea49754be5bc25b7e6c9536ee9", "input": "less { hop { filter_eq { all_rows ; player ; jared borgetti } ; period } ; hop { filter_eq { all_rows ; player ; rafael figueroa } ; period } }", "target": "comparative"}
+{"id": "task212-6894bc4fe3cd467db3931b5a20d6287a", "input": "most_eq { all_rows ; most spoken language ; sotho }", "target": "majority"}
+{"id": "task212-2d8c54bd73054760ab298cb23d062d5e", "input": "eq { hop { nth_argmax { all_rows ; year built ; 3 } ; church name } ; batalden bedehuskapell }", "target": "ordinal"}
+{"id": "task212-aa5d9b9208e04ee2bbf6306422d364e0", "input": "most_eq { all_rows ; label ; alfa records }", "target": "majority"}
+{"id": "task212-880fbacc5d2c4fd58e56ed14a0055d1b", "input": "most_eq { filter_eq { all_rows ; location ; canada } ; round ; 1 }", "target": "majority"}
+{"id": "task212-b012005042ec48a0b108ee4c1b51dd02", "input": "round_eq { avg { all_rows ; finish } ; 4th }", "target": "aggregation"}
+{"id": "task212-648a997d8d0e4bd28e785515fe356883", "input": "eq { hop { nth_argmax { all_rows ; height ( m ) ; 2 } ; name } ; messeturm }", "target": "ordinal"}
+{"id": "task212-a1849051641f466ebdb8961562bdbe8c", "input": "round_eq { sum { all_rows ; apps } ; 106 }", "target": "aggregation"}
+{"id": "task212-bd3f81513da6465f84ee0951a82fbc9a", "input": "most_eq { all_rows ; author ( s ) ; t finn }", "target": "majority"}
+{"id": "task212-c2cc7aa72d2e4e2c8bf646339393a93e", "input": "most_greater { all_rows ; serial number ; 934000 }", "target": "majority"}
+{"id": "task212-410fff3a313b4dafbe88307556fa3b7b", "input": "round_eq { avg { all_rows ; attendance } ; 52800 }", "target": "aggregation"}
+{"id": "task212-4099f11cb4f94b43999d221f4767b3b6", "input": "round_eq { avg { filter_eq { all_rows ; top scorer ; sergei mozyakin } ; top scorer } ; 72.67 }", "target": "aggregation"}
+{"id": "task212-d08e9c8d9a6d4752ac43c1e185c49d4c", "input": "round_eq { avg { all_rows ; score } ; 279 }", "target": "aggregation"}
+{"id": "task212-4d4ef8e86f2240088808f8d0b37b897d", "input": "round_eq { avg { all_rows ; time } ; 13.4 }", "target": "aggregation"}
+{"id": "task212-0851b9f7c74548f0a1b418c09b2aa28d", "input": "eq { hop { nth_argmax { all_rows ; major winners ; 1 } ; rank } ; 1 }", "target": "ordinal"}
+{"id": "task212-0db8dd391a254bff8140f086ba34bd3e", "input": "eq { count { filter_less { filter_eq { all_rows ; place ; czechoslovakia } ; date ; 1980 } } ; 3 }", "target": "count"}
+{"id": "task212-e5c80d718d9848f6afab90f4b4cd259f", "input": "eq { count { filter_less { filter_less { all_rows ; away team score ; 15.0 } ; crowd ; 20000 } } ; 3 }", "target": "count"}
+{"id": "task212-e43ef305b7984a1c85b30a9ee8403ef5", "input": "most_greater_eq { all_rows ; weight ; 200 }", "target": "majority"}
+{"id": "task212-3f37fb1ffb3642eba18eeaec16af76b2", "input": "most_eq { all_rows ; division ; pdl }", "target": "majority"}
+{"id": "task212-8bc14babb5084e0d972507103fb79371", "input": "round_eq { sum { all_rows ; crowd } ; 124845 }", "target": "aggregation"}
+{"id": "task212-660f5528673b426985664849df3d756c", "input": "eq { hop { nth_argmin { all_rows ; date ; 2 } ; opponents } ; 1 . fc heidenheim }", "target": "ordinal"}
+{"id": "task212-d706aa77a37148f6ade603efbef73556", "input": "eq { hop { nth_argmin { all_rows ; originalairdate ; 2 } ; title } ; seeds }", "target": "ordinal"}
+{"id": "task212-02fe221ac63847f3bcd5ed449206496f", "input": "round_eq { avg { all_rows ; us viewers ( millions ) } ; 11.34 }", "target": "aggregation"}
+{"id": "task212-0302f3437ce14688b1c54af46a4ebf56", "input": "round_eq { avg { all_rows ; crowd } ; 20826 }", "target": "aggregation"}
+{"id": "task212-16043603c06f4714b8589a6b28b60bd1", "input": "most_eq { all_rows ; manner of departure ; resigned }", "target": "majority"}
+{"id": "task212-a89b8992a7a345938709f1c6e9db7909", "input": "round_eq { avg { all_rows ; score } ; 90.5 }", "target": "aggregation"}
+{"id": "task212-fb046e3ce6ed41eba4000aeaf6078b8a", "input": "round_eq { avg { all_rows ; tests won by england } ; 0.47 }", "target": "aggregation"}
+{"id": "task212-eb26bd7e47434427be983dad792bc5e8", "input": "round_eq { sum { all_rows ; hard discounters } ; 5096 }", "target": "aggregation"}
+{"id": "task212-bc442d066d354cacb17d6a36dbea24af", "input": "eq { hop { nth_argmax { all_rows ; result ; 2 } ; result } ; mac collins ( r ) 61.11 % jim chafin ( d ) 38.89 % }", "target": "ordinal"}
+{"id": "task212-88a67ba742f142099c63203025ced66b", "input": "eq { hop { nth_argmax { all_rows ; yards ; 2 } ; season } ; 2009 }", "target": "ordinal"}
+{"id": "task212-b039e84e62f54c24b89b8798331689ca", "input": "eq { hop { nth_argmin { all_rows ; year ; 1 } ; name } ; franklin exchange building }", "target": "ordinal"}
+{"id": "task212-2a07e6c9fcb348538c9c1613416b2c66", "input": "round_eq { sum { all_rows ; round } ; 19 }", "target": "aggregation"}
+{"id": "task212-c198b71fdc4846468fbd041402890b02", "input": "round_eq { avg { all_rows ; attendance } ; 33151 }", "target": "aggregation"}
+{"id": "task212-b2ffd8039f664ebaa10aabd02cc334e4", "input": "eq { count { filter_greater { all_rows ; wins ; 10 } } ; 2 }", "target": "count"}
+{"id": "task212-dae76d8d081b46e8bf7a55d2b6ab3435", "input": "most_eq { all_rows ; engine ; offenhauser l4 }", "target": "majority"}
+{"id": "task212-f84b1c9b377c4844aa07ab61ec62a464", "input": "round_eq { sum { all_rows ; races } ; 198 }", "target": "aggregation"}
+{"id": "task212-f74f098a8387460d8d5985452f5fb4e6", "input": "eq { hop { nth_argmax { all_rows ; points against ; 2 } ; club } ; maesteg rfc }", "target": "ordinal"}
+{"id": "task212-9c2c08d6d14a409d85283ce09e2eda82", "input": "round_eq { avg { filter_eq { all_rows ; county ; marion } ; enrollment } ; 3,633 }", "target": "aggregation"}
+{"id": "task212-f1f556cb6c1f4a2e811f953f427ea94f", "input": "eq { count { filter_all { all_rows ; nation } } ; 5 }", "target": "count"}
+{"id": "task212-9fa1724acd574097a6cc88cfef6145ea", "input": "most_less { all_rows ; no of installments ; 100 }", "target": "majority"}
+{"id": "task212-210f4b733ef64444b4e282d8c7974d4d", "input": "most_eq { all_rows ; european cup ; fiba kora\u0107 cup }", "target": "majority"}
+{"id": "task212-65a5c95bea1e4612acc467ee9a4f6881", "input": "and { eq { max { all_rows ; points } ; 134 } ; eq { hop { argmax { all_rows ; points } ; year } ; 1997 } }", "target": "superlative"}
+{"id": "task212-1c915e44fe2d4401a60df9b0e8ec2bf6", "input": "round_eq { avg { filter_eq { all_rows ; opponent ; los angeles rams } ; attendance } ; 68,437 }", "target": "aggregation"}
+{"id": "task212-d22101d1ebf747a584403483d7d97e68", "input": "eq { hop { nth_argmax { all_rows ; votes ; 2 } ; election } ; 2002 }", "target": "ordinal"}
+{"id": "task212-e74627f7fc7440b9bb38f0a0a40583e4", "input": "eq { hop { nth_argmax { all_rows ; location attendance ; 1 } ; date } ; december 27 }", "target": "ordinal"}
+{"id": "task212-7adb0bb5c29b4d6d8108de4f6c6e3ea0", "input": "eq { count { filter_all { all_rows ; rank } } ; 15 }", "target": "count"}
+{"id": "task212-56647a36df2f4f0db552ef76cfb63887", "input": "eq { hop { argmax { all_rows ; events } ; tournament } ; the open championship }", "target": "superlative"}
+{"id": "task212-c55f24b8eef74dc3b7d75b956bae93cd", "input": "most_eq { all_rows ; shirt sponsor ; turkcell }", "target": "majority"}
+{"id": "task212-9cee6c3a8c944e34aca1eafcf9d37d3a", "input": "eq { hop { nth_argmin { all_rows ; goals scored ; 2 } ; team } ; once municipal }", "target": "ordinal"}
+{"id": "task212-17de2fe28a774570acdd046fe851195e", "input": "eq { hop { nth_argmax { all_rows ; total points ; 2 } ; player } ; kenny sanders }", "target": "ordinal"}
+{"id": "task212-d993cf5bc8b348f3a7e7623dfd1f3e70", "input": "eq { hop { nth_argmax { all_rows ; tournaments ; 2 } ; name } ; kyokunankai }", "target": "ordinal"}
+{"id": "task212-519323cdf7a64e6cb8db0500dfd64d9e", "input": "eq { hop { argmax { all_rows ; total dismissals } ; no } ; 13 }", "target": "superlative"}
+{"id": "task212-60146f30e5a04392bfa4b1aab49514cb", "input": "eq { count { filter_less { filter_eq { all_rows ; wins ; 4 } ; draws ; 4 } } ; 2 }", "target": "count"}
+{"id": "task212-252372f8e63149dfb465f89df534a5c8", "input": "eq { hop { argmin { all_rows ; date } ; venue } ; corio oval }", "target": "superlative"}
+{"id": "task212-dbabe31797774db88bc027d6a29274eb", "input": "eq { count { filter_less { filter_less { all_rows ; away team score ; 10 } ; crowd ; 40000 } } ; 3 }", "target": "count"}
+{"id": "task212-dd8784b399fa47e19dc71d3714d1ef8c", "input": "eq { hop { nth_argmin { all_rows ; episode ; 1 } ; original airdate ( uk ) } ; 26 march 2005 }", "target": "ordinal"}
+{"id": "task212-74ebe69a927a4190bd1bcabea177b2ee", "input": "eq { hop { nth_argmax { all_rows ; points ; 2 } ; song } ; are you sure }", "target": "ordinal"}
+{"id": "task212-948ff4fe8db84cffb68e2402bd4bdb78", "input": "eq { count { filter_all { all_rows ; season } } ; 5 }", "target": "count"}
+{"id": "task212-4c538d4b455644c5a8ca5cd4a3f6c565", "input": "eq { hop { nth_argmax { all_rows ; year ; 2 } ; category } ; favorite tv actress - leading role in a drama }", "target": "ordinal"}
+{"id": "task212-9985c0a1b6fd4a3b937216036f83c12a", "input": "eq { hop { nth_argmin { all_rows ; year ( ceremony ) ; 2 } ; director } ; humayun ahmed }", "target": "ordinal"}
+{"id": "task212-8b5e6d47011b477ca4fd9a8afede2a64", "input": "eq { count { filter_all { all_rows ; acc team } } ; 11 }", "target": "count"}
+{"id": "task212-d69e53decb234c5f87551356b8403922", "input": "most_eq { all_rows ; area ; papakura }", "target": "majority"}
+{"id": "task212-e9b02856db524912a31654110ef669ed", "input": "eq { hop { nth_argmin { all_rows ; enrollment ; 2 } ; institution } ; unity college }", "target": "ordinal"}
+{"id": "task212-521916be523141efb06331f6c63099ab", "input": "eq { count { filter_eq { filter_eq { all_rows ; directed by ; steve mann } ; written by ; john ridley } } ; 3 }", "target": "count"}
+{"id": "task212-4aca9ebeb88946f3ab0f208168cbf6f6", "input": "eq { count { filter_less { all_rows ; age ; 25 } } ; 2 }", "target": "count"}
+{"id": "task212-b5ab62c8b4e048d69c48d892f02c46f2", "input": "eq { hop { argmin { all_rows ; year } ; title } ; the chipmunk adventure }", "target": "superlative"}
+{"id": "task212-878ea82ef5fd434ba4b5777c22dce41a", "input": "eq { hop { argmin { filter_eq { all_rows ; surface ; hard } ; date } ; opponent in the final } ; andre agassi }", "target": "superlative"}
+{"id": "task212-49fe88bae40c4a3ead9179a232703651", "input": "eq { hop { argmax { all_rows ; date of commissioning } ; unit number } ; 8 }", "target": "superlative"}
+{"id": "task212-26997a8996554a37bd23219776dd08a3", "input": "eq { count { filter_all { all_rows ; institution } } ; 12 }", "target": "count"}
+{"id": "task212-3f3f2035e001423b8f5ac04e54ca05cc", "input": "eq { hop { nth_argmax { all_rows ; pts ; 3 } ; season } ; 2010 - 11 }", "target": "ordinal"}
+{"id": "task212-44ef5dd8644d497db0bcb6925cbfb07f", "input": "eq { count { filter_greater_eq { filter_eq { all_rows ; position ; forward } ; years in orlando ; 2000 } } ; 3 }", "target": "count"}
+{"id": "task212-4c36b5e2bcf34de6b9f4e26e397771ae", "input": "round_eq { avg { filter_less_eq { all_rows ; rank ; 5 } ; per capita } ; 19,880 }", "target": "aggregation"}
+{"id": "task212-4b0bac187dda404885b34207ed636f1f", "input": "eq { count { filter_less { filter_less { all_rows ; average annual rainfall ( mm ) ; 100 } ; average annual runoff ( mm ) ; 1 } } ; 2 }", "target": "count"}
+{"id": "task212-0c08b8b8af6146708902dfcd34f508b8", "input": "eq { nth_min { filter_eq { all_rows ; nominated / won ; won } ; year ; 2 } ; 2008 }", "target": "ordinal"}
+{"id": "task212-27a1e608bb594d5ca214d0b34f889555", "input": "eq { hop { nth_argmin { all_rows ; first elected ; 1 } ; incumbent } ; william j driver }", "target": "ordinal"}
+{"id": "task212-df5de48735b84a709928a50cfe850a2a", "input": "eq { hop { nth_argmin { filter_eq { all_rows ; result ; w } ; date ; 4 } ; attendance } ; 45511 }", "target": "ordinal"}
+{"id": "task212-9197b57841e749caac058bee3571ef73", "input": "eq { hop { nth_argmax { all_rows ; us viewers ( million ) ; 2 } ; title } ; sabotage }", "target": "ordinal"}
+{"id": "task212-482d1700c2de417293839cd707edbbd2", "input": "eq { hop { argmax { all_rows ; result } ; opponent } ; st louis rams }", "target": "superlative"}
+{"id": "task212-4dbcd1858a2c4a2c8b2b6a4957cfe486", "input": "eq { count { filter_eq { filter_eq { all_rows ; region ; east } ; state ; virginia } } ; 2 }", "target": "count"}
+{"id": "task212-803a90a3afe242d3a44b9cfbb1fb979e", "input": "eq { hop { nth_argmin { all_rows ; laps ; 2 } ; driver } ; dan gurney }", "target": "ordinal"}
+{"id": "task212-a611bfd6bfef46ac8b1285114c46808e", "input": "eq { hop { nth_argmin { all_rows ; distance ( ly ) ; 1 } ; constellation } ; ursa major }", "target": "ordinal"}
+{"id": "task212-df2c43da7843404eb2116e6e5269e68e", "input": "eq { hop { nth_argmax { all_rows ; capacity ; 3 } ; stadium } ; franklin 's gardens }", "target": "ordinal"}
+{"id": "task212-139c9fcda80d42a5bae51f56ae1fd092", "input": "eq { count { filter_not_eq { all_rows ; municipality ; total } } ; 12 }", "target": "count"}
+{"id": "task212-4fea594469744d6e975df813e49e9765", "input": "eq { count { filter_greater_eq { all_rows ; episodes ; 8 } } ; 3 }", "target": "count"}
+{"id": "task212-58df072072cd4060865b7a6df74a6e81", "input": "eq { hop { argmax { all_rows ; candidates } ; incumbent } ; bill clay }", "target": "superlative"}
+{"id": "task212-600e9a7644944e829a6d7c1718a7b3f9", "input": "eq { hop { argmin { all_rows ; date } ; location attendance } ; united center 23854 }", "target": "superlative"}
+{"id": "task212-504cb7ad349945afb98384ddcf235d90", "input": "eq { hop { nth_argmax { all_rows ; attendance ; 1 } ; date } ; july 21 , 2007 }", "target": "ordinal"}
+{"id": "task212-9cbcaf2237bc4e4abac1002877ea0383", "input": "eq { count { filter_less { filter_eq { all_rows ; nation ; kenya } ; time ; 30:34 } } ; 2 }", "target": "count"}
+{"id": "task212-6ee8ff1cd8e64d34a592cad7e4566d0b", "input": "most_eq { all_rows ; us dance ; - }", "target": "majority"}
+{"id": "task212-aeb1ec6c4878459d890d1f4e509fca00", "input": "eq { count { filter_eq { filter_eq { all_rows ; nationality ; canada } ; position ; lw } } ; 6 }", "target": "count"}
+{"id": "task212-8baf99fc1f3640c9abb204d7f3a0d221", "input": "eq { hop { argmin { all_rows ; shot % } ; skip } ; anna kube\u0161kov\u00e1 }", "target": "superlative"}
+{"id": "task212-d3e09e6b2c384345a89576063903f1a7", "input": "and { eq { max { all_rows ; money } ; 2400 } ; eq { hop { argmax { all_rows ; money } ; player } ; jimmy demaret } }", "target": "superlative"}
+{"id": "task212-1c1ab405e34c4c1c98d36773b6c08fac", "input": "eq { hop { nth_argmin { all_rows ; released ; 2 } ; codename } ; sb700 }", "target": "ordinal"}
+{"id": "task212-c1b13c4944a94563b49149b32f1a9949", "input": "eq { count { filter_less { filter_greater { all_rows ; total goals ; 250 } ; total appearances ; 400 } } ; 2 }", "target": "count"}
+{"id": "task212-e801160dea934e88a72c319cc46ac834", "input": "eq { count { filter_eq { filter_eq { all_rows ; gold ; 0 } ; silver ; 1 } } ; 2 }", "target": "count"}
+{"id": "task212-283d609fc0e74903b0a1496b8aba491c", "input": "round_eq { avg { all_rows ; points } ; 7 }", "target": "aggregation"}
+{"id": "task212-4ed387ae830147bd8ecd2c22d08f19f0", "input": "eq { count { filter_eq { all_rows ; time ; am } } ; 0 }", "target": "count"}
+{"id": "task212-a50b23619d244afa81e8765d8af6b2c2", "input": "eq { hop { argmin { all_rows ; us viewers ( million ) } ; title } ; the lorelais ' first day at yale }", "target": "superlative"}
+{"id": "task212-22ddd5de5b6a4b5faf7301e5d00384bd", "input": "eq { hop { nth_argmax { filter_greater { all_rows ; fa cup ; 0 } ; championship ; 2 } ; name } ; stern john }", "target": "ordinal"}
+{"id": "task212-b05f3f6a1e6848ab903ae729b11e6aaf", "input": "eq { count { filter_eq { filter_eq { all_rows ; directed by ; win phelps } ; written by ; david e kelley and william m finkelstein } } ; 2 }", "target": "count"}
+{"id": "task212-a3e6e78cde494a468e49bc3fe1944f25", "input": "eq { hop { argmax { all_rows ; score } ; date } ; june 24 }", "target": "superlative"}
+{"id": "task212-af83cb7cb67f46fbbd21ce03019cbd07", "input": "eq { hop { argmax { all_rows ; last match } ; competition } ; uefa champions league }", "target": "superlative"}
+{"id": "task212-294887a6eeba44a897a4a998cae710bc", "input": "eq { count { filter_eq { all_rows ; overall ; 1 } } ; 5 }", "target": "count"}
+{"id": "task212-fa2559e60cb6448c9c80b72119ea8a4d", "input": "eq { count { filter_eq { all_rows ; to par ; +1 } } ; 2 }", "target": "count"}
+{"id": "task212-98b4b2d8dfa446faa1d18b04d7758aa8", "input": "eq { hop { nth_argmin { all_rows ; races ; 2 } ; season } ; 2010 }", "target": "ordinal"}
+{"id": "task212-53ee84bd93a5454889ee088230bad3b8", "input": "eq { count { filter_eq { all_rows ; nationality ; united states } } ; 1 }", "target": "count"}
+{"id": "task212-fa3374b64726448cbd3622b8568ffe70", "input": "eq { hop { nth_argmax { all_rows ; silver ; 2 } ; nation } ; cyprus }", "target": "ordinal"}
+{"id": "task212-12f125b75de74479aefa42ad3dcd2f01", "input": "eq { hop { argmax { all_rows ; points } ; points } ; 227 }", "target": "superlative"}
+{"id": "task212-8316b8e9c8bc4d76ac532d18dee23925", "input": "eq { hop { argmax { all_rows ; laps } ; year } ; 1948 }", "target": "superlative"}
+{"id": "task212-ff0fb83055644838a4019282fa402bb6", "input": "eq { hop { argmax { all_rows ; overall record } ; texas vs } ; texas a & m }", "target": "superlative"}
+{"id": "task212-f47cb7889e144ac9b425c62e00798d71", "input": "eq { hop { argmin { all_rows ; est } ; local government area } ; outback areas community development trust }", "target": "superlative"}
+{"id": "task212-96822789813640b6b03dfef33c645e31", "input": "eq { hop { nth_argmin { all_rows ; event ; 3 } ; circuit } ; wakefield park }", "target": "ordinal"}
+{"id": "task212-857c80abde5347fea0b7880f9595ef3a", "input": "eq { count { filter_greater { filter_greater { all_rows ; matches ; 200 } ; innings ; 250 } } ; 3 }", "target": "count"}
+{"id": "task212-a79a7fcd9b64448c9ce713e38c12972d", "input": "eq { hop { argmax { all_rows ; number of episodes } ; english title ( chinese title ) } ; secret of the heart \u5929\u5730\u8c6a\u60c5 }", "target": "superlative"}
+{"id": "task212-bd143ff915514113a3d9b1d153afbd0a", "input": "eq { count { filter_eq { all_rows ; winner / nominee ( s ) ; dev patel } } ; 1 }", "target": "count"}
+{"id": "task212-a746f7fdd5ad40f9a4376ccd31418c2a", "input": "eq { hop { nth_argmax { all_rows ; attendance ; 1 } ; date } ; january 19 }", "target": "ordinal"}
+{"id": "task212-0814cf7104fb470c8d01333304ae19a9", "input": "eq { hop { nth_argmax { all_rows ; weeks on top ; 2 } ; song } ; ( just like ) starting over }", "target": "ordinal"}
+{"id": "task212-1ba45991aea34bd5ae7cec9c2ea392e8", "input": "eq { hop { argmin { all_rows ; pick } ; player } ; lee evans }", "target": "superlative"}
+{"id": "task212-e1976485d66d4440b75da04592ab2da1", "input": "eq { hop { argmax { all_rows ; attendance } ; week } ; 1 }", "target": "superlative"}
+{"id": "task212-2c07a2c412d44d53add5b79d369d1e2e", "input": "eq { count { filter_eq { all_rows ; withdrawn ; 1951 } } ; 5 }", "target": "count"}
+{"id": "task212-7379fa980fed439f9c3b1dde203a50e8", "input": "eq { count { filter_eq { filter_greater_eq { all_rows ; points ; 55 } ; opponent ; new york rangers } } ; 2 }", "target": "count"}
+{"id": "task212-8df8e4cc3add4c9ba73c4a2ab0b848ca", "input": "eq { hop { argmin { all_rows ; time } ; country } ; belarus }", "target": "superlative"}
+{"id": "task212-f7a42ace673a44138fedc881fffb840c", "input": "eq { count { filter_eq { filter_eq { all_rows ; game site ; qualcomm stadium } ; time ; 5:15 pm } } ; 3 }", "target": "count"}
+{"id": "task212-8bfafdd1336d45888e9db64c807af700", "input": "eq { count { filter_eq { all_rows ; result ; won } } ; 8 }", "target": "count"}
+{"id": "task212-7c78aeccfcf04b4a9c28bf922552f560", "input": "eq { count { filter_eq { all_rows ; operating systems ; linux } } ; 3 }", "target": "count"}
+{"id": "task212-19e99aecf8384d088a2e3ea5b6848a90", "input": "eq { count { filter_eq { all_rows ; score ; 0 } } ; 7 }", "target": "count"}
+{"id": "task212-0e1de2a294ab464ea00bc231b2935cd5", "input": "eq { hop { argmax { all_rows ; result } ; date } ; 9 october 2010 }", "target": "superlative"}
+{"id": "task212-fd7472d30a4b479ba054496ea2054901", "input": "eq { hop { nth_argmax { all_rows ; crowd ; 2 } ; home team } ; essendon }", "target": "ordinal"}
+{"id": "task212-b269e86d723242d1a66059e20a92a3ae", "input": "eq { hop { argmax { filter_greater { all_rows ; home team score ; 10 } ; crowd } ; venue } ; victoria park }", "target": "superlative"}
+{"id": "task212-b3353e2317244d0bb589b6bdde0d1248", "input": "eq { hop { nth_argmin { filter_eq { all_rows ; date ; sunday } ; week ; 6 } ; opponent } ; new york giants }", "target": "ordinal"}
+{"id": "task212-ace158f441004135a054337c529b1351", "input": "eq { hop { nth_argmax { all_rows ; milepost ; 3 } ; location } ; rockland }", "target": "ordinal"}
+{"id": "task212-a2e9529622ff4c6697042e7ef63a5ec5", "input": "eq { hop { nth_argmax { all_rows ; crowd ; 2 } ; venue } ; lake oval }", "target": "ordinal"}
+{"id": "task212-3d6f49a86e2c46908ae85585552b4364", "input": "eq { hop { nth_argmin { filter_eq { all_rows ; home ; philadelphia } ; date ; 2 } ; attendance } ; 19412 }", "target": "ordinal"}
+{"id": "task212-4a1330c5a6404c82b628ba94e9d3171a", "input": "eq { hop { nth_argmax { all_rows ; attendance ; 2 } ; visitor } ; kings }", "target": "ordinal"}
+{"id": "task212-146a927dcabe48e8b0f7b4267fcb2fe4", "input": "eq { hop { nth_argmin { all_rows ; enrollment ; 2 } ; institution } ; philander smith college }", "target": "ordinal"}
+{"id": "task212-73e18c7b467648339837ea3eca49b024", "input": "eq { hop { nth_argmin { all_rows ; duration ; 2 } ; actor } ; nina soldano }", "target": "ordinal"}
+{"id": "task212-c2518ff71b8e4d288579cfb462493622", "input": "eq { hop { nth_argmin { filter_eq { all_rows ; opponent ; chicago bears } ; date ; 2 } ; attendance } ; 47475 }", "target": "ordinal"}
+{"id": "task212-e11d0cef5f654cef8cb6ba26a93ddb54", "input": "eq { hop { nth_argmin { all_rows ; first elected ; 1 } ; incumbent } ; finis j garrett }", "target": "ordinal"}
+{"id": "task212-47c8734208dd433993e355aa637a1ad0", "input": "eq { hop { argmax { all_rows ; central rate } ; currency } ; danish krone }", "target": "superlative"}
+{"id": "task212-5459e6a1eb3549fd90274e1a0e2ac847", "input": "eq { hop { argmax { all_rows ; points against } ; opponent } ; port adelaide }", "target": "superlative"}
+{"id": "task212-dc3ed276aef6487da70ff5f66277460b", "input": "eq { hop { argmax { all_rows ; population 2007 census ( hab ) } ; city district } ; cuzco }", "target": "superlative"}
+{"id": "task212-79798dd6c9a249a4848db44be0c8491d", "input": "eq { hop { nth_argmin { all_rows ; broadcast date ; 3 } ; translation of title } ; hold out until you hit the wall }", "target": "ordinal"}
+{"id": "task212-699ee391403f426281f5387bc6f20eb3", "input": "eq { count { filter_eq { all_rows ; result ; re - elected } } ; 4 }", "target": "count"}
+{"id": "task212-5287d56f44774930bcaf01f48051fcce", "input": "eq { count { filter_eq { all_rows ; winner ; russell ingall } } ; 3 }", "target": "count"}
+{"id": "task212-bdd272b79a15453fa309b8a0472d7f36", "input": "eq { count { filter_eq { all_rows ; sport ; ice hockey } } ; 3 }", "target": "count"}
+{"id": "task212-58abb901847d4f4188d8bd2f064a55c5", "input": "eq { count { filter_eq { all_rows ; high points ; paul pierce } } ; 5 }", "target": "count"}
+{"id": "task212-156c9ca9cba541259609a1e5eabe7a6e", "input": "eq { hop { argmax { all_rows ; wins } ; series } ; italian formula three }", "target": "superlative"}
+{"id": "task212-5de555ec15584f9b87ed285be6a4a710", "input": "eq { hop { nth_argmin { all_rows ; torque ; 2 } ; model } ; 320td ( diesel ) }", "target": "ordinal"}
+{"id": "task212-a66ecb882bb449e4b66de3399ae03732", "input": "eq { hop { argmax { all_rows ; oilers first downs } ; opponent } ; new england patriots }", "target": "superlative"}
+{"id": "task212-86e52fae94dd4667992a49b85027abe1", "input": "eq { count { filter_eq { all_rows ; high rebounds ; mcdyess } } ; 2 }", "target": "count"}
+{"id": "task212-2d6a0f036b704892937cdd6ca9c091ef", "input": "eq { count { filter_eq { all_rows ; winner ; kiveton park } } ; 2 }", "target": "count"}
+{"id": "task212-947510b58c3b4105b36bf2dc31bc55aa", "input": "eq { hop { argmax { all_rows ; attendance } ; date } ; september 30 , 1990 }", "target": "superlative"}
+{"id": "task212-ce752909ecd44a5eb88e4425ea701236", "input": "eq { count { filter_eq { all_rows ; wk 13 ; n / r } } ; 3 }", "target": "count"}
+{"id": "task212-928c9b48f2ca4c1d8476991e65006246", "input": "eq { hop { argmax { all_rows ; votes } ; year } ; 1962 }", "target": "superlative"}
+{"id": "task212-872da0b5eaa74f08bc771fea935d7157", "input": "eq { hop { argmax { all_rows ; population ( 2011 ) } ; settlement } ; srpska crnja }", "target": "superlative"}
+{"id": "task212-b357248722eb4564a3c9396bacede22a", "input": "eq { hop { argmax { all_rows ; caps } ; name } ; vaughan coveny }", "target": "superlative"}
+{"id": "task212-956d8c0a11a84e95a3e147e96b0a28ea", "input": "eq { hop { nth_argmax { all_rows ; capacity ; 2 } ; team } ; goyang hi fc }", "target": "ordinal"}
+{"id": "task212-121e91e19f8949f0bacf6e8a15406cf3", "input": "eq { hop { argmax { all_rows ; population } ; official name } ; moncton }", "target": "superlative"}
+{"id": "task212-dbb7905d1ddb4f4e8511766d5178d62e", "input": "eq { count { filter_eq { filter_eq { all_rows ; res ; win } ; round ; 1 } } ; 8 }", "target": "count"}
+{"id": "task212-84929afcfc12482d9d9bd22a9f885ea8", "input": "eq { count { filter_eq { all_rows ; format ; oldies } } ; 4 }", "target": "count"}
+{"id": "task212-c298f73fbeac43febb285adebd78cf8c", "input": "eq { count { filter_eq { all_rows ; nickname ; saints } } ; 1 }", "target": "count"}
+{"id": "task212-1f397e81c5a348c7bf58068f8469cac8", "input": "eq { hop { nth_argmax { all_rows ; votes ; 3 } ; candidate } ; pat martin }", "target": "ordinal"}
+{"id": "task212-2d6c42812fa641cba7ceab2a06fa7f52", "input": "eq { count { filter_eq { all_rows ; country ; united states } } ; 7 }", "target": "count"}
+{"id": "task212-290e75534bcd485da4cefc4e04739af6", "input": "eq { count { filter_eq { all_rows ; distance ; 1000 m } } ; 4 }", "target": "count"}
+{"id": "task212-dc48befcb42e4ab38d1b0a3b7d327769", "input": "eq { hop { argmax { all_rows ; date successor seated } ; district } ; ohio 6th }", "target": "superlative"}
+{"id": "task212-ea624ffcc0f64d70b9fe783f81fe4f5f", "input": "eq { hop { argmin { all_rows ; bronze } ; nation } ; commonwealth of independent states ( 1992 only ) }", "target": "superlative"}
+{"id": "task212-59fdcc9e4936464dbaf4e8da7dc02ca5", "input": "eq { count { filter_eq { all_rows ; drawn ; 0 } } ; 4 }", "target": "count"}
+{"id": "task212-fbea44b17de144e6900b93be5ef95727", "input": "eq { count { filter_eq { all_rows ; outcome ; runner - up } } ; 2 }", "target": "count"}
+{"id": "task212-25028e3b3b704f20b7f12097b8f4daa7", "input": "eq { count { filter_eq { all_rows ; silver ; 6 } } ; 2 }", "target": "count"}
+{"id": "task212-ade643f99f0a4877a3bb97c9516ff08a", "input": "eq { count { filter_eq { all_rows ; attendance ; 15000 } } ; 2 }", "target": "count"}
+{"id": "task212-8128d264cf1943d0b60e07d89ac34923", "input": "eq { count { filter_eq { all_rows ; surface ; carpet ( i ) } } ; 2 }", "target": "count"}
+{"id": "task212-04ab14e09f00470193ffb6b31aea3e9c", "input": "eq { hop { nth_argmax { all_rows ; notes ; 3 } ; year } ; 2004 }", "target": "ordinal"}
+{"id": "task212-75ffbea3e69f4f59bfb58f4cf50776f7", "input": "eq { count { filter_eq { all_rows ; margin of victory ; playoff } } ; 2 }", "target": "count"}
+{"id": "task212-b5b2fd9a9ff147a7b95f432d4a6983e6", "input": "eq { hop { argmax { all_rows ; qual } ; start } ; 5 }", "target": "superlative"}
+{"id": "task212-c1860b4799cf444db3687e3813d0a802", "input": "eq { hop { argmax { all_rows ; floors } ; name } ; commerzbank tower }", "target": "superlative"}
+{"id": "task212-fe7ba9ed31bb4a96b23ff71156358258", "input": "eq { count { filter_eq { all_rows ; final ; did not advance } } ; 3 }", "target": "count"}
+{"id": "task212-1460f8fde9484be5b42c1bf8cae16094", "input": "eq { hop { argmax { all_rows ; wins } ; year } ; 1988 }", "target": "superlative"}
+{"id": "task212-4019b9af24cf4fbe990667035ac51138", "input": "eq { count { filter_eq { all_rows ; platform ; unix } } ; 1 }", "target": "count"}
+{"id": "task212-86b0c776dc424e10835ea43e8e81f9ce", "input": "eq { hop { nth_argmin { all_rows ; rank ; 3 } ; name } ; matuzal\u00e9m }", "target": "ordinal"}
+{"id": "task212-84a2c9cb01ca4b66a8a5788e12d7fd06", "input": "eq { count { filter_eq { all_rows ; tournament ; mercedes } } ; 3 }", "target": "count"}
+{"id": "task212-646dd6118c054fcbad54e4e5e33af63d", "input": "eq { count { filter_eq { all_rows ; runner - up ; kanto gakuin university } } ; 4 }", "target": "count"}
+{"id": "task212-aa097c5cf3fa4c399fca36d415c63469", "input": "eq { hop { argmax { all_rows ; points } ; club } ; stade tunisien }", "target": "superlative"}
+{"id": "task212-68ff9251e2a24c0b8ec89467d6920c03", "input": "eq { hop { argmax { all_rows ; attendance } ; game site } ; waldstadion }", "target": "superlative"}
+{"id": "task212-47129bbdb7654c0f82eecddaba4c4d8f", "input": "eq { hop { argmax { all_rows ; score } ; date } ; 23 may 2002 }", "target": "superlative"}
+{"id": "task212-11517b6562b74b9c89a34f16db31c6dc", "input": "eq { count { filter_eq { all_rows ; event ; ifc wc 13 - warriors challenge } } ; 2 }", "target": "count"}
+{"id": "task212-d83716c584ec46cbb074f256cd169579", "input": "eq { hop { nth_argmin { all_rows ; first elected ; 1 } ; incumbent } ; sam rayburn }", "target": "ordinal"}
+{"id": "task212-5c592d22559444dd989493481a63513b", "input": "eq { count { filter_eq { all_rows ; artist ; arnold nogy } } ; 3 }", "target": "count"}
+{"id": "task212-01ef65f094d643b6b7497023c9149524", "input": "eq { hop { argmax { all_rows ; year } ; chassis } ; ferrari 500 / 625 }", "target": "superlative"}
+{"id": "task212-7c7a23c80bc84489a6d27087495bab9d", "input": "eq { count { filter_eq { all_rows ; surface ; hard } } ; 3 }", "target": "count"}
+{"id": "task212-a5f3f0363c4e4d869b1f715559f2e8d2", "input": "eq { hop { argmax { all_rows ; starts } ; year } ; 2001 }", "target": "superlative"}
+{"id": "task212-a8c393f821e44039b3f61cef61d7793d", "input": "eq { hop { argmax { all_rows ; total points } ; player } ; carlos yates }", "target": "superlative"}
+{"id": "task212-89551ed2972b429d82517b5c08a2a416", "input": "eq { count { filter_eq { all_rows ; bbc one presenter ( s ) ; jake humphrey } } ; 2 }", "target": "count"}
+{"id": "task212-0433f7d9e59b450fbf39d2cab46027fd", "input": "eq { hop { nth_argmin { all_rows ; first elected ; 1 } ; district } ; texas 1 }", "target": "ordinal"}
+{"id": "task212-664dd07268644f749f4115c1ee550194", "input": "eq { count { filter_eq { all_rows ; written by ; adam barr } } ; 2 }", "target": "count"}
+{"id": "task212-e82bcb91940a4074aea1e3bb48d0f1ed", "input": "eq { count { filter_eq { all_rows ; region ; imereti } } ; 8 }", "target": "count"}
+{"id": "task212-7845869f66b348828026f34f5d5586b4", "input": "eq { count { filter_eq { all_rows ; rank ; 6 } } ; 2 }", "target": "count"}

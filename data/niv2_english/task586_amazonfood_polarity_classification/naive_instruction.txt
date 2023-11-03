@@ -1,0 +1,1 @@
+Given a review of an amazon food product, you have to classify if the review is positive or negative.

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a debate topic and a sentence from the debate, classify the type of the sentence.",
+    "category": "Text Categorization",
+    "domain": "Government and Politics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

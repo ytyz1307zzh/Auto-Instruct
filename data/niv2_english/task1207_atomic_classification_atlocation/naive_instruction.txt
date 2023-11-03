@@ -1,0 +1,1 @@
+Given a tuple, determine whether the Head is located or can be found at/in/on the Tail or not.

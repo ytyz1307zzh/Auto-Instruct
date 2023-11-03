@@ -1,0 +1,7 @@
+{
+    "summary": "Given a real-life anecdote of a complex ethical situation, identify who is ethically wrong here",
+    "category": "Ethics Classification",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

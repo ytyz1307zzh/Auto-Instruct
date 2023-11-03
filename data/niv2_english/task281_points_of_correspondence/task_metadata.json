@@ -1,0 +1,7 @@
+{
+    "summary": "Find the entity or event that is in common between the given three sentences.",
+    "category": "Overlap Extraction",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

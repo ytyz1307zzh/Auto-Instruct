@@ -1,0 +1,1 @@
+Generate a question, given a collection of facts.

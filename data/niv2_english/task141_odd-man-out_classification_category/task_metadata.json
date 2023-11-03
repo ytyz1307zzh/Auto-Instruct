@@ -1,0 +1,7 @@
+{
+    "summary": "Given a category and set of words, select the word that least belongs.",
+    "category": "Word Semantics",
+    "domain": "Game -> Card Game",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a story and a selected sentence, find an emotion or a human drive that is directly caused or made possible by that sentence

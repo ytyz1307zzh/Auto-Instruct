@@ -1,0 +1,6 @@
+{{instruction}}
+
+{{demo}}
+
+Input: {{input}}
+Output:

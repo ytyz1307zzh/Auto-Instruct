@@ -1,0 +1,1 @@
+Given two sentences choose whether they agree/disagree/neither with each other.

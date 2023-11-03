@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context paragraph, question and corresponding answer, generate the supporting facts that helps in answering question.",
+    "category": "Explanation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

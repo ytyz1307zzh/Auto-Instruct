@@ -1,0 +1,7 @@
+{
+    "summary": "Classify whether the given poem text is positive or negative",
+    "category": "Sentiment Analysis",
+    "domain": "Literature",
+    "input_lang": "English",
+    "output_lang": "English"
+}

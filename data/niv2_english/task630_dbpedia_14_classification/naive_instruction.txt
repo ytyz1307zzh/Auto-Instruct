@@ -1,0 +1,1 @@
+Verfying if the title of the text is correct(dbpedia_14 dataset)

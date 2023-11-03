@@ -1,0 +1,217 @@
+{"id": "task970-8fb67e8577ea41a78bc28dd45f5e5ca7", "input": "sentence1:person is   organization 's executivesentence1:person is CEO of organization ", "target": "no"}
+{"id": "task970-92142ab6947f40549492007ca4ed50e7", "input": "sentence1:organization_founder is engaging  organization_founder sentence1:organization_founder is owing to organization_founder ", "target": "no"}
+{"id": "task970-31248cbbe21949eca17cee8b52966d6f", "input": "sentence1:organization_founder is trying to persuade organization_founder sentence1:organization_founder is supporting  organization_founder ", "target": "no"}
+{"id": "task970-6d35f0b55c0447f488e9845ba76d523f", "input": "sentence1:employer is outpacing  employer sentence1:employer is having over employer ", "target": "no"}
+{"id": "task970-8862931318e2415c8fd1c27f2c6bd34c", "input": "sentence1:person is outpolled  person sentence1:person is giving  person something", "target": "no"}
+{"id": "task970-0821a3b0038745c39847eccd44337528", "input": "sentence1:person is destroying  location sentence1:person is calling on location ", "target": "no"}
+{"id": "task970-dbb22e7ddfd845988bed23386f0cce68", "input": "sentence1:employer is overtaking  employer sentence1:employer is taking from employer ", "target": "no"}
+{"id": "task970-57ca3cdf8d0d4961a3f6ac26ef7c3875", "input": "sentence1:employer wants  employer sentence1:employer is getting from employer ", "target": "no"}
+{"id": "task970-d9eef894eb40421981dadf3b0862a2b6", "input": "sentence1:employer is overtaking  employer sentence1:employer is holding  employer ", "target": "no"}
+{"id": "task970-8180d068e0e84a738395d23ef23b7502", "input": "sentence1:military_combatant is suffering in region sentence1:military_combatant is killing in region ", "target": "no"}
+{"id": "task970-9b34f2c85a854e0c9a1e7b2d38200c7f", "input": "sentence1:organization_founder is killing in location sentence1:organization_founder is withdrawing from location ", "target": "no"}
+{"id": "task970-7ca8461550ab4bf29f1a3b9c8c2c27f9", "input": "sentence1:organization_member is sending into location sentence1:organization_member is wanting in location ", "target": "no"}
+{"id": "task970-ef13562cd15745c68d538a152d4e588a", "input": "sentence1:person*politician is trying to link  sentence1:person*politician is having lead over  ", "target": "no"}
+{"id": "task970-e971052ecd234ce59b12620533e4854a", "input": "sentence1:employer is conceding to employer sentence1:employer is taking  employer ", "target": "no"}
+{"id": "task970-4c133eeb4ced412a8961aff8ed762220", "input": "sentence1:book_author is blaming  location sentence1:book_author is visiting  location ", "target": "no"}
+{"id": "task970-c01a514cd4ba47a88812987389367de2", "input": "sentence1:organization_founder is threatening to attack location sentence1:organization_founder is accusing  location ", "target": "no"}
+{"id": "task970-1896d785296049dfacbd7622db03aa4f", "input": "sentence1:person is relieving  person sentence1:person is ordering  person ", "target": "no"}
+{"id": "task970-6a52c38106eb4539bfd698a3a0d33b1c", "input": "sentence1:employer is trouncing  employer sentence1:employer is joining with employer ", "target": "no"}
+{"id": "task970-e7493617f6ba4df58b364c512bae1c59", "input": "sentence1:military_combatant is launching into location sentence1:military_combatant is bombing  location ", "target": "no"}
+{"id": "task970-51e18b81a9b043f88c92d2d7472295df", "input": "sentence1:organization_member is using against location sentence1:organization_member is wanting in location ", "target": "no"}
+{"id": "task970-a9d27fe9623c41938a35b1a87a334841", "input": "sentence1:military_combatant is being at war with region sentence1:military_combatant is expelling  region ", "target": "no"}
+{"id": "task970-f7227670cddc42c6a66ec9b72a2da465", "input": "sentence1:employer is crushing  employer sentence1:employer is getting  employer ", "target": "no"}
+{"id": "task970-a17e54e647554945b1c6e118e0a0e52b", "input": "sentence1:location is being at war with region sentence1:region is trusting  location ", "target": "no"}
+{"id": "task970-2ec61f0938624186ac54c59dcd26d265", "input": "sentence1:employer wants  employer sentence1:employer is working with employer ", "target": "no"}
+{"id": "task970-bafffcc45f7746f492623b7f51eacc15", "input": "sentence1: is talking about organization_founder sentence1: is praising  organization_founder ", "target": "no"}
+{"id": "task970-b10fdc82cf9148cfbeee8d3e02f4f2cc", "input": "sentence1:organization_founder is turning on region sentence1:organization_founder is going into region ", "target": "no"}
+{"id": "task970-7ee94ba50d1c48e6bc8c24d5deffe9f5", "input": "sentence1:location is enemy of location sentence1:location is recognizing  location ", "target": "no"}
+{"id": "task970-fec6ba01ddec4e088e1004fd88d14375", "input": "sentence1:award_winner is scoring to lead sports_team sentence1:sports_team is playing without award_winner ", "target": "no"}
+{"id": "task970-e2b349bae3874ca0bb9bcbfbc43fe46d", "input": "sentence1:location is being invaded by location sentence1:location is recognizing  location ", "target": "no"}
+{"id": "task970-72068e8759a6425f926d61f86dc0c49b", "input": "sentence1:employer is hammering  employer sentence1:employer is holding advantage over employer ", "target": "no"}
+{"id": "task970-7cbc4f50e49a4750ae01e0bac9bf89ce", "input": "sentence1:location is pointing at organization_founder sentence1:organization_founder is blaming  location ", "target": "no"}
+{"id": "task970-f781528f8db04ca39151fd7446c11358", "input": "sentence1:location outnumbers  region sentence1:region is having  location ", "target": "no"}
+{"id": "task970-50ea32ca5c67403f8b5b8995604f1e13", "input": "sentence1:military_combatant is going to invade region sentence1:military_combatant is invading  region ", "target": "no"}
+{"id": "task970-24735f3866124fde9a421aa35d8f76fd", "input": "sentence1:employer is bombing in location sentence1:employer is sending to location ", "target": "no"}
+{"id": "task970-d676a7f5c6b5407986173884a756e9c1", "input": "sentence1:award_nominee is crushing  employer sentence1:award_nominee is taking  employer ", "target": "no"}
+{"id": "task970-72e8789eb5f447a6b5bbeb17c7075fb5", "input": "sentence1:location is notifying  employer sentence1:location is member of employer ", "target": "no"}
+{"id": "task970-b44596d6b9f34fd2a27dda0c0710afed", "input": "sentence1:location is launching attack on location sentence1:location is considering  location ", "target": "no"}
+{"id": "task970-2759dbf55cfb463ea8c81a1aff99bd28", "input": "sentence1:book_author is dispatching  book_author sentence1:book_author is asking  book_author ", "target": "no"}
+{"id": "task970-5ded0bd0354549caa8f719c4047633a4", "input": "sentence1:person is gaining on person sentence1:person is calling  person ", "target": "no"}
+{"id": "task970-edea63ac551347c084ec10e422610828", "input": "sentence1: announces that something acquires business_operation sentence1: agrees to buy business_operation ", "target": "no"}
+{"id": "task970-6ba5b6ba6b20417b821f06b34d7997ee", "input": "sentence1:organization_founder is president of location sentence1:organization_founder is coming in location ", "target": "no"}
+{"id": "task970-7b25c3ce8e104f969baa1e54c2158361", "input": "sentence1:organization_member is sending into location sentence1:organization_member is   location 's partner", "target": "no"}
+{"id": "task970-017aac7e91fc4aa89c36784d8b9be0a7", "input": "sentence1:employer is conceding to employer sentence1:employer is putting  employer ", "target": "no"}
+{"id": "task970-a1a12547020a4defb8788af73195174d", "input": "sentence1:employer is outpacing  employer sentence1:employer is turning  employer ", "target": "no"}
+{"id": "task970-c6304c1d7ed5479ca47f8cba70eff357", "input": "sentence1:employer is outpacing  employer sentence1:employer is using  employer ", "target": "no"}
+{"id": "task970-20e9094402f94d648cfa863f4ba91e83", "input": "sentence1:location is dependent on location sentence1:location is siding with location ", "target": "no"}
+{"id": "task970-cf7136a55371472da82b94c271ce847b", "input": "sentence1:region is nation in location sentence1:region is one of country in location ", "target": "yes"}
+{"id": "task970-8793c9d35b1448a29b0cdfce259b9f55", "input": "sentence1:region is separated from location sentence1:region is separating from location ", "target": "no"}
+{"id": "task970-c2e1cd9add2e4bfb8727d6a4d9fca8c2", "input": "sentence1:location is importing from location sentence1:location is residing in location ", "target": "no"}
+{"id": "task970-fb6f831969194569a1d7e5f75f05a413", "input": "sentence1:book_author is holding lead over person sentence1:book_author is calling  person ", "target": "no"}
+{"id": "task970-98f8c5e397ff454486a60afa04278da3", "input": "sentence1:region is   region 's countrysentence1:region is producer in region ", "target": "no"}
+{"id": "task970-2c289e7557d04a2f8fc33a86f71276cb", "input": "sentence1:organization_founder is succeeding in location sentence1:organization_founder is wanting  location ", "target": "no"}
+{"id": "task970-0ce5066186bd4a19b211953d3a580e53", "input": "sentence1:employer is overtaking  employer sentence1:employer is outpacing  employer ", "target": "no"}
+{"id": "task970-b02ea420fad7485192949429a6717919", "input": "sentence1:region has population in location sentence1:region is one of market in location ", "target": "no"}
+{"id": "task970-7c81d62d73674a12b7a316965ceb2375", "input": "sentence1:person is engaging  organization_founder sentence1:person is attacking  organization_founder ", "target": "no"}
+{"id": "task970-f5f9d73af4b34495b95feb3830b49f0b", "input": "sentence1:award_winner is building into computer_platform sentence1:award_winner is announcing version of computer_platform ", "target": "no"}
+{"id": "task970-6cbd0afcc6204b0e84e1d4de8316c19a", "input": "sentence1:location is enemy of region sentence1:location is signing treaty with region ", "target": "no"}
+{"id": "task970-17c8787058c84b05ab694bcba92db298", "input": "sentence1:location is handing to organization_founder sentence1:location is seeing  organization_founder ", "target": "no"}
+{"id": "task970-649cbea0284446448a79d513fc2c443e", "input": "sentence1:region is bombing  region sentence1:region is trusting  region ", "target": "no"}
+{"id": "task970-16c38dce81df4732b2b245148c149698", "input": "sentence1:region is hostile to region sentence1:region outnumbers  region ", "target": "no"}
+{"id": "task970-4c9570effda747358d9fed49f2df9cba", "input": "sentence1:employer is needing to beat employer sentence1:employer is giving  employer something", "target": "no"}
+{"id": "task970-8faf91bb78a64d648dccc9be22260dff", "input": "sentence1:location is going to war with region sentence1:location is conducting in region ", "target": "no"}
+{"id": "task970-b9a4285114094aa6abc46758a5c15dad", "input": "sentence1:location is adopting from location sentence1:location is losing to location ", "target": "no"}
+{"id": "task970-d44ae850ef1440cbb83a286c041a69e4", "input": "sentence1:person is destroying  location sentence1:location is loving  person ", "target": "no"}
+{"id": "task970-efbc8f57280c492eb2d6cfc8315ad918", "input": "sentence1:employer is needing  employer sentence1:employer is holding  employer ", "target": "no"}
+{"id": "task970-cd466dc53d12450fb4e93669b0e5f14c", "input": "sentence1:location hates  location sentence1:location is bordered by location ", "target": "no"}
+{"id": "task970-6d3591b44c2444419b322a26ef98ef00", "input": "sentence1:employer has advantage over employer sentence1:employer is overtaking  employer ", "target": "no"}
+{"id": "task970-6f666efbf93a4b2fbaeefa611fd7d42d", "input": "sentence1:organization_founder is playing role in location sentence1:location is attacking  organization_founder ", "target": "no"}
+{"id": "task970-3505da1190ad44d7b0ecd419131149bb", "input": "sentence1:location is hub of location sentence1:location is one of city in location ", "target": "no"}
+{"id": "task970-e74f8eeba6124db9a55a1b320a8f023c", "input": "sentence1: is spending time in location sentence1: is winning  location ", "target": "no"}
+{"id": "task970-c4c27830e03e4f5ea5c0fba50eaef2f2", "input": "sentence1:location is going to war with location sentence1:location is coming from location ", "target": "no"}
+{"id": "task970-f0bd6bcb785944c8907ffacf16c2d23f", "input": "sentence1:region is preventing  organization_founder sentence1:organization_founder is regarding  region ", "target": "no"}
+{"id": "task970-7ff5187079c64c9a92ce0f2ec7cf1001", "input": "sentence1:location is   location 's enemysentence1:location is following  location ", "target": "no"}
+{"id": "task970-425f6d2ee6c24e2cbd438048ee002c4c", "input": "sentence1:location is   location 's countrysentence1:location is one of place in location ", "target": "yes"}
+{"id": "task970-f23e20497b5a4b85bd5f04e018533394", "input": "sentence1:employer is outperforming  employer sentence1:employer is asking  employer ", "target": "no"}
+{"id": "task970-d437a9b375b4498694f85d9feefdf915", "input": "sentence1:person is senator from region sentence1:person is Senator from region ", "target": "yes"}
+{"id": "task970-a892edd59d2f454abbb6a2ba7614b182", "input": "sentence1:employer is trouncing  employer sentence1:employer is winning over employer ", "target": "no"}
+{"id": "task970-e55128c84fb94396aff51e6ecd1c10c3", "input": "sentence1:employer is having edge over employer sentence1:employer is winning over employer ", "target": "no"}
+{"id": "task970-1ae3143dfef74599b2b1f283ceccccd2", "input": "sentence1:location is to invade region sentence1:location is withdrawing from region ", "target": "no"}
+{"id": "task970-8a2b0202451e4018b845c0e55004696a", "input": "sentence1:organization_member needs from region sentence1:organization_member is launching attack on region ", "target": "no"}
+{"id": "task970-8d7aaca8be874937be1b1bf5c5dab9b3", "input": "sentence1: is talking about book_author sentence1:book_author is asking   ", "target": "no"}
+{"id": "task970-c7ea8ab501914caf85bc502a605383a6", "input": "sentence1:organization_founder decides to invade location sentence1:organization_founder is sending to location ", "target": "no"}
+{"id": "task970-b6f061bd67aa4e9cb7e2956f9fc10e7f", "input": "sentence1: is making in region sentence1: is telling in region ", "target": "no"}
+{"id": "task970-d48a992851f5460f84c363ccb7f9ba38", "input": "sentence1:person is engaging  organization_founder sentence1:person is accusing  organization_founder ", "target": "no"}
+{"id": "task970-8d513be93bf94874b84437bacb2915b5", "input": "sentence1: is chastising  employer sentence1: is joining  employer ", "target": "no"}
+{"id": "task970-136c3d6cbf324c93a0b60cd2d471516e", "input": "sentence1:person is being defeated by organization_founder sentence1:person is criticizing  organization_founder ", "target": "no"}
+{"id": "task970-078ee9cd19dc409ba86f660bcb10c467", "input": "sentence1:location is winning war against location sentence1:location is being like location ", "target": "no"}
+{"id": "task970-f5ae5bf4365a4d159b84419c022e9cd8", "input": "sentence1:location wants from location sentence1:location is needing  location ", "target": "no"}
+{"id": "task970-e66f35928ef94324a540a7a90227cc6b", "input": "sentence1:employer is trouncing  employer sentence1:employer is having over employer ", "target": "no"}
+{"id": "task970-9d3f7ba09b52492db2d480cd99bcdc67", "input": "sentence1:employer is acting like employer sentence1:employer is making  employer ", "target": "no"}
+{"id": "task970-e37eb0b97d4842b1b6ad38e90a78e795", "input": "sentence1:employer is crushing  employer sentence1:employer is having over employer ", "target": "no"}
+{"id": "task970-3c15f04a6b4d47078ef7393ef5d7b5de", "input": "sentence1:location is country followed by location sentence1:location is being followed by location ", "target": "yes"}
+{"id": "task970-16f080f7c1a04568a2810dc9e1a353ec", "input": "sentence1:region is country in location sentence1:region is country in location ", "target": "yes"}
+{"id": "task970-4704d593d3384e3da23ae8e1fd575332", "input": "sentence1:employer is outpacing  employer sentence1:employer is defeating  employer ", "target": "yes"}
+{"id": "task970-5b15cb13cc2c442bb194c4777f4235b3", "input": "sentence1:employer is informing  book_author sentence1:book_author is ordering  employer ", "target": "no"}
+{"id": "task970-2c17083b03954ee9a69eba0506bcc404", "input": "sentence1:location hates  location sentence1:location is   location 's market", "target": "no"}
+{"id": "task970-1802c46ed28b4b21a66908d272f06135", "input": "sentence1:organization_founder is withdrawing from location sentence1:organization_founder is having interest in location ", "target": "no"}
+{"id": "task970-815a810a99814361a8e77f84c9ba8929", "input": "sentence1:employer is conceding to employer sentence1:employer is winning over employer ", "target": "yes"}
+{"id": "task970-86db0fc11ca6455fae38ebce712b5059", "input": "sentence1:organization_founder is comparing  organization_founder sentence1:organization_founder is referring to organization_founder ", "target": "no"}
+{"id": "task970-ff64f422626e468aa8b64480cc56bec7", "input": "sentence1:region is one of country in region sentence1:region is state in region ", "target": "no"}
+{"id": "task970-376f871624b146aba0daff42043a3c12", "input": "sentence1:organization_founder is killing in location sentence1:organization_founder is seeing  location ", "target": "no"}
+{"id": "task970-a750199fecb246a2817cd55bbf230224", "input": "sentence1:region is independent of region sentence1:region is independent from region ", "target": "yes"}
+{"id": "task970-e0fd5e673133478ebc03279b451d4c23", "input": "sentence1:location is capital of location sentence1:location is city in location ", "target": "yes"}
+{"id": "task970-3f0f6a0575ea4b64b763ce21581f8044", "input": "sentence1:employer is outpacing  employer sentence1:employer is beating  employer ", "target": "yes"}
+{"id": "task970-fd4bc0d775d740be8eca66420ae00508", "input": "sentence1:region is one of country in region sentence1:region is among country in region ", "target": "yes"}
+{"id": "task970-bc8eccc1d7e14dacb532f88e72e3db8b", "input": "sentence1:employer has advantage over employer sentence1:employer is having  employer ", "target": "no"}
+{"id": "task970-a7b6ca63c05e46f1894edf02615c2e7a", "input": "sentence1:book_author says in interview on organization sentence1:book_author is saying on organization ", "target": "yes"}
+{"id": "task970-a595172923fc4bb59d6171b5ed0dce6e", "input": "sentence1:employer is outpacing  employer sentence1:employer is surpassing  employer ", "target": "yes"}
+{"id": "task970-e85acd9fe5d44d8cbfe23456210d8270", "input": "sentence1:location is city of state of location sentence1:location is located  location ", "target": "yes"}
+{"id": "task970-a77747150a0b460ab7f861d87df77a43", "input": "sentence1:employer is against employer sentence1:employer is facing  employer ", "target": "yes"}
+{"id": "task970-4d5edd1963cc4724b34b0342bb77249e", "input": "sentence1:sports_team is winning without award_winner sentence1:sports_team is without award_winner ", "target": "yes"}
+{"id": "task970-9ae311275d1e43838dfe8b049c1b7dd1", "input": "sentence1:location is city in location sentence1:location is place in location ", "target": "yes"}
+{"id": "task970-caf1f6e450684c58b939a94dbad9a516", "input": "sentence1:location is home to employer sentence1:location is home to employer ", "target": "yes"}
+{"id": "task970-a94a8997b9fc45d7a31f513303080527", "input": "sentence1:location is heart of location sentence1:location is   location 's city", "target": "yes"}
+{"id": "task970-ebe7599b09ff45859f55f27648476080", "input": "sentence1:book_author is emigrating from location sentence1:book_author is being born in location ", "target": "no"}
+{"id": "task970-b8eacafd09f44ed49fa6f90bdeaa1339", "input": "sentence1:location outnumbers  location sentence1:location is having a location ", "target": "no"}
+{"id": "task970-697b22677a114adfbc73b6e55998fed1", "input": "sentence1:location is one of country in location sentence1:location is one of place in location ", "target": "yes"}
+{"id": "task970-4608f47c89c94b32ac09e1e5ab147b39", "input": "sentence1:employer is crushing  employer sentence1:employer is losing to employer ", "target": "yes"}
+{"id": "task970-4b33ec95f7b4460fb9a2eb07b22f73d6", "input": "sentence1:organization is announcing release of computer_operating_system sentence1:organization is announcing availability of computer_operating_system ", "target": "yes"}
+{"id": "task970-cbfc509926d8402f966e627f18d740ba", "input": "sentence1:employer is surpassing  employer sentence1:employer is overtaking  employer ", "target": "yes"}
+{"id": "task970-21c3f5981a6e410eb6f72f96de88de02", "input": "sentence1:person is confronting  organization_founder sentence1:person is attacking  organization_founder ", "target": "yes"}
+{"id": "task970-250727a5bca24f13b693c92fe360887e", "input": "sentence1:location is   location 's citysentence1:location is city in state of location ", "target": "yes"}
+{"id": "task970-c189508b202644698bc6aeda3adcd065", "input": "sentence1:location is   location 's citysentence1:location is place in location ", "target": "yes"}
+{"id": "task970-72fa7863837f4a69bf38430df0c274a4", "input": "sentence1:region is one of country in region sentence1:region is country located in region ", "target": "yes"}
+{"id": "task970-2eb8bbbb04db45d49775f1759f59581a", "input": "sentence1:region is dealing with region sentence1:region is thinking about region ", "target": "yes"}
+{"id": "task970-231627cbdc5d405482b594d4a98b6b91", "input": "sentence1:employer is bashing  employer sentence1:employer is beating  employer ", "target": "yes"}
+{"id": "task970-2caeeabdb96947c1a9d33f7ab81adc5e", "input": "sentence1:employer is outperforming  employer sentence1:employer is passing  employer ", "target": "yes"}
+{"id": "task970-fb4be1fe32fe427e98b07e2059557c85", "input": "sentence1:organization_founder is coming into location sentence1:organization_founder is coming to location ", "target": "yes"}
+{"id": "task970-68c38ca552054a6db65f1b06b4e1ebd7", "input": "sentence1:location is city In location sentence1:location is place in location ", "target": "yes"}
+{"id": "task970-4e7bddce50924289918c8042ee81ee67", "input": "sentence1:location has one of economy in location sentence1:location is one of destination in location ", "target": "yes"}
+{"id": "task970-bcffd62bc9594c5291841ce0e80ddf2b", "input": "sentence1:location is region in region sentence1:location is region of region ", "target": "yes"}
+{"id": "task970-4a26bfc6639e46bebe8109c2878f4613", "input": "sentence1:region is voting for  sentence1:region is going for  ", "target": "yes"}
+{"id": "task970-e296fe93be1b487d91e7bc0004992c1b", "input": "sentence1:region is obtaining from location sentence1:region is importing from location ", "target": "yes"}
+{"id": "task970-36804f4a34c4427fb02c143fd65c3a44", "input": "sentence1:region is among country in location sentence1:region is situated in location ", "target": "yes"}
+{"id": "task970-eb90c965223b484c949a6af4cece9852", "input": "sentence1:region is country in location sentence1:region is nation in location ", "target": "yes"}
+{"id": "task970-5c9a9d32714a4d1993fefe626d494516", "input": "sentence1:organization is announcing availability of computer_operating_system sentence1:organization is announcing release of computer_operating_system ", "target": "yes"}
+{"id": "task970-3c545cf031fa41a8a16639924cc6c688", "input": "sentence1:employer has advantage over employer sentence1:employer is beating  employer ", "target": "yes"}
+{"id": "task970-dd1a2d3fbd9544f3b0715dcbf553f6ae", "input": "sentence1:award_nominee is winning against award_nominee sentence1:award_nominee is facing against award_nominee ", "target": "yes"}
+{"id": "task970-7e973f62a6fb495885e2f6f42c555c59", "input": "sentence1:region is   region 's countrysentence1:region is country located in region ", "target": "yes"}
+{"id": "task970-19ffa2fbb3b34085aba28217f2303fc8", "input": "sentence1:location is   location 's capitalsentence1:location is capitol of location ", "target": "yes"}
+{"id": "task970-d65baf6b8dcf47b1a21227f10bfd75d4", "input": "sentence1:organization_founder is standing with organization_founder sentence1:organization_founder is ally with organization_founder ", "target": "yes"}
+{"id": "task970-2092807b4f714a21a0812b086d28ae6d", "input": "sentence1:organization_founder is President of location sentence1:organization_founder is elected to be president of location ", "target": "yes"}
+{"id": "task970-1b3239a39f4d468f88d47f07a66c00c9", "input": "sentence1:location is being invaded by location sentence1:location is seizing  location ", "target": "yes"}
+{"id": "task970-c31a1d7d272347d7b5e32fb647fd0bfe", "input": "sentence1:organization_founder decides to invade location sentence1:organization_founder is fighting  location ", "target": "yes"}
+{"id": "task970-0f083a49de6146d7bac0df8628451205", "input": "sentence1: heads of employer sentence1: is leading  employer ", "target": "yes"}
+{"id": "task970-d46067089a764c6eb89c50c7429b9ff8", "input": "sentence1:region is being attacked by location sentence1:location wags war against region ", "target": "yes"}
+{"id": "task970-890de8d9028e4ec796e2390445adae8d", "input": "sentence1:award_nominee is third in organization sentence1:award_nominee is one of team in organization ", "target": "yes"}
+{"id": "task970-3908fb605ba54295b2bed67cb37ea25e", "input": "sentence1:region is located to border location sentence1:region is to border location ", "target": "yes"}
+{"id": "task970-4ce0f2acdbd4484b9778e634f753fdcd", "input": "sentence1:person*politician is serving a governor of location sentence1:person*politician is   location 's governor", "target": "yes"}
+{"id": "task970-2b5485da3aec4f3b912771f60e5d5480", "input": "sentence1:organization is releasing  computer_software sentence1:computer_software is registered trademark of organization ", "target": "yes"}
+{"id": "task970-3ac137b27b3a4005b256f5316f19d82b", "input": "sentence1:person is answering  person sentence1:person is asking  person ", "target": "yes"}
+{"id": "task970-6e2101af86b746bdb68a9d7d520dc44e", "input": "sentence1:location is going to war with region sentence1:location is fighting with region ", "target": "yes"}
+{"id": "task970-af2670e2e9be4a429939cf8a7177e81b", "input": "sentence1:location is being invaded by region sentence1:region is occupying  location ", "target": "yes"}
+{"id": "task970-885512dfd6f54de5b4af916637fc7877", "input": "sentence1:region is being attacked by region sentence1:region is going to invade region ", "target": "yes"}
+{"id": "task970-7f49b4d30a6343bd9e722417c787cb21", "input": "sentence1:location seizes from military_combatant sentence1:location wrests from military_combatant ", "target": "yes"}
+{"id": "task970-26bb912633f74da483310dd08c65a3e4", "input": "sentence1:employer is killing  location sentence1:employer is beating  location ", "target": "yes"}
+{"id": "task970-f2c2bc0af92440958c66ea612692d5bd", "input": "sentence1:location is   location 's capitalsentence1:location is city of location ", "target": "yes"}
+{"id": "task970-4c0a38bfaa934a19859ede4c2353f377", "input": "sentence1:location launches attack against military_combatant sentence1:location is being at war with military_combatant ", "target": "yes"}
+{"id": "task970-17241f4e9f2a4ce59a76f02b8e6a4b8d", "input": "sentence1:employer is hammering  employer sentence1:employer is going against employer ", "target": "yes"}
+{"id": "task970-72e304a87bea4c41bee52b2f2af6a23f", "input": "sentence1:location is center in location sentence1:location is   location 's city", "target": "yes"}
+{"id": "task970-de7af3f3282246209db356228d142f1d", "input": "sentence1:employer is partner with award_winner sentence1:employer is partner with award_winner ", "target": "yes"}
+{"id": "task970-6beca2693177436dbbe46f51a1b06202", "input": "sentence1:language.human_language is language in region sentence1:language.human_language is being spoken in region ", "target": "yes"}
+{"id": "task970-19e5f7ee239049c2899a446bcec16d27", "input": "sentence1:employer loses  location sentence1:employer is winning in location ", "target": "no"}
+{"id": "task970-64a8065f21d2403dae8ac178f7b45559", "input": "sentence1:employer is in control of location sentence1:employer is holding  location ", "target": "yes"}
+{"id": "task970-e9e565158979491a8e13f392694f0b40", "input": "sentence1:employer is edging  employer sentence1:employer is facing  employer ", "target": "yes"}
+{"id": "task970-57b2156bb390423fa2893a814be15cf9", "input": "sentence1:military_combatant is fighting war against location sentence1:military_combatant is invading  location ", "target": "yes"}
+{"id": "task970-bc00168d87474071b7290b87133c7231", "input": "sentence1:region is being attacked by military_combatant sentence1:military_combatant starts war against region ", "target": "yes"}
+{"id": "task970-ddbafed54b9a4cee9bb07c786f05abee", "input": "sentence1:region is being invaded by military_combatant sentence1:region is being occupied by military_combatant ", "target": "yes"}
+{"id": "task970-4aab77215fc341e9b6a99787ab3b7a26", "input": "sentence1:location is capital of location sentence1:location is   location 's city", "target": "yes"}
+{"id": "task970-dd533a2923e144afb32e3dda20a206c5", "input": "sentence1: is confronting  organization_founder sentence1: is asking  organization_founder ", "target": "yes"}
+{"id": "task970-a855f9e12fad491aa308beacbb995ca9", "input": "sentence1:award_nominee is crushing  employer sentence1:award_nominee is trouncing  employer ", "target": "yes"}
+{"id": "task970-55f5e4284f8b4cd98820d7edb670c501", "input": "sentence1:region is one of country in location sentence1:region is located in part of location ", "target": "yes"}
+{"id": "task970-5fad280dfaa84af4885180db158f9b6f", "input": "sentence1:person is father of person sentence1:person is   person 's son", "target": "yes"}
+{"id": "task970-f252d63d2d164e54bc44fee1f1a5f4ff", "input": "sentence1:organization is acquiring  business_operation sentence1:organization is purchasing  business_operation ", "target": "yes"}
+{"id": "task970-14fb91cfff7a4561a17d95a29e8bdf4c", "input": "sentence1:military_combatant is launching attack on organization_founder sentence1:organization_founder is declaring war on military_combatant ", "target": "yes"}
+{"id": "task970-cfc4f35768a64a959065ed2859ccf99d", "input": "sentence1:region is going to invade location sentence1:region is moving into location ", "target": "yes"}
+{"id": "task970-862d6b5d779f43c39fbbb18342d4f926", "input": "sentence1:organization_founder is getting into location sentence1:organization_founder is going into location ", "target": "yes"}
+{"id": "task970-30175ff0c8454a9fa49b767432d1aa82", "input": "sentence1:organization_founder is leader of location sentence1:organization_founder is ruling  location ", "target": "yes"}
+{"id": "task970-0137869e370f48e580f558b4bdc70db8", "input": "sentence1:person*politician is being elected over  sentence1: is running against person*politician ", "target": "yes"}
+{"id": "task970-71c0815492e84e0c86d5f1087a49be64", "input": "sentence1:region is being invaded by region sentence1:region is imposing on region ", "target": "yes"}
+{"id": "task970-1aadbf2e2f984d39ba8c4a3c9ee1bf4c", "input": "sentence1:location is hostile to location sentence1:location is threat to location ", "target": "yes"}
+{"id": "task970-802c285c4d894dd3bd27cb6b09754727", "input": "sentence1:book_author is president of location sentence1:book_author is serving a President of location ", "target": "yes"}
+{"id": "task970-6473468f521440bd96b3deaca7e82203", "input": "sentence1:organization_founder continues to bomb location sentence1:organization_founder is attacking  location ", "target": "yes"}
+{"id": "task970-be7fcb5d88394b4a80cd98cb4cf3d8ab", "input": "sentence1:business_operation is being acquired by  sentence1:business_operation is being owned by  ", "target": "yes"}
+{"id": "task970-c8b850b27cb44eb9be21e826aba0acaf", "input": "sentence1:film_character glances at film_character*fictional_character sentence1:film_character is looking at film_character*fictional_character ", "target": "yes"}
+{"id": "task970-a4ed0dbf2dcf472db1165c517afdfa26", "input": "sentence1:organization_founder is trusting  person sentence1:organization_founder is knowing  person ", "target": "yes"}
+{"id": "task970-c205600c741f43f7bd4c89ed53ed4520", "input": "sentence1:person*influencer is explaining in written_work sentence1:person*influencer is describing in written_work ", "target": "yes"}
+{"id": "task970-48563668d86946d3be5f43064aca1fe8", "input": "sentence1:military_combatant is going to war against region sentence1:region is being attacked by military_combatant ", "target": "yes"}
+{"id": "task970-b18019d14b624a7b89d66445b5d1e9cf", "input": "sentence1:person is trailing  person sentence1:person is being defeated by person ", "target": "yes"}
+{"id": "task970-e50a211a8cd64964994d0eb92f6b2535", "input": "sentence1:person_in_fiction is brother of person_in_fiction sentence1:person_in_fiction is   person_in_fiction 's brother", "target": "yes"}
+{"id": "task970-cd1870692854413480fc5c11bbd6e42f", "input": "sentence1:location is one of location 's citysentence1:location is city in location ", "target": "yes"}
+{"id": "task970-ca69cef44bba48acb082aa0d1f929cd6", "input": "sentence1:book_author is taking to location sentence1:book_author is coming to location ", "target": "yes"}
+{"id": "task970-ec0f12bad52740acb2d32772fda275ab", "input": "sentence1:employer is controlling  location sentence1:employer is taking control of location ", "target": "yes"}
+{"id": "task970-784ad09d064f44aca9e4e17d33d070aa", "input": "sentence1:location wags against location sentence1:location is attacking  location ", "target": "yes"}
+{"id": "task970-fd7d1dd2f8a84a8ea10323ac5b9d2d57", "input": "sentence1:region is having border with region sentence1:region is bordered by region ", "target": "yes"}
+{"id": "task970-359819e16f8648ada4a81809deb90e21", "input": "sentence1:employer is dominating  location sentence1:employer is having  location ", "target": "yes"}
+{"id": "task970-ebd94208a4574bdd98ee0293a763db8b", "input": "sentence1:region is language in location sentence1:region is language of location ", "target": "yes"}
+{"id": "task970-92648d22f4954ac29f6dd6a2680e5ca9", "input": "sentence1:person*politician is closing gap with person sentence1:person*politician is trailing  person ", "target": "yes"}
+{"id": "task970-ea040b908ce64b5189320ece692dcdc0", "input": "sentence1:region is nation in location sentence1:region is situated in location ", "target": "yes"}
+{"id": "task970-0869be1072bb419882a8d4564726c028", "input": "sentence1:employer is being held in location sentence1:employer is holding in location ", "target": "yes"}
+{"id": "task970-806553acf8d14b4ba3efe2f3e69d934f", "input": "sentence1:person*politician is trailing  person*politician sentence1:person*politician is challenging  person*politician ", "target": "yes"}
+{"id": "task970-2f507794599f4054afcf818a6b8d1e20", "input": "sentence1:organization_founder is starting  employer sentence1:organization_founder is building  employer ", "target": "yes"}
+{"id": "task970-e574ea7fb4e845b0b77d21073ba3aad7", "input": "sentence1:region is being occupied by military_combatant sentence1:region is being attacked by military_combatant ", "target": "yes"}
+{"id": "task970-24841401bb1646a5856cde914e97cc81", "input": "sentence1:location is   location 's capitalsentence1:location is capital of location ", "target": "yes"}
+{"id": "task970-5650aae012c04b0f8e766dc0536e6853", "input": "sentence1:location is having presence in location sentence1:location is being involved in location ", "target": "yes"}
+{"id": "task970-ca4ad5ab922c483e8d9151bf28d264d9", "input": "sentence1:employer is located  location sentence1:employer is being located in location ", "target": "yes"}
+{"id": "task970-55054d01977c4a26a9c247d09fb69377", "input": "sentence1:organization_founder is making attack on organization_founder sentence1:organization_founder is attacking  organization_founder ", "target": "yes"}
+{"id": "task970-e8cefde0969c4430a44b21ffcf4c6112", "input": "sentence1:person is shooting  person sentence1:person is being shot by person ", "target": "yes"}
+{"id": "task970-02a34f49f9d943318669d3b0dfd354fa", "input": "sentence1:location is supplying  organization_member sentence1:organization_member hates  location ", "target": "no"}
+{"id": "task970-e8265d3d8e1f4ad7af1872b9f8b76f29", "input": "sentence1:employer is subsidiary of organization sentence1:organization is owning  employer ", "target": "yes"}
+{"id": "task970-8e8e709184184218a40f7203a95da565", "input": "sentence1:location is splitting from location sentence1:location is separating from location ", "target": "yes"}
+{"id": "task970-0e9e75bdb4e44ba6b7c9a0357abaa3ed", "input": "sentence1:employer has advantage over employer sentence1:employer is facing  employer ", "target": "yes"}
+{"id": "task970-2ec0fc59ac9b4333b132c98a40e156ce", "input": "sentence1:book_author bests known for book sentence1:book_author is writing in book ", "target": "yes"}
+{"id": "task970-bcda1857bedb40b9a68e1c1732c9d8f2", "input": "sentence1:person*book_author is serving a Chairman of employer sentence1:person*book_author is Chairman of employer ", "target": "yes"}
+{"id": "task970-d52f8e60d5564a07bcd3e3e03c50877f", "input": "sentence1:book_author is saying In location sentence1:book_author is telling in location ", "target": "yes"}
+{"id": "task970-6a57bb90ff4e495a9094942c8043768e", "input": "sentence1:book_author is president of location sentence1:book_author is representing  location ", "target": "yes"}
+{"id": "task970-dc27e619a8d24527bcb1fff97f7e4235", "input": "sentence1:award_nominee is working on computer_platform sentence1:award_nominee is releasing for computer_platform ", "target": "no"}

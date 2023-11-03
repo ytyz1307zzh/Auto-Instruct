@@ -1,0 +1,7 @@
+{
+    "summary": "Given a passage and a question, classify the answer to the question based on the options.",
+    "category": "Question Answering",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

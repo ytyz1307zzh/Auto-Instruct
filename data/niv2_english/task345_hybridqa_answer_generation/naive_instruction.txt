@@ -1,0 +1,1 @@
+Given a question, write the part-of-speech tag for each word in the question.

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a scientific question and its correct answer, generate supporting facts for the answer.",
+    "category": "Explanation",
+    "domain": "Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

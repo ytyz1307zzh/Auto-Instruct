@@ -1,0 +1,7 @@
+{
+    "summary": "Choosing text that incorrectly completes a story based on given beginning and ending.",
+    "category": "Coherence Classification",
+    "domain": "Commonsense -> Stories",
+    "input_lang": "English",
+    "output_lang": "English"
+}

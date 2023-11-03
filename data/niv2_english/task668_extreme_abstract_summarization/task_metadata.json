@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a summary of this abstract.",
+    "category": "Summarization",
+    "domain": "Scientific Research Papers",
+    "input_lang": "English",
+    "output_lang": "English"
+}

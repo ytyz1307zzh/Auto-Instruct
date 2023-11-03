@@ -1,0 +1,7 @@
+{
+    "summary": "Given a statement and a explanation, judge whether the statement is true based on the explanation",
+    "category": "Fact Verification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

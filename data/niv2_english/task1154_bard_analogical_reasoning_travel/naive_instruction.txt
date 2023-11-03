@@ -1,0 +1,1 @@
+Given an analogy that relates places/locations to the associated travel mode, give the appropriate travel mode for the given place

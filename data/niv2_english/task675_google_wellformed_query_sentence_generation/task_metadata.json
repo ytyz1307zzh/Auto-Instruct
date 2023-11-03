@@ -1,0 +1,7 @@
+{
+    "summary": "Given a set of queries, find out the query which is well-formed",
+    "category": "Text Quality Evaluation",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

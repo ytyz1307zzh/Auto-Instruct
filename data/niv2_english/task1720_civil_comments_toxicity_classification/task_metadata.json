@@ -1,0 +1,7 @@
+{
+    "summary": "Classify toxicity",
+    "category": "Toxic Language Detection",
+    "domain": "Dialogue, Social Media",
+    "input_lang": "English",
+    "output_lang": "English"
+}

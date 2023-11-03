@@ -1,0 +1,3 @@
+{"id": "task1206-36d5ed5092c646009f1e31cc1650690e", "input": "Head: PersonX achieves PersonY end<sep>Tail: to show dominance", "target": "No"}
+{"id": "task1206-dfca09aa5740468fbf6d06323bb42be2", "input": "Head: PersonX makes it home in time<sep>Tail: PersonX helps their mother who had fallen on the floor", "target": "Yes"}
+{"id": "task1206-263728fef16f40b3928b4b743f55a967", "input": "Head: PersonX accidentally stepped<sep>Tail: to turn around", "target": "No"}

@@ -1,0 +1,3 @@
+{"id": "task936-c8f2bfa07eb94fc5b77e9a6246bc7371", "input": "Premise: A cook puts finishing touches on a plate of food.\nHypothesis: A woman ices her cake\nUpdate: The wedding starts in just a few minutes.", "target": "strengthener"}
+{"id": "task936-a5db3ca000e34a859be33a635f120280", "input": "Premise: A man is helping another man after a fall on the street.\nHypothesis: The man is his brother.\nUpdate: The man is 30 years older than him", "target": "weakener"}
+{"id": "task936-7e61edf3fc7945728caf51c7b1156c52", "input": "Premise: The girls walk down the street.\nHypothesis: Girls were going to the park.\nUpdate: They have a picnic basket.", "target": "strengthener"}

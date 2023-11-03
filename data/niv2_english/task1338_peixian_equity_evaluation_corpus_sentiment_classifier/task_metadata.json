@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying the sentiment within the sentence",
+    "category": "Sentiment Analysis",
+    "domain": "Commonsense, Dialogue, Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

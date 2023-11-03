@@ -1,0 +1,1 @@
+Given two sentences, write a single word describing the common genre to which they belong.

@@ -1,0 +1,7 @@
+{
+    "summary": "Generate answer yes or no based on given edited sentence and label",
+    "category": "Text Categorization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

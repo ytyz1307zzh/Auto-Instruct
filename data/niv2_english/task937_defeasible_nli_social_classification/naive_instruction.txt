@@ -1,0 +1,1 @@
+Given a hypothesis and an update, indentify whether the update strengthens or weakens the hypothesis.

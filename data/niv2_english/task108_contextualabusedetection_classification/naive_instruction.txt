@@ -1,0 +1,1 @@
+Given a text detect whether it's abusive or not.

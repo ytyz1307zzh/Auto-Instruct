@@ -1,0 +1,7 @@
+{
+    "summary": "Answer the given question.",
+    "category": "Question Answering",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

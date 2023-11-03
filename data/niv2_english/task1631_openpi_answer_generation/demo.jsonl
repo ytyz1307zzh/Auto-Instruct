@@ -1,0 +1,3 @@
+{"id": "task1631-805a9a11abb84bcbac76f7ed224f996e", "input": "entity: booties \nbefore: empty \nafter: full \nattr: volume", "target": "volume of booties was empty before and full afterwards"}
+{"id": "task1631-b7963e5e911c43cbac99597804c3885d", "input": "entity: roses \nbefore: black \nafter: gold \nattr: color", "target": "color of roses was black before and gold afterwards"}
+{"id": "task1631-d892cf859b524e65bd9a168d5321bbf4", "input": "entity: faucet \nbefore: dirty \nafter: clean \nattr: cleanness", "target": "cleanness of faucet was dirty before and clean afterwards"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Restaurant review classification based on its sentiment (i.e., positive or negative)",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

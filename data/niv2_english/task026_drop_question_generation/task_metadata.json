@@ -1,0 +1,7 @@
+{
+    "summary": "Creating complex reasoning questions based on a passage.",
+    "category": "Question Generation",
+    "domain": "Sports, Sports -> NFL, Wikipedia, History",
+    "input_lang": "English",
+    "output_lang": "English"
+}

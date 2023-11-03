@@ -1,0 +1,1 @@
+Given 2 sentences, determine if they clearly agree or disagree with each other or if they cannot be answered.

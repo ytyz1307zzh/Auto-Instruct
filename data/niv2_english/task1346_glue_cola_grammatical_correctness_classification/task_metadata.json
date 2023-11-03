@@ -1,0 +1,7 @@
+{
+    "summary": "Checking grammatical correctness of a statement.",
+    "category": "Grammar Error Detection",
+    "domain": "Books, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

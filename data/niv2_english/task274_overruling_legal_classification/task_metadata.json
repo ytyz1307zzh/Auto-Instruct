@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence, classify it into overruling or non-overruling.",
+    "category": "Text Categorization",
+    "domain": "Law",
+    "input_lang": "English",
+    "output_lang": "English"
+}

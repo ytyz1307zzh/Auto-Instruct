@@ -1,0 +1,7 @@
+{
+    "summary": "Generate an SQL statement from a question asking for certain data.",
+    "category": "Text to Code",
+    "domain": "Code -> Language -> SQL",
+    "input_lang": "English",
+    "output_lang": "English"
+}

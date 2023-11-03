@@ -1,0 +1,7 @@
+{
+    "summary": "Given a premise, generate hypothesis",
+    "category": "Sentence Composition",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

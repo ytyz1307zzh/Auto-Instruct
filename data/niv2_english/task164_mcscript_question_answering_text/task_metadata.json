@@ -1,0 +1,7 @@
+{
+    "summary": "Given a passage and question, select the best answer from the given choices.",
+    "category": "Question Answering",
+    "domain": "Narrative -> Everyday Events",
+    "input_lang": "English",
+    "output_lang": "English"
+}

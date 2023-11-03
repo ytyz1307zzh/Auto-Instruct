@@ -1,0 +1,7 @@
+{
+    "summary": "Given a collection of concepts, use them in a coherent sentence.",
+    "category": "Data to Text",
+    "domain": "Captions -> Image Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

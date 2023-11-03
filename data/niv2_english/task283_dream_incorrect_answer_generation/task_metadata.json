@@ -1,0 +1,7 @@
+{
+    "summary": "Given a conversation and a question, write an incorrect answer to the question.",
+    "category": "Wrong Candidate Generation",
+    "domain": "Dialogue, Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

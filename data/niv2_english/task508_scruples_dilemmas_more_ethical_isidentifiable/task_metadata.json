@@ -1,0 +1,7 @@
+{
+    "summary": "Given a pair of action statements, can you conclusively identify which statement is less ethical or not ?",
+    "category": "Ethics Classification",
+    "domain": "Story, Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

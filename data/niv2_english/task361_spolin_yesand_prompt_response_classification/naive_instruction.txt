@@ -1,0 +1,1 @@
+Given a prompt and a response, classify whether the response is "yes, ands" type

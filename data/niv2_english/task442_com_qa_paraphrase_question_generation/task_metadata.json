@@ -1,0 +1,7 @@
+{
+    "summary": "Generating paraphrases of com_qa questions",
+    "category": "Question Rewriting",
+    "domain": "Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

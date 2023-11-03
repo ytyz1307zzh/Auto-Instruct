@@ -1,0 +1,1 @@
+Generating a sentence from a given word

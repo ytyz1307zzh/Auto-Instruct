@@ -1,0 +1,204 @@
+{"id": "task1601-4820011d4b744a2297ae9d5dc8d115de", "input": "concept: Elvis Presley  question:  who did elvis presley really love?", "target": "['Ginger Alden']"}
+{"id": "task1601-f2c888b320194f219df4bdfd84e8bf4d", "input": "concept: Pennsylvania  question:  what is pennsylvania's state flower called?", "target": "['Kalmia latifolia']"}
+{"id": "task1601-a6d122574ad445ad9577f962a1e219e4", "input": "concept: Mauritius  question:  what currency should i take to mauritius?", "target": "['Mauritian rupee']"}
+{"id": "task1601-2e89b55df0d8418ab275d6fadedebf4e", "input": "concept: Florida  question:  what kind of fish do you catch in florida?", "target": "['Largemouth bass']"}
+{"id": "task1601-882c71dc6f814d4eba20f5ed83812b0a", "input": "concept: Chicago Cubs  question:  what year was the cubs last world series?", "target": "['1908 World Series']"}
+{"id": "task1601-6ba715fe880443e281e4661123e6ce89", "input": "concept: Davenport  question:  what is zip code for davenport iowa?", "target": "['52801']"}
+{"id": "task1601-a63ab00ffd6143c58d3c8c8451377034", "input": "concept: John F Kennedy  question:  where was kennedy when he got shot?", "target": "['Dallas']"}
+{"id": "task1601-c82b8b0ebe894283aa1b6dd389db39c2", "input": "concept: Toronto  question:  what state toronto located?", "target": "['Ontario']"}
+{"id": "task1601-e5f8bade67e04101a031ce33ce915ffe", "input": "concept: Marilyn Monroe  question:  what was marilyn monroe known for?", "target": "['Singer', 'Nude Glamour Model', 'Film Producer', 'Actor', 'Showgirl', 'Model', 'Pin-up girl']"}
+{"id": "task1601-da62a6de6dd34213acd7c1969c56e5d3", "input": "concept: Rich Rodriguez  question:  where did rich rodriguez get fired?", "target": "['Michigan Wolverines football']"}
+{"id": "task1601-052d6840b70944faa3a5b9bcd89aecba", "input": "concept: Toronto  question:  what state is toronto in?", "target": "['Ontario']"}
+{"id": "task1601-ddc0da06814443209bb744aa092c9dfc", "input": "concept: Mark Sanchez  question:  who does mark sanchez play for?", "target": "['New York Jets']"}
+{"id": "task1601-0be874666d80443dab0d23174465013d", "input": "concept: Pixar  question:  who started pixar?", "target": "['Edwin Catmull', 'Steve Jobs']"}
+{"id": "task1601-1e20645537f348489ed441461c154f2f", "input": "concept: Eli Whitney  question:  what did eli whitney invented?", "target": "['Interchangeable parts', 'Cotton gin', 'Milling']"}
+{"id": "task1601-6d79c2257a0d49e7b743b8ddfd10620f", "input": "concept: United States  question:  what kind of government does the united states have today?", "target": "['Presidential system', 'Federal republic', 'Representative democracy', 'Two-party system', 'Constitutional republic', 'Republic']"}
+{"id": "task1601-c8472bdec44a447098bb1209b4cbb6f3", "input": "concept: Marilyn Monroe  question:  who was marilyn monroe's parents?", "target": "['Charles Stanley Gifford', 'Martin Edward Mortensen', 'Gladys Pearl Baker']"}
+{"id": "task1601-9b89a680520f44a4a294151021e390c0", "input": "concept: Guyana  question:  what does guyana speak?", "target": "['English Language']"}
+{"id": "task1601-c0abae6d7eed4fa4897a9c8ba2989c54", "input": "concept: Nina Dobrev  question:  who is nina dobrev playing in perks of being a wallflower?", "target": "['Candace']"}
+{"id": "task1601-e7db0c114abe4fecbc6dd7e32cf60714", "input": "concept: Martin Luther King Jr  question:  what degree did martin luther king get?", "target": "['Bachelor of Divinity', 'Bachelor of Arts', 'PhD']"}
+{"id": "task1601-cfc4ac2d809d443d8592934acaaa81d4", "input": "concept: United States  question:  what form of government do we have in the usa?", "target": "['Presidential system', 'Federal republic', 'Representative democracy', 'Two-party system', 'Constitutional republic', 'Republic']"}
+{"id": "task1601-b4b23a4fba874e11bddec147ce7d7115", "input": "concept: Scottish  question:  what languages do scottish people speak?", "target": "['Scottish Gaelic language', 'Scots Language', 'English Language', 'Scottish English']"}
+{"id": "task1601-6361be5695d1465db66161dd8568c2d9", "input": "concept: Wentworth Miller  question:  what is wentworth miller in?", "target": "['Prison Break']"}
+{"id": "task1601-dc22a22f2eb44e02bc4fb8c4c882ea32", "input": "concept: Afghanistan  question:  what going on in afghanistan right now?", "target": "['Conflict in Afghanistan']"}
+{"id": "task1601-18400c01eb724671909590e79cbfb80d", "input": "concept: United States  question:  what products are made in the usa?", "target": "['Pharmaceutical Preparations', 'Food', 'Industrial Organic Chemicals, NEC', 'Automobile']"}
+{"id": "task1601-229eb3b486584de89a3501fe67233c7a", "input": "concept: Calabria  question:  what is calabria italy?", "target": "['Italian region']"}
+{"id": "task1601-4b06f45386f44f39874435f34dfc9d4f", "input": "concept: St Johns Florida  question:  where is port st johns florida?", "target": "['Florida']"}
+{"id": "task1601-b8cdf47bdeab43268da37335aff239d6", "input": "concept: Ronald Reagan  question:  what was reagan before president?", "target": "['Governor of California']"}
+{"id": "task1601-bba20050d72c47f1ae4efe0f6744c36f", "input": "concept: Whitney Houston  question:  what did whitney houston die of?", "target": "['Drowning', 'Coronary artery disease', 'Cocaine overdose']"}
+{"id": "task1601-f1fb8353aaaa4847bd3b94cbfbca226b", "input": "concept: Carrie Underwood  question:  where did carrie underwood live?", "target": "['Checotah']"}
+{"id": "task1601-d1effb2bc62040fe9ddd4bb073ac09c9", "input": "concept: Tasmania  question:  where do tasmanian devils live?", "target": "['In Tasmania']"}
+{"id": "task1601-c04cccebece54484abe5711d38831ee5", "input": "concept: Arizona Cardinals  question:  what stadium did the chicago cardinals play in?", "target": "['University of Phoenix Stadium']"}
+{"id": "task1601-7a20cac0b3ff490e8097adb2a454bf12", "input": "concept: Mr Blackwell  question:  who is blackwell?", "target": "['Critic', 'Journalist', 'Actor', 'Fashion Designer']"}
+{"id": "task1601-46b42a0f3b2f41599eb9088afba39740", "input": "concept: Barack Obama  question:  what does obama have a degree in?", "target": "['Political Science']"}
+{"id": "task1601-12d1c46b76114dd0b8d37ee77f521967", "input": "concept: Camille Donatacci  question:  what did camille grammer do for a living?", "target": "['Film Producer', 'Model', 'Actor']"}
+{"id": "task1601-e85263351ddc4facb349dcbac68d10c1", "input": "concept: Benjamin Franklin  question:  where was ben franklin born?", "target": "['Boston']"}
+{"id": "task1601-e02ed0d40c164e94bc9e0c06b5dbb5a7", "input": "concept: Murray Kentucky  question:  where is murray kentucky?", "target": "['United States of America', 'Calloway County', 'Kentucky']"}
+{"id": "task1601-29b8cb7050864067bc389889b72682d4", "input": "concept: Urbana  question:  where can i register to vote in urbana il?", "target": "['Champaign County']"}
+{"id": "task1601-6acb79c8f83b4797bb126e4094bca621", "input": "concept: Patrick Henry  question:  where did patrick henry live?", "target": "['Virginia']"}
+{"id": "task1601-437f2d5b7a664610ba07ec8475eab294", "input": "concept: Mount Vernon Texas  question:  where is mount vernon texas?", "target": "['Franklin County', 'Texas']"}
+{"id": "task1601-f0cf7cd436834326bf724268031290a6", "input": "concept: Alan Thicke  question:  what theme songs did alan thicke wrote?", "target": "[\"It Takes Diff'rent Strokes\"]"}
+{"id": "task1601-817d0e9c2d944b40b650782f847a93bf", "input": "concept: Geneva  question:  when is the next geneva motor show?", "target": "['March']"}
+{"id": "task1601-c8c9c62ebbd6486a8ec488bc8fdcf4d8", "input": "concept: Robin Gibb  question:  what did robin gibb died from?", "target": "['Pneumonia', 'Liver cancer', 'Colorectal cancer']"}
+{"id": "task1601-961ef2e2651e4d6baf136555e49be152", "input": "concept: Kate Winslet  question:  what did kate winslet get an oscar for?", "target": "['The Reader']"}
+{"id": "task1601-20d7aaf44722486690f8b8aed7a3a669", "input": "concept: Mount St Helens  question:  where is mount st helens?", "target": "['Skamania County', 'Washington']"}
+{"id": "task1601-3a9599ce456843d89832c4a429b5981f", "input": "concept: Jason Priestley  question:  what season did jason priestley leave 90210?", "target": "['Beverly Hills, 90210 - Season 9']"}
+{"id": "task1601-a4a55bdcacd44af48a9c1261fe662de0", "input": "concept: Portuguese  question:  where does portuguese language come from?", "target": "['Latin alphabet']"}
+{"id": "task1601-322d6419091a4f718aaf3f2af9f75102", "input": "concept: Lincoln Steffens  question:  who is lincoln steffens?", "target": "['Journalist']"}
+{"id": "task1601-c952f23793964d8ea3efbbb2a3acf68f", "input": "concept: Rudolf Virchow  question:  who was rudolf virchow?", "target": "['Physician', 'Scientist', 'Politician', 'Pathologist']"}
+{"id": "task1601-7cddc1149f0f48a5b07674d494a2ef6c", "input": "concept: Samuel De Champlain  question:  what was samuel de champlain searching for?", "target": "[\"Champlain's Dream: The European Founding of North America\"]"}
+{"id": "task1601-617ab28dac2a4851b7a8e8d180e403f8", "input": "concept: Albert Einstein  question:  what makes einstein smart?", "target": "['Mathematics and Physics']"}
+{"id": "task1601-e63b4850ca3d40e69f73f7d194250e52", "input": "concept: David Carr  question:  who does david carr play for?", "target": "['San Francisco 49ers', 'Carolina Panthers', 'New York Giants', 'Houston Texans', 'Fresno State Bulldogs football']"}
+{"id": "task1601-e7548bb0b55f4a789fbfbf531762925b", "input": "concept: Betty White  question:  who's betty white?", "target": "['Singer', 'Television Producer', 'Author', 'Actor', 'TV Personality', 'Comedian']"}
+{"id": "task1601-e1043e3ac4c44eb4bf3da187f95e230f", "input": "concept: Guatemala  question:  what is the money currency in guatemala?", "target": "['Guatemalan quetzal']"}
+{"id": "task1601-2cf32d3895cc4329b7df81185d6480ed", "input": "concept: Soviet Union  question:  what was the soviet union?", "target": "['Soviet democracy', 'Single-party state', 'Communist state', 'Socialist state']"}
+{"id": "task1601-68dd3ac2d3ae4a8b9d1733522766df9f", "input": "concept: Jack Kevorkian  question:  what did doctor kevorkian do?", "target": "['Physician', 'Pathologist']"}
+{"id": "task1601-78c10095d93a4903a85baa4417a98818", "input": "concept: Medicare  question:  what is medicare a?", "target": "['Centers for Medicare and Medicaid Services']"}
+{"id": "task1601-9445cee46221418a96aacc7a004c2237", "input": "concept: European Union  question:  where is eu parliament?", "target": "['Brussels']"}
+{"id": "task1601-c4d2b8efc7784853a6898ad2ef5be278", "input": "concept: Malcolm X  question:  what was malcolm x trying to accomplish?", "target": "[\"African Americans' rights\", 'Black Liberation']"}
+{"id": "task1601-a19f4c6cb14640958f6dd6842a8e6a3d", "input": "concept: Woodrow Wilson  question:  what was woodrow wilson's major accomplishments?", "target": "['United States Secretary of Agriculture', 'Governor of New Jersey', 'President of the United States']"}
+{"id": "task1601-0c6babf14d424d3e81c6f59370f2202d", "input": "concept: Murray River  question:  which ocean does the murray river flow into?", "target": "['Southern Ocean']"}
+{"id": "task1601-75fcbd5ade1d428fbacf135dc28c0539", "input": "concept: Didier Drogba  question:  what team does drogba play for 2013?", "target": "['Galatasaray S.K.']"}
+{"id": "task1601-2a88cdf80f494e80861b1e400952d9d8", "input": "concept: Everglades  question:  what kind of biome is the everglades?", "target": "['Wetland']"}
+{"id": "task1601-b469fa35ea314874a21cae66ffa6459e", "input": "concept: Elle Greenaway  question:  who played elle greenaway?", "target": "['Lola Glaudini']"}
+{"id": "task1601-aec92efb1b0148279af29e7fab462d2c", "input": "concept: Cuba  question:  where did the cuban missile crisis happen?", "target": "['Cuba Island']"}
+{"id": "task1601-a0655ee07d9244c59c4b00e6834f4070", "input": "concept: Elizabeth Ann Seton  question:  where was st elizabeth ann seton born?", "target": "['New York City']"}
+{"id": "task1601-5f55476e694d407a887b91534cfd40da", "input": "concept: Emily Dickinson  question:  what did emily dickinson die of?", "target": "[\"Bright's disease\"]"}
+{"id": "task1601-fe376e3a487e43b8a3f2f5f846daa491", "input": "concept: Independence Center  question:  what time does independence center open on sundays?", "target": "['Independence']"}
+{"id": "task1601-183c62c8b63c4feb8f903e00524f2f51", "input": "concept: Joe Montana  question:  where did joe montana go to high school?", "target": "['Ringgold High School']"}
+{"id": "task1601-b5a63255ff2b4b1db46a5d8e4563bfbd", "input": "concept: Michelangelo  question:  where is the sistine chapel by michelangelo?", "target": "['Rome']"}
+{"id": "task1601-4e91e903808d42879791fc9ebe785b89", "input": "concept: Florida  question:  where is the time zone in florida?", "target": "['North American Eastern Time Zone']"}
+{"id": "task1601-b5adc49f0292463fa97059f92790eda5", "input": "concept: Paul Wesley  question:  who does paul wesley play in 24?", "target": "['Stephen']"}
+{"id": "task1601-a14c05164617449d803d11e3be83f403", "input": "concept: Simba  question:  who was the voice of simba?", "target": "['Matthew Broderick']"}
+{"id": "task1601-71b31474f9c14498b0a72d1f577e8c22", "input": "concept: Mount Whitney  question:  where is mount whitney?", "target": "['Sierra Nevada', 'California']"}
+{"id": "task1601-02ae4b175633404b9e09e543e4c57417", "input": "concept: Corey Feldman  question:  who did corey feldman married?", "target": "['Susie Feldman']"}
+{"id": "task1601-b001ab525dd94d609bf8b55b43e3eb35", "input": "concept: Jamaica  question:  what kind of currency does jamaica use?", "target": "['Jamaican dollar']"}
+{"id": "task1601-e7646b072d494a0f9ae5f8f2b80e244b", "input": "concept: River Shannon  question:  where does the shannon river end?", "target": "['Shannon Estuary']"}
+{"id": "task1601-dababb31b68c47a1987fdebaf3099701", "input": "concept: Pixie Lott  question:  where did pixie lott go to school?", "target": "['Italia Conti Academy of Theatre Arts']"}
+{"id": "task1601-a729e5327f0942d29961b68d0304c641", "input": "concept: San Francisco  question:  where to stay in san francisco ca?", "target": "['Palace Hotel, San Francisco']"}
+{"id": "task1601-3a649065f3d14991be45647b3589089a", "input": "concept: Asia  question:  what caused the asian currency crisis?", "target": "['Asian Affairs']"}
+{"id": "task1601-994094b377134426aaef4b45011969a2", "input": "concept: United Kingdom  question:  what is the actual current local time now in uk?", "target": "['Greenwich Mean Time', 'UTC\u00b100:00']"}
+{"id": "task1601-e3d089d0bd2e4f62ba8226936adb2d65", "input": "concept: Donald Trump  question:  what does donald trump own?", "target": "['Trump Tower', 'The Trump Organization', 'Trump Entertainment Resorts']"}
+{"id": "task1601-9cef09b578744de3a759a10fd931882c", "input": "concept: Paul Rudd  question:  where did paul rudd go to high school?", "target": "['Shawnee Mission West High School']"}
+{"id": "task1601-48c2e3483a5c4c2eb98b25df88859e0a", "input": "concept: Supreme Court Of The United States  question:  what is the jurisdiction of the us supreme court?", "target": "['United States of America']"}
+{"id": "task1601-2ca8d60cffd646fb9f91a986b78a2cc9", "input": "concept: Lance Armstrong  question:  where was lance armstrong born and in what year?", "target": "['9/18/1971']"}
+{"id": "task1601-e718d8f5ea144a0f835db5dac2439ef9", "input": "concept: Irving Langmuir  question:  what was irving langmuir famous for?", "target": "['Franklin Medal', 'Perkin Medal', 'Nobel Prize in Chemistry', 'John Scott Legacy Medal and Premium']"}
+{"id": "task1601-9cf43e7b6c92434abb30def39b849e1c", "input": "concept: Raj Kundra  question:  what business does raj kundra do?", "target": "['Entrepreneur', 'Businessperson', 'Film Producer']"}
+{"id": "task1601-b0c6b08dfa314318b803593c915ab68e", "input": "concept: Bacardi  question:  what kind of alcohol is bacardi silver?", "target": "['Bacardi rum']"}
+{"id": "task1601-ef49fbe25029424db8c17ef69835efda", "input": "concept: Soviet Union  question:  what type of government does the former soviet union have?", "target": "['Communist state']"}
+{"id": "task1601-333621d9430c41c8aebd3d9e889694e5", "input": "concept: Rome  question:  where do cruises leave from in rome?", "target": "['Civitavecchia Ferry Terminal']"}
+{"id": "task1601-fa76a1ebaa1746fabf9c0eea4f9501d1", "input": "concept: Stanley Cup  question:  when did kings last win stanley cup?", "target": "['2012 Stanley Cup Finals']"}
+{"id": "task1601-3b670acfa8b9402fa72c206a31f3c44f", "input": "concept: Martin Luther  question:  what did martin luther do?", "target": "['Physician', 'Theologian', 'Professor', 'Writer', 'Monk', 'Priest']"}
+{"id": "task1601-fc86a88289c4419f9d61b73d566d8222", "input": "concept: Jerry Sandusky  question:  what did jerry sandusky do to the children?", "target": "['Involuntary deviate sexual intercourse', 'Indecent assault']"}
+{"id": "task1601-9444240d12254f4d886fb85096d49771", "input": "concept: Joseph P Kennedy Sr  question:  where was joseph p kennedy born?", "target": "['Boston']"}
+{"id": "task1601-886df52cdfb1401f8f58992e5ede3ea7", "input": "concept: North Atlantic Treaty Organization  question:  what countries are part of nato?", "target": "['Netherlands', 'Poland', 'United States of America', 'United Kingdom', 'Germany', 'Bulgaria']"}
+{"id": "task1601-f68c7b7682704b5786e5c46f198f7e74", "input": "concept: Pepsi Center  question:  where is the pepsi center?", "target": "['Denver']"}
+{"id": "task1601-64830cb95a8c4184a040ee86cd545882", "input": "concept: Luke Air Force Base  question:  where is luke afb arizona?", "target": "['Glendale']"}
+{"id": "task1601-4e407f426e314dec8eb3a3be1499bd98", "input": "concept: Sweden  question:  what is the currency of sweden called?", "target": "['Swedish krona']"}
+{"id": "task1601-4a784df0423a454cbaecede614c74bcb", "input": "concept: Aaron Rodgers  question:  what year did aaron rodgers get drafted?", "target": "['2005 NFL Draft']"}
+{"id": "task1601-c34e8bbc7ce2458aacc073ec1f6578fb", "input": "concept: Phil Harris  question:  who was phil harris married to?", "target": "['Marcia Ralston', 'Alice Faye']"}
+{"id": "task1601-672f79d294554eb1b8c51ad7662e8518", "input": "concept: Charles Darwin  question:  what did darwin propose as the mechanism of evolution?", "target": "['\"\"It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.\"\"']"}
+{"id": "task1601-26ddac1760c34a1b9a73171f580b04d3", "input": "concept: Battle Of Chancellorsville  question:  where did chancellorsville battle take place?", "target": "['Spotsylvania County']"}
+{"id": "task1601-32375d728746445c8b86a4c188c619b7", "input": "concept: Barack Obama  question:  what did barack obama do before he took office?", "target": "['Illinois State Senator']"}
+{"id": "task1601-039a694a3d8b4c02a910804ae2d16bc7", "input": "concept: Vincent De Paul  question:  where is st vincent de paul buried?", "target": "['Paris']"}
+{"id": "task1601-2719359df1a04f14972f46508a1e1d09", "input": "concept: Tom Brady  question:  what highschool did tom brady go to?", "target": "['Jun\u00edpero Serra High School']"}
+{"id": "task1601-d311cc71135b4b3aa9c42499cc2f7b50", "input": "concept: Samantha Jade  question:  who is samantha gibb?", "target": "['Singer']"}
+{"id": "task1601-0f58e492dddc47168c3627a6cd7ca115", "input": "concept: Nigeria  question:  what system of government does nigeria have?", "target": "['Presidential system', 'Federal republic', 'Federation']"}
+{"id": "task1601-91236acb090d49d09e22798e5eea33c8", "input": "concept: Washington Redskins  question:  what was the first name of the washington redskins?", "target": "['Boston Redskins']"}
+{"id": "task1601-42bdae9b68964bbaa68d33066c18a5a8", "input": "concept: Gerald Ford  question:  what did gerald ford do?", "target": "['President of the United States']"}
+{"id": "task1601-6f8d5507d99c44b486a2f87427d06f01", "input": "concept: Howie Long  question:  who did howie long married?", "target": "['Diane Addonizio']"}
+{"id": "task1601-6a7fbbff6cae46deabc9e7d8f737e9cd", "input": "concept: Arthur Conan Doyle  question:  who influenced arthur conan doyle?", "target": "['Robert Louis Stevenson', 'Edgar Allan Poe', 'Joseph Bell', 'Jules Verne', 'Walter Scott', 'Ibn-e-Safi']"}
+{"id": "task1601-83bf70346d384e2cace2c51ad66cb336", "input": "concept: United States  question:  what are major exports of the usa?", "target": "['Pharmaceutical Preparations', 'Food', 'Industrial Organic Chemicals, NEC', 'Automobile']"}
+{"id": "task1601-fc57ee62beb54a2abcc0628541066d4a", "input": "concept: Diocletian  question:  who was emperor diocletian?", "target": "['Roman emperor']"}
+{"id": "task1601-bf68e66aed754ad08cf93549c0a5ba54", "input": "concept: George W Bush  question:  what did george w bush do before becoming president?", "target": "['Governor of Texas']"}
+{"id": "task1601-1eca8d9978dc4a6aa6a52add155fd008", "input": "concept: England  question:  what is the political system in england?", "target": "['Constitutional monarchy']"}
+{"id": "task1601-7c00f3cd88034231b23d5404f84c7de4", "input": "concept: Karl Marx  question:  what was karl marx beliefs?", "target": "['Marxism']"}
+{"id": "task1601-37616f7b0c624be1b267130351d1a00a", "input": "concept: Anne Hathaway  question:  where was anne hathaway born?", "target": "['United States of America']"}
+{"id": "task1601-dcc3a20007a14f06be2e7187d21fc45c", "input": "concept: Jensen Ackles  question:  who is jensen ackles in a relationship with?", "target": "['Danneel Ackles']"}
+{"id": "task1601-8ff8e0f281014881b34f7eb243569535", "input": "concept: Costa Rica  question:  what kind of money do you use in costa rica?", "target": "['Costa Rican col\u00f3n']"}
+{"id": "task1601-cf473b2138de421faa7fdc61efa596a2", "input": "concept: Benjamin Franklin  question:  what famous book did benjamin franklin wrote?", "target": "[\"Poor Richard's Almanac of 1739\", \"Poor Richard's Almanac of 1758\"]"}
+{"id": "task1601-25e4d7b505d94579a67981f1de431bff", "input": "concept: Charles Prince Of Wales  question:  what was prince charles last name?", "target": "['Mountbatten-Windsor']"}
+{"id": "task1601-ba7fa905488e4d238da10b2e55e999a0", "input": "concept: Senegal  question:  what currency does senegal use?", "target": "['West African CFA franc']"}
+{"id": "task1601-b989b2ca061a4cf688675700542701ea", "input": "concept: Lionel Messi  question:  who does messi play with?", "target": "['FC Barcelona']"}
+{"id": "task1601-46eeaf08212041369b44a20a90feb407", "input": "concept: George V Of The United Kingdom  question:  who was king george v father?", "target": "['Edward VII']"}
+{"id": "task1601-c11ed5b0866641eab66754b98308e3b3", "input": "concept: Egypt  question:  what is the political system in egypt?", "target": "['Semi-presidential system', 'Constitutional republic', 'Republic', 'Unitary state']"}
+{"id": "task1601-04b3ee3675634de497f6d901b9114d13", "input": "concept: Tupac Shakur  question:  where was tupac born?", "target": "['East Harlem']"}
+{"id": "task1601-c3805e33efb8442db754d04bdd068bef", "input": "concept: Barack Obama  question:  what country is barack obama from?", "target": "['United States of America']"}
+{"id": "task1601-4234ba34717d41c699f2e03d0458c572", "input": "concept: Zambezi  question:  where does the zambezi river end?", "target": "['Indian Ocean']"}
+{"id": "task1601-d2f5b2d386094b8e85c021be1ebf1bbc", "input": "concept: Johnny Depp  question:  where is johnny depp from?", "target": "['Owensboro']"}
+{"id": "task1601-9170ca06b80642e6b7354744b04b0ce7", "input": "concept: Dmitri Mendeleev  question:  where did dmitri mendeleev study science?", "target": "['Saint Petersburg State University', 'Ruprecht Karl University of Heidelberg']"}
+{"id": "task1601-22311f1b0b3640d3bce3ee1d20a35672", "input": "concept: Eli Whitney  question:  what was eli whitney education?", "target": "['Yale University', 'Yale College']"}
+{"id": "task1601-774e5f4f601f4f68879f2a41e1a1559f", "input": "concept: Caylee Anthony Homicide  question:  where did the casey anthony case take place?", "target": "['Orlando']"}
+{"id": "task1601-68ff7335b57a45a59aa688dabc91ea33", "input": "concept: Mitt Romney  question:  what year did mitt romney first run for president?", "target": "['Mitt Romney presidential campaign, 2008']"}
+{"id": "task1601-1ba0acd4df2748d2832999bdcdf870d2", "input": "concept: Spain  question:  what is the government of spain today?", "target": "['Constitutional monarchy']"}
+{"id": "task1601-93236c403b694f19b9732103effd1198", "input": "concept: Ivan Pavlov  question:  what did ivan pavlov invented?", "target": "['Classical conditioning']"}
+{"id": "task1601-bbd72577917c4b7c946c9df54eace33f", "input": "concept: Argentina  question:  what language do argentina use?", "target": "['Yiddish Language', 'Italian Language', 'Spanish Language']"}
+{"id": "task1601-9ff4fcf6e01140e6a186ca4844f7eaba", "input": "concept: Ronald Reagan  question:  where did reagan die?", "target": "['Bel-Air']"}
+{"id": "task1601-2156ab799b7140ed8f0065562f7f46e5", "input": "concept: Jack Daniel  question:  where is jack daniel buried?", "target": "['Lynchburg']"}
+{"id": "task1601-326677820c4e47dca4371900b1e42404", "input": "concept: Latin  question:  where the latin language come from?", "target": "['Italic languages', 'Indo-European languages']"}
+{"id": "task1601-7a48485851114979a0efea4641f85a18", "input": "concept: Arlington Texas  question:  what is arlington texas zip code?", "target": "['76013', '76011', '76010', '76004', '76005', '76006', '76007', '76001', '76002', '76003']"}
+{"id": "task1601-ce10ac729d3f42319bebba89bae28491", "input": "concept: Miami Heat  question:  what year did miami heat win the championship?", "target": "['2012 NBA Finals', '2006 NBA Finals']"}
+{"id": "task1601-2a1cff0f6d8e4af6a60f9e025ef2dc34", "input": "concept: China  question:  what is the official language of china called?", "target": "['Standard Mandarin']"}
+{"id": "task1601-9faf26b5ef7045c392adf8905a9a848c", "input": "concept: Jane Goodall  question:  where did jane goodall go to school?", "target": "['University of Cambridge']"}
+{"id": "task1601-c50b7201faca4f4a88409fd172f19e04", "input": "concept: Mission San Gabriel Arcangel  question:  where was san gabriel arcangel located?", "target": "['San Gabriel', 'California']"}
+{"id": "task1601-85c7857d75314584b26664727f447f9c", "input": "concept: Ukraine  question:  what money is used in ukraine?", "target": "['Ukrainian hryvnia']"}
+{"id": "task1601-6ca8ec5694bb475d933d257eafe31746", "input": "concept: New York Mets  question:  when did the mets win the pennant?", "target": "['1969 World Series', '1986 World Series']"}
+{"id": "task1601-ab5d24520cc248ed917ef98817176421", "input": "concept: Khartoum  question:  where are you if you're in khartoum?", "target": "['Sudan']"}
+{"id": "task1601-57511d6328284099acd318ad794c4219", "input": "concept: Britney Spears  question:  who has britney spears married?", "target": "['Jason Allen Alexander', 'Kevin Federline']"}
+{"id": "task1601-c3f767dc360b4b88915b54f685be7220", "input": "concept: Mexico  question:  what currency do mexico use?", "target": "['Mexican peso']"}
+{"id": "task1601-83a02e5514954c45983419778272d1dc", "input": "concept: Lebron James  question:  where did lebron james go to highschool?", "target": "['St. Vincent \u2013 St. Mary High School']"}
+{"id": "task1601-a399dd46311546edb1a8dfc3e149fa46", "input": "concept: Japan  question:  what money do japanese use?", "target": "['Japanese yen']"}
+{"id": "task1601-085b9e32c0184c10b15b4ef3dba548bb", "input": "concept: James Cook  question:  which country did james cook sailed for?", "target": "['Kingdom of Great Britain']"}
+{"id": "task1601-0222df3f11114b36a685c1a9590fc975", "input": "concept: Sam Bradford  question:  where does sam bradford play?", "target": "['St. Louis Rams']"}
+{"id": "task1601-71a4f152dfb14c24bb8c0103a29d7897", "input": "concept: John Boehner  question:  where did john boehner come from?", "target": "['Ohio']"}
+{"id": "task1601-1309764db93e4535885e651c00683443", "input": "concept: Philippines  question:  what kind of money do the philippines use?", "target": "['Philippine peso']"}
+{"id": "task1601-b15b12238e574959adc06195570412c2", "input": "concept: George Washington  question:  what war was george washington associated with?", "target": "['American Revolutionary War']"}
+{"id": "task1601-599b100a3b01467cb828fca3068ffb34", "input": "concept: Jack Skellington  question:  who the voice of jack skellington?", "target": "['Danny Elfman', 'Chris Sarandon']"}
+{"id": "task1601-f431349ce73e451bb69204b95cd51d47", "input": "concept: Paul Ryan  question:  where did paul ryan attend college?", "target": "['Miami University']"}
+{"id": "task1601-6026a963f4f54cf499d4cd2b2d7aad8f", "input": "concept: Angola  question:  where is angola located?", "target": "['Africa']"}
+{"id": "task1601-05ce7dc711c84b509d533ea289ef29e9", "input": "concept: Robin Roberts  question:  what is wrong with robin roberts?", "target": "['Breast cancer', 'Myelodysplastic syndrome']"}
+{"id": "task1601-580b27e27b42465c927f76b2931688dd", "input": "concept: Islam  question:  who does the islam worship?", "target": "['Allah']"}
+{"id": "task1601-17171940f8d245bdb02810b8c86fdbe8", "input": "concept: United Kingdom  question:  what is the time zone in uk now?", "target": "['Greenwich Mean Time', 'UTC\u00b100:00']"}
+{"id": "task1601-a8ceba1baa384149b239d72c49fd39c1", "input": "concept: Christopher Columbus  question:  what country columbus was born?", "target": "['Genoa']"}
+{"id": "task1601-dc593575736045a1a1003a9c9e9a5ee7", "input": "concept: Jamaica  question:  what currency should i take to jamaica?", "target": "['Jamaican dollar']"}
+{"id": "task1601-c1736868cc60492bae4edc31031ed7fc", "input": "concept: Russia  question:  what political system does russia use?", "target": "['Constitutional republic']"}
+{"id": "task1601-00020c98876e407c8dc06dae4a3911de", "input": "concept: Antonio Vivaldi  question:  who inspired antonio vivaldi?", "target": "['Johann Sebastian Bach']"}
+{"id": "task1601-29a0ecd7997c4ff5a011bebbe5706f0e", "input": "concept: Marco Rubio  question:  where did marco rubio go to college?", "target": "['Santa Fe College', 'University of Miami', 'University of Florida', 'Tarkio College, Missouri', 'South Miami High School', 'University of Miami School of Law']"}
+{"id": "task1601-6852626f52d644b19bc7192b39562b31", "input": "concept: Thailand  question:  what currency does thailand accept?", "target": "['Thai baht']"}
+{"id": "task1601-99ed8da93c0341d7a8d57a9f243b7b7a", "input": "concept: Libya  question:  when was the civil war in libya?", "target": "['2011']"}
+{"id": "task1601-2b29971f92564341817bd67c397964a4", "input": "concept: Matt Damon  question:  who does matt damon have kids with?", "target": "['Luciana Barroso']"}
+{"id": "task1601-e9c2cffc5ed340829300d7cc60b4d24e", "input": "concept: Barcelona  question:  which airport is closest to barcelona port?", "target": "['Barcelona\u2013El Prat Airport']"}
+{"id": "task1601-a95d612478c54a5c8e2c72aa053d9abd", "input": "concept: Yuvraj Singh  question:  when did yuvraj made his odi debut?", "target": "['10/3/2000']"}
+{"id": "task1601-94de6bd601fb402ca5c9ca11ce28c5f1", "input": "concept: Peru  question:  what type of language does peru speak?", "target": "['Omagua Language', 'Spanish Language', 'Waorani Language', 'Quechua', 'Puquina Language', 'Aymara language']"}
+{"id": "task1601-44cefa2647c44f3c9ee504f161491382", "input": "concept: Mcdonalds  question:  who started up mcdonalds?", "target": "['Ray Kroc']"}
+{"id": "task1601-5dfe0c4997c5473db06e382225fa1bc5", "input": "concept: Massachusetts  question:  what is the state motto of massachusetts?", "target": "['Ense petit placidam sub libertate quietem']"}
+{"id": "task1601-839648353ba74289938b23f0a5c7e928", "input": "concept: Dr Seuss  question:  where did dr seuss go to school?", "target": "['Dartmouth College', 'University of Oxford', 'Lincoln College, Oxford']"}
+{"id": "task1601-d70f6408664a482c807a6725e19a46db", "input": "concept: South Dakota  question:  what 6 states border south dakota?", "target": "['Iowa', 'North Dakota', 'Wyoming', 'Minnesota', 'Nebraska', 'Montana']"}
+{"id": "task1601-8d05ad842b4341c3bd7083df985c265f", "input": "concept: South America  question:  what is the rainforest in south america called?", "target": "['Amazon Basin']"}
+{"id": "task1601-ac81e5bc7cef48b48d778e835351923b", "input": "concept: United States  question:  where is the warmest weather in the united states in december?", "target": "['Florida']"}
+{"id": "task1601-9af7f8afdb0d4c76a2c16804fae4ad92", "input": "concept: Greece  question:  where is the nation of greece located?", "target": "['Europe', 'Eurasia', 'Southeast Europe']"}
+{"id": "task1601-8338c955f39d40e1b1c987683446c5c7", "input": "concept: William Howard Taft  question:  where did william howard taft go to high school?", "target": "['Woodward High School']"}
+{"id": "task1601-2e743f133cfa4abc8d358a7b774e230b", "input": "concept: Egypt  question:  what is the best currency to take to egypt 2013?", "target": "['Egyptian pound']"}
+{"id": "task1601-3fc3aded04a443a1bef81eb5db142312", "input": "concept: Charlemagne  question:  who was charlemagne's wife?", "target": "['Fastrada', 'Luitgard', 'Hildegard of Savoy', 'Desiderata of the Lombards', 'Himiltrude']"}
+{"id": "task1601-62f1ed259f0e4825aaccc4a0387dfe76", "input": "concept: Mexico  question:  what type of government does mexico use?", "target": "['Federal government of Mexico']"}
+{"id": "task1601-732e9565810e46b49335b7580ab30873", "input": "concept: Marc Chagall  question:  what type of paintings did marc chagall do?", "target": "['Surrealism', 'Expressionism']"}
+{"id": "task1601-9a39f97dc42c46bfa39081eca880027a", "input": "concept: Jedi  question:  who was the first jedi master?", "target": "['Yoda']"}
+{"id": "task1601-4036b61431d944bf8392f9f92ff93408", "input": "concept: Mario Lopez  question:  who did mario lopez just marry?", "target": "['Courtney Laine Mazza']"}
+{"id": "task1601-ec384c746e5047e8b4f6b20f0e9c2156", "input": "concept: Google  question:  where did the founder of google go to college?", "target": "['Stanford University']"}
+{"id": "task1601-50cfef661ab24d8386f41416d56cd7eb", "input": "concept: Woodrow Wilson  question:  what party was woodrow wilson from?", "target": "['Democratic Party']"}
+{"id": "task1601-4e151a4c945b4b8280b90b3034c42089", "input": "concept: Vincent Van Gogh  question:  what art movement was vincent van gogh apart of?", "target": "['Post-Impressionism']"}
+{"id": "task1601-dd72a74e357442c28d4d2ce1d6a5fe9e", "input": "concept: Charles Babbage  question:  what did charles babbage create in the 1800s?", "target": "['Analytical Engine']"}
+{"id": "task1601-35dba98b75d9491cbfcf6b0093d8ed31", "input": "concept: Harry S Truman  question:  what country did truman lead?", "target": "['United States of America']"}
+{"id": "task1601-4df636b2b34d4012a36f10b045066738", "input": "concept: Roshon Fegan  question:  what is roshon fegan's heritage?", "target": "['African American']"}
+{"id": "task1601-46c0482932a745068128b50930b94e83", "input": "concept: Italy  question:  what currency do italy have?", "target": "['Euro']"}
+{"id": "task1601-427f596ddeb649bcb5cff266331a41e5", "input": "concept: Claire Bennet  question:  who plays claire in lost?", "target": "['Hayden Panettiere']"}
+{"id": "task1601-ab011b03dd504f58a20d2fd18be09b12", "input": "concept: Trans World Airlines  question:  who started twa airlines?", "target": "['Howard Hughes']"}
+{"id": "task1601-576bd5fdc76a4e639f311f87c4090faa", "input": "concept: Tom Brady  question:  when was tom brady first superbowl win?", "target": "['Super Bowl XXXVI']"}
+{"id": "task1601-00f2c1068e894259ac38dfb3ea110288", "input": "concept: San Francisco  question:  what year was the great san francisco fire?", "target": "['1906 San Francisco earthquake']"}
+{"id": "task1601-57a7476aa84640d5a7d040966e17db1d", "input": "concept: Indianapolis Colts  question:  what division did the baltimore colts play in?", "target": "['AFC South']"}
+{"id": "task1601-4637b9c53f934e5cb26e8d995aaebbb6", "input": "concept: Italy  question:  what two countries speak italian?", "target": "['Italy']"}
+{"id": "task1601-f1b638de83c941a99dc0745d11b1d0d8", "input": "concept: Milwaukee Brewers  question:  what was the milwaukee brewers old name?", "target": "['Seattle Pilots']"}
+{"id": "task1601-b4d239d17a7844f1ac8d105e1e34fe73", "input": "concept: Islam  question:  what is the name of the first prophet of islam?", "target": "['Muhammad']"}
+{"id": "task1601-40d4eb524ba045ad9db04b82e3a513ad", "input": "concept: Chile  question:  what kind of money does chile use?", "target": "['Chilean peso']"}
+{"id": "task1601-f4b604716290468db5b8b9b0e56a15d1", "input": "concept: Jamaica  question:  what is the dominant language of jamaica?", "target": "['Jamaican English']"}
+{"id": "task1601-d5673cf44a3541248473141298ac7be1", "input": "concept: Toronto Maple Leafs  question:  when was the last time the toronto maple leafs make the playoffs?", "target": "['1967 Stanley Cup Finals']"}

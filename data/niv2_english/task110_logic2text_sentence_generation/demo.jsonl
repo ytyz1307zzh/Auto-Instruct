@@ -1,0 +1,3 @@
+{"id": "task110-7d1e0599f4174bcba84615b7fecc50c8", "input": "most_eq { all_rows ; vacator ; d } = true", "target": "for the vacator records of all rows , most of them fuzzily match to d ."}
+{"id": "task110-6c459da2bf2641d882d004d2105819fa", "input": "eq { hop { argmax { all_rows ; total } ; nbr class } ; 396 } = true", "target": "select the row whose total record of all rows is maximum . the nbr class record of this row is 396 ."}
+{"id": "task110-ed33826163564c49b7dd3bf069eadc5e", "input": "eq { hop { nth_argmin { all_rows ; date ; 2 } ; venue } ; bahrain national stadium , manama } = true", "target": "select the row whose date record of all rows is 2nd minimum . the venue record of this row is bahrain national stadium , manama ."}

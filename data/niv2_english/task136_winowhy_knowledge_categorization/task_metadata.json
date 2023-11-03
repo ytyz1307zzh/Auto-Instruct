@@ -1,0 +1,7 @@
+{
+    "summary": "Categorize the knowledge required to answer a pronoun coreference resolution question.",
+    "category": "Commonsense Classification",
+    "domain": "Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

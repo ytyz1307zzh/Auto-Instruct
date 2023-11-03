@@ -1,0 +1,7 @@
+{
+    "summary": "Given a comment, classify whether it expresses disagreement.",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers to the questions based on the given sentence",
+    "category": "Question Answering",
+    "domain": "News, Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

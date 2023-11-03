@@ -1,0 +1,1 @@
+Given a category and a trivia clue of relatively easy difficulty, generate the best answer.

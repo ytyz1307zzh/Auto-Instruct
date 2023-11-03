@@ -1,0 +1,7 @@
+{
+    "summary": "Identifying coreferences in a given sentence and generating the set of coreference words in the sentence.",
+    "category": "Coreference Resolution",
+    "domain": "Professions, Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

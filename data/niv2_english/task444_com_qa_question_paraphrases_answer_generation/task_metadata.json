@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers for com_qa question paraphrases",
+    "category": "Question Answering",
+    "domain": "Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

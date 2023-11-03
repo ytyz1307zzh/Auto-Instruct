@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context, a pronoun, and a noun, determine if the pronoun in the context refers to the noun or not.",
+    "category": "Coreference Resolution",
+    "domain": "Fiction, Books",
+    "input_lang": "English",
+    "output_lang": "English"
+}

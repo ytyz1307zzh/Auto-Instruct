@@ -1,0 +1,7 @@
+{
+    "summary": "Writing incorrect answers options for a commonsense question.",
+    "category": "Wrong Candidate Generation",
+    "domain": "Personal Narratives",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a math problem on gain and options to choose from, find the correct option that answers the problem",
+    "category": "Question Answering",
+    "domain": "Mathematics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

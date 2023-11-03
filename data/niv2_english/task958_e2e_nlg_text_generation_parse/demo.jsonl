@@ -1,0 +1,3 @@
+{"id": "task958-77702e29e63845a484d7b9d55959da33", "input": "The Wildwood pub serves fast food at around the \u00a320 per head mark. It has low ratings.", "target": "name[Wildwood], eatType[pub], food[Fast food], priceRange[moderate], customer rating[1 out of 5]"}
+{"id": "task958-ee0f581cfed94690a99a380369d43a2e", "input": "The Mill is a riverside pub that serves cheaply priced Japanese food.", "target": "name[The Mill], eatType[pub], food[Japanese], priceRange[cheap], area[riverside]"}
+{"id": "task958-54f7cd2a36eb4b35bce1765b461a37a7", "input": "I love the food at Wildwood pub. They have the best burgers.", "target": "name[Wildwood], eatType[pub], food[Fast food], priceRange[more than \u00a330], customer rating[high]"}

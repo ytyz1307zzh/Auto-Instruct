@@ -1,0 +1,1 @@
+Given a dialogue, classify whether both participants agree to the deal

@@ -1,0 +1,1 @@
+Given a yes/no question, its answer, and additional information, decompose the question.

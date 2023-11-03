@@ -1,0 +1,1 @@
+Given a sentence and an entity, the task is to select the author's sentiment towards the enity.

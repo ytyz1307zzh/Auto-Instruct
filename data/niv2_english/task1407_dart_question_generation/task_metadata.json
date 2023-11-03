@@ -1,0 +1,7 @@
+{
+    "summary": "Generate fill-in-the-blank style questions from RDF triplets of the DART dataset",
+    "category": "Data to Text",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

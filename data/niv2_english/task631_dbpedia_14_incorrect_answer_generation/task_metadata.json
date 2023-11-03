@@ -1,0 +1,7 @@
+{
+    "summary": "Generating incorrect answers from specified categories",
+    "category": "Wrong Candidate Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

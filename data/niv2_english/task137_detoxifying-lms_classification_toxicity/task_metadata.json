@@ -1,0 +1,7 @@
+{
+    "summary": "Given a prompt and two completions, determine which completion is less toxic.",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

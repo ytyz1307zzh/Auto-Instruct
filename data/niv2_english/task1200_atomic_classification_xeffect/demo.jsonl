@@ -1,0 +1,3 @@
+{"id": "task1200-08e8d315bd624501bd6dd824ec7b8331", "input": "Head: PersonX asks PersonX's mother for help<sep>Tail: thankful", "target": "No"}
+{"id": "task1200-83bfc085661a4c0d8b07301700466e4d", "input": "Head: PersonX arrives just in time<sep>Tail: PersonX makes the train", "target": "Yes"}
+{"id": "task1200-0f883696feac4a399823c93fecdffcf7", "input": "Head: PersonX answers PersonY question<sep>Tail: like they are learning", "target": "No"}

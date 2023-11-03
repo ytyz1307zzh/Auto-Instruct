@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying gender of speaker of sentence",
+    "category": "Gender Classification",
+    "domain": "Commonsense, Dialogue, Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

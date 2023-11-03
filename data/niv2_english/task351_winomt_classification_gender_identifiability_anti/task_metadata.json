@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence and a profession, identify whether the profession's gender is identifiable. anti means the gender disagrees with the cultural stereotype of the profession",
+    "category": "Gender Classification",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

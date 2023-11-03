@@ -1,0 +1,7 @@
+{
+    "summary": "Given 2 sentences, determine if they clearly agree or disagree with each other or if they cannot be answered.",
+    "category": "Textual Entailment",
+    "domain": "History, Fiction, Dialogue, Law, Government and Politics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

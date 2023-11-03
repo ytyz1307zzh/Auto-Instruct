@@ -1,0 +1,1 @@
+Given a statement, generate its context or previous statement

@@ -1,0 +1,3 @@
+{"id": "task176-24f802cd76754d34af44eb00c0379ec2", "input": "question: How many months did the conflict last?", "target": "#1 return the  conflict \n#2 return months of #1 \n#3 return number of  #2"}
+{"id": "task176-2dcbf601bc334ab2b8e173f737f4e8eb", "input": "question: Are all of the blue cylinders the same size?", "target": "#1 return cylinders \n#2 return #1 that are blue \n#3 return sizes of #2 \n#4 return if all of #3 are the  same"}
+{"id": "task176-d8d76557cb654b928f8b423af263a375", "input": "question: What color is the object the furthest in the back?", "target": "#1 return objects \n#2 return #1 that is furthest in  the  back \n#3 return color of #2"}

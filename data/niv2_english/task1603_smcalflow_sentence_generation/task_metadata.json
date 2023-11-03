@@ -1,0 +1,7 @@
+{
+    "summary": "Given a user utterance, generate agents' utterance",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

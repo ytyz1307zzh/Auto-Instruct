@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context statement and three sentences as choices, select the sentence that agrees with the context statement.",
+    "category": "Textual Entailment",
+    "domain": "History, Fiction, Dialogue, Law, Government and Politics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

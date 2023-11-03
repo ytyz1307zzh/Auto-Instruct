@@ -1,0 +1,7 @@
+{
+    "summary": "Given a review about a place, provide a rating for it.",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

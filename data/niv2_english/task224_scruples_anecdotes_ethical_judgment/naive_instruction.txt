@@ -1,0 +1,1 @@
+Given an anecdote, judge whether the author is ethically correct or not.

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a comment from online platforms, classify whether it is an insult or not.",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media",
+    "input_lang": "English",
+    "output_lang": "English"
+}

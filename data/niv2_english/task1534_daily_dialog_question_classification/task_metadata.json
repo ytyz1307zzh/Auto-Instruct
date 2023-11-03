@@ -1,0 +1,7 @@
+{
+    "summary": "Classify if the first sentence of a conversation is a question",
+    "category": "Dialogue Act Recognition",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

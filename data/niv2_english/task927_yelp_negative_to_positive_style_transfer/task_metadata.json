@@ -1,0 +1,7 @@
+{
+    "summary": "Given a negative review change it to a postive review",
+    "category": "Style Transfer",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

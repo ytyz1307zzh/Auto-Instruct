@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying text to Violence or Not Violence",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media",
+    "input_lang": "English",
+    "output_lang": "English"
+}

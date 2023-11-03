@@ -1,0 +1,3 @@
+{"id": "task364-551f1f7825614167b2996ae445a18f2f", "input": "[PERSON] started working as a waitress at a restaurant, so she didn't have an excuse to dress for a job interview.", "target": "No impact"}
+{"id": "task364-63525bd191034699829a0cec4c186e37", "input": "[PERSON] had a job as a carpenter, and she was a good person.", "target": "Positive"}
+{"id": "task364-ab50ac0ef492488f839471183238d8f3", "input": "[PERSON] had a part-time job as a waitress at the restaurant, where she was living at the time of the crime, but she was arrested and charged with possession of a firearm during the", "target": "Negative"}

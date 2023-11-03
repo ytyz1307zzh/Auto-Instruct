@@ -1,0 +1,1 @@
+Given an object and a part, decide whether the object has that part

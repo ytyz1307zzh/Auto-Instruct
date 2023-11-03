@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question, select the correct answer from the given options using an explanation.",
+    "category": "Question Answering",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Classify a given music product review in English to positive or negative sentiment",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews -> Music",
+    "input_lang": "English",
+    "output_lang": "English"
+}

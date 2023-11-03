@@ -1,0 +1,1 @@
+Generate a natural language interpretation of the given logical operators.

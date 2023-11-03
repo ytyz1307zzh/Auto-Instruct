@@ -1,0 +1,200 @@
+{"id": "task1603-07a3ed4e80914273b7a3f20f4dd9d7c9", "input": "Cancel any events before 5 pm today.", "target": "I can only do one action at a time. If you separate your requests, I can help you."}
+{"id": "task1603-317e3d8636f14c3088b65dab4728c4cc", "input": "Make the start time 3 pm and change the event subject to appointment with bank teller Bob.", "target": "I've changed \"appointment with bank teller Bob\" for you."}
+{"id": "task1603-28e304fa8eaf4cbc87c33857e34b578c", "input": "doctor appointments", "target": "Does one of these work?"}
+{"id": "task1603-5c99a66c97ca4ded9f64d6ca4918ba4a", "input": "create an appointment with mary on thursday", "target": "Here are some times when you and mary are free."}
+{"id": "task1603-79c4d1519ee04e5cb074433325d9350c", "input": "will it be windy tomorrow", "target": "Yes. The average wind speed will be 0.00 mph tomorrow."}
+{"id": "task1603-cd9396401d734e7cacdd98d132b962f8", "input": "Do I have anything going on for February 22?", "target": "No, I didn't find any events tomorrow."}
+{"id": "task1603-15cf0251e8624b5ba329c559725e2cbc", "input": "After dinner, put movie, 30 minutes after.", "target": "Is this good?"}
+{"id": "task1603-888944e68bd64e24a89be1c7e54257cb", "input": "what is the highest this weekend?", "target": "The maximum temperature will be 0.00 \u00b0F. That's on Sat, October 27 between 12:00 AM and 12:00 PM."}
+{"id": "task1603-97e624910b284538837308acb06c19e7", "input": "Do I have anything on my schedule for next week?", "target": "Yes, I found 3 events next week. The first is \"Meeting with John\" on Monday the 11th from 1:00 to 1:30 PM."}
+{"id": "task1603-9f7dbb70561943d5a0ff347fc7f4cdd5", "input": "Whats my third event in march?", "target": "The 3rd this month is \"Appointment\" on Sunday the 22nd from 3:00 to 3:30 PM."}
+{"id": "task1603-2fd1319b863948c6a924e0f412d95b52", "input": "add joel and sandy to the meeting", "target": "Does this look right?"}
+{"id": "task1603-2a7f7f7179994aeaa582f7922f44079e", "input": "Set Meeting with Cher to 5:00 tommorrow", "target": "Is this good?"}
+{"id": "task1603-1ff0e506f20144bba8be328ad3c5952f", "input": "Add an appointment with Jim at the Grand Canyon on Friday.", "target": "Here are some times when you and Jim are free."}
+{"id": "task1603-14c2282bcbef4daa991459d7d97fe39d", "input": "Let's add Patrick, Charles, and Harry.", "target": "Is this what you're looking for?"}
+{"id": "task1603-8296acffcbcf4eadb02db87b334756bd", "input": "Westly", "target": "Here is the contact information for Westly:"}
+{"id": "task1603-761a063da3e54bd1aac72d5b0e1953c9", "input": "My team consists of Robby, Dylan, Ashton, Mary, and Tom.", "target": "I can only look up names in your address book."}
+{"id": "task1603-831132e394ce4b078069491a2c359d22", "input": "One more time, could you give me the website for that?", "target": "It's http://www.millerunion.com/."}
+{"id": "task1603-ac4ba3b25afd4f15afc7424bb63ca954", "input": "ok well", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-a25f581508734953829bc75792e05690", "input": "Good, but can you add Bob and Sarah to the appointment?", "target": "Is this what you're looking for?"}
+{"id": "task1603-7c70ed1b6fa541de9f61c576015fb21f", "input": "Whoah, dude, there ain't no way they gonna pay out on that, take that off the event. I'll get back to you after I talk to my lawyer.", "target": "I've changed \"Claim Lottery Winnings\" for you."}
+{"id": "task1603-3db1bb60622a4f1a972bb89aab17e12c", "input": "When do I have a meeting without Audrey?", "target": "I found one event without Audrey Nauss. It's \"grab coffee\" on Saturday the 28th from 3:00 to 3:30."}
+{"id": "task1603-f2dd1c350ff44a628cf70fb86ce00f90", "input": "What time do I have to be in conference room 1?", "target": "The event at conference room 1 is on Wednesday the 30th at 1:00 PM."}
+{"id": "task1603-15e0bdbf2d914adf81d2e54ac5b8259d", "input": "Do I have any more charity events next month?", "target": "Yes, I found one event matching \"charity\" next month. It's from 10:00 to 10:30 AM."}
+{"id": "task1603-2abf0590f4ed41bea3d2b8db084de8d4", "input": "Looks good to me!", "target": "I've updated your event."}
+{"id": "task1603-9713e20bba9c45d0b12ada70eee7220e", "input": "change visit kim jeong ho's office to may 7", "target": "How is this?"}
+{"id": "task1603-933783205650489f95a3be2d7fa6a220", "input": "Hello...", "target": "I can help you with your calendar."}
+{"id": "task1603-3de4617b22cc4117a6ce4ce72e4135b3", "input": "Change my marriage event to start in the am instead of the pm", "target": "How is this?"}
+{"id": "task1603-8c2378eea8ce4fb5a95e715af3048616", "input": "This looks just right.", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-d81e7685bb2e433f9ebd7608c2dc51ab", "input": "Yes, add Jennifer and Jake to that event.", "target": "How is this?"}
+{"id": "task1603-f279a7fbe6d94c01a63025c7c8733d69", "input": "Do I have anything scheduled for tomorrow?", "target": "Yes, I found one event tomorrow. It's \"oil change\" from 10:00 to 12:00 PM."}
+{"id": "task1603-e9229cea2e804803ab1dc11f00ad5321", "input": "You know what, Dan's always running late, better start it at 10:30.", "target": "How's this?"}
+{"id": "task1603-aa708c6059f949199e5ed7f7ff3e9b51", "input": "Are there any meetings in the afternoon that day?", "target": "No, I didn't find any events on June 2nd in the afternoon."}
+{"id": "task1603-bdb07f9df35b48abb0ec0347a13a8e53", "input": "move my appointment on April 8th to April 12th", "target": "Does this look right?"}
+{"id": "task1603-3d25ce01601a499aa443af083ba5e11a", "input": "hello I need to create a new event on my calender", "target": "Does one of these work?"}
+{"id": "task1603-abbb2bd2104f495e9137f8687985ae84", "input": "Reschedule tomorrow's Magic the Gathering Tournament for 9AM.", "target": "How is this?"}
+{"id": "task1603-d5cea8d79f16489ab4d64bcaf555366c", "input": "Find time to call insurance.", "target": "Does one of these work?"}
+{"id": "task1603-6e608a5828204969b4a5555f2a4a3e5a", "input": "change the date to may 7", "target": "I didn't find any events named \"date\"."}
+{"id": "task1603-c0d293e65115425c91171f804c83aad5", "input": "I'd like to know how many events I have planned this month.", "target": "I found no events on your calendar in April."}
+{"id": "task1603-d203af621dd9451c8431e91579ee9362", "input": "When am I meeting with Abby?", "target": "The event with Abby is on Sunday the 20th at 8:00 AM."}
+{"id": "task1603-625e69d46f5943f2b34824638dd99caa", "input": "No, keep it for now.", "target": "Ok, I won't do anything for now. Let me know what else I can help you with."}
+{"id": "task1603-16f1ae5f508c4157ad8c56a1f88cb1f5", "input": "Delete mcafee subscription on Jan 1 2021.", "target": "Is this what you want me to cancel?"}
+{"id": "task1603-ba742672cd21460d8a55df4330dbcfd6", "input": "Do I have a meeting with Joleen after the 20th?", "target": "Looks like it."}
+{"id": "task1603-bbd5420c3ada404f9c9c58935b60111a", "input": "Correct", "target": "I've put that on your calendar."}
+{"id": "task1603-25cb7853f57043169c26177fda044295", "input": "Please call Jon Crawford", "target": "Jon Crawford's phone number is 747932987. Click on the number below to dial."}
+{"id": "task1603-018a755814dc47d4915bbc1837a6b016", "input": "Update an event", "target": "Could you be more specific with your request?"}
+{"id": "task1603-932ebaa260ea4827883ff45c58cb173e", "input": "make end time as 11 pm", "target": "Does this look right?"}
+{"id": "task1603-fe505178a8ee47f8b039e1f8beec4f25", "input": "Will it rain that day?", "target": "It will be clear with a high of 0.00 \u00b0F and a low of 0.00 \u00b0F tomorrow."}
+{"id": "task1603-a24f86995e63484e85231056137a10f6", "input": "Create a Lunch Meeting with Bonnie on the 18th at Western Grill for some time after 12:30 pm.", "target": "Here are some times when you and Bonnie are free."}
+{"id": "task1603-0c1e5b00fc2744a2812d15ae9ed0ae6b", "input": "when is my next event?", "target": "It starts on Sunday the 7th at 9:00 AM."}
+{"id": "task1603-b77f1a340e58495eb104cdf42f55e6fc", "input": "Add a meeting eith Cher at 5pm this tuesday", "target": "Is this good?"}
+{"id": "task1603-3a436ed721d746889169416ef1cef97f", "input": "Not any at all? What about next monday?", "target": "I didn't find any events on Monday the 16th."}
+{"id": "task1603-8fbe989152c74cf1a0a77fff73ca76d3", "input": "Can you add a family trip to my calendar for next Friday through Sunday?", "target": "Is this good?"}
+{"id": "task1603-9ffe9bce11df4a649355138095d99dc1", "input": "I'm going to be with Abby and her manager tomorrow", "target": "Here are some times when you and Abby Gonano are free."}
+{"id": "task1603-564a1e344aad428a88dc7afa7c5c2895", "input": "The second one should be ok", "target": "I've put that on your calendar."}
+{"id": "task1603-b4004967b6ee48d597f2d9f5f4b5afe0", "input": "i am having t6rouble with my calender", "target": "Here's what I found:"}
+{"id": "task1603-29454a56baf14ec2ac41242fc8a6057a", "input": "End dinner at 6:30 PM.", "target": "How is this?"}
+{"id": "task1603-d93f71e2d8834bb4bbb9e75ffb43fc11", "input": "Good", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-57e4856ed2b24bc48ec14a7a89d3e8a8", "input": "On January 6th, Do I have an appointment?", "target": "I didn't find any matching events on your calendar."}
+{"id": "task1603-5f33cc861ce344a08b8cc6f177923a8e", "input": "Please add this.", "target": "I've put that on your calendar."}
+{"id": "task1603-897d3d5de3ec4fd69b9cf57ba6d1b8bf", "input": "Add one at 1:30.", "target": "Is this good?"}
+{"id": "task1603-31655aa308d448938ef51adb0840e3fb", "input": "I need to block off some time the last week of march for birthday planning. Give me two hours, and I will do this at Gloria's in Fairview", "target": "Does one of these work?"}
+{"id": "task1603-63889769e4d841ecbe4e981f62f6667c", "input": "Add lunch date with Bob for 2pm tomorrow.", "target": "Is this good?"}
+{"id": "task1603-a6fc474988c04bf89eeb108f629c5e43", "input": "Where is my dinner tonight?", "target": "The event matching \"dinner\" tonight is located at Maggiano's."}
+{"id": "task1603-783a268542434c1f83083f7260968386", "input": "thanks...I guess", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-0f677f79f4aa4783817b612ba0d5c3d0", "input": "neither", "target": "Ok, I won't do anything for now. Let me know what else I can help you with."}
+{"id": "task1603-9f49f93672474a63bfda7c3f77c0e558", "input": "Add a meeting with Jan next Monday at 2 pm.", "target": "Is this good?"}
+{"id": "task1603-aa28c2fdeb5d42f483ec10f1f24e3cd0", "input": "can you set shopping appointment for 3pm tomorrow?", "target": "Is this good?"}
+{"id": "task1603-d2ba7898e09e43b0acacba013b58eea9", "input": "Decline meeting with new customers and say I will be out of the office all day.", "target": "I will decline \"Meeting with new Customers\" and send a response to the organizer with the following comment: \"I will be out of the office all day\". Is that ok?"}
+{"id": "task1603-68ca99df9e394eae8a0f191517acd09c", "input": "What events are Lani and Alex going to be attending next week?", "target": "I didn't find any events with Lani and Alex next week."}
+{"id": "task1603-7e2084d340a54f729e055a2f64278a96", "input": "Wait on second thought i need it change to 5:30 to 6", "target": "Is this the change you want to make?"}
+{"id": "task1603-3f910afa99084f82a38ddc860c58803d", "input": "I can do the family dinner at change in April 20, sat 5.00 PM to 5.30 PM", "target": "I didn't find any events matching \"family dinner\"."}
+{"id": "task1603-5e5c191a8c754b1fa11d4ec34cc9a707", "input": "Please select friday at 10am", "target": "I've put \"Meeting with Jake Cobb, Jennifer Watts, and Damon Straeter\" Friday from 10:00 to 10:30 AM."}
+{"id": "task1603-5514141c0b6b4b939eed4fba37ef2fe7", "input": "Create a meeting for me and my team to go over fun-day excursions at 4p next Thursday", "target": "I can only look up names in your address book."}
+{"id": "task1603-c26ae0cf868e4415a16e2064cd66f993", "input": "That's great", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-3d907664b5ac482fbaf5414e641c0b5d", "input": "Create Painting event for next Saturday at 7pm.", "target": "Is this good?"}
+{"id": "task1603-904d18f1054e449b8d5a54f634c18bd3", "input": "what will the weather be like in colorado next week?", "target": "It will be clear with a temperature of 0.00 \u00b0F."}
+{"id": "task1603-2abb961d0ede4b60978cdca0d932e90d", "input": "yes, but remove Bonnie and call it Important Conference", "target": "How's this?"}
+{"id": "task1603-f8ab50a1bca94982917d71bcaf6ebfdc", "input": "Is there anything left on 12/20?", "target": "No, I didn't find any events for the rest of today."}
+{"id": "task1603-35b691e57d0547e9b580688ef6a6eedc", "input": "Add fishing on upcoming saturday", "target": "Does one of these work?"}
+{"id": "task1603-6caac00f96d042f0b046b7bfef0dde08", "input": "Is there anything scheduled on Saturday?", "target": "No, I didn't find any events on Saturday."}
+{"id": "task1603-9dbf874368724ad5b7531af33a30fc16", "input": "Do I have any events between today's staff breakfast and the awards banquet?", "target": "Yes, I found one event on Tuesday the 10th between 9:30 and 6:00 PM. It's \"lunch\" from 1:00 to 1:30 PM."}
+{"id": "task1603-962c7972c95948d0b833bdcd26b74710", "input": "Yes, please cancel that.", "target": "I've deleted your event matching \"Baseball practice\" tomorrow at 4:45."}
+{"id": "task1603-99de33e8dcb249b3a53e767c84d8978d", "input": "Add spring sabbatical starting at 8am on the last day of March lasting until April 10 at 10 pm . Oh and my status needs to be marked as Out Of Office.", "target": "I've put that on your calendar. Your status is set to Out of Office."}
+{"id": "task1603-740c8f1183ec422a8866083d9a36117a", "input": "Make a appointment to today", "target": "Does one of these work?"}
+{"id": "task1603-26ea4d9d33664660998dfc239005b5e3", "input": "Add camping at Yogi Bear's Jellystone Park Camp-Resort in Quarryville next Saturday", "target": "Does one of these work?"}
+{"id": "task1603-fdb1ed562c6848f7a2a0faf8f19bbf5c", "input": "Please schedule a meeting with Kim, Elli, Jennifer, and Jake for tomorrow.", "target": "Here are some times when everyone is free."}
+{"id": "task1603-e76f37fcb44e435d8c3a9a09ac5cbab8", "input": "Ok who will be joining me for lunch?", "target": "Here's the list of attendees: Megan Bowen and Barack Obama."}
+{"id": "task1603-1eaa647beced4e8a8a83e1ee13db2a20", "input": "Okey thank you.", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-ec242896f2784128ad520976a0b382a3", "input": "See if there are any available appointments with Steve on Friday, April 5 at 3 pm.", "target": "Steve is free tomorrow at 3:00."}
+{"id": "task1603-e5fa05459ac040d2946719d6a8f6ba17", "input": "In what year does my new puppy arrive?", "target": "The \"puppy arrival\" starts in 2020."}
+{"id": "task1603-2dff16bd196d44cfb2e81129b172f538", "input": "And where might I be?", "target": "You're listed as being in Redmond at 11411 139th Pl NE, Redmond, WA 98052."}
+{"id": "task1603-d2682c83cd344befa490d93f2bca6a4b", "input": "Cancel my 4:00 appointment.", "target": "Is this what you want me to cancel?"}
+{"id": "task1603-8b830c19efc342a5a426c95c2d47f7fd", "input": "yep!", "target": "I've put that on your calendar."}
+{"id": "task1603-db4bef5dd87c468a89a15cad1f9cb056", "input": "Create a meeting in the 1:00 to 2:00 pm", "target": "How's this?"}
+{"id": "task1603-07dc45f442a6489e95262e349a07738f", "input": "Yeah, gimme the second one.", "target": "I've put that on your calendar."}
+{"id": "task1603-fec400d4acef4ab987195c8f13847f32", "input": "How many meetings do I have scheduled next month?", "target": "I found 3 events next month. The first is \"Appointment\" on November 2nd from 11:00 to 11:30 AM."}
+{"id": "task1603-e71e8c8cff2043f9923089137beee51f", "input": "what time is sunrise?", "target": "Sunrise will be at 12:00 AM right now."}
+{"id": "task1603-c828c1a0c5a44bf28d4f12db85ee3569", "input": "Yes, thank you", "target": "I've put that on your calendar."}
+{"id": "task1603-6cf0ed42b3ef4ec0857ccd7f694bd85b", "input": "What about the Tuesday after that?", "target": "I didn't find any events on Tuesday the 12th."}
+{"id": "task1603-fafa57386b1d4154839a7a6e6eb3f336", "input": "I'd like to change my appointment tomorrow to a later date.", "target": "Sorry I can't help you with that yet."}
+{"id": "task1603-b4709186d1a34353b379b44cfbb53537", "input": "Please mark me as Out of Office from March 4 - 7.", "target": "Is this good?"}
+{"id": "task1603-5df59c1a64354ae4bb94d8c2b9579940", "input": "Anything scheduled from December 26th through December 31st?", "target": "I didn't find any matching events on your calendar."}
+{"id": "task1603-45b502bb67104d25bc6e833d2cecd47d", "input": "hello?", "target": "I can help you with your calendar."}
+{"id": "task1603-0033828c9bf1494d9a739f68cb66d45b", "input": "Search for any meetings with Gavin for this week.", "target": "I didn't find any events with Gavin this week."}
+{"id": "task1603-9f24d127c4954c24bb71059f4d8bbe3a", "input": "Looks good.", "target": "I've put that on your calendar."}
+{"id": "task1603-6b13181b24bf4823bccbe52be82f67e5", "input": "Good now right after the meeting schedule organizing team schedule.", "target": "Is this good?"}
+{"id": "task1603-62ff07fa27964357855b75d96d4b1987", "input": "Set up an event for friday named Jeffs pizza party at 6pm", "target": "Is this good?"}
+{"id": "task1603-db4aa465755b417ebc60e43264669bd1", "input": "Hey Could you also make another Pizza party on Feb 25 that same year as the other one?", "target": "Does one of these work?"}
+{"id": "task1603-bc7df8d2653d4caf856e024b73ed6553", "input": "Find time on Friday to go to dentist in the afternoon.", "target": "Does one of these work?"}
+{"id": "task1603-a0ffb8b7fb5f4c25a0b6bd1c3d6cb3e8", "input": "Can you cancel that event.", "target": "Is this what you want me to cancel?"}
+{"id": "task1603-11fe8a6a5a284a17966018cd2165e045", "input": "Make a meeting on January 14 next year.", "target": "Does one of these work?"}
+{"id": "task1603-98ea9c2d24664ee6842efc66cd931bf0", "input": "Tony, Nicole, and I want to meet to discuss profits at a conference room in Cambridge this week.", "target": "Here are some times when everyone is free."}
+{"id": "task1603-b22673cc3a9c49128f1edab350bcb00f", "input": "Give me a minute", "target": "No problem."}
+{"id": "task1603-84355ee83b7c40e1ae0e80f19a2aef50", "input": "Change the duration of Car Races to 4 hours.", "target": "I'm sorry. I didn't find any matching events on your calendar."}
+{"id": "task1603-7c42f5a8521241798128fb2185457550", "input": "i will event for today 09:00 am", "target": "Is this good?"}
+{"id": "task1603-38afe8c6ae0a432cbb910b2be9765dd5", "input": "that is perfect", "target": "I've put that on your calendar."}
+{"id": "task1603-22b05587e6bc473994b5da16720d93e1", "input": "Will it rain saturday during the race?", "target": "Yes. The chance of rain is 0.00% for \"race\" on Saturday from 10:00 to 10:30 AM."}
+{"id": "task1603-b4e2367917224c8d82f6cf9bded2d628", "input": "Decline Friendsgiving", "target": "I will decline \"Friendsgiving\". Is that ok?"}
+{"id": "task1603-98b8c9f6ef554a5992c97d4893412fd4", "input": "Can you please tell me my schedule for today?", "target": "I didn't find any events today."}
+{"id": "task1603-a76320c259ad40e9b710112f49bf29ab", "input": "Change that to 1 hour at Kizuki", "target": "Does this look right?"}
+{"id": "task1603-ecb0fc39e6074f78bfdae683ae2dfeaa", "input": "Is the match at Torrey Pines?", "target": "The \"Golf Match\" is located at Torrey Pines."}
+{"id": "task1603-1241a63cb23c4bb7adcb16c34b692c40", "input": "please cancel my trip for this Thursday", "target": "Is this what you want me to cancel?"}
+{"id": "task1603-bff8b0c7b8e84126a546a714017d517f", "input": "Can you organize my schedule for tomorrow starting with the first scheduled item and list them for the rest of the day.", "target": "You have 3 events on your calendar. Your \"oil change\" is tomorrow from 8:00 to 9:00 AM."}
+{"id": "task1603-2e05a89312444f99bde5e5a7dcd6a19c", "input": "The July 22nd option works for me.", "target": "I've put that on your calendar."}
+{"id": "task1603-9e7601377ce14526a1c91f266d65f442", "input": "Friday works perfectly. However change the time to 11:20am-12:40pm please.", "target": "I can only do one action at a time. If you separate your requests, I can help you."}
+{"id": "task1603-3cb5b4e88d884d6282b0f3110059dc1b", "input": "first one is good. I also have my balloon meeting on Sunday at 8 pm with abby", "target": "I've put that on your calendar. __BREAK How's this?"}
+{"id": "task1603-44d2299165c04692b9ac58b0bad5b0b6", "input": "awesome", "target": "I've put that on your calendar."}
+{"id": "task1603-f99a936db70e429b88792ea1f43b4dfc", "input": "Who is dan's manager?", "target": "I could not find Dan Schoffel's manager."}
+{"id": "task1603-edc02d94493a4c448fe02fec4046000e", "input": "Actually, add a gym session from 2:30 PM to 3:30 PM every weekday for the next two weeks and cancel any other gym sessions scheduled.", "target": "I can't schedule recurring events right now."}
+{"id": "task1603-d45f642a5689494dac5cc248de2ce7d3", "input": "Do I have any lunch plans?", "target": "No, I didn't find any events matching \"lunch\"."}
+{"id": "task1603-689a06a0ec8146b7a22ee6e82cd2b982", "input": "A dog grooming appointment on the 18th", "target": "Does one of these work?"}
+{"id": "task1603-08fd12ca2e964c438a640a6c5872fbcb", "input": "Ok, cool, and what's her email? Need to send her email at some point.", "target": "The email address of Miss Tara Simpson is m@email.com."}
+{"id": "task1603-69dff7efac2b439783b2f7f82afc8de3", "input": "Can you cancel this all day event instead?", "target": "Is this what you want me to cancel?"}
+{"id": "task1603-f7211e86a8fc4a51b3585ecf75579189", "input": "Zoe Colotis", "target": "Here is the contact information for Zoe Colotis:"}
+{"id": "task1603-d5ba59d408134596b3505669c0553d01", "input": "Make a meeting tomorrow with Beth at noon", "target": "Is this good?"}
+{"id": "task1603-129d36c566824b89a96f475ed5425941", "input": "i want next meeting with Jason and Danial at 3 pm today.", "target": "Is this good?"}
+{"id": "task1603-2be46c01ecfd465aa97acc65e3fed36d", "input": "Make it go to 1415", "target": "Is this what you're looking for?"}
+{"id": "task1603-cccbb34525ef4c3e9e9e78b5ba34c836", "input": "So tomorrow morning there is nothing scheduled for me?", "target": "You have one event on your calendar. Your \"ask for a raise\" is tomorrow from 10:00 to 10:30 AM."}
+{"id": "task1603-92b9c75fc07d4ba5b7840b2fd0c93217", "input": "Yes perfect, but Barack Obama and Fiona Mason will be joining us as well", "target": "Is this good?"}
+{"id": "task1603-ba249b34243249be86d3816c68fbcceb", "input": "Can you make an event for Friday?", "target": "Does one of these work?"}
+{"id": "task1603-be8a710b2f48494087838a20610abdb9", "input": "the first is good", "target": "I've put that on your calendar."}
+{"id": "task1603-e4ebedc80b9041578d21d9d22e92c64f", "input": "Is that all I have scheduled for tomorrow morning? What about the rest of the day during work hours?", "target": "Yes, I found one event tomorrow. It's \"ask for a raise\" from 10:00 to 10:30 AM."}
+{"id": "task1603-1488e14c5a6947998a48991698177ecc", "input": "Schedule funeral for Saturday 2pm.", "target": "How's this?"}
+{"id": "task1603-849577e65c4f4006aa134f91be06453d", "input": "I'd like to create a new calendar event for work meeting at 10 am", "target": "Is this good?"}
+{"id": "task1603-efe19a5851194cf3a2d8df26c3a29657", "input": "Hello do I have any meetings scheduled for next Tuesday?", "target": "Yes, I found 2 events on Tuesday the 29th. The first is \"Animation Station\" from 10:00 to 10:30 AM."}
+{"id": "task1603-542484b857bc4ebc9913e6023f7bbf78", "input": "Will it be warm on the 30th?", "target": "Yes. The high temperature will be 0.00 \u00b0F in Azusa Saturday the 30th."}
+{"id": "task1603-13b22a4dae6847f6b767433a2fcd9291", "input": "Yes that looks just perfect", "target": "I've put that on your calendar."}
+{"id": "task1603-ac72ff34a4334c1d885af2488cc35f40", "input": "Who is John's manager?", "target": "John's manager is Dan Schoffel."}
+{"id": "task1603-b1bf3fc8ac814cb2ad30bf640382f6a8", "input": "Find my appointment on August 2nd at 2 pm.", "target": "I found 1 event on your calendar. It's \"Appointment\" from 2:00 to 2:30 PM."}
+{"id": "task1603-3410b226ac124721b11df343488ff1f7", "input": "I need you to block off 6 hours starting at 7PM tomorrow for the Fall Out Boy Concert.", "target": "Is this good?"}
+{"id": "task1603-f9743d92c93546b59cb207a2f96cbcd9", "input": "ok thank you", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-560ecd613f0a4fe5b66507b1671dcaf2", "input": "make a appointment for tomorrow", "target": "Does one of these work?"}
+{"id": "task1603-5e481a0f2e4743f3b3549a2ac4c97e76", "input": "What all do I have that day that is longer than 30 minutes", "target": "You have 2 events on your calendar. Your \"lunch with Dad\" is on Monday the 21st from 12:00 to 1:00 PM."}
+{"id": "task1603-239ba999d75742528ec6d703f4a659be", "input": "My date is at 8 pm tomorrow.", "target": "Is this good?"}
+{"id": "task1603-836e025c52a643f697348b5e98b84cd8", "input": "perfect", "target": "I've put that on your calendar."}
+{"id": "task1603-ae02f9e6b66d41d3bd6fbe4082e3ced6", "input": "Who am I?", "target": "You are logged in as Damon Straeter."}
+{"id": "task1603-4b5fedde05fb4a09bf3d72d41e6261ec", "input": "Delete tomorrow meeting with Jane", "target": "Is this what you want me to cancel?"}
+{"id": "task1603-7dd694c084444f93b0a7b81be5266a21", "input": "Do I have any events planned for Wednesday?", "target": "Yes, I found one event tomorrow. It's \"Appointment\" from 11:00 to 11:30 PM."}
+{"id": "task1603-3d18e92d5be94a4bbbf10bbd81ef1159", "input": "water therapy will be great around 3pm", "target": "Is this what you're looking for?"}
+{"id": "task1603-bfcfc6b45160472cbca28552fd4811a1", "input": "Schedule a celebratory lunch at 12PM that day", "target": "Is this good?"}
+{"id": "task1603-0bf806bf0591488fb115844ca55a4f6e", "input": "Do I have any events Monday?", "target": "No, I didn't find any events on Monday the 20th."}
+{"id": "task1603-eeb24f2aa928448d9536b11e82a72379", "input": "Monday is good", "target": "I've put that on your calendar."}
+{"id": "task1603-c3485c81a6424a469f99c79b2c5fd522", "input": "Change the time to 4pm", "target": "Does this look right?"}
+{"id": "task1603-666509da17254e378218930786503fd1", "input": "Can you put \"Monthly Meeting\" to the 2nd of November at 9 am please?", "target": "Is this good?"}
+{"id": "task1603-8c557eaf97b841b6802033fdc7701434", "input": "hae..shedule me an AGM meeting", "target": "I didn't find anyone named hae in your address book."}
+{"id": "task1603-ef73a4913869438a80f5c3800672948c", "input": "any chance of snow?", "target": "Yes. The chance of snow is 0.00% tomorrow."}
+{"id": "task1603-f15ef9019edc4ca19e657ec24f9fed0d", "input": "Yep", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-07c0dc0bbf7d4f30a4f447c2123d382c", "input": "Ok, do you have the general price of Frenchette in New York?", "target": "It's very expensive ($$$$)."}
+{"id": "task1603-8a54a26e591f4f0cbfeeea63a2e5147a", "input": "make a appointment in night", "target": "Does one of these work?"}
+{"id": "task1603-0a15b94007a142d39154fe5749b86b44", "input": "I need to use Bellevue at 10 friday, can you book that?", "target": "Is this good?"}
+{"id": "task1603-212755e460da4474aa08bec5a0c96fd3", "input": "Yes. Invite Michelle, Caleb and Joffrey to work conference.", "target": "How's this?"}
+{"id": "task1603-a9722aa0ac904c13815c280283cae991", "input": "I'll pick number 2.", "target": "I've put that on your calendar."}
+{"id": "task1603-92f73c0df2f04dce999fa2d83ba70601", "input": "I want it to be earlier than the suggested time.", "target": "Here are some times when everyone is free."}
+{"id": "task1603-0777c5c839be47fbafe508f0a835c6ed", "input": "yes. its work.", "target": "I've put that on your calendar on February 2nd from 1:00 to 1:30 PM."}
+{"id": "task1603-456f82868c3d4f0cb10b3c75612f3b90", "input": "You suck, AI.", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-7ecffabcbbd44520b66b18f157dd9644", "input": "Yes it is. Anything else going on Friday?", "target": "I've put that on your calendar. I found one other event on Friday. It's \"Appointment\" from 12:00 to 12:30."}
+{"id": "task1603-e410729b9cbd4f2d82b0e8dfe8852824", "input": "Anything later than 4pm?", "target": "Here are some times when you and Abby are free."}
+{"id": "task1603-f3bb057f28344eceac840707ed87258c", "input": "what is the 5 day forecast?", "target": "It will be clear with a high of 0.00 \u00b0F and a low of 0.00 \u00b0F in St Louis between Thu, October 25 and Tue, October 30."}
+{"id": "task1603-2e54c2cbf3e34cde89e249c515afb32a", "input": "What is the website of Hy-Yee in Skiatook?", "target": "It's http://url.com"}
+{"id": "task1603-cb18afec6f214aa09fd43fe8a74ccc6e", "input": "Find an event for tomorrow after 4 pm.", "target": "The \"Appointment\" is tomorrow from 9:00 to 9:30 PM."}
+{"id": "task1603-6e0bc0de10c341baae8b786d6059b093", "input": "Anyone not said no about being there?", "target": "No, I found 0 attendees who have not declined \"grab coffee\"."}
+{"id": "task1603-769f54eb59004ad48aaa47a12941da23", "input": "Schedule a meeting with Amy for Wednesday at 10 AM.", "target": "Is this good?"}
+{"id": "task1603-ce5527e7e0964e4596d2468ebdf43c5e", "input": "Perfect, thanks.", "target": "Let me know if there's anything else I can help you with."}
+{"id": "task1603-36aabf05d78e47c58991051942c11a24", "input": "Set a reminder to call my sisters and thank them for that comfy chair they got me.", "target": "Sorry, I can't do reminders."}
+{"id": "task1603-cd822890e0c64c98a99b07c40a514688", "input": "how many times update a calendar?", "target": "Sorry, I can't handle that yet."}
+{"id": "task1603-9b0bc7f24c7d4df78f25ed323ffbbebc", "input": "What about Pizza hut in lake tahoe? What's their pricing like?", "target": "You'll have to contact them directly."}
+{"id": "task1603-8a0159f935454215886f27e998e3c648", "input": "Let's change the start time to 3 so everyone has time to get there.", "target": "How is this?"}
+{"id": "task1603-1b81ba0be5d1444f81773f6f2e872d45", "input": "I forgot which day I have a conference with Rick and his supervisor.", "target": "The event \"conference\" is on Monday the 21st at 11:00 AM."}
+{"id": "task1603-274826b537bd4d6e9025700cc9ceaf45", "input": "Please add a lunch with Janet in place of that one", "target": "I didn't find anyone named Janet in your address book."}
+{"id": "task1603-76844c44446f48e6822b5e0b9fb043de", "input": "Tell if am I free on February the 3rd?", "target": "You have one event on your calendar. Your Mavs basketball game is on February 3rd from 7:00 to 10:00 PM."}
+{"id": "task1603-206923214b8d4b409476d04a22e6d5c0", "input": "make a appointment tomorrow", "target": "Does one of these work?"}
+{"id": "task1603-22329bfe197b46f38d3161705d0f3b05", "input": "zugzug", "target": "I didn't understand that. Could you say it in a different way?"}
+{"id": "task1603-957a31734c5f4a9a8a871fe9ee0cd068", "input": "I need to reschedule my dental appointment for tomorrow to next Thursday and for next Thursday change my jogging time to 1 PM rather then noon.", "target": "I didn't find any events named \"dental appointment\"."}
+{"id": "task1603-acb2befbfb6c47b1af188afc48339678", "input": "im talking about the schmeep event", "target": "I didn't find any matching events."}
+{"id": "task1603-cc4bc865e61e41ad9acd57c8455a2166", "input": "Am I going to piano lessons on Tuesday with Rick?", "target": "No, I didn't find any events named \"piano lessons\" with Rick on Tuesday the 10th."}
+{"id": "task1603-5bb9d298d7f34ef8b4f2153a266bc2b5", "input": "the first one is ok", "target": "I've put that on your calendar."}
+{"id": "task1603-954762ed03054445a35c9cec672e0250", "input": "Add Jean to the Thanksgiving Party", "target": "Is this the update you want?"}
+{"id": "task1603-f0532af8981e49fd9c75d002276b1c35", "input": "event with karl boon", "target": "Here are some times when you and Karl Boon are free."}
+{"id": "task1603-d409775531614943b864c25e1781c414", "input": "Cancel that appointment.", "target": "Is this what you want me to cancel?"}
+{"id": "task1603-adf80de206fb458f82121ecac78c6c15", "input": "Can you change my meeting with Fiona Mason and Karl Boon from 2 pm - 2:30 pm to 2 pm - 4 pm?", "target": "How is this?"}

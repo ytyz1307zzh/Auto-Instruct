@@ -1,0 +1,1 @@
+Generating Compressed text based on MSR dataset

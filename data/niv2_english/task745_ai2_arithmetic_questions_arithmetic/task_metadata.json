@@ -1,0 +1,7 @@
+{
+    "summary": "Given an arithmetic question, compute a solution",
+    "category": "Question Answering",
+    "domain": "Mathematics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

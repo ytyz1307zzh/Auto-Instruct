@@ -1,0 +1,7 @@
+{
+    "summary": "Given an analogy that relates actions with their consequences, give the appropriate consequence of the given action",
+    "category": "Word Analogy",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

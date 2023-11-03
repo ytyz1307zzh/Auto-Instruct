@@ -1,0 +1,1 @@
+Given a statement from a politifact.com you task is to generate the subject of discussion of the statement.

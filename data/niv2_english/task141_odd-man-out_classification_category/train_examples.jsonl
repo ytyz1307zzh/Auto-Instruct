@@ -1,0 +1,400 @@
+{"id": "task141-3b89cf0342d348a597783c314708b1f0", "input": "Category: mode of transportation \nWords: bus, fly, flutter, swim, ant", "target": "ant"}
+{"id": "task141-1c12191219bb4b8398c4865e75fff50c", "input": "Category: type of sandwich \nWords: blt, group, club, lettuce, roll", "target": "group"}
+{"id": "task141-46161b19aa9941778d4112a75e074bd1", "input": "Category: mode of transportation \nWords: fish, train, swim, jog, fly", "target": "fish"}
+{"id": "task141-b7246b05376b4b0099bf4a1050a17a74", "input": "Category: date status \nWords: delayed, current, whirlpool, do tests, up to the moment", "target": "whirlpool"}
+{"id": "task141-c4b874970a384b20876ed5184e051234", "input": "Category: activity \nWords: doughnut, blow, goodbye, dally, fritter", "target": "doughnut"}
+{"id": "task141-43c8bf6bacb646a7baa75d82ed4c47a0", "input": "Category: corporate \nWords: ceo, synergy, firm, common, tough", "target": "tough"}
+{"id": "task141-30f1fba93699475a92f16168d983ff4a", "input": "Category: computers \nWords: keys, file, text, format, organize", "target": "organize"}
+{"id": "task141-77328e4d552e416cb7b2b2f91a519cad", "input": "Category: personal characteristic \nWords: hot, optimist, cool, calm, relaxed", "target": "hot"}
+{"id": "task141-17e6bff8be05408fb2a29becebdb57fa", "input": "Category: season \nWords: winter, hiems, leaves, stoop, fall", "target": "stoop"}
+{"id": "task141-79a6b4d4b9d44c3cb9a0b8351f7b1051", "input": "Category: physical property \nWords: heavy, thin, fat, ugly, large", "target": "heavy"}
+{"id": "task141-a071fe89ea5f42f59fd5d6c01a598b2d", "input": "Category: type of sandwich \nWords: group, blt, french toast, hamburger, club", "target": "group"}
+{"id": "task141-2f14950108f64c52b0a2a1778a013e47", "input": "Category: accomodation \nWords: condominium, townhome, flat, level, even", "target": "level"}
+{"id": "task141-5e9b45f70a9f42398b585a6be11e8ae0", "input": "Category: weather \nWords: sunny, pale, brisk, fair, luke", "target": "pale"}
+{"id": "task141-88da81e9a0e3479db049fa84dd3f0807", "input": "Category: emotional display \nWords: swoon, calf, love, fawn, pester", "target": "calf"}
+{"id": "task141-e220df81459c4784bde9c80028590c72", "input": "Category: police punishment \nWords: fine, prime, high quality, hearing, prison", "target": "high quality"}
+{"id": "task141-a19b7dcefdd34008bc5720d6f553aa56", "input": "Category: corporate \nWords: inflexible, concerted, leverage, synergy, firm", "target": "inflexible"}
+{"id": "task141-d9d5b9623a824d44a4a461e1f907cef0", "input": "Category: ocean \nWords: current, flow, course, early, moon", "target": "early"}
+{"id": "task141-55d900206986426095d4cdabeddedea9", "input": "Category: geographical property \nWords: flat, elevation, plain, even, horizontal", "target": "even"}
+{"id": "task141-86c32510124d4f128d497a276185b0da", "input": "Category: weather \nWords: fair, 70, well, raining, endure", "target": "well"}
+{"id": "task141-63c2823883524c9eb25f51c37480d3ca", "input": "Category: weather \nWords: 70, tangle, brisk, fair, cool", "target": "cool"}
+{"id": "task141-0ba67a95233a4028be291b1f0a76484c", "input": "Category: bird \nWords: sandpiper, crane, upraise, heron, davit", "target": "upraise"}
+{"id": "task141-b9ea44dd01ac4e37b0819f1dab1b2236", "input": "Category: ocean \nWords: current, prompt, drink, course, wave", "target": "prompt"}
+{"id": "task141-ecb8fa6dd6064dd097737484cdd7c8cb", "input": "Category: corporate \nWords: corporation, stiff, firm, amalgamated, alignment", "target": "stiff"}
+{"id": "task141-6d6f09210d9f43ae86bbebbf7cadf856", "input": "Category: weather \nWords: fine, fair, cold, stormy, brisk", "target": "fine"}
+{"id": "task141-bc4b4a523f994a29af8080efae1aa55b", "input": "Category: animal \nWords: fly, beetle, run, eagle, walk", "target": "walk"}
+{"id": "task141-7b54bc08a9b94841b6b7190046cfdad5", "input": "Category: ocean \nWords: blue, wave, current, timely, drink", "target": "timely"}
+{"id": "task141-197d9833589a4f95b84da0df1752ec63", "input": "Category: personal characteristic \nWords: popular, hot, ethical, cool, calm", "target": "hot"}
+{"id": "task141-e7fc365ca7a64d949fbd929b3cd9a047", "input": "Category: physical activity \nWords: jump, exercise, fall, spring, roll", "target": "spring"}
+{"id": "task141-23a5384848964a89838a4b35735a0eca", "input": "Category: construction \nWords: tackle, steam roller, crane, upraise, davit", "target": "davit"}
+{"id": "task141-230c2cdb2b874f8c977d273bd4756ee7", "input": "Category: boxing terminology \nWords: dock, canvas, deck, blocking, caution", "target": "dock"}
+{"id": "task141-87c86939198d4e199ca97537f76d0f95", "input": "Category: computers \nWords: software, type, motherboard, file, keys", "target": "type"}
+{"id": "task141-46ded48c0260471bb0921c61742ea010", "input": "Category: police punishment \nWords: fine, ticket, firstrate, content, suspension", "target": "content"}
+{"id": "task141-b1ee75e349c143fca41998593c19d6bc", "input": "Category: aesthetic characteristic \nWords: handsome, dull, flyaway, attractive, fine", "target": "flyaway"}
+{"id": "task141-7e467e032db645c39fd53c6e19fc2443", "input": "Category: type of sandwich \nWords: club, french toast, community, roll, hero", "target": "community"}
+{"id": "task141-08e98fe75b6a4b9997cc0f6a225081df", "input": "Category: kitchenware \nWords: knifer, knive, metal, glass, plate", "target": "metal"}
+{"id": "task141-23882e9c69464743bed3abd185be236e", "input": "Category: aesthetic characteristic \nWords: trustworthy, variety, tone, ghostly, fair", "target": "trustworthy"}
+{"id": "task141-0b37b97cc15c41038ec475a6b597f2ca", "input": "Category: construction \nWords: heron, crane, upraise, hoist, davit", "target": "heron"}
+{"id": "task141-1ea7b8532aaa463fa94de466d4264a63", "input": "Category: aesthetic characteristic \nWords: ghostly, clime, tone, level, fair", "target": "clime"}
+{"id": "task141-e0a9e17612e84db1be326ee54c4259eb", "input": "Category: animal \nWords: soar, dive, beetle, fly, cockroach", "target": "soar"}
+{"id": "task141-397139842a854a19b0ea1d6b57ab713a", "input": "Category: secretary duty \nWords: support, fax, file, download, errands", "target": "download"}
+{"id": "task141-4f179decf01140de9138ff8077a2b251", "input": "Category: employment activity \nWords: scold, replace, empower, fire, heat", "target": "heat"}
+{"id": "task141-ee723344ee5d4d0698c334ff8888219a", "input": "Category: moral characteristic \nWords: variety, fine, fair, ok, balanced", "target": "variety"}
+{"id": "task141-79ff72db50fe4a6cb9ae4ac2f65aa21a", "input": "Category: construction \nWords: steam roller, digger, crane, derrick, tackle", "target": "derrick"}
+{"id": "task141-582e4911be414733b16826a6d6ca59f3", "input": "Category: aesthetic characteristic \nWords: size, endure, texture, variety, fair", "target": "endure"}
+{"id": "task141-28a86af079434def81c24c01eda34304", "input": "Category: physical property \nWords: brittleness, capacitance, salt, obese, fat", "target": "salt"}
+{"id": "task141-68253e56707a491eb30b3282b3f42b1d", "input": "Category: weather \nWords: fair, ghostly, make the grade, raining, stormy", "target": "ghostly"}
+{"id": "task141-19d525c386304c64b77170539c8c5aaf", "input": "Category: emotional display \nWords: kitten, fawn, follow, culture, suppressed", "target": "kitten"}
+{"id": "task141-f864e3a5ac5b4705b687985f858f971d", "input": "Category: emotional display \nWords: fawn, expression, woods, follow, flatter", "target": "woods"}
+{"id": "task141-022f1d57f6d541b98d78f63a2d2a8684", "input": "Category: physical activity \nWords: plunge, roll, fall, lift, spring", "target": "spring"}
+{"id": "task141-ea81e70ce2f2455faeb11fbe3fb14cf2", "input": "Category: mode of transportation \nWords: wave, spider, fly, flutter, bike", "target": "spider"}
+{"id": "task141-8703713c8f654045a8d0f2dbfb9b2de8", "input": "Category: animal \nWords: fly, jump, grasshopper, walk, jog", "target": "jog"}
+{"id": "task141-65f82df12b094af2bf0409d31aef0cd5", "input": "Category: emotional status \nWords: acceptable, fine, neat, relaxed, annoyed", "target": "neat"}
+{"id": "task141-e214d62807934e22a42cbd807c00e489", "input": "Category: secretary duty \nWords: software, type, file, schedule appointments, reception", "target": "software"}
+{"id": "task141-d09f43ec02dc4a9ea5032454954a4366", "input": "Category: emotional status \nWords: relaxed, pretty, fine, acceptable, alert", "target": "pretty"}
+{"id": "task141-2490db9b1fc34ab583c7cf1195c8dedd", "input": "Category: accomodation \nWords: studio, round, mansion, flat, paved", "target": "paved"}
+{"id": "task141-16aab53fbbd743d29efd07ecc80a3d3e", "input": "Category: type of sandwich \nWords: club, blt, place, hero, lettuce", "target": "place"}
+{"id": "task141-bd056c3a3a49410cb564f0f12fb1136e", "input": "Category: emotional status \nWords: board, frustrated, sad, emotional supports, fret", "target": "board"}
+{"id": "task141-1f50167985794a71b2b0094f8a34233e", "input": "Category: ocean \nWords: signal, sea, current, drink, belated", "target": "belated"}
+{"id": "task141-e2d99671e19f4382813e2ee0d6e79e85", "input": "Category: shady activities \nWords: cream, smear, fudge, fib, banned", "target": "cream"}
+{"id": "task141-0ddc9d26efc547db9129b8e1463cf3c3", "input": "Category: military rank \nWords: regular, major, general, soldier, cadet", "target": "regular"}
+{"id": "task141-273bd152b8724cacbc622fb35c6463f8", "input": "Category: direction \nWords: backward, melancholy, up, down, south", "target": "melancholy"}
+{"id": "task141-fd1976f536ea446f9c85cf6e550dc6e8", "input": "Category: aesthetic characteristic \nWords: dull, prime, bright, detailed, fine", "target": "prime"}
+{"id": "task141-7e05e8a2eb9a404690e2ec6f74e847bd", "input": "Category: moral characteristic \nWords: balanced, fair, ok, unjust, flaxen", "target": "flaxen"}
+{"id": "task141-7b5ae84490bb4e56bb06271319ff969e", "input": "Category: bird \nWords: pelican, steam roller, sandpiper, neck, crane", "target": "steam roller"}
+{"id": "task141-7ada5a766f8943b6b108fbe6fdb08f25", "input": "Category: fried food \nWords: dessert, fritter, spend, patty, dumpling", "target": "spend"}
+{"id": "task141-84315b0d80ff4d0ba541931e3873b1c6", "input": "Category: baby animals \nWords: hatchling, expression, fawn, kitten, cub", "target": "expression"}
+{"id": "task141-4f07abe74652485b9bdf2455276e5466", "input": "Category: location (proximity) \nWords: on top of, right there, not open, close, near", "target": "not open"}
+{"id": "task141-f6253321a3474ea3903000a7f6dd4fd6", "input": "Category: animal \nWords: waggle, ant, pounce, fly, wave", "target": "wave"}
+{"id": "task141-36a4802ef62a476886cff35446c3b002", "input": "Category: card games \nWords: canasta, pinochle, blackjack, tonic, gin", "target": "tonic"}
+{"id": "task141-f8b726facb6248b189b4be7df9d209bb", "input": "Category: chocolate food \nWords: fib, molasses, pie, cake, fudge", "target": "fib"}
+{"id": "task141-cba7d57512bd49ac9e14596913138975", "input": "Category: ocean \nWords: current, flow, signal, dastards, sea", "target": "dastards"}
+{"id": "task141-4587acabbec24174bd67d0914e77da73", "input": "Category: emotional status \nWords: penalty, decent, fine, happy, ok", "target": "penalty"}
+{"id": "task141-f850b106dade4cc3a724fd9e15abadc8", "input": "Category: secretary duty \nWords: file, order office supplies, answer, text, type", "target": "text"}
+{"id": "task141-f521f897fab74eb2a003919b09d5390b", "input": "Category: aesthetic characteristic \nWords: flaxen, texture, alright, fair, even", "target": "alright"}
+{"id": "task141-e851df68984d484894d2de01ed994f32", "input": "Category: direction \nWords: downward, down, kind, falling, south", "target": "kind"}
+{"id": "task141-0b92ea55b28247438430b79947b04625", "input": "Category: consumer product \nWords: merchandise, happy, thing, content, service", "target": "happy"}
+{"id": "task141-f899e174162b4e3aa68e927a50a75da2", "input": "Category: emotional status \nWords: detached, mad, prime, decent, fine", "target": "prime"}
+{"id": "task141-2f72e8bf2dfb4105a7685e905544f86e", "input": "Category: aesthetic characteristic \nWords: milky, fair, color, make the grade, medium", "target": "make the grade"}
+{"id": "task141-292de4967aa642ddacac9e21c892d388", "input": "Category: store status \nWords: slow, neighboring, locked, close, steady", "target": "neighboring"}
+{"id": "task141-55d124f3a4a54b4994f116906f55e068", "input": "Category: consumer product \nWords: activity, content, fearful, shop, substance", "target": "fearful"}
+{"id": "task141-70558a92eff840fb96163092ac8146a3", "input": "Category: animal \nWords: fish, mice, cow, tiger, kayak", "target": "kayak"}
+{"id": "task141-ee94cad49d6d45589c798a989c7ee2c7", "input": "Category: weather \nWords: warm, fair, luke, impartial, endure", "target": "impartial"}
+{"id": "task141-913b4af66f564ddc9530a66b1c59a30e", "input": "Category: physical activity \nWords: dodge, duck, get down, goose, hike", "target": "goose"}
+{"id": "task141-7f4aa036e137490ba4361980336a4841", "input": "Category: moral characteristic \nWords: just, windy, balanced, fine, fair", "target": "windy"}
+{"id": "task141-ad1ceff4fd3d4a19a300a06bb64f887b", "input": "Category: emotional status \nWords: board, fret, angry, bored, sad", "target": "board"}
+{"id": "task141-7aba86533df746a681af033a3fce837d", "input": "Category: construction \nWords: windlass, crane, hoist, pelican, davit", "target": "pelican"}
+{"id": "task141-fbb990de024246549b206a774773f82c", "input": "Category: emotional status \nWords: handsome, fine, alert, well, detached", "target": "handsome"}
+{"id": "task141-8969ac57c87c4a1db80f0c87cea484e8", "input": "Category: moral characteristic \nWords: frank, provision, brash, courage, integrity", "target": "provision"}
+{"id": "task141-967297ce775348b2ba31ae1770e08068", "input": "Category: emotional status \nWords: fret, emotional, anxious, headstock, crying", "target": "headstock"}
+{"id": "task141-081c135421ff4e8eb80273ae955aa146", "input": "Category: chocolate food \nWords: wrongful, truffles, brownies, chocolate cake, fudge", "target": "wrongful"}
+{"id": "task141-0987f07878734b03acf4b052afa6fa85", "input": "Category: secretary duty \nWords: image, organize, file, schedule, support", "target": "image"}
+{"id": "task141-2f357dc747ec48ad960f7e4e765981c0", "input": "Category: poker \nWords: joker, deck, chips, apron, pack", "target": "apron"}
+{"id": "task141-c49317b8abd8479da39daa695d0cd4af", "input": "Category: animal \nWords: fly, waggle, walk, jump, car", "target": "car"}
+{"id": "task141-828617ea9a1e4ac5bd76ce3bdb32ad3c", "input": "Category: emotional status \nWords: mad, content, relaxed, fine, ticket", "target": "ticket"}
+{"id": "task141-754a6840b0e14522a9bf2569389fa378", "input": "Category: poker \nWords: joker, deck, head, call, check", "target": "head"}
+{"id": "task141-d1811d7671d3402aaa065d65a3e63051", "input": "Category: bird \nWords: winch, duck, winch, crane, swallow", "target": "winch"}
+{"id": "task141-a4562876eec84078b66964e00e98202b", "input": "Category: boats \nWords: box, deck, rudder, sail, stern", "target": "box"}
+{"id": "task141-3246d712c15943b5b07981c7031cb113", "input": "Category: boxing terminology \nWords: fight, bow, deck, corner, canvas", "target": "bow"}
+{"id": "task141-8bc6807431134f70938bae4edb08d2c9", "input": "Category: weather \nWords: sunny, fair, warm, unprejudiced, windy", "target": "unprejudiced"}
+{"id": "task141-1e27121c36c340e98cb4f0da39ff21d5", "input": "Category: bird \nWords: davit, dump truck, goose, crane, sandpiper", "target": "dump truck"}
+{"id": "task141-1fceb049ac7640b9bdb6c03baf78557b", "input": "Category: animal \nWords: jog, jump, fish, fly, bats", "target": "jog"}
+{"id": "task141-8c9fb4769aab405bb560bb21176ff39e", "input": "Category: emotional status \nWords: alert, custody, happy, fine, acceptable", "target": "custody"}
+{"id": "task141-3706c66e806548cc9e0107422038a489", "input": "Category: widespread \nWords: standard, general, popular, ubiquitous, captain", "target": "captain"}
+{"id": "task141-71e5218ee869429c98e057efb6bb1bc0", "input": "Category: activity \nWords: misuse, whittle, sweet roll, squander, fritter", "target": "sweet roll"}
+{"id": "task141-405efe20da404ffdae9e64b91b1b9010", "input": "Category: card games \nWords: slapjack, spades, vodka, poker, gin", "target": "vodka"}
+{"id": "task141-d41fb85bcedf43a7930eeb52e93f138b", "input": "Category: emotional status \nWords: program, joyful, panicked, jealous, content", "target": "program"}
+{"id": "task141-44508d34ff3347d0a71d71b5a10945d7", "input": "Category: police punishment \nWords: attractive, jail time, fine, hearing, prison", "target": "attractive"}
+{"id": "task141-0dce40f8b30843c5979d84d942400583", "input": "Category: consumer product \nWords: sad, tools, content, merchandise, specialty", "target": "sad"}
+{"id": "task141-5d7149c45c8a4e72b33514c3b814fee0", "input": "Category: mode of transportation \nWords: fly, bus, beetle, flap, train", "target": "beetle"}
+{"id": "task141-b0125af549f746668ebe795e61a13a7d", "input": "Category: accomodation \nWords: squashed, condominium, flat, even, level", "target": "even"}
+{"id": "task141-ced12ae0b6d249bf8ab91d23c2d87046", "input": "Category: emotional status \nWords: anxious, fret, sad, strap lock, frustrated", "target": "strap lock"}
+{"id": "task141-60f28b465727480a9a2516c2de262ee1", "input": "Category: aesthetic characteristic \nWords: well, fair, flaxen, light, ok", "target": "ok"}
+{"id": "task141-e1ea0630dead47c2ba535680e6a39b3b", "input": "Category: boxing terminology \nWords: deck, blocking, punch, draw, box", "target": "draw"}
+{"id": "task141-e8e7f887bd754a3eb7c4d4f11dd9f45e", "input": "Category: employment activity \nWords: replace, recruit, hire, inferno, fire", "target": "inferno"}
+{"id": "task141-a08065f27fcf4677981b573b5f3e1974", "input": "Category: consumer product \nWords: content, shop, nervous, thing, service", "target": "nervous"}
+{"id": "task141-e155f619c3a84ae0941ca2131c0bac01", "input": "Category: window material \nWords: fork, glass, coating, frame, metal", "target": "fork"}
+{"id": "task141-429d241cfc3b4881a7d7a5afefb45907", "input": "Category: card games \nWords: brandy, blackjack, hearts, bridge, gin", "target": "brandy"}
+{"id": "task141-e2aef43315a442b8b2be9bf3736aaed6", "input": "Category: computers \nWords: format, motherboard, correspondence, software, file", "target": "correspondence"}
+{"id": "task141-15ab862ee48640dca7d2fd4b9b060ef0", "input": "Category: moral characteristic \nWords: fair, well, unjust, milky, dishonest", "target": "milky"}
+{"id": "task141-b89157b9537a48eab8efb773c1361497", "input": "Category: food \nWords: wiener, entree, frank, meat, brash", "target": "brash"}
+{"id": "task141-2ec41af5d4e04aa2a8f60c4b48f6748f", "input": "Category: social gathering \nWords: convention, outing, doorstep, clan, club", "target": "doorstep"}
+{"id": "task141-3990c313f7294ea8bff5a5a566f5dfd6", "input": "Category: moral characteristic \nWords: impartial, loyal, trustworthy, stormy, fair", "target": "stormy"}
+{"id": "task141-789d8746087a49dc8a418fd7ec4fcbb7", "input": "Category: emotional status \nWords: relaxed, mad, fine, alright, probation", "target": "probation"}
+{"id": "task141-c52f9536262d47cca5e1057bd629da15", "input": "Category: secretary duty \nWords: sort mail, reception, errands, space, file", "target": "space"}
+{"id": "task141-a52f5d285a0b4645b0cf4274ae2b3b96", "input": "Category: police punishment \nWords: fine, prime, firstrate, comfortable, ticket", "target": "comfortable"}
+{"id": "task141-c9f3e0c6d4d34c419800ad39e9cfcdc6", "input": "Category: geographical property \nWords: flat, smooth, mountain, mansion, plain", "target": "mansion"}
+{"id": "task141-771caad3323c42389444dfffcf352bec", "input": "Category: aesthetic characteristic \nWords: variety, light, fair, medium, well", "target": "well"}
+{"id": "task141-5a8259d191f24f308143f0eb471a08e7", "input": "Category: emotional status \nWords: tools, sad, angry, disappointed, content", "target": "tools"}
+{"id": "task141-cd6f22cf628349b2a0b9de0d98ebcd0b", "input": "Category: poker \nWords: suits, hearts, deck, board, lifeline", "target": "lifeline"}
+{"id": "task141-d970f1541adf4763a2775d2649a0174f", "input": "Category: type of sandwich \nWords: lettuce, club, hoagie, grilled cheese, place", "target": "place"}
+{"id": "task141-5a778437565744efb3724094abcdbafa", "input": "Category: fried food \nWords: dumpling, patty, danish, waste, fritter", "target": "waste"}
+{"id": "task141-ef000f2b25b749a8bbb8d50bdb3ea518", "input": "Category: employment activity \nWords: ice, sack, let go, remove, fire", "target": "ice"}
+{"id": "task141-37a3c74e15704370b895d3fd6c06440e", "input": "Category: fried food \nWords: danish, fritter, apple, seperate, patty", "target": "seperate"}
+{"id": "task141-562f9fe1dd4b4496b539a0684fb2aebd", "input": "Category: boxing terminology \nWords: glove, ring, deck, box, bow", "target": "bow"}
+{"id": "task141-50168c4c6456406a9fbe88e564ed735f", "input": "Category: geographical property \nWords: studio, hill, flat, even, horizontal", "target": "studio"}
+{"id": "task141-c39b592a1f094798a1a1c54790af8c4f", "input": "Category: type of rigidity \nWords: hard, rough, firm, stiff, amalgamated", "target": "amalgamated"}
+{"id": "task141-e4a9f5e7ef994ddd8f7ceac6a711525e", "input": "Category: fried food \nWords: skin, pie, seperate, dunker, fritter", "target": "seperate"}
+{"id": "task141-64b6a0ecb9e4486eb990cb14b47e94e4", "input": "Category: poker \nWords: draw, deck, hull, call, chips", "target": "hull"}
+{"id": "task141-c73ec4908ea040a498705efb30656427", "input": "Category: mode of transportation \nWords: train, bike, fish, fly, jog", "target": "fish"}
+{"id": "task141-9e48ec8b467a4762b86eb36f89fc4a3d", "input": "Category: moral characteristic \nWords: just, trustworthy, unjust, fair, milky", "target": "milky"}
+{"id": "task141-39bf1e49f1204094bae3346b88f2194e", "input": "Category: temperature \nWords: warm, optimist, hot, relaxing, cool", "target": "optimist"}
+{"id": "task141-f98d083e980e46938fa0a9a8b39fcd97", "input": "Category: widespread \nWords: boring, general, admiral, common, normal", "target": "admiral"}
+{"id": "task141-cae9b645247d4b69ad54d4f888cc9378", "input": "Category: shady activities \nWords: lie, unwarranted, falsehood, chocolate, fudge", "target": "chocolate"}
+{"id": "task141-1405936f1fe24e0aa3648efc64961b6b", "input": "Category: consumer product \nWords: content, books, thing, program, jealous", "target": "jealous"}
+{"id": "task141-ed2a2f7a60b747a283bc32c151112749", "input": "Category: boats \nWords: deck, gunwale, queen, lifeline, bridge", "target": "queen"}
+{"id": "task141-72ff0bd69f4c4288ba57b24d55604b80", "input": "Category: chocolate food \nWords: tart, fudge, heavy, banned, cupcake", "target": "banned"}
+{"id": "task141-f50e0f17c7b343c89969f4c608378efc", "input": "Category: shady activities \nWords: cream, wrongful, fix, fudge, smear", "target": "cream"}
+{"id": "task141-51773b7bf11343858dfa2dc68879cb03", "input": "Category: employment activity \nWords: instruct, remove, let go, fire, water", "target": "water"}
+{"id": "task141-f7e6c9076ac34d03b36c4f81e46141a9", "input": "Category: food \nWords: hot dog, brash, entree, frank, grub", "target": "brash"}
+{"id": "task141-39c18d6e94d74e21b818a2b1324a642d", "input": "Category: police punishment \nWords: wispy, fine, custody, firstrate, mad", "target": "mad"}
+{"id": "task141-a18e6125c7cb4c6b8ce25833c0bf571f", "input": "Category: card games \nWords: vodka, spider, gin, blackjack, go fish", "target": "vodka"}
+{"id": "task141-12afaab9b58f4d34bc0876a94e202983", "input": "Category: boxing terminology \nWords: ring, level, deck, caution, queen", "target": "queen"}
+{"id": "task141-c841c7b45d364f99a482bcfc081a27bd", "input": "Category: boats \nWords: corner, deck, gunwale, stern, crew", "target": "corner"}
+{"id": "task141-0e0e53474d35420b88913202fdebd259", "input": "Category: consumer product \nWords: content, jewelry, specialty, merchandise, angry", "target": "angry"}
+{"id": "task141-26b34f42680f40e1bb6f70142a85da57", "input": "Category: consumer product \nWords: happy, content, thing, books, program", "target": "happy"}
+{"id": "task141-118764a55e5646eab86cd2ca97810592", "input": "Category: social gathering \nWords: meeting, hoagie, club, discothek, bar", "target": "hoagie"}
+{"id": "task141-f3fa943f95a4426587efd5bef6f3cbff", "input": "Category: secretary duty \nWords: file, software, schedule, support, order office supplies", "target": "software"}
+{"id": "task141-b86b125c06494fcf981cd1a4d04b20a3", "input": "Category: aesthetic characteristic \nWords: fine, exquisite, classy, happy, dull", "target": "happy"}
+{"id": "task141-06f2bc3c475a4269bebe922641f6bd89", "input": "Category: aesthetic characteristic \nWords: neat, penalty, fine, high quality, hot", "target": "penalty"}
+{"id": "task141-cfefe76765c24d7984bea45a16a442cd", "input": "Category: card games \nWords: brandy, bridge, hearts, uno, gin", "target": "brandy"}
+{"id": "task141-8ae3c12effa5455787348053e7e43fb8", "input": "Category: direction \nWords: down, sliding, left, ground, loveful", "target": "loveful"}
+{"id": "task141-6d1d4a860e0048ee8627db115d01da05", "input": "Category: secretary duty \nWords: download, file, prepare, schedule, schedule appointments", "target": "download"}
+{"id": "task141-876e8ec7d1174a88afc10ab94fbefed7", "input": "Category: computers \nWords: document, hardware, schedule appointments, file, space", "target": "schedule appointments"}
+{"id": "task141-18a43f574c544ffdbdec58846cda05c2", "input": "Category: construction \nWords: upraise, excavator, hummingbird, crane, windlass", "target": "hummingbird"}
+{"id": "task141-4353803c2e204760b9fb688c0fd924df", "input": "Category: consumer product \nWords: content, item, angry, specialty, clothing", "target": "angry"}
+{"id": "task141-6a4cd1dd7fdc46b7acb1c51b1cecb607", "input": "Category: social gathering \nWords: club, place, open-faced, group, meeting", "target": "open-faced"}
+{"id": "task141-4ca323c67c0f48e98ede70974cf7dcfa", "input": "Category: body part \nWords: shin, foot, leg, eye, mile", "target": "mile"}
+{"id": "task141-f9e0a09a07bb417199ba03383c848bcb", "input": "Category: guitar part \nWords: fret, output cord, string, angry, board", "target": "angry"}
+{"id": "task141-bd8a78c4f7904f398f0e56952f7de19d", "input": "Category: moral characteristic \nWords: fair, just, honorable, texture, trustworthy", "target": "texture"}
+{"id": "task141-66aecf4f6f454596855887d4bb4315b2", "input": "Category: emotional status \nWords: emotional, ground, ashamed, emotional upsets, down", "target": "ground"}
+{"id": "task141-61efc368169b4682ad3455d66a825e44", "input": "Category: poker \nWords: suits, board, deck, pack, box", "target": "box"}
+{"id": "task141-b457f86618494015bd4837177a4d39b7", "input": "Category: physical activity \nWords: cold, swim, plummet, fall, exercise", "target": "cold"}
+{"id": "task141-0fcfc128c50b4e76b92d5cc1feaa5b8d", "input": "Category: weather \nWords: sunny, honorable, fair, tangle, luke", "target": "honorable"}
+{"id": "task141-8e10240da1ee4252ba4035089e100172", "input": "Category: ocean \nWords: sea, whirlpool, detests, main, current", "target": "detests"}
+{"id": "task141-31b8024097034d81b89cf2157fb03c5d", "input": "Category: chocolate food \nWords: molasses, unwarranted, chocolate cake, brownies, fudge", "target": "unwarranted"}
+{"id": "task141-ecfb6eaa16bd429d81a0e37ecacc3d72", "input": "Category: location (proximity) \nWords: finished for the day, adjacent, close, on top of, nearer", "target": "finished for the day"}
+{"id": "task141-61130110a20042ee853239d617b445af", "input": "Category: emotional status \nWords: emotional upsets, pick, emotional state, fret, emotional supports", "target": "pick"}
+{"id": "task141-36af4d63985347f0b5ee1bb101d95dfb", "input": "Category: bird \nWords: parrot, digger, sandpiper, flamingo, crane", "target": "digger"}
+{"id": "task141-939acf1a82c84bc78be174a050cec86c", "input": "Category: animal \nWords: bee, fly, run, bus, leap", "target": "bus"}
+{"id": "task141-61c11c36fcc6445c8759b9319ea7d24d", "input": "Category: outdoor sport activity \nWords: swim, fish, horse, hunting, climbing", "target": "horse"}
+{"id": "task141-54797b754c384e37949d67a952c54546", "input": "Category: boxing terminology \nWords: joker, deck, ring, caution, glove", "target": "joker"}
+{"id": "task141-a356f592c40a4dd5833ab329acbff137", "input": "Category: card games \nWords: beer, blackjack, canasta, uno, gin", "target": "beer"}
+{"id": "task141-29f484b2be3b460db5c67270da5bed88", "input": "Category: emotional status \nWords: custody, acceptable, calm, fine, well", "target": "custody"}
+{"id": "task141-d796fa747a40402485246dd197297c79", "input": "Category: construction \nWords: parrot, concrete pourer, crane, upraise, hoist", "target": "parrot"}
+{"id": "task141-4e9569b102b5471486661cda8252fb32", "input": "Category: direction \nWords: down, lower, opposite of up, ground, remorseful", "target": "remorseful"}
+{"id": "task141-cdeeccb50dcd4005b42656bb38cf039c", "input": "Category: boxing terminology \nWords: ring, bridge, deck, jab, corner", "target": "bridge"}
+{"id": "task141-6ae05ade9668456ca1e385b87e9785ad", "input": "Category: food \nWords: wiener, courage, cheese, weenie, frank", "target": "courage"}
+{"id": "task141-70c5bf3d470f45a19c657646e34a91fa", "input": "Category: type of sandwich \nWords: open-faced, hero, club, discothek, hamburger", "target": "discothek"}
+{"id": "task141-7f4b0b75c5e14c6da19cfbe433661f19", "input": "Category: food \nWords: hot dog, frank, blunt, entree, provision", "target": "blunt"}
+{"id": "task141-87923b606bdf43d99ef8a03140db89c5", "input": "Category: emotional status \nWords: emotional, melancholy, ashamed, down, opposite of up", "target": "opposite of up"}
+{"id": "task141-9796dc319cfa4a99b982e48f5b370682", "input": "Category: bird \nWords: windlass, hummingbird, neck, crane, duck", "target": "windlass"}
+{"id": "task141-185ee53fc10a4728927aba84af4cb9cd", "input": "Category: moral characteristic \nWords: unprejudiced, fair, cold, ok, equitable", "target": "cold"}
+{"id": "task141-2c4cebff2f7a4144aea5f47bbd4768e7", "input": "Category: animal \nWords: bird, fish, fly, jog, swim", "target": "jog"}
+{"id": "task141-09cedd4157b94f8eb6472aaaaaa65904", "input": "Category: aesthetic characteristic \nWords: high quality, classy, fine, ticket, level", "target": "ticket"}
+{"id": "task141-23c7e9b1e3a44db4ae7c325a5ceafdc4", "input": "Category: aesthetic characteristic \nWords: fair, flaxen, well, ghostly, milky", "target": "well"}
+{"id": "task141-2ab106216dbc49fcb84870db4daea363", "input": "Category: weather \nWords: warm, texture, sunny, brisk, fair", "target": "texture"}
+{"id": "task141-cc199952805e4c49812dfb52455022a4", "input": "Category: guitar part \nWords: worried, fret, truss rod, notes, amp", "target": "worried"}
+{"id": "task141-f46a6f6bd4834d08b058878ccc79987a", "input": "Category: poker \nWords: punch, pack, deck, check, fold", "target": "punch"}
+{"id": "task141-c368a19c014b4042b6fba61f728fc426", "input": "Category: widespread \nWords: universal, private, general, ubiquitous, boring", "target": "private"}
+{"id": "task141-3d990c359bf44a69a47349a2e1deb0a0", "input": "Category: accomodation \nWords: house, flat, mansion, apartment, plane", "target": "plane"}
+{"id": "task141-4458b1dd36134ab09f0c6241ff5818a9", "input": "Category: personal characteristic \nWords: cool, persistent, ethical, calm, mild", "target": "mild"}
+{"id": "task141-726f873ffd4842fc8cc33a88b5160488", "input": "Category: animal \nWords: fish, hiking, bat, whale, dolphin", "target": "hiking"}
+{"id": "task141-b0f7a724ebc444aea2ee8d3017964ee1", "input": "Category: outdoor sport activity \nWords: climbing, hunt, fish, canyoning, hamster", "target": "hamster"}
+{"id": "task141-2eadcbd373984f31bc681e3bf7c8d774", "input": "Category: aesthetic characteristic \nWords: texture, dishonest, even, medium, fair", "target": "dishonest"}
+{"id": "task141-1048062dc191478dac25ff7db5afecd3", "input": "Category: aesthetic characteristic \nWords: even, variety, cool, equitable, fair", "target": "equitable"}
+{"id": "task141-8cb6e785ab6b4e6a89266e47f5b80c61", "input": "Category: location (proximity) \nWords: nearer, close, near, busy, bordering", "target": "busy"}
+{"id": "task141-a580c3a4e2274c90866ab10bd7828792", "input": "Category: store status \nWords: running., barred, close, beside, gated", "target": "beside"}
+{"id": "task141-c59604e84aa04c038832b1265b444c1d", "input": "Category: consumer product \nWords: disappointed, jewelry, service, content, thing", "target": "disappointed"}
+{"id": "task141-16016c9497e3416787100e763f214d44", "input": "Category: moral characteristic \nWords: decent, honorable, unjust, raining, fair", "target": "raining"}
+{"id": "task141-e093fcf65ffc4198873c2942e7ccb189", "input": "Category: aesthetic characteristic \nWords: level, high quality, attractive, fine, ticket", "target": "ticket"}
+{"id": "task141-fef1d64070e94c81a4a5d5f923af76df", "input": "Category: emotional status \nWords: well, money, fine, decent, acceptable", "target": "money"}
+{"id": "task141-0f2a4324264c47419c384fbe4c4e77b2", "input": "Category: nutritional value \nWords: sugars, large, fat, big, salt", "target": "large"}
+{"id": "task141-bcbd9eb1884247ddbbee5d4cdf67c0c8", "input": "Category: emotional status \nWords: crying, anxious, fret, frustrated, board", "target": "board"}
+{"id": "task141-cf3312772f4f47c680c2fed5cc6dd750", "input": "Category: bird \nWords: parrot, goose, crane, swallow, excavator", "target": "excavator"}
+{"id": "task141-e3605d17aea34eeb8e45b085b5731323", "input": "Category: moral characteristic \nWords: impartial, windy, equitable, fair, loyal", "target": "windy"}
+{"id": "task141-81749b1747114b57b30a7f8c49763d53", "input": "Category: accomodation \nWords: duplex, condominium, plane, paved, flat", "target": "plane"}
+{"id": "task141-d4f231e536564d20b471fae27faad762", "input": "Category: social gathering \nWords: picnic, french toast, clan, club, bar", "target": "french toast"}
+{"id": "task141-d2a3959ce3b84cc6b8452efb92b7fa0a", "input": "Category: consumer product \nWords: disappointed, substance, item, content, clothing", "target": "disappointed"}
+{"id": "task141-f1a82d0ee85f42ceb6ee726af5ffee62", "input": "Category: moral characteristic \nWords: fair, ok, ghostly, decent, equitable", "target": "ghostly"}
+{"id": "task141-a8ee36e5278b4e3496cfc951dd47988e", "input": "Category: card games \nWords: war, brandy, bridge, gin, blackjack", "target": "brandy"}
+{"id": "task141-3a419ba54cc5454fbeec14b7feaa17cd", "input": "Category: poker \nWords: call, sail, deck, board, queen", "target": "sail"}
+{"id": "task141-b6b056c563894eb1a47ff30ee8081bdb", "input": "Category: consumer product \nWords: jewelry, fearful, merchandise, content, thing", "target": "fearful"}
+{"id": "task141-00483043f9db4eb7b83ad0c8b3bd7cb8", "input": "Category: police punishment \nWords: jail, happy, fine, prison, prime", "target": "happy"}
+{"id": "task141-35f0e3411b244d1a8ecdc63c57d061ed", "input": "Category: poker \nWords: pack, apron, deck, chips, cards", "target": "apron"}
+{"id": "task141-119218f15393434e9121b2f487f92686", "input": "Category: personal characteristic \nWords: chill, cool, persistent, relaxed, funny", "target": "chill"}
+{"id": "task141-0f5040e379484bf98a7c6566ba56fe8e", "input": "Category: shady activities \nWords: banned, replace, smear, chocolate cake, fudge", "target": "chocolate cake"}
+{"id": "task141-21959ba724344e9396bed5829037c081", "input": "Category: temperature \nWords: cool, scorching, chill, icy, confident", "target": "confident"}
+{"id": "task141-48d55506e00445a59b6a3a30e7fb0284", "input": "Category: computers \nWords: file, format, program, schedule appointments, image", "target": "schedule appointments"}
+{"id": "task141-b704cb13e729448db512ba6be45bd5cd", "input": "Category: poker \nWords: joker, deck, draw, gunwale, chips", "target": "gunwale"}
+{"id": "task141-ca95845bbca5412abc2b24289c67c930", "input": "Category: emotional status \nWords: calm, fine, acceptable, detailed, alert", "target": "detailed"}
+{"id": "task141-d7c03e33dc4e4503aa7a0ac5111d048f", "input": "Category: physical activity \nWords: cow, sprint, duck, dodge, get down", "target": "cow"}
+{"id": "task141-e1f45089f41646be97b23c5c3112035f", "input": "Category: direction \nWords: south, below, down, descending, sad", "target": "sad"}
+{"id": "task141-7a20beb867954932bc8187f9fd8c8355", "input": "Category: military rank \nWords: cadet, average, general, lieutenant, soldier", "target": "average"}
+{"id": "task141-32fb1e8e6cce450a943423550be1bf65", "input": "Category: aesthetic characteristic \nWords: handsome, fine, classy, detached, dull", "target": "detached"}
+{"id": "task141-78402b9c5f3644a0b83f29e69032b415", "input": "Category: mode of transportation \nWords: jump, bus, fly, drive, bike", "target": "jump"}
+{"id": "task141-6e8373d2a8234aa8a4300175038b3d7f", "input": "Category: geographical property \nWords: flat, mountain, even, squashed, level", "target": "squashed"}
+{"id": "task141-2c772ba4906e4c25b2d9cf6709e142ce", "input": "Category: outdoor sport activity \nWords: iguana, fish, hike, climbing, camp", "target": "iguana"}
+{"id": "task141-5fa9ca0f1a3d4579885096d26f9674a3", "input": "Category: emotional status \nWords: ashamed, disgusted, emotional upsets, right, down", "target": "right"}
+{"id": "task141-f35bfb02d2a7479cafe18aa1ed4dd4a3", "input": "Category: moral characteristic \nWords: matter of fact, honest, sausage, stern, frank", "target": "sausage"}
+{"id": "task141-d99b27265e764c2ca05ce1e719f1062b", "input": "Category: type of rigidity \nWords: firm, private, solid, tough, stiff", "target": "private"}
+{"id": "task141-f8d8754429304a798226e21de08eeed2", "input": "Category: emotional display \nWords: lust, cajole, fawn, hatchling, culture", "target": "hatchling"}
+{"id": "task141-e5fe743d787a46ed96e3527541d512a6", "input": "Category: nutritional value \nWords: fat, ugly, sugar, salt, protein", "target": "ugly"}
+{"id": "task141-4383974fbd4c4bdbabd2c75d020776d6", "input": "Category: boxing terminology \nWords: jab, deck, canvas, fight, suits", "target": "suits"}
+{"id": "task141-2107c5409c484fca9ab855fcfc305076", "input": "Category: moral characteristic \nWords: just, alright, fair, honorable, sunny", "target": "sunny"}
+{"id": "task141-93214d89be8b46999c295eea226026da", "input": "Category: bird \nWords: parrot, sandpiper, crane, winch, davit", "target": "winch"}
+{"id": "task141-0c900f712b7d4ddbb45f99ed0bb0e8a6", "input": "Category: police punishment \nWords: jail time, fine, prison, detailed, jail", "target": "detailed"}
+{"id": "task141-9cf2137e80264d0f803ea316eee49995", "input": "Category: military rank \nWords: major, colonel, normal, general, fighter", "target": "normal"}
+{"id": "task141-aa75784b486e46e493439141d89cd9fd", "input": "Category: chocolate food \nWords: loosen, chocolate, fudge, brownie, tart", "target": "loosen"}
+{"id": "task141-acd9f7eea5934118b006118065a8bde6", "input": "Category: activity \nWords: dunker, seperate, squander, spend, fritter", "target": "dunker"}
+{"id": "task141-5e0e2b02160c48019b97b2f28d0bfb20", "input": "Category: elements \nWords: fire, burn, flame, sack, air", "target": "sack"}
+{"id": "task141-4f281ea5f4f14a8381bee2999f769347", "input": "Category: bird \nWords: neck, egret, crane, windlass, hoist", "target": "windlass"}
+{"id": "task141-daec7abec672476a9a2b8683a0be5101", "input": "Category: poker \nWords: fold, pack, rudder, blind, deck", "target": "rudder"}
+{"id": "task141-7b69e02c2c75402789430bca651ae53e", "input": "Category: aesthetic characteristic \nWords: attractive, fine, level, money, classy", "target": "money"}
+{"id": "task141-bf372e475c404bd5b27fdb7a6b0f4042", "input": "Category: emotional status \nWords: well, detached, content, fine, ticket", "target": "ticket"}
+{"id": "task141-8e96f2b280fa4a258b5c2526bba53bb0", "input": "Category: emotional status \nWords: kind, down, melancholy, opposite of up, unhappy", "target": "opposite of up"}
+{"id": "task141-855567260ef64666ace8f868b177017a", "input": "Category: poker \nWords: board, deck, joker, tko, cards", "target": "tko"}
+{"id": "task141-fe34ee8a74f74b9389091f4ef25b5fd8", "input": "Category: physical activity \nWords: dodge, cow, crouch, duck, get down", "target": "cow"}
+{"id": "task141-2dbbef808e8942328b5ce1f75ea8d46b", "input": "Category: corporate \nWords: amalgamated, alignment, shareholders, firm, stiff", "target": "stiff"}
+{"id": "task141-65c1f745eb984bc5a140f3effb73c135", "input": "Category: animal \nWords: spider, fly, cockroach, walk, walk", "target": "walk"}
+{"id": "task141-0515fec6ed07469a9595bcbadbb6cc7d", "input": "Category: police punishment \nWords: content, penalty, money, suspension, fine", "target": "content"}
+{"id": "task141-9adff92435e64d45bce4f60d62e3eb7d", "input": "Category: animal \nWords: spider, run, waggle, fly, bike", "target": "bike"}
+{"id": "task141-7e16226732db4f6d8216209a2a0c3f06", "input": "Category: animal \nWords: bus, waggle, fly, pounce, ant", "target": "bus"}
+{"id": "task141-3fa1e2d1188b4bf5bbb0622d6e5046b7", "input": "Category: direction \nWords: left, below, down, shameful, ground", "target": "shameful"}
+{"id": "task141-a61931f30f654d12824c975ceb2c8802", "input": "Category: construction \nWords: davit, crane, concrete pourer, excavator, ostrich", "target": "ostrich"}
+{"id": "task141-1408d1497ead45db9231ee89f803a7be", "input": "Category: military rank \nWords: commander, colonel, major, general, plain", "target": "plain"}
+{"id": "task141-0ff2bbe5f3a743bb8541227140b25ada", "input": "Category: outdoor sport activity \nWords: iguana, kayak, canoe, trap, fish", "target": "iguana"}
+{"id": "task141-114d2156563346b398df9b327774a476", "input": "Category: food \nWords: integrity, grub, wiener, frank, provision", "target": "integrity"}
+{"id": "task141-f44a6a98798d474e936780ef3ab5378d", "input": "Category: moral characteristic \nWords: light, fine, fair, balanced, dishonest", "target": "light"}
+{"id": "task141-f30fed506af543a1bfb4c63f75dea3b7", "input": "Category: secretary duty \nWords: file, fax, hardware, make coffee, correspondence", "target": "hardware"}
+{"id": "task141-32d05e8a81e94b899bce11a601b8ed06", "input": "Category: date status \nWords: main, current, prompt, early, delayed", "target": "main"}
+{"id": "task141-ef760f7453cf435c9d17bce0a3ecfaf5", "input": "Category: chocolate food \nWords: tart, pie, truffles, falsification, fudge", "target": "falsification"}
+{"id": "task141-f10eb01ef70445518393fdd613c986e7", "input": "Category: personal characteristic \nWords: classy, popular, mild, cool, funny", "target": "mild"}
+{"id": "task141-0ae18419563848b396bc8de8ccfa0424", "input": "Category: food \nWords: pork, goodies, frank, hot dog, blunt", "target": "blunt"}
+{"id": "task141-e6ed6e87fe8b41d2b29a47baa33c5070", "input": "Category: emotional status \nWords: emotional, emotionalities, down, kind, forward", "target": "forward"}
+{"id": "task141-d3fb49e3533c4cf39db63c5ddc557a32", "input": "Category: direction \nWords: down, forward, unhappy, ground, falling", "target": "unhappy"}
+{"id": "task141-061f206b509f44c79715056bfefe466f", "input": "Category: physical activity \nWords: duck, get down, fall, stoop, cow", "target": "cow"}
+{"id": "task141-0e83f9d8a6f746e484ff169a3cefde78", "input": "Category: moral characteristic \nWords: equitable, impartial, fair, endure, decent", "target": "endure"}
+{"id": "task141-5e8a541fe1c746dba044193b15a58ee7", "input": "Category: bird \nWords: duck, crane, mallet, egret, dump truck", "target": "dump truck"}
+{"id": "task141-76c3614848a44e099169d6471395a0f4", "input": "Category: widespread \nWords: average, typical, common, general, admiral", "target": "admiral"}
+{"id": "task141-ce346fbc02b044c781de997edbddf67f", "input": "Category: chocolate food \nWords: fix, brownie, heavy, chocolate, fudge", "target": "fix"}
+{"id": "task141-86802c4cae3b4c9b9293817b661d0fab", "input": "Category: construction \nWords: steam roller, digger, winch, ostrich, crane", "target": "ostrich"}
+{"id": "task141-69b50cfeb96f414bbb22cc6b1f13b14f", "input": "Category: mode of transportation \nWords: swim, pounce, train, car, fly", "target": "pounce"}
+{"id": "task141-dadf61c75503416982ffd396ea75f84d", "input": "Category: boats \nWords: jab, deck, hull, galley, bow", "target": "jab"}
+{"id": "task141-e6efb41611cb457d9aadfad7a125d058", "input": "Category: aesthetic characteristic \nWords: fine, flyaway, exquisite, neat, bright", "target": "flyaway"}
+{"id": "task141-74a1f877cf9345e78c3f2ab867cd50d1", "input": "Category: direction \nWords: downward, ashamed, descending, down, backward", "target": "ashamed"}
+{"id": "task141-721d477fb6b640d485f98cfb47b8eb82", "input": "Category: location (proximity) \nWords: out of service, close, neighboring, touching, beside", "target": "out of service"}
+{"id": "task141-d91fabb3828c4a289794876ca016bfac", "input": "Category: weather \nWords: raining, fair, clime, cold, trustworthy", "target": "trustworthy"}
+{"id": "task141-15efd8aa85ee441ead3ccd2f1b3af5ec", "input": "Category: fried food \nWords: pastry, cake, fritter, blow, apple", "target": "blow"}
+{"id": "task141-267d594729984bd6a97d28fa0d771b83", "input": "Category: shady activities \nWords: lie, chocolate, smuggled, fudge, banned", "target": "chocolate"}
+{"id": "task141-cff9a4f1cb014b2dbbdee0e0c3b6b954", "input": "Category: geographical property \nWords: plane, flat, level, studio, lined", "target": "studio"}
+{"id": "task141-9a325875ac204d09b05b68f10af98c1c", "input": "Category: boats \nWords: suits, galley, deck, dock, rudder", "target": "suits"}
+{"id": "task141-b95d0cfe89104a7191748730c785d2f5", "input": "Category: type of sandwich \nWords: club, open-faced, picnic, blt, submarine", "target": "picnic"}
+{"id": "task141-2b6f8be2d7414020ac6ac52d8891f1d4", "input": "Category: shady activities \nWords: banned, fix, fudge, unlicensed, rich", "target": "rich"}
+{"id": "task141-1bd8c62fe0f84ca2b6aca0f5dc21b9b9", "input": "Category: type of sandwich \nWords: roll, hoagie, bacon, club, community", "target": "community"}
+{"id": "task141-f175316b9191431895c985360161fd2d", "input": "Category: poker \nWords: draw, deck, call, gunwale, blind", "target": "gunwale"}
+{"id": "task141-ba54b152f67b45ed8101e1d3a257d1a6", "input": "Category: shady activities \nWords: cake, fib, replace, fudge, unlicensed", "target": "cake"}
+{"id": "task141-548bbaec70e54293b00e16ed5426cc73", "input": "Category: moral characteristic \nWords: just, fair, well, dishonest, stormy", "target": "stormy"}
+{"id": "task141-86f8376a7c4646a9b9d76d8e19e12f64", "input": "Category: personal characteristic \nWords: funny, cool, relaxed, tropical, calm", "target": "tropical"}
+{"id": "task141-5fd3de48aeab4e8f88d1d3c99946222c", "input": "Category: moral characteristic \nWords: size, equitable, fair, alright, fine", "target": "size"}
+{"id": "task141-35f558e953ea4bd1b08d5b2a3db3893f", "input": "Category: emotional status \nWords: mad, happy, fine, alright, arrest", "target": "arrest"}
+{"id": "task141-d9ff81c8c96e46c58e687cebeb7d8cf9", "input": "Category: type of sandwich \nWords: club, open-faced, bacon, french toast, dance hall", "target": "dance hall"}
+{"id": "task141-915cc0fcb3a347ba9ebcbe6b1d74467b", "input": "Category: animal \nWords: fish, cow, tiger, stingray, canyoning", "target": "canyoning"}
+{"id": "task141-e15b11037c3d4c1ebdd900cbaae6509a", "input": "Category: ocean \nWords: moon, current, water, prompt, sea", "target": "prompt"}
+{"id": "task141-f70df62f71274593b0a8f260dc7b05f2", "input": "Category: emotional status \nWords: calm, arrest, mad, fine, ok", "target": "arrest"}
+{"id": "task141-964d924dbc5a4d7ca6a9076ce50c105f", "input": "Category: direction \nWords: melancholy, down, opposite of up, up, flat", "target": "melancholy"}
+{"id": "task141-27e099fec2844949af62ffab3ad967ed", "input": "Category: type of sandwich \nWords: club, grilled cheese, picnic, lettuce, hero", "target": "picnic"}
+{"id": "task141-9050cd01bc09487ba6dd5422a8dbb775", "input": "Category: location (proximity) \nWords: nearer, nearest, steady, close, right there", "target": "steady"}
+{"id": "task141-3228c0121da24e91ad9424e61e88a9fc", "input": "Category: emotional status \nWords: decent, alright, fine, comfortable, there", "target": "there"}
+{"id": "task141-06ad2ac88dc94edfa8143494c087694d", "input": "Category: consumer product \nWords: clothing, tools, content, thing, fearful", "target": "fearful"}
+{"id": "task141-f7a1c1a51eb64a9e95b826388f89d38d", "input": "Category: secretary duty \nWords: schedule, errands, file, schedule appointments, hardware", "target": "hardware"}
+{"id": "task141-1e57bd28456c4ea9af512dfa02372d99", "input": "Category: window material \nWords: acrylic, frame, wood, spoon, glass", "target": "spoon"}
+{"id": "task141-7b76f7d0edf04c5eb29e470491610938", "input": "Category: emotional status \nWords: down, emotional, falling, unhappy, ashamed", "target": "falling"}
+{"id": "task141-67831739368f4f58942103a556213b73", "input": "Category: measurement unit \nWords: ounce, foot, kilometer, milimeter, heel", "target": "heel"}
+{"id": "task141-2be1ea1170eb40c783ff06163ca11052", "input": "Category: moral characteristic \nWords: fair, cold, honorable, impartial, equitable", "target": "cold"}
+{"id": "task141-d36acdc302aa4dafa2b56eea6a6fe0a4", "input": "Category: guitar part \nWords: inlays, concerned, string, notes, fret", "target": "concerned"}
+{"id": "task141-d4ae6e7d697b4f19afe5d58420bb4f51", "input": "Category: emotional status \nWords: acceptable, mad, fine, comfortable, probation", "target": "probation"}
+{"id": "task141-1d505dc31dff4583a5da5beea6e4ef82", "input": "Category: poker \nWords: draw, deck, fold, gunwale, suits", "target": "gunwale"}
+{"id": "task141-f1d4596db884468383d6d554355a191d", "input": "Category: emotional display \nWords: lust, swoon, cajole, fawn, bambi", "target": "bambi"}
+{"id": "task141-bb12d4c1b0d5461a8b22768979610d3b", "input": "Category: boxing terminology \nWords: caution, box, canvas, joker, deck", "target": "joker"}
+{"id": "task141-149ad911964f47e180f811cab53f2731", "input": "Category: direction \nWords: disgusted, down, sliding, up, below", "target": "disgusted"}
+{"id": "task141-8dbf382118e743d591606756732e20c1", "input": "Category: direction \nWords: lower, backward, down, falling, shameful", "target": "shameful"}
+{"id": "task141-c580e01f03bd4123b6b88b71f9415613", "input": "Category: boats \nWords: rudder, stern, glove, gunwale, deck", "target": "glove"}
+{"id": "task141-5fab9e0372e0475ea06ecc3f864375c7", "input": "Category: bird \nWords: swallow, heron, crane, flamingo, tackle", "target": "tackle"}
+{"id": "task141-34038150f93a4761bf93a05b5d52946e", "input": "Category: boxing terminology \nWords: deck, tko, box, glove, sail", "target": "sail"}
+{"id": "task141-40db233fee844205beecce9a1b0eb3d6", "input": "Category: emotional status \nWords: loveful, down, emotional, backward, emotionalities", "target": "backward"}
+{"id": "task141-70818ac61b4b4ba485c221ee0db67e63", "input": "Category: animal \nWords: bird, ant, bus, fly, beetle", "target": "bus"}
+{"id": "task141-bacdd0f601c447de83b03c03fc7595ea", "input": "Category: aesthetic characteristic \nWords: level, medium, luke, variety, fair", "target": "luke"}
+{"id": "task141-72a0cbbedcb64b4dbedf347372ab66e1", "input": "Category: nutritional value \nWords: fat, angular momentum, sugars, heavy, iron", "target": "angular momentum"}
+{"id": "task141-cf998a5bcf084e7a9612d16fe4b83bec", "input": "Category: emotional status \nWords: emotionalities, angry, fret, truss rod, nervous", "target": "truss rod"}
+{"id": "task141-ef5eeb1de9e24cddb72498bf3d61e983", "input": "Category: food \nWords: pork, hot dog, integrity, frank, bun", "target": "integrity"}
+{"id": "task141-0e08136e76db43a9830e6e59b12d1ce6", "input": "Category: emotional status \nWords: fearful, file, content, panicked, happy", "target": "file"}
+{"id": "task141-fe70092b306e4f2fa0864240b66ad6b9", "input": "Category: emotional status \nWords: probation, fine, content, alert, detached", "target": "probation"}
+{"id": "task141-6d5bba53108b4eefa2afea0fb3f26c6d", "input": "Category: type of sandwich \nWords: blt, burger, club, submarine, community", "target": "community"}
+{"id": "task141-370c7958f53c43adb4a28ecf896b232d", "input": "Category: baby animals \nWords: fawn, deer, buck, kitten, cajole", "target": "cajole"}
+{"id": "task141-1e2f7fb630764e4ebc89730921117a9f", "input": "Category: shady activities \nWords: cookies, wrongful, fudge, smuggled, smear", "target": "cookies"}
+{"id": "task141-d890c151199842f7a666e547a88da81b", "input": "Category: ocean \nWords: tide, current, flow, detests, whirlpool", "target": "detests"}
+{"id": "task141-238c9261f9d6457eb5560645749f4363", "input": "Category: moral characteristic \nWords: trustworthy, make the grade, balanced, fair, unprejudiced", "target": "make the grade"}
+{"id": "task141-742a9d637e8a4ab693f8c2efb56064cc", "input": "Category: emotional status \nWords: down, south, melancholy, emotional supports, emotional", "target": "south"}
+{"id": "task141-8723c13c1d6849d58230f72b71a6918a", "input": "Category: aesthetic characteristic \nWords: fine, alright, detailed, classy, handsome", "target": "alright"}
+{"id": "task141-e9beff1c17864f5fad3cb4bc1c51e60c", "input": "Category: outdoor sport activity \nWords: fish, hiking, row, shark, canoe", "target": "shark"}
+{"id": "task141-923f7ed1a2e841cdb007e62735795c03", "input": "Category: personal characteristic \nWords: cool, relaxed, unruffled, classy, refreshing", "target": "refreshing"}
+{"id": "task141-1abcc5ef444a42dda38dcd1288347f96", "input": "Category: store status \nWords: not open, gated, close, shut down, touching", "target": "touching"}
+{"id": "task141-697af34501f94c8b861257dd4494c89f", "input": "Category: employment activity \nWords: pay, instruct, heat, fire, scold", "target": "heat"}
+{"id": "task141-7ec27f6d11804b65be3d643bc577e246", "input": "Category: police punishment \nWords: ticket, suspension, pretty, fine, prison", "target": "pretty"}
+{"id": "task141-984f4bdeeea34bf09fa0c9a9757696be", "input": "Category: shady activities \nWords: smear, fudge, molasses, falsification, smuggled", "target": "molasses"}
+{"id": "task141-055c1c4316fb4c6db3cbb5319deb6412", "input": "Category: elements \nWords: fire, burn, ice, air, hire", "target": "hire"}
+{"id": "task141-be0570808aeb4af3995b596e3811f62d", "input": "Category: mode of transportation \nWords: flap, glide, fly, train, bats", "target": "bats"}
+{"id": "task141-cb8ee348da0141d8b558b766daebe09b", "input": "Category: aesthetic characteristic \nWords: jail, beautiful, fine, level, high quality", "target": "jail"}
+{"id": "task141-4ddb0aa7b8e74a7aa95b29161cdc1ffd", "input": "Category: elements \nWords: blaze, water, flame, promote, fire", "target": "promote"}
+{"id": "task141-ee1ddb7eae854f76bc1b60e6802e8672", "input": "Category: military rank \nWords: admiral, popular, fighter, general, lieutenant", "target": "popular"}
+{"id": "task141-37d7b59477014ade9a8444c5a544ca56", "input": "Category: type of rigidity \nWords: inflexible, tough, taut, firm, leverage", "target": "leverage"}
+{"id": "task141-3aaf6bde542349ce803a74f89d593327", "input": "Category: animal \nWords: leap, bike, swim, bee, fly", "target": "bike"}
+{"id": "task141-4f73488c143e4ef3b285b8f279867cb5", "input": "Category: computers \nWords: hardware, sort mail, download, program, file", "target": "sort mail"}
+{"id": "task141-8e0d162a060f4c45bd37c1a4edac9d75", "input": "Category: guitar part \nWords: board, sad, truss rod, jack, fret", "target": "sad"}
+{"id": "task141-8674b860e3d74686af37f36d95c02e2e", "input": "Category: ocean \nWords: belated, signal, sea, current, flow", "target": "belated"}
+{"id": "task141-74e580a31f414d799ec8bc66e9c48c36", "input": "Category: nutritional value \nWords: fiber, salt, fat, ugly, sugar", "target": "ugly"}
+{"id": "task141-261a4aa117a948f6825d0725ead3c01b", "input": "Category: computers \nWords: file, ram, image, organize, hardware", "target": "organize"}
+{"id": "task141-33c8c0816a91440290ea26fe1251105d", "input": "Category: moral characteristic \nWords: honesty, loyalty, matter of fact, entree, frank", "target": "entree"}
+{"id": "task141-565175e5988848179bb9b54bf58adc48", "input": "Category: boats \nWords: deck, galley, rudder, stern, chips", "target": "chips"}
+{"id": "task141-eaeb055762ee448b9464c478a81349aa", "input": "Category: emotional status \nWords: disgusted, miserable, emotionalities, backward, down", "target": "backward"}
+{"id": "task141-92144beca3ee493cb2953c28c25b57ef", "input": "Category: bird \nWords: flamingo, crane, goose, davit, hummingbird", "target": "davit"}
+{"id": "task141-b6b234b4d44f4701af5e3414c889f35b", "input": "Category: chocolate food \nWords: truffles, mangle, cupcake, rich, fudge", "target": "mangle"}
+{"id": "task141-1d6aa1906d224ad0a0764c1667aae7bc", "input": "Category: direction \nWords: forward, down, downward, ground, ashamed", "target": "ashamed"}
+{"id": "task141-608f507da2a24bbdadf32b15b3235f27", "input": "Category: moral characteristic \nWords: unprejudiced, cool, unjust, decent, fair", "target": "cool"}
+{"id": "task141-7e7e1ab6528e4215ba4795d82d7122c9", "input": "Category: food \nWords: frank, wienerwurst, pork, sausage, courage", "target": "courage"}
+{"id": "task141-ee922af2bbc249bc84701d3dc210b4e1", "input": "Category: police punishment \nWords: money, content, penalty, fine, jail time", "target": "content"}
+{"id": "task141-19aa159b12074a5995ba231c57c72552", "input": "Category: bird \nWords: crane, neck, hummingbird, davit, steam roller", "target": "steam roller"}
+{"id": "task141-59a1dbf428cc4e14af09f245cc507a33", "input": "Category: guitar part \nWords: emotional upsets, string, pick, fret, jack", "target": "emotional upsets"}
+{"id": "task141-a6d66f1c00ed4d6fafd7bd9eb655b560", "input": "Category: moral characteristic \nWords: blunt, harsh, courage, frank, bun", "target": "bun"}
+{"id": "task141-f8255705871c4cc0b0d35987a5747318", "input": "Category: emotional status \nWords: angry, board, fret, emotional state, bored", "target": "board"}
+{"id": "task141-c1a17ff5b2c141a692c0c942bda9cc38", "input": "Category: aesthetic characteristic \nWords: fair, pale, even, size, unjust", "target": "unjust"}
+{"id": "task141-a3890f7a547f431f93cfa43703548e97", "input": "Category: social gathering \nWords: picnic, doorstep, cinema, club, group", "target": "doorstep"}
+{"id": "task141-808f249e6bd64ca0a52523691e2677da", "input": "Category: aesthetic characteristic \nWords: fair, medium, light, unjust, flaxen", "target": "unjust"}
+{"id": "task141-4c839183e94e41589301bcf99686b2f3", "input": "Category: poker \nWords: blind, chips, queen, gunwale, deck", "target": "gunwale"}
+{"id": "task141-d0f55aef62254c24bbcd212f37527b13", "input": "Category: guitar part \nWords: inlays, concerned, fret, fingerpick, output cord", "target": "concerned"}
+{"id": "task141-26bb8627ddf4456b8ddf1915d48a4858", "input": "Category: moral characteristic \nWords: balanced, color, fair, alright, dishonest", "target": "color"}
+{"id": "task141-9d14717d7a884458b5e8fd0b03edf2e0", "input": "Category: shady activities \nWords: truffles, falsification, mangle, lie, fudge", "target": "truffles"}
+{"id": "task141-30e2537f3c0349a99407d49cba9049a8", "input": "Category: measurement unit \nWords: meter, inch, foot, heel, pound", "target": "heel"}
+{"id": "task141-fcbb6f314c97439eb98a33f19d08b71b", "input": "Category: aesthetic characteristic \nWords: size, texture, level, fair, trustworthy", "target": "trustworthy"}
+{"id": "task141-8e5f8baccd2b45ffb875fbd355318b4f", "input": "Category: direction \nWords: right, up, emotional supports, forward, down", "target": "emotional supports"}
+{"id": "task141-b9f7149dee75454d856bfdd128128f17", "input": "Category: season \nWords: leaves, fall, jump, autumn, winter", "target": "jump"}
+{"id": "task141-31e5154a68f24e9c894618d39355d4a9", "input": "Category: direction \nWords: south, loveful, down, left, falling", "target": "loveful"}
+{"id": "task141-c9f9349a20594c5caacd2c0933698e07", "input": "Category: moral characteristic \nWords: decent, fair, loyal, deal, unprejudiced", "target": "deal"}
+{"id": "task141-e3ee5f0c4fe247e988adae78cd5762cb", "input": "Category: fried food \nWords: croquet, fritter, goodbye, dumpling, pastry", "target": "goodbye"}
+{"id": "task141-66afa99e7b6a4ed297d63ccb01626510", "input": "Category: shady activities \nWords: smuggled, fudge, cupcake, fix, lie", "target": "cupcake"}
+{"id": "task141-6d0a60972500416bb869e88ea48039ee", "input": "Category: chocolate food \nWords: brownie, replace, cupcake, brownies, fudge", "target": "replace"}
+{"id": "task141-f25ed3f0e100464dab00a8e1d574b311", "input": "Category: shady activities \nWords: fib, fudge, falsehood, invent, cake", "target": "cake"}
+{"id": "task141-5d6b0d2c29754043b561c3b11c8c5896", "input": "Category: elements \nWords: flame, empower, fire, blaze, water", "target": "empower"}
+{"id": "task141-664ea4da8c6d41988f92f2fb3105defd", "input": "Category: aesthetic characteristic \nWords: medium, unjust, flaxen, fair, texture", "target": "unjust"}
+{"id": "task141-7b2b98fea3ba40a4b35c6f51b578b5d2", "input": "Category: moral characteristic \nWords: goodies, precise, blunt, brash, frank", "target": "goodies"}
+{"id": "task141-9f211e08c68a4d3e8946a75a28f9fab3", "input": "Category: military rank \nWords: fighter, colonel, cadet, regular, general", "target": "regular"}
+{"id": "task141-a7f13b71b94d4db8ba3160241199ca89", "input": "Category: mode of transportation \nWords: flap, soar, jog, fly, dangle", "target": "dangle"}
+{"id": "task141-851e97b026614842ada161be97e54d04", "input": "Category: emotional status \nWords: fret, emotional upsets, jack, emotional state, emotionalities", "target": "jack"}
+{"id": "task141-7f85ced2dde34256b63c0ab03eeab9c2", "input": "Category: food \nWords: goodies, wienerwurst, frank, hot dog, brash", "target": "brash"}
+{"id": "task141-55639248ccd747749e262f2e0fe63950", "input": "Category: animal \nWords: iguana, trap, sea turtle, fish, bat", "target": "trap"}
+{"id": "task141-fbabdc704fb84c1c97b90f7d5b9f98a9", "input": "Category: emotional status \nWords: annoyed, acceptable, exquisite, detached, fine", "target": "exquisite"}
+{"id": "task141-030064909c43490bb2fab77351903ba9", "input": "Category: employment activity \nWords: let go, blaze, recruit, sack, fire", "target": "blaze"}
+{"id": "task141-96c3d18586614680823d38dbf5226cb5", "input": "Category: boxing terminology \nWords: deck, sail, punch, tko, knockout", "target": "sail"}
+{"id": "task141-9a82f7e315204b37a8f45ccbe6e2ec94", "input": "Category: secretary duty \nWords: errands, schedule appointments, image, make coffee, file", "target": "image"}
+{"id": "task141-c30b8a77518745f691edbbb44d433342", "input": "Category: physical activity \nWords: lift, exercise, fall, cold, run", "target": "cold"}

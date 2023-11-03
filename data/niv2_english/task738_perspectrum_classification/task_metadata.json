@@ -1,0 +1,7 @@
+{
+    "summary": "Decide whether the given perspective supports or undermines the given claim.",
+    "category": "Textual Entailment",
+    "domain": "Debatepedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

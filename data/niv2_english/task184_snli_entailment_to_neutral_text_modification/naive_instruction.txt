@@ -1,0 +1,1 @@
+Given two sentences that agree with each other, modify the second sentence so that they do not clearly agree or disagree.

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question and its answer, generate an explanation statement.",
+    "category": "Explanation",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

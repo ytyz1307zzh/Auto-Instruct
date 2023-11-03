@@ -1,0 +1,7 @@
+{
+    "summary": "Given a paragraph from a research paper, your task is to generate the title of the paper",
+    "category": "Title Generation",
+    "domain": "Scientific Research Papers",
+    "input_lang": "English",
+    "output_lang": "English"
+}

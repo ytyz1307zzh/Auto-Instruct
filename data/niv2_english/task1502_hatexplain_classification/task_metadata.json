@@ -1,0 +1,7 @@
+{
+    "summary": "Classification of type of tweet in Hatexplain",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

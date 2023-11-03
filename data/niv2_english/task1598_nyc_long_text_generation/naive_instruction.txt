@@ -1,0 +1,1 @@
+Creating sentences based off of some information from the NYC database

@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying the sentence to an emotion class",
+    "category": "Sentiment Analysis",
+    "domain": "Narrative, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

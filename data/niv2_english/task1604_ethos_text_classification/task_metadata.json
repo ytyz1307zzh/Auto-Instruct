@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying text to Hate or Not Hate",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media",
+    "input_lang": "English",
+    "output_lang": "English"
+}

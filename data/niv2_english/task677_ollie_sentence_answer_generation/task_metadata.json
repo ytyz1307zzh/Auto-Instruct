@@ -1,0 +1,7 @@
+{
+    "summary": "Generating sentences based on given inputs in Ollie dataset",
+    "category": "Data to Text",
+    "domain": "Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

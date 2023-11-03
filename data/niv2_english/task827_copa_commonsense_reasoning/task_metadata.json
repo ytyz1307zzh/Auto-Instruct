@@ -1,0 +1,7 @@
+{
+    "summary": "Given a premise and two alternative,  select the alternative that more plausibly has a causal relation with the premise",
+    "category": "Cause Effect Classification",
+    "domain": "Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

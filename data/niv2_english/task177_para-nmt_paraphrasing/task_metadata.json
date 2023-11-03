@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence, rephrase it using another words while retaining meaning same as input.",
+    "category": "Paraphrasing",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a query, classify whether it's a good or bad query

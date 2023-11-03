@@ -1,0 +1,7 @@
+{
+    "summary": "Given a text containing an ambiguous pronoun, a pronoun, and two candidate names, determine what the pronoun refers to and classify the answers into A, B, or Neither",
+    "category": "Coreference Resolution",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

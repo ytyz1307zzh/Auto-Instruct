@@ -1,0 +1,7 @@
+{
+    "summary": "Answering a multiple-choice question",
+    "category": "Question Answering",
+    "domain": "Healthcare",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generating questions by including a specific subject and certain relation to Context (based on qa_zre dataset)",
+    "category": "Question Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

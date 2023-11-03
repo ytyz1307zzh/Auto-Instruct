@@ -1,0 +1,7 @@
+{
+    "summary": "Find the date of birth of a celebrity given a sentence bio",
+    "category": "Information Extraction",
+    "domain": "Pop Culture",
+    "input_lang": "English",
+    "output_lang": "English"
+}

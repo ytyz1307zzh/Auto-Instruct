@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying sentence based on the condition that it contains a motion of a physical entity or not.",
+    "category": "Information Extraction",
+    "domain": "News, Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

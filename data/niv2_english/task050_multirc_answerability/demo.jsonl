@@ -1,0 +1,3 @@
+{"id": "task050-52db86a440df4d1bb50e6b9a0cc6eb64", "input": "Sentence: The smell of the cake made Annie hungry. \nQuestion: What did Annie and her mother make?", "target": "Yes."}
+{"id": "task050-4787e3c38c1348be8e8ea789b5fe4262", "input": "Sentence: Inside was a cake. \nQuestion: What did Mary do with the cake?", "target": "No."}
+{"id": "task050-92e2d5c529fe4d4fa4101257636dc251", "input": "Sentence: Now Kathmandu boasts several luxury such as the Hyatt Regency, Dwarika's, theYak & Yeti, The Everest Hotel, Hotel Radisson, Hotel De L'Annapurna, The Malla Hotel, Shangri-La Hotel (which is not operated by the Shangri-La Hotel Group) and The Shanker Hotel. \nQuestion: De L'Annapurna is an example of what sort of hotel?", "target": "Yes."}

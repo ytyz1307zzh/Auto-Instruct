@@ -1,0 +1,7 @@
+{
+    "summary": "Given a tuple, determine whether PersonX needs what is mentioned in the Tail before the Head or not.",
+    "category": "Commonsense Classification",
+    "domain": "Sociology, Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given two sentences and 10 genre choices, determine the genre to which the sentences belong.

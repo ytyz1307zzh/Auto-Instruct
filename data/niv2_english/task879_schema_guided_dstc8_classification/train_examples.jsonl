@@ -1,0 +1,89 @@
+{"id": "task879-9fa5a8fb5316408a8891940b90c21413", "input": "Their phone number is 510-238-1100, and they only serve American food. It seems like there aren't any reservations available for 7:15 pm. Would you like me to try to book a reservation at Mua Oakland for 3 people on March 13th at 7:30 pm instead?", "target": "No"}
+{"id": "task879-06c263c760db418390cb07f3d1fb358e", "input": "Okay. I will change the restaurant to El Amigo Burrito in Santa Clara. Does this work", "target": "No"}
+{"id": "task879-2048335e1ea440b697b9827d0c94206e", "input": "The movie failed to play, is there anything else I can help you with?", "target": "No"}
+{"id": "task879-f03b53cf780640c9840dc1e0ecd303e4", "input": "They don't serve alcohol unfortunately. also. Sorry I failed to make a reservation, but I still think we can book Kabuto Sushi, should I try for today 1 pm for one again?", "target": "No"}
+{"id": "task879-1f16724a528644418002189fd9861444", "input": "I'm sorry, I couldn't make the reservation. They don't serve alcohol and they have a brunch menu. Would you like me to try to make a reservation tomorrow for 3 people at 1 PM at West Park Bistro?", "target": "No"}
+{"id": "task879-086015555a574a67b21e36ab01f2f784", "input": "Could you please confirm the following details? Reservation for 2 guests today at 5 pm at Sociale in San Francisco.", "target": "No"}
+{"id": "task879-1ca84601aa9c4c4d97aa6e41a234f8c9", "input": "Apologies. I was unable to book this reservation. Is there anything else that I may help you with?", "target": "No"}
+{"id": "task879-499f54862d6c49128277ad561d8c7a06", "input": "I was unable to book that for you. Would you like me to try a reservation for 1 person today at 1:30 PM at the House of Curries?", "target": "No"}
+{"id": "task879-dfeea3acbead43598420a57462f1958b", "input": "Sorry, the reservation was unsuccessful. What else may I do for you?", "target": "No"}
+{"id": "task879-ac16274f299c4c02a0d3107d2979b8ba", "input": "I can do that but before I do lets just confirm the information I have. You would like a reservation for 1, at Katsu Los Gatos, located in Los Gatos, on March 12th, at 6 pm. Would you like me to make the reservation with this information?", "target": "No"}
+{"id": "task879-afaf7579074641f7824893858fce4d0f", "input": "I was unable to make the reservation for that time. Should I try again at Pescatore for today at 12:30 pm for 2 people?", "target": "No"}
+{"id": "task879-c9c6d049b5934b0a9a912b16d909b91c", "input": "Nope, sorry please can you make it on the 13th in Sunnyvale?", "target": "No"}
+{"id": "task879-8d2cfc30da25449d97b6b78cb9120976", "input": "I would like to watch a movie. Can you find the movie Fighting with My Family?", "target": "No"}
+{"id": "task879-8a28b78a57ca42b089b4cbdec88e2675", "input": "Thank you very much?", "target": "No"}
+{"id": "task879-a7d38fdecd1b4676b56de30af06fa2a6", "input": "sorry I could not make a reservation at that time. They are a French Restuarant. Shall I try to book a reservation for 2 today at 6 pm at Bistro Liaison?", "target": "No"}
+{"id": "task879-b3ad2126ca0245bfb79d6d85f089f490", "input": "Sorry the reservation was failed.Can I help you with something else?", "target": "No"}
+{"id": "task879-337cdb70189440ff93ba65e599db67d5", "input": "Sorry, I was unable to make a reservation. Is there anything else I can help you with?", "target": "No"}
+{"id": "task879-07b5d12c13134707a7369f63f4fb8fe0", "input": "Can you confirm? The booking table is at Hikari Sushi & Bar, the city is in San Francisco, the reservation is at 7:15 pm, and there are two seats for 2 people. And lastly, it's today.", "target": "No"}
+{"id": "task879-17db844bc751413ea5b4d9cf461d8be3", "input": "Unfortunately My No.1 Sushi & Tofu is all booked at that time. Would a table for 1 at 11 am today work instead?", "target": "No"}
+{"id": "task879-b25d5e80253b490380bac1bccc50b75e", "input": "Yes do they sere Alcohol", "target": "Yes"}
+{"id": "task879-7e9c844061c34307b96503847eef4036", "input": "I'm sorry, I was unable to reserve that. Is there anything else I can help with?", "target": "No"}
+{"id": "task879-e8dfb81f6b4743f9a1b44f3dbec61cec", "input": "I apologize. A reservation could not be made. Do you need help with anything else?", "target": "No"}
+{"id": "task879-a9b9099fef024496b0fd6c19eb433cd0", "input": "Sorry, the reservation failed. May I help you with anything else?", "target": "No"}
+{"id": "task879-4dd3c49072f848cfa8ecb20a4ab3c07f", "input": "What is the Restaurant address, Do they have live music, I love it", "target": "Yes"}
+{"id": "task879-38fa1019e6ae424380f2bff17954131f", "input": "Give me other suggestions as well", "target": "Yes"}
+{"id": "task879-0789e2645e2c421abfb0556fdb95e47c", "input": "Can you make me a reservation at Carnitas Michoacan in Gilroy at 11:15 am. Any day will work for me.", "target": "No"}
+{"id": "task879-e642a8ff33484820b2e0a2d44c539039", "input": "Oh and can you make it The Van's in Belmont?", "target": "No"}
+{"id": "task879-51ce29c5a79d41b4b70dd19acd561f3d", "input": "What City would you like the restaurant to be in? What time would you like to make your reservation for? Do you know what restaurant you would like to eat at?", "target": "Yes"}
+{"id": "task879-0c97232e34bb44909b25d1ca2a9f7561", "input": "Yes is good .Tell me please their address", "target": "Yes"}
+{"id": "task879-b9fd3ca9f91143b996c1160b23f1412a", "input": "Nope, Please can you reserve at Sunnyvale.", "target": "No"}
+{"id": "task879-7337a2ac745e4a0099324ec702342d02", "input": "Sorry, the reservation did not go through. May I help you with something else?", "target": "No"}
+{"id": "task879-2ce329c7ffec47148808d3db1872b1f9", "input": "So you want a reservation for 2 at Ta Restaurant in Milpitas? The reservation is for today at 5:30 pm.", "target": "No"}
+{"id": "task879-f9465d843bb44fcba4cd2aaa60919837", "input": "Please confirm that you want to watch Shine a light without subtitles.", "target": "No"}
+{"id": "task879-322b58a4e5554363b71f516756e2fee3", "input": "Is there anything else I can help you with.", "target": "Yes"}
+{"id": "task879-478ce98a90b74052bc4847a47e3de462", "input": "Sure? Please tell me which city would you like to find a restaurant in and also if you prefer a specific type of food.", "target": "Yes"}
+{"id": "task879-77a7c9d23b4644268a4148ad71297325", "input": "Okay! Here are the details. For 2 persons, a table is booked for dining at the hotel Clementine's in San Ramon at 4:45 pm today. Please can you confirm me.", "target": "No"}
+{"id": "task879-bf3938df88834fff90c8cb1c68ac9721", "input": "Please confirm the following: Reserving a table for 2 at Angel Fish in Alameda for today at 12 pm.", "target": "No"}
+{"id": "task879-30283426ebb04baf9a43e6705604ef36", "input": "Sure! No Problem! I've booked a table for you at the restaurant Clementine's in Sunnyvale. Please can you confirm me.", "target": "No"}
+{"id": "task879-4cdf2072a57b47539d5cbe9a7949c144", "input": "Please confirm that you want to watch The Poseidon Adventure without subtitles.", "target": "No"}
+{"id": "task879-51c01bc182054f5493b37ef2dc1d67b4", "input": "I want to reserve a table at a restaurant.", "target": "No"}
+{"id": "task879-1e138b6cb30c4cce89d44c95bccfc4b6", "input": "Can you please confirm the books details: A reservations for tomorrow is set for 4 people at 12 pm at the Maruya restaurant in San Francisco.", "target": "No"}
+{"id": "task879-caaf1852becd44c58a74c371999a9236", "input": "OK, do you have a preferred restaurant? What time and city are you interested in?", "target": "Yes"}
+{"id": "task879-8388fbeca04e46e0a384720b24989352", "input": "Please confirm: The reservation is today at 6 pm for 6 people for a table at Zaoh in San Francisco.", "target": "No"}
+{"id": "task879-545e877d13ae4e2990ad6c295aab1c71", "input": "Please tell me the address of the restaurant and their general prices.", "target": "Yes"}
+{"id": "task879-7cd996c5fa90423aa77fc87dc97eb436", "input": "I'm not even sure where they're located, I might need that info. Also do you know if they have live music?", "target": "Yes"}
+{"id": "task879-f39ad3e263884805b0c7b8c1e0e39fda", "input": "Please confirm you want to watch Mary Magdalene with subtitles.", "target": "No"}
+{"id": "task879-18ae6f4a6cbb4de19fdeb2c484bef47e", "input": "I can help you with that, let's gather some specifics first. Do you have a particular restaurant in mind, if not what area would you like me to look in, and what time do you need the reservation set for?", "target": "Yes"}
+{"id": "task879-44be596d97364783adc0d5e0a3de5d0c", "input": "Please confirm you want to watch Shine a Light with subtitles.", "target": "No"}
+{"id": "task879-7fddc9a936294bc4befd4c4a8d0b0e7d", "input": "Which city and what type of food you are interested in like Chinese , Indian or any other thing", "target": "Yes"}
+{"id": "task879-c79569aa626741459bbd8bc41bd9b72c", "input": "Tell me the address.", "target": "Yes"}
+{"id": "task879-ca1dbcb1f6184cd58d66c1527b29a541", "input": "I need to reserve a table.", "target": "No"}
+{"id": "task879-8df6936094d047c2b2449b42a137f753", "input": "Yes, that is great. Can you give me the restaurant address.", "target": "Yes"}
+{"id": "task879-d900259a07c14e43b7d31a8e1a4a82cc", "input": "Give me other recommendations please.", "target": "Yes"}
+{"id": "task879-6ab6ea271adc4406ac86ed7627db994c", "input": "I was unable to make the reservation for 2 guests today at 5 pm. Would you like me to try 5:30 pm? The contact number for Sociale is 415-921-3200.", "target": "No"}
+{"id": "task879-23c3dacbbd7141cbbdd65545e22adfa7", "input": "I would like to make a reservation at a restaurant.", "target": "No"}
+{"id": "task879-f17d2851b87f4200b7cd79dc851ff23d", "input": "Sure, what type of cuisine would you like? Indian, Mexican, something else?", "target": "Yes"}
+{"id": "task879-f6ba2cf3bf4b4051aae862a9eeea3252", "input": "Okay that sounds good to me. Find me the address and search weather the price is lavish?", "target": "Yes"}
+{"id": "task879-f3425213168f4c15801566a64baab7f5", "input": "Please help me make a restaurant reservation for later today.", "target": "No"}
+{"id": "task879-3623fbd7922d4fc1ab550e4b736f6fec", "input": "May I have their address please? Do they play live music there?", "target": "Yes"}
+{"id": "task879-2763f88139b949c8a97e64640ea92337", "input": "I want to book a reservation at a restaurant.", "target": "No"}
+{"id": "task879-57654f24fb2c453d98cfd378513b3de4", "input": "Perfect! Is it a budget place? And do they have live music?", "target": "Yes"}
+{"id": "task879-c32acd4faf3a44ae9072d272241fbf8f", "input": "i want to watch the movie now", "target": "No"}
+{"id": "task879-105d6045b6d6422397f2dbb1158417c2", "input": "What kind of food are you looking for? You can search for Italian, Mexican or anything else.", "target": "Yes"}
+{"id": "task879-b600896db04742e8a23fd99a8fd6f7d8", "input": "I'd like to make reservations at a restaurant.", "target": "No"}
+{"id": "task879-2ef4d263ad3f4f509e472e9bee2a02c3", "input": "I would like to watch How to Train Your Dragon.", "target": "No"}
+{"id": "task879-4e3a4cbeb07f449c91250275ecbcdf70", "input": "I would like to book a reservation for a place to eat.", "target": "No"}
+{"id": "task879-a2577ff8e97b4460b2e3a379f8cda7a6", "input": "Do you know if they have live music? Also, please give me their number.", "target": "Yes"}
+{"id": "task879-ad23a8ff1d774f0ca826d36399ba218f", "input": "Yes. Who directs this movie?", "target": "Yes"}
+{"id": "task879-7825d1c66e6f4813b2bd7d01e2904421", "input": "Which city should I search in? What kind of food are you looking for? You can say Italian, Mexican, or anything else.", "target": "Yes"}
+{"id": "task879-6d96101165a645a48a80efb3605e6603", "input": "i want to booking a restaurant for 2 people", "target": "No"}
+{"id": "task879-5f484dca04b34a86b859443f16090475", "input": "Where are you located? What kind of food do you like? I can find Chinese restaurants, American restaurants, and others.", "target": "Yes"}
+{"id": "task879-34a634775834480b817902754bcb8943", "input": "Do you have a specific type of cuisine in mind? Feel free to choose American, Mexican, or any other cuisine.", "target": "Yes"}
+{"id": "task879-e9c6b7d5418a44afa984f54e53d96d32", "input": "What kind of food do you wish like Chinese, Indian or anything else.", "target": "Yes"}
+{"id": "task879-3aab1961d74b47ab9686832479eb2f71", "input": "I'd like to make a reservation at China Villa.", "target": "No"}
+{"id": "task879-724d5bbd69a149739f97b016629ad3c5", "input": "I would like to make a reservation at a restaurant", "target": "No"}
+{"id": "task879-04c2c7e8d1cc4d1692195c20bd285223", "input": "Please confirm you would like me to book a reservation at El Amigo in San Francisco at 5 pm today for 1 person.", "target": "No"}
+{"id": "task879-37179893c8d844f1ab25a187f8a98939", "input": "Its alright, now please confirm, reservation on the next Friday at 11:30 am", "target": "No"}
+{"id": "task879-5838a6443b7c4f8381206a4cb964594b", "input": "Can you tell me if they serve Punjabi, I've been wanting to try that. I will also need the address for my GPS.", "target": "Yes"}
+{"id": "task879-b1280c7b023843fd81b7a0c25a4071d6", "input": "Tell me the time for the reservation.", "target": "Yes"}
+{"id": "task879-8fe60c4686034cf49d676535a6279e1c", "input": "Are their prices extravagant? How can I contact them.", "target": "Yes"}
+{"id": "task879-2e99b833aa664439b5ccf6342933f0d4", "input": "i want to make a reservation at restaurant", "target": "No"}
+{"id": "task879-ac3e35ea932c469fad448bdfa2f3ddcd", "input": "Can you please confirm the details for your reservation: A reservation for 3 people at the Maruya restaurant in San Francisco is booked for March 13th at 7 pm.", "target": "No"}
+{"id": "task879-5445b381ac2b4d7eacc402b34bf67bdc", "input": "which city should i search in? what time is the reservation for? do you have a preferred restaurant", "target": "Yes"}
+{"id": "task879-423028d4b7b344d1a07655a2eb5e8594", "input": "Hello, I'd like to make a reservation at My No.1 Sushi for 1.", "target": "No"}
+{"id": "task879-af8a72e91fcf44d39bdfa65c50c6f0dc", "input": "I'd like to make a reservation at a restaurant please.", "target": "No"}
+{"id": "task879-6fc2395b2f9342dd8cdb1124fb0041dd", "input": "Please confirm: I'm booking a table at Mcdonald's for 5 people at 6 pm today in San Francisco.", "target": "No"}
+{"id": "task879-036d50032c674278b8c7f58fe9cc21dd", "input": "Yes. Can you get me a number to contact them?", "target": "Yes"}
+{"id": "task879-169998b519cb4848916229f49770f93b", "input": "I want to watch a movie now.", "target": "No"}
+{"id": "task879-a6bcacfede024c978b95019586eae73f", "input": "I'm a little concerned about price. Would you say that the price range is not very costly.?", "target": "Yes"}

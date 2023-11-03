@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers to DSTC 3 conversations related questions",
+    "category": "Dialogue State Tracking",
+    "domain": "Public Places, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

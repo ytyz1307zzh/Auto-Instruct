@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a SQL statement based on a description of what the SQL statement does.",
+    "category": "Text to Code",
+    "domain": "SQL",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Creating text (intent) based on event2Mind event prompts

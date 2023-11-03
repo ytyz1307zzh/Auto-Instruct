@@ -1,0 +1,7 @@
+{
+    "summary": "Generating Yes/No answer to Ohsumed dataset questions",
+    "category": "Information Extraction",
+    "domain": "Scientific Research Papers",
+    "input_lang": "English",
+    "output_lang": "English"
+}

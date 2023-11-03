@@ -1,0 +1,7 @@
+{
+    "summary": "Choose an answer to the given question based on the paragraph",
+    "category": "Question Answering",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

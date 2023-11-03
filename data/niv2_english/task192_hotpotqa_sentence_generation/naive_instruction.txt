@@ -1,0 +1,1 @@
+Given a context paragraph, question and corresponding answer, generate the supporting facts that helps in answering question.

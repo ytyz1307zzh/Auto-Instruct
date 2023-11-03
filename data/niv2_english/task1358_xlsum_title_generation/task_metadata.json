@@ -1,0 +1,7 @@
+{
+    "summary": "Generates title for the text in xlsum",
+    "category": "Title Generation",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

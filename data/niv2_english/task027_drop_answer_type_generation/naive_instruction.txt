@@ -1,0 +1,1 @@
+Finding the answer type of a reasoning question.

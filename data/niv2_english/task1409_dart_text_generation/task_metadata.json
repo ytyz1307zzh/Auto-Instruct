@@ -1,0 +1,7 @@
+{
+    "summary": "Generating sentences based on DART RDF relationships",
+    "category": "Data to Text",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

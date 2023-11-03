@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a question based on the given context and an answer.",
+    "category": "Question Generation",
+    "domain": "Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

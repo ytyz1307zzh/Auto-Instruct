@@ -1,0 +1,3 @@
+{"id": "task1201-b7862ff85c6c4c01a2a7714fb34dbfa2", "input": "Head: PersonX returns to PersonX's house<sep>Tail: to be at home", "target": "Yes"}
+{"id": "task1201-6e5167d00dcd46aaa9ada440cb0328bb", "input": "Head: PersonX bears ___ unto the PersonY<sep>Tail: to than him", "target": "No"}
+{"id": "task1201-d65f77516c5e4f8d8d24e224e9ced673", "input": "Head: PersonX buys an apple<sep>Tail: to satisfy hunger", "target": "Yes"}

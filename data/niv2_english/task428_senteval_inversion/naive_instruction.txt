@@ -1,0 +1,1 @@
+Given a sentence, judge whether or not two consecutive word have been inverted.

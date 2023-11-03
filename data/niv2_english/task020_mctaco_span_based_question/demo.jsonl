@@ -1,0 +1,3 @@
+{"id": "task020-c66022d9bc3b4ebba334446addb8590e", "input": "Sentence: Wallace lives in Athens, W. Va., with her husband Rob, 37, and her daughters Rachel, 11, and Claire, 5. \nQuestion: Is Wallace still married?", "target": "Yes."}
+{"id": "task020-e3e65a368b284799aa24683558e95cf6", "input": "Sentence: Then the green ball told the orange ball that blue ball was stupid. \nQuestion: When did the green ball approach the orange ball?", "target": "No."}
+{"id": "task020-ab7698566bdd443db3fb1aea02352cad", "input": "Sentence: Natural Levees A flooding river often forms natural levees along its banks. \nQuestion: Will a levee go away?", "target": "Yes."}

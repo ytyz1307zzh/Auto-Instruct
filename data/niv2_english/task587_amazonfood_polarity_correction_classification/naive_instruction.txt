@@ -1,0 +1,1 @@
+Given a review of amazon food products and it's polarity, you have to classify whether the polarity is correct or not.

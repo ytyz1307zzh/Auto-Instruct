@@ -1,0 +1,7 @@
+{
+    "summary": "Creating sentences based off of some information from the NYC database",
+    "category": "Data to Text",
+    "domain": "Public Places -> Restaurants, Reviews -> Restaurants",
+    "input_lang": "English",
+    "output_lang": "English"
+}

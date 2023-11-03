@@ -1,0 +1,7 @@
+{
+    "summary": "Generate headline (summary) for legal act article",
+    "category": "Title Generation",
+    "domain": "Law",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Recognize and label proper nouns (Named Entity Recognition)",
+    "category": "Named Entity Recognition",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given pair of amazon review and polarity, generate True or False when a review matches polarity

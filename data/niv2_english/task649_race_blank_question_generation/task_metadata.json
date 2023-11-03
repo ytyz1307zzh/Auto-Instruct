@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a fill-in-the-blank question based on the given article and an answer.",
+    "category": "Question Generation",
+    "domain": "English Exams",
+    "input_lang": "English",
+    "output_lang": "English"
+}

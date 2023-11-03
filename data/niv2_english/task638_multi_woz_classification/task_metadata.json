@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying dialouge into User and System",
+    "category": "Speaker Identification",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

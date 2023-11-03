@@ -1,0 +1,3 @@
+{"id": "task880-f48306b797c04441996bd79f7ad1cd54", "input": "Is there a specific event that suits your fancy, like music or sports?", "target": "REQUEST"}
+{"id": "task880-0c9d77249f2d4da2998b611211aec99f", "input": "I and my friends are willing to go to events. Could you find some interesting events?", "target": "INFORM_INTENT"}
+{"id": "task880-6f1181136dd84fb8a7bfaeb0a74785e5", "input": "I'm not a big Vulfpeck fan. Do you have anything else?", "target": "REQUEST_ALTS"}

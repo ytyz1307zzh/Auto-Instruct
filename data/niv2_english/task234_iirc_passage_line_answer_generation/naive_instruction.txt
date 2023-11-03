@@ -1,0 +1,1 @@
+Given a question and context passage, determine which sentence in the passage has terms that can be used to obtain further information needed to answer the question.

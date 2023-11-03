@@ -1,0 +1,3 @@
+{"id": "task1202-2b705a4ec8c444f091cd4bb37781d868", "input": "Head: PersonX asks PersonX's grandma<sep>Tail: to have a question for grandma", "target": "Yes"}
+{"id": "task1202-a4ef92c4719b4cdc8b97462e7ea6df8d", "input": "Head: PersonX always tries<sep>Tail: to succeed", "target": "No"}
+{"id": "task1202-ae18662be5894c07a5a5b4ee85d575b0", "input": "Head: PersonX closes PersonY's eyes again<sep>Tail: none", "target": "Yes"}

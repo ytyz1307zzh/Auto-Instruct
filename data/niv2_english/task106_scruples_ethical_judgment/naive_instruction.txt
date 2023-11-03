@@ -1,0 +1,1 @@
+Given two actions choose the one that is considered less ethical.

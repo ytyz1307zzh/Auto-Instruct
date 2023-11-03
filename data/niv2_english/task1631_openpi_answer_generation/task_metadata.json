@@ -1,0 +1,7 @@
+{
+    "summary": "Use the given information to generate a grammatically correct sentence as output",
+    "category": "Data to Text",
+    "domain": "Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

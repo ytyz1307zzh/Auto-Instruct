@@ -1,0 +1,7 @@
+{
+    "summary": "Given a premise, hypothesis and an update, indentify whether the update strengthens or weakens the hypothesis.",
+    "category": "Textual Entailment",
+    "domain": "Captions -> Image Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a real-life anecdote of a complex ethical situation, verify if the claim about the type of the post is true or not

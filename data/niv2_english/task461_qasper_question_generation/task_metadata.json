@@ -1,0 +1,7 @@
+{
+    "summary": "Given a cotext, generate a question based on it.",
+    "category": "Question Generation",
+    "domain": "Scientific Research Papers",
+    "input_lang": "English",
+    "output_lang": "English"
+}

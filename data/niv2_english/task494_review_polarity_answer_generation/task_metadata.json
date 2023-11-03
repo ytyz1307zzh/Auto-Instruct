@@ -1,0 +1,7 @@
+{
+    "summary": "Given pair of amazon review and polarity, generate True or False when a review matches polarity",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews -> Electronics and Grocery",
+    "input_lang": "English",
+    "output_lang": "English"
+}

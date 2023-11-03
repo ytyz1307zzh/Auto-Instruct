@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying results to find next speaker from coached_conv_pref",
+    "category": "Speaker Identification",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

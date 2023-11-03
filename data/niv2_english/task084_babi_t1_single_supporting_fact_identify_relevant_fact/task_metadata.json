@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question and an answer, identify the relevant piece of evidence.",
+    "category": "Question Answering",
+    "domain": "Commonsense -> Concepts and Relations -> Spatial Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

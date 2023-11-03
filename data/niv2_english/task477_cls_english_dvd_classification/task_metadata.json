@@ -1,0 +1,7 @@
+{
+    "summary": "Classify a given dvd product review in English to positive or negative sentiment",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews -> Electronics and Grocery",
+    "input_lang": "English",
+    "output_lang": "English"
+}

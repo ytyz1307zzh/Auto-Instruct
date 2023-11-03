@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence, specify singularity or plurality of the subject.",
+    "category": "Linguistic Probing",
+    "domain": "Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

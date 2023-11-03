@@ -1,0 +1,400 @@
+{"id": "task923-72c5caa75ebe40adb478134b88a8473b", "input": "Event:PersonX finds ___ to express. Intent: 1) to get promotion 2) to take it away from person", "target": "Positive"}
+{"id": "task923-f9c35026a8384e90bc60d80d95b3987d", "input": "Event:PersonX pushes PersonY's hips. Intent: 1) to stop the bleeding 2) help the company", "target": "Positive"}
+{"id": "task923-e9e8acf9038c44d4b7f021367fe8492b", "input": "Event:PersonX scars of heights. Intent:", "target": "Unknown"}
+{"id": "task923-0c93977acd3e44079e9ffc0148b7e91d", "input": "Event:PersonX wipes away PersonY's tears. Intent: 1) to stay out of sight. 2) to not be noticed.", "target": "Positive"}
+{"id": "task923-e1a65b54d7254541b10970ee89dd3335", "input": "Event:PersonX looks PersonX's ___ in the face. Intent: 1) to tell the person that her underwear is showing", "target": "Positive"}
+{"id": "task923-fbde3349f8344233be62549c6062629f", "input": "Event:PersonX thinks PersonY wad imagining what PersonY was seeing. Intent: 1) to help y avoid a ticket", "target": "Negative"}
+{"id": "task923-25b3db69f87c47f98a356a9ea46386bd", "input": "Event:PersonX pays taxes. Intent: 1) to make lots of money", "target": "Positive"}
+{"id": "task923-5b087748907c416488c1b32815d2bdc1", "input": "Event:PersonX goes cold. Intent: 1) to be live long", "target": "Unknown"}
+{"id": "task923-293febc33004444099d60a80605d3f86", "input": "Event:PersonX comes into PersonX's own. Intent:", "target": "Unknown"}
+{"id": "task923-3361e6e66e0d45f3839d9055a6fcf9ff", "input": "Event:PersonX shows PersonX's teeth. Intent: 1) to bake a tasty treat", "target": "Negative"}
+{"id": "task923-b2802bfa13b643238666265c4c21803e", "input": "Event:PersonX lets the perfect be the enemy of the good. Intent: 1) to be neutral", "target": "Negative"}
+{"id": "task923-f67014e05e6242d8adadc11331859f01", "input": "Event:PersonX wants to be a dancer. Intent:", "target": "Unknown"}
+{"id": "task923-6d1a98ea472f43a185d6f38106641906", "input": "Event:PersonX has a bad headache. Intent: 1) to skate", "target": "Unknown"}
+{"id": "task923-b9999bf137d0494ebf0b5f9c55b0311a", "input": "Event:PersonX loses PersonX's position. Intent: 1) to have fun 2) to take time away from work", "target": "Unknown"}
+{"id": "task923-4dab775fdbf842b9a14c781416faa0a6", "input": "Event:PersonX never forgot. Intent: 1) to make some money", "target": "Unknown"}
+{"id": "task923-00d7bacca04045a3b468d9670e978dad", "input": "Event:PersonX commits another ___. Intent: 1) to own it", "target": "Negative"}
+{"id": "task923-3a9ee7307d8d4bd192953abbafc34529", "input": "Event:PersonX wakes up the next day. Intent: 1) to get attention", "target": "Positive"}
+{"id": "task923-c761f8bf1e7344c6bf46631d6a3d3345", "input": "Event:PersonX lands on PersonX's back. Intent: 1) fall asleep", "target": "Unknown"}
+{"id": "task923-3eb2dac56dad47f8956d8b3a260fda03", "input": "Event:PersonX hangs heavy. Intent: 1) be nice for the day 2) be mean", "target": "Unknown"}
+{"id": "task923-c353997b74374f4ba4167f5475bf59ad", "input": "Event:PersonX sees PersonY's house. Intent: 1) to feel good 2) to lose weight 3) to be healthy", "target": "Unknown"}
+{"id": "task923-de16e0f67c5c448281f787067e913c42", "input": "Event:PersonX is really cute. Intent: 1) to make every listen the words", "target": "Unknown"}
+{"id": "task923-48f74989482149699df5e321511da158", "input": "Event:PersonX leaves the gate open. Intent:", "target": "Negative"}
+{"id": "task923-1eb1f3826d9a49d39e3b2246343b49c1", "input": "Event:PersonX sends ___ to the brain. Intent: 1) to make them feel good", "target": "Unknown"}
+{"id": "task923-04f68f2ac3af4a3fac88621453195937", "input": "Event:PersonX loses PersonX's way. Intent: 1) to go to concerts", "target": "Negative"}
+{"id": "task923-1f13822385be445390e32362fc7a09e7", "input": "Event:PersonX turns ___ towards PersonY. Intent: 1) to laugh", "target": "Negative"}
+{"id": "task923-c566f870cf214ec69f4ec3d9602225ed", "input": "Event:PersonX tells PersonY to call. Intent:", "target": "Positive"}
+{"id": "task923-f33db2826c1d4ebdac896327fb417556", "input": "Event:PersonX goes viral. Intent: 1) to get to know persony's dad by playing basketball with him.", "target": "Unknown"}
+{"id": "task923-25fee58d83a648df97e5f266887a5395", "input": "Event:PersonX buys a scratch. Intent:", "target": "Positive"}
+{"id": "task923-b9998ef5b4744835a1caba10ab6d7938", "input": "Event:PersonX never washed ___. Intent: 1) to establish a set format", "target": "Negative"}
+{"id": "task923-67cf9f88c33b4d6bbec704d5be7f5f6e", "input": "Event:PersonX imposes PersonX's ___ on others. Intent: 1) to be healthy", "target": "Negative"}
+{"id": "task923-c06282d9dc8d436f813ffaef4e940c50", "input": "Event:PersonX takes ___ away. Intent: 1) to be nice", "target": "Negative"}
+{"id": "task923-07d7c38a51104d7ab7956a69fed25ffb", "input": "Event:PersonX falls every ___. Intent: 1) to have a baby.", "target": "Unknown"}
+{"id": "task923-4278de9ca9fa4a0f9a38a5a233a5dc0c", "input": "Event:PersonX has very little money. Intent:", "target": "Unknown"}
+{"id": "task923-6432131a5fa641a7b2943e35a3991f81", "input": "Event:PersonX puts PersonY's head down. Intent: 1) electricity 2) for the electronics to operate again", "target": "Negative"}
+{"id": "task923-791a4a3b171347258b3c3a27f34c8f4e", "input": "Event:PersonX keeps staring at PersonY. Intent: 1) to find true love", "target": "Unknown"}
+{"id": "task923-1aa9f84f8f18491c81899249264095a3", "input": "Event:PersonX is 12 years old. Intent: 1) to solve a problem 2) help with a dilemma", "target": "Unknown"}
+{"id": "task923-b79b403f16734cc2bfcab62e30f96d9a", "input": "Event:PersonX reads the bible. Intent: 1) to ask him a question", "target": "Positive"}
+{"id": "task923-d9c89bb347d14e00bf9409db1faa5db9", "input": "Event:PersonX likes ___ , though. Intent: 1) to be healthier 2) to fit into a dress 3) to impress someone", "target": "Unknown"}
+{"id": "task923-78d2c19820ef4ae388f287f2fdebe29c", "input": "Event:PersonX takes a course. Intent:", "target": "Positive"}
+{"id": "task923-6e957a82ee714b498af40aaea10a44cf", "input": "Event:PersonX spills all over the floor. Intent: 1) to move forward", "target": "Unknown"}
+{"id": "task923-aeb26c6d4f784327a21f85e9ec5144c0", "input": "Event:PersonX keeps losing. Intent:", "target": "Unknown"}
+{"id": "task923-15232ae19e644f9d95257f7bdf269338", "input": "Event:PersonX is n't friends anymore. Intent: 1) to serve the fishermen", "target": "Negative"}
+{"id": "task923-149856f7b61b4f2eb20be75ea5d15b4e", "input": "Event:PersonX causes ___ in patients. Intent: 1) completion 2) closure 3) to move on to something else", "target": "Negative"}
+{"id": "task923-0ef3b91525f544eabdea755fba241500", "input": "Event:PersonX analyzes ___ in terms. Intent: 1) to share with person y 2) to let y try one out", "target": "Unknown"}
+{"id": "task923-bb509cf3a5c644149a65df51228f50bf", "input": "Event:PersonX takes many classes. Intent: 1) see who is there", "target": "Positive"}
+{"id": "task923-a5884a9cb8db46d9a3a7f2cc348b620f", "input": "Event:PersonX gets PersonY's ___ away. Intent: 1) to maintain health", "target": "Negative"}
+{"id": "task923-b8e1c865c75643818b5d89128c1b6b3e", "input": "Event:PersonX fights PersonY battle. Intent:", "target": "Positive"}
+{"id": "task923-0d0b8e3bfef749e68ce9f1bf207d814c", "input": "Event:PersonX is 8 years old. Intent: 1) to have a vacation", "target": "Unknown"}
+{"id": "task923-5d6b8c254f524cd29b4b696099412396", "input": "Event:PersonX spills ___ on the carpet. Intent:", "target": "Unknown"}
+{"id": "task923-f47e1b8c45ac4f70af308efc7d29a24c", "input": "Event:PersonX looks great. Intent: 1) others to finish their work 2) to be in charge", "target": "Unknown"}
+{"id": "task923-7e9784cefb4348be8ed3c69b21ffebe7", "input": "Event:PersonX quits the job. Intent: 1) to accomplish something 2) to exerise", "target": "Negative"}
+{"id": "task923-f906121db8894d98b866a3a48fa1b10e", "input": "Event:PersonX feels very nervous. Intent: 1) to be different", "target": "Unknown"}
+{"id": "task923-f52adfc86f894f6e9b1a3d7d24da0447", "input": "Event:PersonX takes a ride to tyburn. Intent: 1) to have pretty updos", "target": "Negative"}
+{"id": "task923-4d04840a14f24b019c66ea8d2a79326a", "input": "Event:PersonX needs some extra cash. Intent: 1) to lead", "target": "Unknown"}
+{"id": "task923-4416cf4cddc740e097f8d7407f92b2b1", "input": "Event:PersonX tries really hard. Intent:", "target": "Unknown"}
+{"id": "task923-1f81a15afce043de8525b3091840fa08", "input": "Event:PersonX plays possum. Intent:", "target": "Negative"}
+{"id": "task923-96c1c45943204efeb025a0d14bb153d3", "input": "Event:PersonX wipes the ___ from PersonX's face. Intent: 1) to have better chances 2) to fair better 3) to be happier", "target": "Unknown"}
+{"id": "task923-5e0968a6772c488383f8323be98bd71e", "input": "Event:PersonX hears something. Intent: 1) to see how someone is", "target": "Unknown"}
+{"id": "task923-4f2ca54f72e84b5c9c9b0b76097a3c9b", "input": "Event:PersonX walks home from school one. Intent: 1) to replace the old ones", "target": "Negative"}
+{"id": "task923-31c53175898b4e7697026995655e7711", "input": "Event:PersonX pays PersonY visit. Intent: 1) to bath", "target": "Positive"}
+{"id": "task923-33f4143819424734a6a4b70d33b51388", "input": "Event:PersonX measures ___ directly. Intent: 1) love", "target": "Positive"}
+{"id": "task923-6a8bd3e80e2b407a824c85d47b065673", "input": "Event:PersonX shades PersonX's eyes. Intent:", "target": "Positive"}
+{"id": "task923-9eceb740335b42ec891df963b17b36fc", "input": "Event:PersonX hands PersonY his head. Intent: 1) to be more respectful 2) kinder", "target": "Negative"}
+{"id": "task923-c3195e1a1d644a09973e316e9a5dc669", "input": "Event:PersonX is really ugly. Intent: 1) have sympathy 2) get her way 3) explain her situation", "target": "Unknown"}
+{"id": "task923-88359c88267d454594aba1ebfc9b2d44", "input": "Event:PersonX does n't know what to say. Intent: 1) to hold their hand", "target": "Unknown"}
+{"id": "task923-883b8cf6f0e64e8ba0f901b90af940da", "input": "Event:It is christmas eve. Intent:", "target": "Unknown"}
+{"id": "task923-2fc8ce3a6c4a41d29a29f191acea1f67", "input": "Event:PersonX comes to PersonX's senses. Intent:", "target": "Unknown"}
+{"id": "task923-17680aeabdfd4af3a2f369c5e358f14c", "input": "Event:PersonX prevents ___ from acquiring. Intent: 1) to be in good shape", "target": "Negative"}
+{"id": "task923-729d52d503d44e01a706e583db8fe46a", "input": "Event:PersonX takes PersonX's share. Intent: 1) meals", "target": "Negative"}
+{"id": "task923-88dac0b5c2ba486f953fc30fcc9e915b", "input": "Event:PersonX lays ___ on the table. Intent: 1) to avoid an awkward conversation.", "target": "Positive"}
+{"id": "task923-9593ec45d0894cf0ae06061255005bfa", "input": "Event:PersonX minds PersonY asking. Intent: 1) good bye", "target": "Negative"}
+{"id": "task923-abc872f6513c4547a71d30c91fe0f425", "input": "Event:PersonX does n't get in trouble. Intent:", "target": "Unknown"}
+{"id": "task923-2ef84a7883c44a719d782dc7682712b7", "input": "Event:PersonX tells PersonY's wife. Intent: 1) to be creative", "target": "Negative"}
+{"id": "task923-c04c96d6bdc343f0aca7f03fe11fe3d4", "input": "Event:PersonX is really excited. Intent:", "target": "Unknown"}
+{"id": "task923-bef0dafe39f24ac6b1be1b845133c072", "input": "Event:PersonX really love PersonY. Intent: 1) tell a story 2) warn others", "target": "Unknown"}
+{"id": "task923-f33216b7abd04fe9b4ee6385fd44f27e", "input": "Event:PersonX feels angry. Intent: 1) to not have to think about it", "target": "Unknown"}
+{"id": "task923-aa85f251fcd14e4392facf813fa33fc5", "input": "Event:PersonX teaches ___ at university. Intent: 1) to bake a cake 2) to eat a cake 3) to serve cake to others", "target": "Positive"}
+{"id": "task923-36b6b94aa7084f91b5932c97c8bffb3e", "input": "Event:PersonX is completely surprised. Intent: 1) they want to compete 2) they dispute the other person's stance", "target": "Unknown"}
+{"id": "task923-254f2745c9a84bb5acf05cff1d2b4130", "input": "Event:PersonX sees PersonY's cat. Intent: 1) to win", "target": "Unknown"}
+{"id": "task923-a8c73fc5d1b942328892f29babaaf124", "input": "Event:PersonX burns the ___ at both ends. Intent: 1) to read the book aloud.", "target": "Positive"}
+{"id": "task923-51f70e3eec1e467f970e0c75050844be", "input": "Event:PersonX remains until PersonY's death. Intent: 1) to keep secret", "target": "Negative"}
+{"id": "task923-80aeedd75b1b413eac814081a11af17f", "input": "Event:PersonX feels well enough. Intent: 1) they are looking for food 2) they want to cook", "target": "Unknown"}
+{"id": "task923-b40e206f038143679f80bc929ff5f9a8", "input": "Event:PersonX meets PersonY at the door. Intent: 1) to tell a secret", "target": "Unknown"}
+{"id": "task923-2df4182d2343495eabb2ba61b50de11f", "input": "Event:PersonX comes along with PersonY. Intent: 1) to inform someone", "target": "Unknown"}
+{"id": "task923-d259be07c5f54f8dbff2de9be2fa31cc", "input": "Event:PersonX feels unappreciated. Intent: 1) to tell someone their secret", "target": "Unknown"}
+{"id": "task923-2c250cc990f14813ba45096f35e067f2", "input": "Event:PersonX is the cutest thing. Intent:", "target": "Unknown"}
+{"id": "task923-17762a73abf04a5884c01c17657f85f9", "input": "Event:PersonX keeps PersonY up at night. Intent: 1) to take care of his pet", "target": "Negative"}
+{"id": "task923-c2b77021230d4e93a4296ea73acfc54d", "input": "Event:PersonX keeps PersonY quiet. Intent: 1) be helpful", "target": "Negative"}
+{"id": "task923-aef0a6fd733e4faaae8d0fdee13216b5", "input": "Event:PersonX turns right. Intent: 1) to communicate", "target": "Positive"}
+{"id": "task923-58afd0c56f8d4bf0959f02d276dfc294", "input": "Event:PersonX is really mad. Intent:", "target": "Unknown"}
+{"id": "task923-7e27889e12fb454cac81780c81754d3f", "input": "Event:PersonX uses PersonY method. Intent: 1) to do as well as persony 2) to do better than persony 3) to be competitive", "target": "Positive"}
+{"id": "task923-13dfe452f6b5456999e7ea5698b99465", "input": "Event:PersonX revolves around PersonY. Intent: 1) to catch personx's dog", "target": "Unknown"}
+{"id": "task923-d3c3d0774c604a04887f195485032d27", "input": "Event:PersonX left to PersonY's devices. Intent: 1) persony to look different 2) to help persony 3) persony to pay him or her", "target": "Negative"}
+{"id": "task923-6f24db977a204cefb843e63f0caadb4e", "input": "Event:PersonX gets very good. Intent:", "target": "Unknown"}
+{"id": "task923-b9e78a6a9efa49bcbc0efc1d900306c5", "input": "Event:PersonX meets a handsome man. Intent: 1) to be knowledgeable", "target": "Unknown"}
+{"id": "task923-9eff28e5efaa4b8cacdcc5cd4e982b9d", "input": "Event:PersonX drops PersonX's laptop. Intent: 1) the roof to be fixed", "target": "Unknown"}
+{"id": "task923-359c5a7dd02f4003a1061f6a17a9741e", "input": "Event:PersonX limits PersonY's ability. Intent: 1) to be the best.", "target": "Negative"}
+{"id": "task923-1ab770d406044619b5b06766f31168e3", "input": "Event:PersonX receives god 's ___. Intent: 1) to make sure he obtains every possible point of view on some subject. 2) to be certain that he has everyone's undivided attention. 3) he has involved as many diverse viewpoints as possible.", "target": "Unknown"}
+{"id": "task923-736f07fa928843a2862f59423657f071", "input": "Event:PersonX gives PersonY information. Intent:", "target": "Positive"}
+{"id": "task923-c515c09c7704411191342822acb4e7e8", "input": "Event:PersonX takes PersonY's part. Intent: 1) to satisfy his hunger", "target": "Negative"}
+{"id": "task923-e73fe0cf64fd4019be7e093d9a5d1172", "input": "Event:PersonX kicks up a fuss. Intent: 1) to enjoy a night out", "target": "Negative"}
+{"id": "task923-e1f4d5fb6bd4475dafe6e3303ed2d2a7", "input": "Event:PersonX tells mike. Intent: 1) to be produce", "target": "Positive"}
+{"id": "task923-8c555eec92354bf29b5ca9e400f504b3", "input": "Event:PersonX finds ___ in the basement. Intent: 1) to get tasks done", "target": "Unknown"}
+{"id": "task923-a88277d875544a8e9be3d9a6e8974988", "input": "Event:PersonX runs a red light. Intent: 1) the things", "target": "Negative"}
+{"id": "task923-01997383585f48c292c96875a6489570", "input": "Event:PersonX faces PersonY's fears. Intent: 1) to prove the importance of things to person y 2) to hypnotise", "target": "Positive"}
+{"id": "task923-b02fdb7b2af44bc4a9b3a2e44b30853c", "input": "Event:PersonX gives PersonY pain. Intent: 1) help", "target": "Negative"}
+{"id": "task923-b0c12af378d94ab5a7e97271ae1a2b4f", "input": "Event:PersonX expects PersonY attack. Intent: 1) to have a good time.", "target": "Positive"}
+{"id": "task923-cd26ac7963de4b96aa7a3f79f73e91fe", "input": "Event:PersonX compares ___ with another. Intent: 1) me to wake up on time.", "target": "Positive"}
+{"id": "task923-27060c76eb3e4ba4bd9c0fd8fdca61c8", "input": "Event:PersonX gets the hang of it. Intent: 1) to escape examination 2) to take leave from office to do some personal work", "target": "Unknown"}
+{"id": "task923-46d727db194e44cc80522714982beb37", "input": "Event:PersonX pays the bills. Intent: 1) the app 2) to play a game", "target": "Positive"}
+{"id": "task923-d0894eb53da64660abd5179c9cc77d0c", "input": "Event:PersonX stops eating it. Intent: 1) to become famous", "target": "Negative"}
+{"id": "task923-55a4c1eb3dea41389f2d761dbdf00c0f", "input": "Event:PersonX boxes oneself into a corner. Intent: 1) to go on vacation", "target": "Unknown"}
+{"id": "task923-bfb81923e3a649d69fd7cd19925f002a", "input": "Event:PersonX becomes annoyed. Intent: 1) to find another job 2) to go into business for himself", "target": "Unknown"}
+{"id": "task923-a937298439c74efea89a1c9c1276ac17", "input": "Event:PersonX tells PersonY's teacher. Intent:", "target": "Negative"}
+{"id": "task923-38a37d06f89345c7ae25154dabb366d4", "input": "Event:PersonX is able to sleep. Intent: 1) to get a permanent job before marriage 2) to succeed in his business before marriage 3) wait for his lover to come from abroad", "target": "Unknown"}
+{"id": "task923-f63e9a4ccc5746f691cb5a4a19be36c4", "input": "Event:PersonX bursts into tears. Intent: 1) make sure it works.", "target": "Unknown"}
+{"id": "task923-6922b9b2546d4c288e71d7559e851777", "input": "Event:PersonX seems better. Intent:", "target": "Unknown"}
+{"id": "task923-7a1c2e429b3a4110a67d9149495ed1e5", "input": "Event:PersonX uses PersonY's coupons. Intent:", "target": "Negative"}
+{"id": "task923-e625534291f74e918f19c980fcd0962c", "input": "Event:PersonX forgets PersonY's umbrella. Intent: 1) avoid an argument", "target": "Unknown"}
+{"id": "task923-c0fd5f23d9274229814de4403b16c308", "input": "Event:PersonX identifies every ___. Intent: 1) to view something", "target": "Positive"}
+{"id": "task923-da066162bc3b4224a9cb1833ba80ae34", "input": "Event:PersonX makes PersonY fortune. Intent: 1) to resist having uncomfortable sex", "target": "Positive"}
+{"id": "task923-0cadbfbd0dc644b1aa81a0e76a65a748", "input": "Event:PersonX buries the lead. Intent: 1) to get in shape", "target": "Negative"}
+{"id": "task923-998213ddbaaa4f22aaa916246e708c1c", "input": "Event:PersonX falls in love with PersonY. Intent: 1) to vent their frustrations", "target": "Unknown"}
+{"id": "task923-ffd312bf56144044a1b271d72835777d", "input": "Event:PersonX ties the ___ together. Intent: 1) to talk about persony 2) to solve something", "target": "Positive"}
+{"id": "task923-7d627f4a58854aad99dc86fb8ff3c252", "input": "Event:PersonX becomes a doctor. Intent: 1) to stop", "target": "Positive"}
+{"id": "task923-8ff0b9b9c01a4f19b167cbfdf3009ca5", "input": "Event:PersonX goes free. Intent: 1) to take the plant", "target": "Unknown"}
+{"id": "task923-edc373e7c09a4ed49d3ee9434b8951a5", "input": "Event:PersonX is a basketball player. Intent: 1) to read the newspaper.", "target": "Positive"}
+{"id": "task923-9d5d304d1c7d4c108a03280e9ee0b5ef", "input": "Event:PersonX gets medicine. Intent:", "target": "Positive"}
+{"id": "task923-4f14a4cdf922401f8c195aed443342d6", "input": "Event:PersonX drops PersonY's cell phone. Intent: 1) calm 2) sure", "target": "Unknown"}
+{"id": "task923-77f76d1efed2433c93d3fc1f6a0df277", "input": "Event:PersonX makes the coffee. Intent:", "target": "Positive"}
+{"id": "task923-01756066a8df4b45816c56c62995096d", "input": "Event:PersonX feels queasy. Intent: 1) to make extra money.", "target": "Unknown"}
+{"id": "task923-392c9c49939f430085e8c9c5833bea3b", "input": "Event:PersonX knows everyone. Intent:", "target": "Unknown"}
+{"id": "task923-3a5ad791baad4bb1b85c93fd79409e30", "input": "Event:PersonX feels closer. Intent:", "target": "Unknown"}
+{"id": "task923-f01916db7558419d94319f1b1e3bd30f", "input": "Event:PersonX takes cover. Intent: 1) to be in charge of persony's schedule", "target": "Negative"}
+{"id": "task923-a9510bb88c2c4513b4a12d49f65e80cb", "input": "Event:PersonX surprises ___ with a party. Intent: 1) to inquire about an issue", "target": "Positive"}
+{"id": "task923-b2035dc832454c3bbc07de4ccc8b5169", "input": "Event:PersonX accidentally fell. Intent: 1) to use some pieces of paper for daily chore", "target": "Unknown"}
+{"id": "task923-8260c276670c4b289c97f7b4300d3ac7", "input": "Event:PersonX joins the track team. Intent: 1) look for someone", "target": "Positive"}
+{"id": "task923-230bf0f99065461c8a838bf29828b012", "input": "Event:PersonX forgets PersonX's money. Intent:", "target": "Unknown"}
+{"id": "task923-3c3a283ac6b64bc69e7936cdfd3ccf45", "input": "Event:PersonX tells ___ PersonY needed glasses. Intent: 1) to make himself known", "target": "Negative"}
+{"id": "task923-77cdef1b698b4ba5952a5b5b52313331", "input": "Event:PersonX feels foolish. Intent: 1) the snake should not harm his pet animals", "target": "Unknown"}
+{"id": "task923-11454f74bbb442dabc6536b935b2454c", "input": "Event:PersonX tells PersonY to be quiet. Intent: 1) to be helpful in explaining his position.", "target": "Positive"}
+{"id": "task923-0b46cc57c6ed4805a7e55eaf9b583ef6", "input": "Event:PersonX puts PersonY ___ to the war. Intent: 1) to socialize with friends", "target": "Positive"}
+{"id": "task923-7115596f6e9d4c18859802ca1a7ad809", "input": "Event:PersonX starts to run. Intent: 1) they don't need them anymore 2) its quitting time", "target": "Negative"}
+{"id": "task923-e8c37e1b95244c90be790da845234e5a", "input": "Event:PersonX looks up into PersonY's eyes. Intent:", "target": "Positive"}
+{"id": "task923-ff7ec329dd494034a25fb9da099be485", "input": "Event:PersonX picks up PersonY's bag. Intent: 1) to pursue something else", "target": "Unknown"}
+{"id": "task923-d8e3d3ee645742daa508aca0bad8e62f", "input": "Event:PersonX is taking a bath. Intent: 1) to be heroic 2) to save her", "target": "Positive"}
+{"id": "task923-3a6c6bf7b0c542759201194e42ac71fa", "input": "Event:PersonX looks amazing. Intent: 1) to not show emotion. 2) to remain calm.", "target": "Positive"}
+{"id": "task923-486b088255544ad9bb3753fe2398683c", "input": "Event:PersonX listens to PersonY's voice. Intent:", "target": "Positive"}
+{"id": "task923-4adf3508ba8643369baca88bd59af7b4", "input": "Event:PersonX has come true. Intent:", "target": "Positive"}
+{"id": "task923-cc7f05d236e046dc87f77c226feee878", "input": "Event:PersonX loses badly. Intent: 1) to see them", "target": "Unknown"}
+{"id": "task923-653bc04166164400a81adae1cc3f2929", "input": "Event:PersonX keeps PersonY's distance. Intent: 1) others to share his opinions", "target": "Negative"}
+{"id": "task923-349cdf82f93f4936a4814bb89f77e176", "input": "Event:PersonX goes swimming in the pool. Intent:", "target": "Positive"}
+{"id": "task923-139362ea308147079e5d4d511d327f56", "input": "Event:PersonX hits a deer. Intent: 1) to see if he is getting better.", "target": "Unknown"}
+{"id": "task923-26e49fb23abc43f7859c337c5515e28f", "input": "Event:PersonX always wondered. Intent: 1) to share 2) to be a bringer of news", "target": "Positive"}
+{"id": "task923-634bec04ea42465ca96aecfc0dca2e35", "input": "Event:PersonX becomes an artist. Intent: 1) to eat breakfast", "target": "Positive"}
+{"id": "task923-ac59ce1171a54c60ba1fa321c70e52d5", "input": "Event:PersonX meets the love of PersonX's life. Intent: 1) to do something in that room", "target": "Unknown"}
+{"id": "task923-dd003ff9b7094f8596f9d717b2f83d8a", "input": "Event:PersonX gets PersonY's back up. Intent: 1) to be with a girl", "target": "Negative"}
+{"id": "task923-f07b11d56c0b417697f3ebaaa738ca2e", "input": "Event:PersonX promotes children 's ___. Intent:", "target": "Positive"}
+{"id": "task923-3c274eb1ba8c4e20aaf19215de15dbdc", "input": "Event:PersonX catches three fish. Intent: 1) the company to run normally after the departure of person y", "target": "Positive"}
+{"id": "task923-9cb301f17a984b1c9d99503ed3b62df4", "input": "Event:PersonX is looking forward to it. Intent: 1) to be better than someone 2) to do the same thing as someone", "target": "Unknown"}
+{"id": "task923-bccdb9070b5648eb8df9b5605d0cbd62", "input": "Event:PersonX lands on PersonY's hand. Intent: 1) to borrow some sugar 2) to return a book 3) to spend time talking", "target": "Unknown"}
+{"id": "task923-95135da9344940dfa7d1fb84a5731bb6", "input": "Event:PersonX rids the bus to school. Intent: 1) to visit", "target": "Positive"}
+{"id": "task923-5401a4755d724535935dc281fa19dcc7", "input": "Event:PersonX bars PersonY's way. Intent: 1) to help the other parent.", "target": "Negative"}
+{"id": "task923-267c221a02174b5db03552304796ddb6", "input": "Event:PersonX comes to PersonY's senses. Intent:", "target": "Unknown"}
+{"id": "task923-52c78e03208740dfb3136a7c62eb3581", "input": "Event:PersonX loses PersonX's sense. Intent: 1) to make an album", "target": "Unknown"}
+{"id": "task923-78921ec7b9c54904bb4b13c1e1e53587", "input": "Event:PersonX receives PersonY degree. Intent: 1) to eat food.", "target": "Unknown"}
+{"id": "task923-d4cbcd47f7ec4d24b3fa926feb25afb3", "input": "Event:PersonX pushes away the ___. Intent: 1) generous", "target": "Negative"}
+{"id": "task923-148778f6a590481c83158275a4d7cf49", "input": "Event:PersonX buys PersonY drinks. Intent: 1) to see daughter", "target": "Positive"}
+{"id": "task923-bd32de293e004e95a4d7f81fe83889bf", "input": "Event:PersonX loves to play football. Intent: 1) gift", "target": "Positive"}
+{"id": "task923-3eadbd529c16444ca55c69639483ffc8", "input": "Event:PersonX gives ___ up for adoption. Intent:", "target": "Negative"}
+{"id": "task923-1d4e05181b0143e396d6bf17f52cb38c", "input": "Event:PersonX is due the next day. Intent: 1) to sail someplace else", "target": "Unknown"}
+{"id": "task923-5b4e7070682b4ef48c998d25f4272444", "input": "Event:PersonX takes PersonY out to lunch. Intent: 1) to have clean water", "target": "Positive"}
+{"id": "task923-f05f090d69024815a52be182358de587", "input": "Event:It costs a lot of money. Intent: 1) to take a break", "target": "Unknown"}
+{"id": "task923-790cb0d7b3324e4e960025732f0b6dfd", "input": "Event:PersonX stands on PersonY's legs. Intent: 1) to get something done", "target": "Negative"}
+{"id": "task923-e63d89c0cb484a7992f192c1d9af030a", "input": "Event:PersonX makes ___ in PersonY's image. Intent: 1) to catch it", "target": "Positive"}
+{"id": "task923-b556daa9e0154c37aae94369f6681fbb", "input": "Event:It is PersonY's favorite animal. Intent: 1) to fix things", "target": "Unknown"}
+{"id": "task923-3e70dbd2c7034fe2a938d72fc21eba60", "input": "Event:PersonX walks home from school one ___. Intent: 1) a job 2) to get hired 3) to make money", "target": "Positive"}
+{"id": "task923-0208b42c751f463fb2c5ff771a952480", "input": "Event:PersonX is at the store with PersonY's mom. Intent: 1) to see something inside 2) to use something inside", "target": "Unknown"}
+{"id": "task923-cc576fa9369e4774a85989e7b11300f7", "input": "Event:PersonX accidentally got ___. Intent: 1) to learn more", "target": "Unknown"}
+{"id": "task923-62672cd794fb4a5eabefdbaad1846c91", "input": "Event:PersonX pulls PersonY's knees. Intent: 1) be healthy", "target": "Negative"}
+{"id": "task923-aefabc6cefe84d84a8738dd03f1e4cf1", "input": "Event:PersonX shoots the ball. Intent:", "target": "Positive"}
+{"id": "task923-d8212b6915f94f438c9f7418b46c187e", "input": "Event:PersonX plays baseball with PersonX's friends. Intent: 1) to be exact", "target": "Positive"}
+{"id": "task923-1b594b6320bf4870b729dd7d22a79a4d", "input": "Event:PersonX makes things worse. Intent: 1) change the color", "target": "Unknown"}
+{"id": "task923-e0c4af96bfbf4d08812a8885ae0524d4", "input": "Event:PersonX has to take PersonY to the hospital. Intent: 1) show love for persony's dog", "target": "Unknown"}
+{"id": "task923-1257cf7ad0cf430d951acbcc5d20916f", "input": "Event:PersonX pays it back. Intent: 1) to see something", "target": "Positive"}
+{"id": "task923-cb3b00d78bff41358d370e78dc97518f", "input": "Event:PersonX comes to PersonY's mind. Intent: 1) to know answers", "target": "Unknown"}
+{"id": "task923-d4dfd0942441472c96f72840439cf3fa", "input": "Event:PersonX lets the dog out. Intent:", "target": "Positive"}
+{"id": "task923-c40dca5536b0496f83181b476b5a6e11", "input": "Event:PersonX tears the ___ to pieces. Intent: 1) to support person 2) to be helpful", "target": "Negative"}
+{"id": "task923-b4707fe7fad64d24be26e04996c471e9", "input": "Event:PersonX enters the contest. Intent: 1) to find the lost object 2) to know the answer", "target": "Positive"}
+{"id": "task923-2b927598a4154f489dddcda042fac32c", "input": "Event:PersonX sees PersonY later that day. Intent: 1) to eat 2) to be victorious 3) to help the bird", "target": "Unknown"}
+{"id": "task923-6d23a72996a14d979a2cfbfe47647dca", "input": "Event:PersonX wills never forget. Intent: 1) to be active 2) to adjust 3) to modify", "target": "Unknown"}
+{"id": "task923-b5ed40db1a6547a8828066bc72e9e15e", "input": "Event:PersonX gets some pizza. Intent:", "target": "Positive"}
+{"id": "task923-ff872ef7415b4d7696108520401629e9", "input": "Event:PersonX pushes ___ back. Intent:", "target": "Negative"}
+{"id": "task923-d3185501b62f44a3b4b942f24028470f", "input": "Event:PersonX plays PersonY's guitar. Intent:", "target": "Positive"}
+{"id": "task923-42941d58ad9b474a9993b9dac85ab2d0", "input": "Event:PersonX works the next morning. Intent: 1) to play at the concert 2) to be in the orchestra", "target": "Positive"}
+{"id": "task923-fef01b71b1ac4a5bbfe9bb24679f106f", "input": "Event:PersonX leaves PersonY at home. Intent: 1) to better a relationship", "target": "Positive"}
+{"id": "task923-3bbbf0bf9d654e80b0cfa0e4783c1aba", "input": "Event:PersonX comes to blows. Intent: 1) to have his own apartment.", "target": "Negative"}
+{"id": "task923-f1a13b6073d247a2a6dca46201b806e0", "input": "Event:PersonX is in the wrong class. Intent: 1) to bring it with them", "target": "Unknown"}
+{"id": "task923-2023142e6cef4988b38726f13f79f78b", "input": "Event:PersonX screams bloody murder. Intent: 1) give a guest special treatment 2) welcome a guest", "target": "Negative"}
+{"id": "task923-7a8ff67c58774544b242919ed9f1eb67", "input": "Event:PersonX thinks might go. Intent: 1) to explore 2) to get things done", "target": "Positive"}
+{"id": "task923-d92ed3cc36634f4b95d771367cb1d498", "input": "Event:PersonX is twenty minutes late. Intent: 1) money", "target": "Negative"}
+{"id": "task923-fbb39dcdece640a6aafb7f8304a27530", "input": "Event:PersonX gets a new cat. Intent: 1) to know if they are good", "target": "Unknown"}
+{"id": "task923-4c3c979cbaed4efab159011c306b137d", "input": "Event:PersonX walks my dog. Intent: 1) them to have a fun meal", "target": "Positive"}
+{"id": "task923-118965691b104e34a4c5911d9b0aab06", "input": "Event:PersonX feels ill. Intent:", "target": "Unknown"}
+{"id": "task923-71513884736447ed82038dd57567beb9", "input": "Event:PersonX uses every effort. Intent:", "target": "Positive"}
+{"id": "task923-7f11ca636ae94ab7a83c83b9746ead62", "input": "Event:PersonX spends ___ alone. Intent: 1) to express their emotions 2) to get attention", "target": "Unknown"}
+{"id": "task923-9544460380af49d396a1109ff9658463", "input": "Event:PersonX grows taller. Intent: 1) to build a sandbox", "target": "Unknown"}
+{"id": "task923-d1f29d854c684426a5b1e38a4f499374", "input": "Event:PersonX is a student in high school. Intent: 1) to teah persony to drive", "target": "Positive"}
+{"id": "task923-c368976620b54c83af303e246f0fc7f9", "input": "Event:PersonX covers PersonX's ___ with PersonX's hand. Intent: 1) to look on y", "target": "Unknown"}
+{"id": "task923-7230a332d43e4a28b5678f1509a5c85e", "input": "Event:PersonX buys some shoes. Intent: 1) the bad thing to get better", "target": "Positive"}
+{"id": "task923-9bd45819875845f39cb530afcc3cd9a1", "input": "Event:PersonX invites PersonY to a party. Intent:", "target": "Positive"}
+{"id": "task923-c2600b2af1e54b5db0bb4ec03eb589a9", "input": "Event:PersonX presents PersonY image. Intent: 1) to finish his essay", "target": "Positive"}
+{"id": "task923-22cfc6355ec545dd97f39c9bf27f794a", "input": "Event:PersonX wastes PersonX's ___ with living. Intent: 1) to fulfill his hungry", "target": "Negative"}
+{"id": "task923-7a2cd50a53fd4d5a990ab6ef6e67a316", "input": "Event:PersonX hurts anyone 's ___. Intent: 1) he hears something funny", "target": "Negative"}
+{"id": "task923-a6547b21f1ed498cb02eed5a326a1b2b", "input": "Event:PersonX passes PersonY's lips. Intent:", "target": "Negative"}
+{"id": "task923-0e9d94548cb745c4b739ddcaeb23cc07", "input": "Event:PersonX leaves my wallet. Intent: 1) a companion", "target": "Unknown"}
+{"id": "task923-bcba549cc47d4a2895f1f6f098737426", "input": "Event:PersonX gives away the store. Intent:", "target": "Positive"}
+{"id": "task923-8978639921f1484ea326b3316707cd0d", "input": "Event:PersonX rubs PersonY the wrong way. Intent: 1) the ability to drive places 2) a status symbol", "target": "Negative"}
+{"id": "task923-f326629c87724230a575a7e61e413d6c", "input": "Event:PersonX gets some candy. Intent: 1) to learn a new skill 2) to practice", "target": "Positive"}
+{"id": "task923-77010c0a99334980a47fb3ee9290163c", "input": "Event:PersonX visits PersonX's friends. Intent: 1) to read them", "target": "Positive"}
+{"id": "task923-41c99e86b15b40a8ab26f50c75833ae8", "input": "Event:PersonX is sick with the flu. Intent:", "target": "Unknown"}
+{"id": "task923-83dd528377c44b87b7b220c2d0b2c7cb", "input": "Event:PersonX converts the ___ to christianity. Intent:", "target": "Negative"}
+{"id": "task923-9628d639f25c4a7288cce9baae8949ac", "input": "Event:PersonX grows dark. Intent:", "target": "Unknown"}
+{"id": "task923-adb853bbf9a4438386261320aa7b65f0", "input": "Event:PersonX sees PersonY later. Intent: 1) to bring two things together", "target": "Unknown"}
+{"id": "task923-4681d62b298d492a8daf579c866a3e94", "input": "Event:PersonX misses class. Intent: 1) to meet the  person", "target": "Unknown"}
+{"id": "task923-e5ce7be8bccc415289015fdc8df5c180", "input": "Event:PersonX is seven years old. Intent: 1) to emulate eminem's success", "target": "Unknown"}
+{"id": "task923-b8de836a8ad54d30af3f45f5413f7950", "input": "Event:PersonX immediately put ___. Intent: 1) is hungry", "target": "Positive"}
+{"id": "task923-c9997685b65c43c1a81c564701f585f4", "input": "Event:PersonX saves PersonY from death. Intent: 1) to be concise 2) with no mistakes", "target": "Positive"}
+{"id": "task923-10f45a4db4cb4b82acf2f36179b7618b", "input": "Event:PersonX sees the man. Intent: 1) them to have company 2) to make money", "target": "Unknown"}
+{"id": "task923-3c05c5740c9c453f9df7cee624f7014a", "input": "Event:PersonX leads PersonY army. Intent: 1) to satisfy their hunger", "target": "Negative"}
+{"id": "task923-6b6512b105984a80a2cee7126bb73307", "input": "Event:PersonX cracks a crib. Intent: 1) to go downtown", "target": "Negative"}
+{"id": "task923-6eb9fd6539d0416aa7f76b32c1b753f6", "input": "Event:PersonX practices every week. Intent: 1) to be seen as strong 2) not to cry 3) not to be seen as weak", "target": "Positive"}
+{"id": "task923-d68a62f35755427290ab3f437c5bc591", "input": "Event:PersonX sees all the animals. Intent:", "target": "Unknown"}
+{"id": "task923-8f4591307a9944d594e01019462218cf", "input": "Event:PersonX increases PersonY's profits. Intent: 1) to go home 2) to pick up his kids", "target": "Positive"}
+{"id": "task923-3a5e6099b61e418bbf0438e2b0625275", "input": "Event:PersonX gets up PersonY's nose. Intent: 1) to feel fresh.", "target": "Negative"}
+{"id": "task923-d450bb07cf4041af838391182d9194ee", "input": "Event:PersonX hits ___ in the head. Intent: 1) to cultivate food", "target": "Negative"}
+{"id": "task923-f5adc75f718c4723b3248c4969c39719", "input": "Event:PersonX seeks ___ from others. Intent: 1) some romance 2) to get married some day", "target": "Positive"}
+{"id": "task923-dbd9ce71c50d40a5b90deacf535c15e3", "input": "Event:PersonX covers PersonY's mouth. Intent: 1) to spread the time out", "target": "Negative"}
+{"id": "task923-9eccb67b3b5542469597286f73ca2171", "input": "Event:PersonX blows smoke. Intent: 1) to get up", "target": "Negative"}
+{"id": "task923-818d606e3b004a33a5192ff1429e6795", "input": "Event:PersonX keeps PersonY's ___ above water. Intent: 1) to have a pet.", "target": "Positive"}
+{"id": "task923-67478a5bce79485cb062a79d5e91d946", "input": "Event:PersonX looks disgusting. Intent: 1) to feed an animal 2) to be a good owner 3) to play with", "target": "Negative"}
+{"id": "task923-1d35eb382c404773be90afe1d22868b0", "input": "Event:PersonX wears glasses. Intent: 1) to tell a engrossing story", "target": "Positive"}
+{"id": "task923-4bcc28c7f13b406188cb141b065e8b44", "input": "Event:PersonX tries to sleep. Intent:", "target": "Unknown"}
+{"id": "task923-50a988c341024839849907c208e9c3fb", "input": "Event:PersonX misses the train. Intent: 1) to know about y", "target": "Unknown"}
+{"id": "task923-48d27e8ec56f47c89cdf216642da07ee", "input": "Event:PersonX pays ___ late. Intent: 1) to check his/her eyes", "target": "Unknown"}
+{"id": "task923-c85661fcc21b45b186928ae05a17fd30", "input": "Event:PersonX gets a cast. Intent:", "target": "Unknown"}
+{"id": "task923-4956dc70fbbe4116bfbc73797229e502", "input": "Event:PersonX paints PersonY picture. Intent: 1) to be careful.", "target": "Positive"}
+{"id": "task923-5afd82daa5214db79a99cd5140eafcd7", "input": "Event:PersonX grabs PersonY's face. Intent: 1) to talk and do something", "target": "Negative"}
+{"id": "task923-a0704994c5454c368da64086370f5bf5", "input": "Event:PersonX needs to save money. Intent:", "target": "Unknown"}
+{"id": "task923-7974f040594c4136bff652305cb92bef", "input": "Event:PersonX asks ___ to go with PersonY. Intent: 1) to get to know their date 2) to have a nice evening 3) company to go to a show with", "target": "Positive"}
+{"id": "task923-62138e5961074e7eb10396f47749f45c", "input": "Event:PersonX teaches PersonY a lesson. Intent: 1) to be nice 2) to express themselves", "target": "Positive"}
+{"id": "task923-2064fe35e407456782d6326794840cd0", "input": "Event:PersonX holds back tears. Intent: 1) to take the blame", "target": "Negative"}
+{"id": "task923-69864cbdf51b496ba39ad10484a69d47", "input": "Event:PersonX buys time. Intent: 1) to do things by themselves 2) to be self sufficient 3) to save money", "target": "Positive"}
+{"id": "task923-313019c4f76f44cd9f364a85315823eb", "input": "Event:PersonX is god 's word. Intent:", "target": "Unknown"}
+{"id": "task923-f15f7e3b0177433b83339d0ea7b61e2e", "input": "Event:PersonX tells PersonY did not know. Intent: 1) to go on a date 2) to go to work", "target": "Unknown"}
+{"id": "task923-311fd6d13345471d90aadb4ba4299d94", "input": "Event:PersonX pays PersonX's dues. Intent: 1) to memorize", "target": "Positive"}
+{"id": "task923-38b0509d20d144d5b81fbe4714ce508e", "input": "Event:PersonX brings ___ to PersonY eyes. Intent:", "target": "Unknown"}
+{"id": "task923-943f0e15c4cf4dad994a16113454148d", "input": "Event:PersonX loves watching television. Intent: 1) to be amused on rides", "target": "Positive"}
+{"id": "task923-bef9414eecf44b55ad214e9186cc4a97", "input": "Event:PersonX catches some rays. Intent:", "target": "Positive"}
+{"id": "task923-79a59c7b9a794ce782bb1b0424b4ffeb", "input": "Event:PersonX would not work. Intent: 1) play", "target": "Negative"}
+{"id": "task923-31778710eea741418a8d8cfaf8b9a72c", "input": "Event:PersonX buys PersonY's daughter. Intent: 1) to be a selective person", "target": "Negative"}
+{"id": "task923-8bdf1cd64c0249a7af9c2cc702138764", "input": "Event:PersonX throws a rock. Intent: 1) to be helpful", "target": "Negative"}
+{"id": "task923-d1c0863eefbe4651b7fedb84c097180e", "input": "Event:PersonX invites PersonY to stay. Intent: 1) to persuade", "target": "Positive"}
+{"id": "task923-71d9f04c4c194aadbb482587c2d89e2a", "input": "Event:PersonX rubs PersonX's ___ together. Intent: 1) to eat candy 2) to share during haloween", "target": "Positive"}
+{"id": "task923-c0a3b348c7274e1ea01b445dcc64fdbf", "input": "Event:PersonX buys the computer. Intent:", "target": "Positive"}
+{"id": "task923-5d558c43dce04062adb4656da844db39", "input": "Event:PersonX feels nostalgic. Intent:", "target": "Unknown"}
+{"id": "task923-3c03e42ff3eb449597a5b97eb1bba91f", "input": "Event:PersonX offer PersonY a job. Intent:", "target": "Positive"}
+{"id": "task923-0ee9f22af42e409c95b0e96fc7915941", "input": "Event:PersonX receives every ___. Intent:", "target": "Unknown"}
+{"id": "task923-b647a712424a455e85caa342027b0264", "input": "Event:PersonX twists ___ badly. Intent: 1) to go somewhere else more important.", "target": "Negative"}
+{"id": "task923-b2115382182b4d758d9052ac3ca85295", "input": "Event:PersonX calls triple a. Intent: 1) to help them win their case", "target": "Positive"}
+{"id": "task923-1164f81be8e04c16b6e6614b5036409a", "input": "Event:PersonX slips and fell to the ground. Intent: 1) be certain to precisely & appropriately perform the necessary material sorting tasks  required via the exclusion method..", "target": "Unknown"}
+{"id": "task923-1bcbab320c6340db8f8e3c2530d59ffb", "input": "Event:PersonX is driving PersonY nuts. Intent: 1) to be listened to", "target": "Negative"}
+{"id": "task923-ed9ca2f6dba44f62ab2ffe222ce3165b", "input": "Event:PersonX loses ___ yesterday. Intent: 1) big city of our native", "target": "Unknown"}
+{"id": "task923-455cff50e7054268a087a3ffc646284d", "input": "Event:PersonX spends ___ studying. Intent: 1) to be fair", "target": "Positive"}
+{"id": "task923-5a85e9c96e87466099eae741affd55ce", "input": "Event:PersonX causes trouble. Intent: 1) to zone out", "target": "Negative"}
+{"id": "task923-19d64206942f42d89cccfa936e981ccf", "input": "Event:PersonX finds someone else. Intent: 1) important on that time", "target": "Unknown"}
+{"id": "task923-08a8828ecb6d40c08ad63f888bdddad2", "input": "Event:PersonX gets angry with PersonY. Intent: 1) relax his hand", "target": "Negative"}
+{"id": "task923-2355bd11d9cc4e53b99a7efa652e1408", "input": "Event:PersonX spends ___ with friends. Intent: 1) to make money 2) to move up 3) to be busy", "target": "Positive"}
+{"id": "task923-7052c41195d44ebe97f0ef38825b0f9d", "input": "Event:PersonX takes my breath away. Intent: 1) to eat sushi", "target": "Unknown"}
+{"id": "task923-dd0122fd0b824ff4b2e3a94da61588a0", "input": "Event:PersonX saves so much money. Intent:", "target": "Positive"}
+{"id": "task923-8ef3f4e168fd4cdba7aa631f1f6f4b23", "input": "Event:PersonX practices very hard. Intent:", "target": "Positive"}
+{"id": "task923-a945d5d7bb404ea0b65bf65d57f8dc07", "input": "Event:PersonX tries to ignore PersonY. Intent:", "target": "Negative"}
+{"id": "task923-01f741c511774bf981077e10954b82a7", "input": "Event:PersonX comes ___ later. Intent: 1) to hide a secret", "target": "Negative"}
+{"id": "task923-e74ca0bf1d7d40dab22cb843cf3e5348", "input": "Event:PersonX scores two goals. Intent: 1) to check in", "target": "Positive"}
+{"id": "task923-aebad44864e5429cb42dfdedd3a0591b", "input": "Event:PersonX takes PersonY's share. Intent:", "target": "Negative"}
+{"id": "task923-6271325ed22443718d57cc2742787398", "input": "Event:PersonX goes fishing with PersonX's friends. Intent: 1) to have something to eat", "target": "Positive"}
+{"id": "task923-b199ab6cfdaa460f9ace182ed7e97ca1", "input": "Event:PersonX turns on PersonY's side. Intent: 1) to advance quickly", "target": "Positive"}
+{"id": "task923-e24fe223aaec4f03bd82d13e66e7ff88", "input": "Event:PersonX sees a commercial. Intent:", "target": "Unknown"}
+{"id": "task923-c9de8962f2bf454c9a80093b2b57f6bf", "input": "Event:PersonX sees an advertisement. Intent: 1) to get to know persony's family", "target": "Unknown"}
+{"id": "task923-e118da95080042d09d0cd661ecbf22f6", "input": "Event:PersonX fixes the air conditioner. Intent: 1) to be with people close to them 2) to catch up", "target": "Positive"}
+{"id": "task923-1e06605adbab4285876d1edd57b0a008", "input": "Event:PersonX parts PersonY's lips. Intent: 1) find a girlfriend", "target": "Negative"}
+{"id": "task923-9d2d7c7789864428bd437bc51064357e", "input": "Event:PersonX eats ___ like the ox. Intent: 1) she has always been a fan of the actor", "target": "Positive"}
+{"id": "task923-2793dba284e64bdda0f600d4dfddd1c1", "input": "Event:PersonX narrows PersonY's eyes. Intent: 1) to be the first to throw", "target": "Negative"}
+{"id": "task923-601183a4070f4f2c8578e4ae5de11d93", "input": "Event:PersonX ties PersonY's hands. Intent: 1) to be helpful", "target": "Negative"}
+{"id": "task923-c3e13dbf4abf443cae8309dd96963af9", "input": "Event:PersonX takes ___ for ice cream. Intent: 1) visit", "target": "Positive"}
+{"id": "task923-14069ace3e5346768fb9a0ed4a5340e0", "input": "Event:PersonX loves to dance. Intent: 1) to not be bored 2) to be occupied", "target": "Positive"}
+{"id": "task923-a272ed81d1a34e88897718f782f67243", "input": "Event:PersonX makes PersonY attack. Intent:", "target": "Negative"}
+{"id": "task923-d0d209111d30462698cd3bce18e4e6a3", "input": "Event:PersonX hits the bottle. Intent: 1) to influence person 2) to volunteer person", "target": "Negative"}
+{"id": "task923-bc405040bc71406684689a423879a83e", "input": "Event:PersonX waits a long time. Intent:", "target": "Unknown"}
+{"id": "task923-f0fa8cb314394e56a5ef6b229c7cedaa", "input": "Event:PersonX drinks PersonX's blood. Intent:", "target": "Negative"}
+{"id": "task923-5d7845c98cf84315b50cce316180fc32", "input": "Event:PersonX pays enough attention. Intent: 1) to prioritize", "target": "Positive"}
+{"id": "task923-6d0e63e97e6246fdbbcc1f9b9f9f86c3", "input": "Event:PersonX laughs , cried. Intent: 1) to treat him", "target": "Positive"}
+{"id": "task923-1c5be19f6da24e31a8dc45d61f0a5b45", "input": "Event:PersonX breaks up with PersonY's boyfriend. Intent:", "target": "Negative"}
+{"id": "task923-2641620a42674793b683121f87860999", "input": "Event:PersonX sues the company. Intent: 1) to go away 2) to be done with the situation", "target": "Negative"}
+{"id": "task923-76e82d178fc74980b3eb51c37212a2f0", "input": "Event:PersonX beats a dead horse. Intent:", "target": "Negative"}
+{"id": "task923-bd1ade1718f14f81b4e8b936431be675", "input": "Event:PersonX retires every ___. Intent: 1) to have a cuddle buddy at night", "target": "Positive"}
+{"id": "task923-1b7e242c8d694cd489e7c1b786a3a1d4", "input": "Event:PersonX goes pro. Intent: 1) to be comfortable", "target": "Positive"}
+{"id": "task923-6fda4f16b97c4869a5ff9a81699c1f18", "input": "Event:PersonX gets bored. Intent:", "target": "Unknown"}
+{"id": "task923-6d5628e1332b4cdfa54d3f75e8162bc7", "input": "Event:PersonX looks like a tourist. Intent: 1) to make a book", "target": "Unknown"}
+{"id": "task923-4af13c5e8b14462cb5d91502502b46c0", "input": "Event:PersonX is low on gas. Intent:", "target": "Unknown"}
+{"id": "task923-e3af8de1db5e44839fddb605fd7b252a", "input": "Event:PersonX looks after PersonY's interests. Intent:", "target": "Positive"}
+{"id": "task923-535969b26efa4c6c9e3a0008b7cde192", "input": "Event:PersonX explains everything to PersonY. Intent: 1) to achieve a goal", "target": "Positive"}
+{"id": "task923-990dd58ddf134b61be7e7afe4d2d656e", "input": "Event:PersonX takes PersonY's life. Intent: 1) to attend the wedding soon", "target": "Negative"}
+{"id": "task923-f161a9a5ae2b4550a86b6ee123e92f0c", "input": "Event:PersonX sets PersonY's ___ on fire. Intent: 1) to lead person to a place", "target": "Negative"}
+{"id": "task923-2c3ba9d1cff24468b74168e83da77148", "input": "Event:PersonX plants a garden in PersonX's backyard. Intent:", "target": "Positive"}
+{"id": "task923-3f519cbf238a4ca3af96a28257679425", "input": "Event:PersonX eats PersonY anyway. Intent:", "target": "Negative"}
+{"id": "task923-a754034bea974d0d9a88bb0c5501bb2f", "input": "Event:PersonX makes PersonY appropriation. Intent: 1) to read easily", "target": "Negative"}
+{"id": "task923-929dbc853d734021ad5b2eafaf128832", "input": "Event:PersonX provides PersonY picture. Intent: 1) to be social 2) to have friends", "target": "Positive"}
+{"id": "task923-92e87d199a404bb8a86cdfce2c0af8fa", "input": "Event:PersonX sings happy birthday. Intent: 1) to keep it safe", "target": "Positive"}
+{"id": "task923-3425218b15834b7a97b0f5039a179770", "input": "Event:PersonX would have to wait. Intent:", "target": "Unknown"}
+{"id": "task923-711e37032ca34f0ebd085b39f6c94343", "input": "Event:PersonX earns PersonX's bread. Intent: 1) to impress relatives", "target": "Positive"}
+{"id": "task923-33fe9f8d452a469ab410d77892f34673", "input": "Event:PersonX buys ___ for PersonX's wife. Intent: 1) to go home.", "target": "Positive"}
+{"id": "task923-0ed2268470cb44e5980652a077dcc5ea", "input": "Event:PersonX rips to shreds. Intent:", "target": "Negative"}
+{"id": "task923-06734861c6b94da381e486c81abb7716", "input": "Event:PersonX uses PersonY's expression. Intent: 1) free himself before going to sleep every night", "target": "Positive"}
+{"id": "task923-6d256a5ed9ea40b3b8b32b9ad2578836", "input": "Event:PersonX sees other people. Intent: 1) to try a new hobby", "target": "Positive"}
+{"id": "task923-5fb49dae4563409b95d84330c2a0430c", "input": "Event:PersonX feels PersonY's pulse. Intent: 1) to do something different 2) to get out of the house", "target": "Positive"}
+{"id": "task923-2141f948795341818d5ecaed3d04f0ea", "input": "Event:PersonX renews PersonX's driver 's license. Intent: 1) to get home.", "target": "Positive"}
+{"id": "task923-5243d05ffac3408596d5d109351f8b81", "input": "Event:PersonX puts PersonX's house in order. Intent: 1) to help him.", "target": "Positive"}
+{"id": "task923-d1604e9ca4b84fc5968a438743b1300d", "input": "Event:PersonX acts on PersonY's behalf. Intent: 1) to show they're proud. 2) to be done.", "target": "Positive"}
+{"id": "task923-5a27dad5383242bcafa41e27434f7222", "input": "Event:PersonX flicks PersonY's tongue. Intent:", "target": "Negative"}
+{"id": "task923-945cffa5c1c242cdae5fd9cafe8c903b", "input": "Event:PersonX thinks of ways. Intent:", "target": "Unknown"}
+{"id": "task923-ea9b72732bfc463faee7bf098152f8ce", "input": "Event:PersonX improves PersonY's ___ in life. Intent:", "target": "Positive"}
+{"id": "task923-8072e628f7ed42c7bec691d16f8d14a1", "input": "Event:PersonX sees PersonX's children. Intent: 1) to understand fully", "target": "Positive"}
+{"id": "task923-800744ea23894a699c97bdbe63ed0603", "input": "Event:PersonX advances PersonX's interests. Intent:", "target": "Positive"}
+{"id": "task923-acb10dc97aba4971a137136bc24057a3", "input": "Event:PersonX gets in on the act. Intent: 1) to be alone", "target": "Negative"}
+{"id": "task923-7128c3db4667470e92f1e03c3ce97191", "input": "Event:PersonX grabs by the lapels. Intent: 1) to be dressed", "target": "Negative"}
+{"id": "task923-c481cc41a23147acaa619b913ec2431c", "input": "Event:PersonX gives ___ detention. Intent:", "target": "Negative"}
+{"id": "task923-d67dae471dd443ebb046c500c218087e", "input": "Event:PersonX wants to be healthy. Intent:", "target": "Positive"}
+{"id": "task923-55c82ae09f7d4b3d95eca894c7665aab", "input": "Event:PersonX produces ___ for the market. Intent: 1) to start action as soon as possible", "target": "Positive"}
+{"id": "task923-628a6c9ce7ad4d68beec5781fe011232", "input": "Event:PersonX changes my mind. Intent:", "target": "Unknown"}
+{"id": "task923-aa58668c66e74960a844ed51173f5a2f", "input": "Event:PersonX puts on airs. Intent: 1) to keep good", "target": "Negative"}
+{"id": "task923-32401e5a609a4a6480fb416f65146f95", "input": "Event:PersonX tears PersonY's eyes away. Intent: 1) to as successful as pesony 2) to get things done", "target": "Negative"}
+{"id": "task923-e763f5d9de4f4c21832eedf2fbce0875", "input": "Event:PersonX sees ___ behind PersonY. Intent:", "target": "Unknown"}
+{"id": "task923-08b0bcc782cc46a59a1b9f4d6cef0719", "input": "Event:PersonX has seen PersonX's day. Intent:", "target": "Unknown"}
+{"id": "task923-d9d8693e17d14abf8a5f79d8b9ff7a5a", "input": "Event:PersonX sees PersonY coming. Intent:", "target": "Unknown"}
+{"id": "task923-12c5bf5baff1480996304e46cb0af614", "input": "Event:PersonX teaches PersonY the way. Intent: 1) to be accepted", "target": "Positive"}
+{"id": "task923-0ba10ef6d5984717ae2e268323337910", "input": "Event:PersonX manages PersonY's ___ in PersonY's way. Intent: 1) to go for a job 2) increase income", "target": "Positive"}
+{"id": "task923-225dea28a9ab4db9816f8c1c9ea1d11d", "input": "Event:PersonX has trouble paying PersonX's bills. Intent: 1) to make several things one", "target": "Negative"}
+{"id": "task923-3bdfbb2f1d81466eb405c7eef8ed1041", "input": "Event:PersonX gets soaking wet. Intent: 1) to follow instructions", "target": "Positive"}
+{"id": "task923-c0635e111f4a48578bd48aebf1bb16e4", "input": "Event:PersonX disappears around the corner. Intent: 1) to help", "target": "Positive"}
+{"id": "task923-798740f9258545ccbfa54129e1f89c99", "input": "Event:PersonX robs the bank. Intent:", "target": "Negative"}
+{"id": "task923-8af2677e9abe4ac7a04863bfed3c8959", "input": "Event:PersonX is ready to leave. Intent: 1) to be helpful 2) to be open-minded", "target": "Positive"}
+{"id": "task923-3b0b68d4a6ac46fdbec32ef631d7472b", "input": "Event:PersonX keeps in touch with PersonY. Intent: 1) to play something", "target": "Positive"}
+{"id": "task923-377b15d9d2224bcdb26fce1bba1f853c", "input": "Event:PersonX sells PersonX's old car. Intent: 1) to have one", "target": "Positive"}
+{"id": "task923-7cb63b0b831c472e8408aa3386f211ff", "input": "Event:PersonX accepts another ___. Intent: 1) to acquire something from the waters.", "target": "Unknown"}
+{"id": "task923-12f60b2285a042368735193d4f3bf6b7", "input": "Event:PersonX places PersonY on the table. Intent:", "target": "Negative"}
+{"id": "task923-bd71dd7562d94e69a7f362e3762fc32f", "input": "Event:PersonX argues with PersonX's boyfriend. Intent: 1) to eat", "target": "Negative"}
+{"id": "task923-91a0dc9ed73a49b89ae3a3d690a58e46", "input": "Event:PersonX keeps PersonY's promise. Intent: 1) to make sure everything is running smooth", "target": "Positive"}
+{"id": "task923-20232e8e4edf4727943a314c43610cf3", "input": "Event:PersonX makes a spectacle of oneself. Intent:", "target": "Negative"}
+{"id": "task923-35e32be0811b48318a94b30b0535ff9c", "input": "Event:PersonX raises a lot of money. Intent: 1) to clear dought", "target": "Positive"}
+{"id": "task923-93b490ac6ddf487493d9be05a2c39ddd", "input": "Event:PersonX offer PersonY opportunity. Intent: 1) to make money", "target": "Positive"}
+{"id": "task923-310acfd2a3214adcaadef362932da51c", "input": "Event:PersonX tries to write a story. Intent: 1) to rest", "target": "Positive"}
+{"id": "task923-9c39a67b1d9b4e7980ce8f79a6901eee", "input": "Event:It takes the next step. Intent:", "target": "Unknown"}
+{"id": "task923-e8a9f508675c421d9b35b2222d7e10f0", "input": "Event:PersonX threatens every ___. Intent: 1) to demonstrate gratitude", "target": "Negative"}
+{"id": "task923-06442280ff2043ba96ca4d98c076997d", "input": "Event:PersonX scares the living daylights out of ___. Intent:", "target": "Negative"}
+{"id": "task923-7b0104a823be4340bbae84eac627d27a", "input": "Event:PersonX tries to run away. Intent:", "target": "Negative"}
+{"id": "task923-2fdd340c37c44c169f91c77cdb70c25b", "input": "Event:PersonX leaves PersonX's wife. Intent: 1) to be polite", "target": "Negative"}
+{"id": "task923-acc0409a42354f27883fc638879d80af", "input": "Event:PersonX pulls PersonY's car over. Intent: 1) happy", "target": "Negative"}
+{"id": "task923-56816d060b4d449aa1de69c48a82881c", "input": "Event:PersonX takes the long drive. Intent: 1) to be helpful 2) a ride from person", "target": "Positive"}
+{"id": "task923-a835b2c862864c839633159e6404a6b8", "input": "Event:PersonX loses PersonX's hair. Intent: 1) someone 2) some help", "target": "Unknown"}
+{"id": "task923-b7e1fd3b7abd4c5284f308f54a084be3", "input": "Event:PersonX gains ___ at the expense. Intent:", "target": "Negative"}
+{"id": "task923-fbc48bd39ad248959db6a1469fcef172", "input": "Event:PersonX is afraid of dogs. Intent: 1) to study 2) to spend time with a friend", "target": "Unknown"}
+{"id": "task923-73b4c7e3923342fd8220c9b55489308b", "input": "Event:PersonX goes ballistic. Intent: 1) to be hops", "target": "Negative"}
+{"id": "task923-513ac5be6b2b4fe287bfbfa711c67e1e", "input": "Event:PersonX raises PersonY's hackles. Intent: 1) to save gas", "target": "Negative"}
+{"id": "task923-6208d5af572245d78d26456594d762d1", "input": "Event:PersonX quits school. Intent:", "target": "Negative"}
+{"id": "task923-1b23c68a47954c9a806e353504f45668", "input": "Event:PersonX visits PersonX's daughter. Intent: 1) to eat dinner", "target": "Positive"}
+{"id": "task923-4787ee77bd9a4be1b0051accfe85dae4", "input": "Event:PersonX gets the best of PersonY. Intent: 1) to participate 2) to be involved", "target": "Positive"}
+{"id": "task923-71228b5199f44489a2b64fd558dd9930", "input": "Event:It turns PersonX's lights. Intent:", "target": "Unknown"}
+{"id": "task923-289ecef04820488485e5418bc17a35d2", "input": "Event:PersonX keeps PersonY on ice. Intent:", "target": "Negative"}
+{"id": "task923-85b4cd13c5c94499a532d4aa0845c9c6", "input": "Event:PersonX thanks PersonX's parents. Intent:", "target": "Positive"}
+{"id": "task923-16af797dbdf1495991cbfb064f8908ca", "input": "Event:PersonX sees ___ on television. Intent:", "target": "Unknown"}
+{"id": "task923-a815ecf8ffa74001a3856d16aac51925", "input": "Event:PersonX traces in detail the ___. Intent: 1) to say goodbye", "target": "Positive"}
+{"id": "task923-c3fe21ca260d4d7e98746cedc6713e19", "input": "Event:PersonX hears a loud bang. Intent:", "target": "Unknown"}
+{"id": "task923-50234c69419440c2815c6b0d035da5bd", "input": "Event:PersonX loses interest. Intent: 1) to wake person up", "target": "Negative"}
+{"id": "task923-d3fae9b2c5db4c3c8164d99a9439a795", "input": "Event:PersonX opens PersonY's gifts. Intent: 1) to enjoy his/her free time...", "target": "Positive"}
+{"id": "task923-90412ff9c2b144f7a398c4f2a5124881", "input": "Event:PersonX sends the ___ back. Intent: 1) to praise persony 2) to gain persony's friendship", "target": "Positive"}
+{"id": "task923-7eb4a67c69ce4b7db77fd8e18ee6d307", "input": "Event:PersonX grows ___ by year. Intent:", "target": "Unknown"}
+{"id": "task923-773cd47b967c4da3be0dd1ab0656d609", "input": "Event:PersonX defrays ___ in connection. Intent: 1) to get things done", "target": "Positive"}
+{"id": "task923-a12ef0e6c89a4c4babd6f26bc3712326", "input": "Event:PersonX takes PersonX's life. Intent: 1) to prove that he's capable", "target": "Negative"}
+{"id": "task923-3c69d749567744c5bdd41c693f6d5e19", "input": "Event:PersonX wears ripped jeans. Intent: 1) to be giving", "target": "Positive"}
+{"id": "task923-f4ec0885a6d64fbda3f3c37df55e69d4", "input": "Event:PersonX fights hand to hand. Intent:", "target": "Negative"}
+{"id": "task923-ab076bcc015d449191d83fd666ae5296", "input": "Event:PersonX holds PersonY at arm 's length. Intent:", "target": "Negative"}
+{"id": "task923-9f233652ba954d1c8c85ac232baea988", "input": "Event:PersonX is ready to give up. Intent:", "target": "Negative"}
+{"id": "task923-c5c8b500f00642c89de88354cf542f71", "input": "Event:PersonX raises PersonX's hat. Intent: 1) to make more money", "target": "Positive"}
+{"id": "task923-a2958e5970774628af54568d422a21ae", "input": "Event:PersonX finds ___ on the beach. Intent:", "target": "Unknown"}
+{"id": "task923-c2df3d53b54845b391a58a8b4e96409d", "input": "Event:PersonX cracks the screen. Intent: 1) to be socialable", "target": "Negative"}
+{"id": "task923-d5b446f0d47a4703b18a8a3e71c9269e", "input": "Event:PersonX tells PersonY stories. Intent:", "target": "Positive"}
+{"id": "task923-f96ef3fae20d43e29b0181756c705903", "input": "Event:PersonX quickly got ready. Intent: 1) to see parents 2) to see friends 3) enjoy the vaccation", "target": "Positive"}
+{"id": "task923-1c32873902f84ccf8e70e54904867c26", "input": "Event:PersonX cancels the date. Intent: 1) the room to look fresh.", "target": "Negative"}
+{"id": "task923-c9860742966c4557a32a2c1c43a66ce5", "input": "Event:PersonX buys PersonX's supplies. Intent:", "target": "Positive"}

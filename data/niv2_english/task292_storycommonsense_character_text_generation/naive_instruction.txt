@@ -1,0 +1,1 @@
+Given a short story, provide all the characters in that story.

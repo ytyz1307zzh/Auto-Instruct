@@ -1,0 +1,7 @@
+{
+    "summary": "Given a review and a question, answer the question with the span of the review.",
+    "category": "Question Answering",
+    "domain": "Reviews -> Movies, Reviews -> TripAdvisor, Reviews -> Restaurants, Reviews -> Movies, Reviews -> Books, Reviews -> Electronics and Grocery",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Creating a question based on a given sentence.",
+    "category": "Question Generation",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

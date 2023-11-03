@@ -1,0 +1,3 @@
+{"id": "task1203-910c7b131c574498ad196434d9e04cb5", "input": "Head: PersonX answers the question<sep>Tail: to ask a question", "target": "No"}
+{"id": "task1203-3e7e8c3a339c4c7c956a39e77af2e34c", "input": "Head: PersonX loves PersonY's voice<sep>Tail: admiring", "target": "Yes"}
+{"id": "task1203-2bdf3ec3c85a4ee7b3e21ddc488e1fb4", "input": "Head: PersonX almost fell<sep>Tail: correct look less", "target": "No"}

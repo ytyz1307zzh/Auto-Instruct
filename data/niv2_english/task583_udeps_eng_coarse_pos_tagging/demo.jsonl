@@ -1,0 +1,3 @@
+{"id": "task583-f9ab5b6916b742eab17291581940b3cc", "input": "Sentence: She added that recent visits to the island by India 's top military brass including army chief General Nirmal Chander Vij have \" caused apprehension among Tamils that preparations are under way for another war in the island {{ \" }} . \nWord: \"", "target": "PUNCT"}
+{"id": "task583-3317a2d26d97409bb7fdb1ed30d36e62", "input": "Sentence: oh and {{ please }} say y one is better thx !!!!!! \nWord: please", "target": "INTJ"}
+{"id": "task583-6d8bdaea575d40d6a2721bcf8cfefc7e", "input": "Sentence: It incorporates Mr. Stojic 's and Mr. {{ Kelly }} 's initial comments . \nWord: Kelly", "target": "PROPN"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a topic and an argument, detect whether topic is in favor or against in the argument.",
+    "category": "Stance Detection",
+    "domain": "Debatepedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

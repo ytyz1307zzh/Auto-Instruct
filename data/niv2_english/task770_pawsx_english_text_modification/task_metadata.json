@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence in English, provide an equivalent paraphrase in said language",
+    "category": "Paraphrasing",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

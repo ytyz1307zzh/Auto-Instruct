@@ -1,0 +1,7 @@
+{
+    "summary": "Find the effect of an event on another event, based on an introduced process",
+    "category": "Question Answering",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

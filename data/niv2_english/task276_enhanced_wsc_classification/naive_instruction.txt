@@ -1,0 +1,1 @@
+Given a sentence and its paraphrase, decide what is the difference between them.

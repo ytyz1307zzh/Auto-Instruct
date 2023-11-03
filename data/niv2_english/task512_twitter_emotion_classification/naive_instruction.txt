@@ -1,0 +1,1 @@
+Given a Twitter post, classify the post's emotion to six classes (sadness, joy, love, anger, fear, surprise)

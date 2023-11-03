@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence and its paraphrase, decide what is the difference between them.",
+    "category": "Text Matching",
+    "domain": "Dialogue, Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

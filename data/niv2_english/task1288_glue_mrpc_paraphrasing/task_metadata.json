@@ -1,0 +1,7 @@
+{
+    "summary": "Given two sentences check if these questions have the same meaning.",
+    "category": "Text Matching",
+    "domain": "News, Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given two facts, and a multiple-choice question, answer the question.

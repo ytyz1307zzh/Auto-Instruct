@@ -1,0 +1,1 @@
+Generate a textual description of a set of data triples.

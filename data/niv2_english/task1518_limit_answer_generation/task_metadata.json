@@ -1,0 +1,7 @@
+{
+    "summary": "Identifying the entities in a sentence where these entities take part in a physical motion.",
+    "category": "Information Extraction",
+    "domain": "News, Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

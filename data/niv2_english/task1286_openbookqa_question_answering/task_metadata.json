@@ -1,0 +1,7 @@
+{
+    "summary": "Given a multiple-choice question and you have to pick the correct option.",
+    "category": "Question Answering",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

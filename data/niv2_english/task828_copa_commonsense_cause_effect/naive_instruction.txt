@@ -1,0 +1,1 @@
+Given a pair of sentences, judge whether the second sentence is the cause or effect of the first on.

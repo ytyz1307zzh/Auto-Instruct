@@ -1,0 +1,7 @@
+{
+    "summary": "Generate sentences with stereotype given context.",
+    "category": "Fill in The Blank",
+    "domain": "Stereotypes",
+    "input_lang": "English",
+    "output_lang": "English"
+}

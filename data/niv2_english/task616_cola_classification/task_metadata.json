@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence you have to return if it is acceptable or unacceptable.",
+    "category": "Text Quality Evaluation",
+    "domain": "Linguistics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Choose the next utterance in a conversation from four candidates",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

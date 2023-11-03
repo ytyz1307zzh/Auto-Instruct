@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question about part-of-speech tag of a word in the question, write an implausible POS tag to the question.",
+    "category": "Pos Tagging",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

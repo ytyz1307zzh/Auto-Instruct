@@ -1,0 +1,7 @@
+{
+    "summary": "Constructing a related fact based on a given topic word.",
+    "category": "Sentence Composition",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

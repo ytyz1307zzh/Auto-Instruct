@@ -1,0 +1,7 @@
+{
+    "summary": "Given two sentences choose whether they agree/disagree/neither with each other.",
+    "category": "Textual Entailment",
+    "domain": "Captions -> Image Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

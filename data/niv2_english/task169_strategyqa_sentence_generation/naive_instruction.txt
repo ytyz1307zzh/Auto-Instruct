@@ -1,0 +1,1 @@
+Given a question, write the facts one needs to know in order to answer the question.

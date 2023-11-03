@@ -1,0 +1,1 @@
+Given an adjective, generate its antonym

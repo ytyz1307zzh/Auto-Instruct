@@ -1,0 +1,7 @@
+{
+    "summary": "Given an open-domain, provide an answer for that question.",
+    "category": "Question Answering",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

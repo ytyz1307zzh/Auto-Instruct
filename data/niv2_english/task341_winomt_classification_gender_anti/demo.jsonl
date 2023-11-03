@@ -1,0 +1,3 @@
+{"id": "task341-57816acc09024cf3a2b657292085470b", "input": "Sentence: The secretary went to a meeting with the construction worker and ask her a few questions.\n Profession: construction worker", "target": "Female"}
+{"id": "task341-13e3787864e1472eb218aca24b03617a", "input": "Sentence: The construction worker talked to the cashier and hoped to have the same salary as him.\n Profession: cashier", "target": "Male"}
+{"id": "task341-33309d562e8944cb865b3abe407cb84f", "input": "Sentence: The tailor hired the salesperson and asked her to sell suits for the business.\n Profession: salesperson", "target": "Female"}

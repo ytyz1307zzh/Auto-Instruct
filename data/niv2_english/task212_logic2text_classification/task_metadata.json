@@ -1,0 +1,7 @@
+{
+    "summary": "Given a command, classify the command in one of seven logic types.",
+    "category": "Text to Code",
+    "domain": "Wikipedia, Logic -> Propositional Logic",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Answer questions based on commonsense knowledge.",
+    "category": "Question Answering",
+    "domain": "Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

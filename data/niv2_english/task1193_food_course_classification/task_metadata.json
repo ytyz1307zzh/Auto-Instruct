@@ -1,0 +1,7 @@
+{
+    "summary": "Given the name of an indian dish, classify it's course as main course, dessert or snack",
+    "category": "Misc.",
+    "domain": "Food",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,3 @@
+{"id": "task923-f351a5fc98d04e7c927090635c7af640", "input": "Event:PersonX grinds PersonY's hips. Intent:", "target": "Negative"}
+{"id": "task923-6ec4afba160e4eba9193eb6b2c1de880", "input": "Event:PersonX invites PersonX's friend over. Intent: 1) to make fun of people", "target": "Positive"}
+{"id": "task923-c9de8962f2bf454c9a80093b2b57f6bf", "input": "Event:PersonX sees an advertisement. Intent: 1) to get to know persony's family", "target": "Unknown"}

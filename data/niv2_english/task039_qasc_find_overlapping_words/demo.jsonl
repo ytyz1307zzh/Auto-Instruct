@@ -1,0 +1,3 @@
+{"id": "task039-a7a8c0db3fc14a148342a049c2441f16", "input": "Sentence1: For example vinegar is dilute acetic acid. \nSentence2: Vinegar changes the color of litmus paper from blue to red.", "target": "vinegar"}
+{"id": "task039-fb5ad21afb6047d29136d62bc25fb84f", "input": "Sentence1: Lymph is a fluid that leaks out of capillaries into spaces between cells. \nSentence2: Humans are made up of trillions of cells.", "target": "cells"}
+{"id": "task039-c531a5a140c248a0802997b50d089346", "input": "Sentence1: a airplane is used for moving people across bodies of water. \nSentence2: Oceans are large bodies of salt water which separates deposits of land.", "target": "bodies"}

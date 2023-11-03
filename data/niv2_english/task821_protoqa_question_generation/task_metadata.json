@@ -1,0 +1,7 @@
+{
+    "summary": "Given a group of answers, generate a question for all answers",
+    "category": "Question Generation",
+    "domain": "Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

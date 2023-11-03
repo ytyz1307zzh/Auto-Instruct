@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context and four options, pick the best ending for the context.",
+    "category": "Text Completion",
+    "domain": "Captions -> Video Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

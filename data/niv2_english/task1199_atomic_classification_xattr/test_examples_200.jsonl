@@ -1,0 +1,200 @@
+{"id": "task1199-78d97415db8b4367b3d0e63d104fe134", "input": "Head: PersonX comes to grief<sep>Tail: shocked", "target": "Yes"}
+{"id": "task1199-6e8f69ae51f1459880b2b270343108ac", "input": "Head: PersonX achieves PersonY effect<sep>Tail: to prepare", "target": "No"}
+{"id": "task1199-5d9571ce461d40c399e8aa9ad65cdb8b", "input": "Head: PersonX achieves ___ by means<sep>Tail: dominating", "target": "No"}
+{"id": "task1199-740562ac37244c5091c6eaf0ff72cb2c", "input": "Head: PersonX accepts PersonY invitation<sep>Tail: to have fun.", "target": "No"}
+{"id": "task1199-420b5be9b10640c29780b98a8c7181a4", "input": "Head: PersonX eats PersonY's cereal<sep>Tail: mean", "target": "Yes"}
+{"id": "task1199-6c3ef245cdfe4eda8098a80d2d410932", "input": "Head: PersonX beats PersonX's swords into ploughshares<sep>Tail: reaps a harvest", "target": "No"}
+{"id": "task1199-5ebb38c6677d4acd96264773942152d2", "input": "Head: PersonX accepts PersonY's offer<sep>Tail: amicable", "target": "Yes"}
+{"id": "task1199-f33f80be6fa1470683aec051070acae2", "input": "Head: PersonX bats PersonX's eyelashes<sep>Tail: none", "target": "No"}
+{"id": "task1199-f78409243d1b487aa2a658570516f9b7", "input": "Head: PersonX accepts PersonX's diploma<sep>Tail: apply for college", "target": "No"}
+{"id": "task1199-7838ba339e18451c978892b252e96007", "input": "Head: PersonX eats bread<sep>Tail: glad", "target": "Yes"}
+{"id": "task1199-5457b18f9aba47d2a162bb22faa6d743", "input": "Head: PersonX hits the ball hard<sep>Tail: steadfast", "target": "Yes"}
+{"id": "task1199-66fb0a58828f43d1aee0c68c2a5f3f0f", "input": "Head: PersonX begins to hurt<sep>Tail: vulnerable", "target": "Yes"}
+{"id": "task1199-0a7ac5b564464fa2b4ab6566b0e8b23a", "input": "Head: PersonX gives PersonY a special gift<sep>Tail: thoughtful", "target": "Yes"}
+{"id": "task1199-4c831ccb21414babad683d000d62ed71", "input": "Head: PersonX explains PersonX's actions<sep>Tail: intuitive", "target": "Yes"}
+{"id": "task1199-f507683da3aa40c585c1662f3c86d9e3", "input": "Head: PersonX always watch ___<sep>Tail: a tv", "target": "No"}
+{"id": "task1199-6bf1b2f9e9634e38a3667d59825962b8", "input": "Head: PersonX gets on PersonY's case<sep>Tail: abrasive", "target": "Yes"}
+{"id": "task1199-8c274c903000439389baaa18bc63132a", "input": "Head: PersonX connects the ___ together<sep>Tail: thoughtful", "target": "Yes"}
+{"id": "task1199-64e0a6c8345b4f73b070d7aff1fe8978", "input": "Head: PersonX can not find a job<sep>Tail: confused", "target": "Yes"}
+{"id": "task1199-0d2880c9418c41f7aff2965215072e45", "input": "Head: PersonX drops a dime<sep>Tail: distracted", "target": "Yes"}
+{"id": "task1199-1657fd2f234a424ba72a8cfc2943ca0e", "input": "Head: PersonX eats burgers<sep>Tail: ravenous", "target": "Yes"}
+{"id": "task1199-9701842e385443ebaa988be6b50835b6", "input": "Head: PersonX brings the kids<sep>Tail: older", "target": "Yes"}
+{"id": "task1199-bad2b218c6924442beddff2b6c9c9de7", "input": "Head: PersonX eats the ice cream<sep>Tail: greedy", "target": "Yes"}
+{"id": "task1199-b81cc31ebfa94bd39ac115f8098939da", "input": "Head: PersonX goes to the polls<sep>Tail: determined", "target": "Yes"}
+{"id": "task1199-3278733923ea4c5eafe02a011257859d", "input": "Head: PersonX fulfills PersonX's dream<sep>Tail: elevated", "target": "Yes"}
+{"id": "task1199-6bbc18c3c9b94a18beacf6fb4fa6ed15", "input": "Head: PersonX asks PersonY to make<sep>Tail: persuasive", "target": "Yes"}
+{"id": "task1199-db4734ec593a41759ab12e38884dd152", "input": "Head: PersonX achieves PersonX's objective<sep>Tail: to congratulate PersonX on a good job", "target": "No"}
+{"id": "task1199-e87fbe2a943f40138c2b2926c29c3f76", "input": "Head: PersonX goes shopping ___<sep>Tail: doing tasks", "target": "Yes"}
+{"id": "task1199-24f777a916ff430b8764fa6c0ce5f2dd", "input": "Head: PersonX asks to go home<sep>Tail: helpful", "target": "No"}
+{"id": "task1199-e4a87e36e7ca47d19b75f8bccf188202", "input": "Head: PersonX holds it in PersonX's hand<sep>Tail: amiable", "target": "Yes"}
+{"id": "task1199-add981a21e3844e685f0e44d3cb2a138", "input": "Head: PersonX asks PersonY's boyfriend<sep>Tail: polite", "target": "Yes"}
+{"id": "task1199-bcbcf6f1df394526be941402fe554e9f", "input": "Head: PersonX behaves like a PersonY<sep>Tail: Fake", "target": "Yes"}
+{"id": "task1199-184bee44f847472f89f53552e9c02ea6", "input": "Head: PersonX feels nostalgic<sep>Tail: thoughtful", "target": "Yes"}
+{"id": "task1199-473fd23cf44047da8f521fdf96510a13", "input": "Head: PersonX brings owls to athens<sep>Tail: foolish", "target": "Yes"}
+{"id": "task1199-6a3f37c0d36143e18880a0bfd6d1ad3b", "input": "Head: PersonX always wore ___<sep>Tail: happy", "target": "No"}
+{"id": "task1199-d8454374af864ecfb520236eda702f92", "input": "Head: PersonX becomes PersonY wife<sep>Tail: blushes", "target": "No"}
+{"id": "task1199-1494a84e53bc4b83bf88da3969d6cf11", "input": "Head: PersonX arrives home that ___<sep>Tail: to get directions home", "target": "No"}
+{"id": "task1199-a5e8b4a25566444b802e1d8e67e57b43", "input": "Head: PersonX gives everyone<sep>Tail: benevolent", "target": "Yes"}
+{"id": "task1199-516415945c8b465298836c8a52695cf6", "input": "Head: PersonX eats for dinner<sep>Tail: starving", "target": "Yes"}
+{"id": "task1199-9341de705fc84337a3c5d1dbaa20f4e2", "input": "Head: PersonX consolidates PersonX's power<sep>Tail: controlling", "target": "Yes"}
+{"id": "task1199-322e8601191e4bd69cc0152ccfa30557", "input": "Head: PersonX affords every ___<sep>Tail: safe", "target": "No"}
+{"id": "task1199-e67e89d9648e4890b5d0b053081296b3", "input": "Head: PersonX attends PersonY school<sep>Tail: He meets Person Y.", "target": "No"}
+{"id": "task1199-3411491d13654617a262513587bdc709", "input": "Head: PersonX bakes PersonX's own bread<sep>Tail: to be useful", "target": "No"}
+{"id": "task1199-d41872da05a24a8396f24adcf6491a0b", "input": "Head: PersonX can not find it anywhere<sep>Tail: disoriented", "target": "Yes"}
+{"id": "task1199-d4a0a72e1a0344bdad1cb2aa12c39dcb", "input": "Head: PersonX hits the ball hard<sep>Tail: capable", "target": "Yes"}
+{"id": "task1199-6ffe3186dacb4d3b8e012df517278613", "input": "Head: PersonX babysits PersonX's nephew<sep>Tail: happy", "target": "Yes"}
+{"id": "task1199-2a60af1eecf74f179de806202a5b7ba8", "input": "Head: PersonX holds the cards<sep>Tail: brave", "target": "Yes"}
+{"id": "task1199-5cbb749a64b9441c8702e66087d2f720", "input": "Head: PersonX believes every ___<sep>Tail: is attentive", "target": "No"}
+{"id": "task1199-7c7cfeac676a478db70cbe012da3684d", "input": "Head: PersonX gives PersonY an ultimatum<sep>Tail: overbearing", "target": "Yes"}
+{"id": "task1199-8b2d8dd241f04b39bc1d7a5ad7957622", "input": "Head: PersonX goes shopping ___<sep>Tail: engaged", "target": "Yes"}
+{"id": "task1199-81f52649f55a4dc38c9057679007e11a", "input": "Head: PersonX feels satisfied with PersonY's work<sep>Tail: contented", "target": "Yes"}
+{"id": "task1199-491de67378af4ae9aff73e40f9c6974a", "input": "Head: PersonX applies sunscreen<sep>Tail: careful", "target": "Yes"}
+{"id": "task1199-94ba69cb90da4f33833f22ee6e86eac8", "input": "Head: PersonX becomes happier<sep>Tail: to pay therapist", "target": "No"}
+{"id": "task1199-60393ae445d341a1a0201345fdba770d", "input": "Head: PersonX digs in PersonX's heels<sep>Tail: rigid", "target": "Yes"}
+{"id": "task1199-7c55a21f5d454356b2a1038baa4d5bfd", "input": "Head: PersonX applies to medical school<sep>Tail: pays tuition", "target": "No"}
+{"id": "task1199-e3ca5252028f48f0924280b4393aa0fb", "input": "Head: PersonX asks PersonY to play<sep>Tail: to know PersonY", "target": "No"}
+{"id": "task1199-a1efbdae9cac48dea3c3bb1b092a5cae", "input": "Head: PersonX arrives to the restaurant<sep>Tail: excited", "target": "Yes"}
+{"id": "task1199-905a6e0470884668b9135757b0d8cb6d", "input": "Head: PersonX bears ___ unto the PersonY<sep>Tail: they are exonerated", "target": "No"}
+{"id": "task1199-8cf4f56cc8504ce9acc654c3cc53006e", "input": "Head: PersonX achieves PersonY effect<sep>Tail: feels glad about the success", "target": "No"}
+{"id": "task1199-75a5bf0c49f148b594d8f8641e2a1fa5", "input": "Head: PersonX eats dinner with PersonY<sep>Tail: friendly", "target": "Yes"}
+{"id": "task1199-871606b4a82445449c575cc1b2132e75", "input": "Head: PersonX accepts PersonY invitation<sep>Tail: be invited by PersonY", "target": "No"}
+{"id": "task1199-1197d91fe57240b88608c308f7d11270", "input": "Head: PersonX comes ___ immediately<sep>Tail: punctual", "target": "Yes"}
+{"id": "task1199-c4609a068f1a4d2e9873cc370cebe563", "input": "Head: PersonX gives PersonY PersonY's number<sep>Tail: loyal", "target": "Yes"}
+{"id": "task1199-68567a53601d4084a07fec59647adc22", "input": "Head: PersonX asks PersonX's boyfriend<sep>Tail: gets engaged", "target": "No"}
+{"id": "task1199-2d01a3d543d945f4bc5e57d36e0838d0", "input": "Head: PersonX eats PersonX's bread<sep>Tail: aescetic", "target": "Yes"}
+{"id": "task1199-c9c1b1d9cd6d4ec0957975e9f49599b6", "input": "Head: PersonX attends school<sep>Tail: gains knowledge", "target": "No"}
+{"id": "task1199-2174c5ef01e14eb1abb6be73cd92a28d", "input": "Head: PersonX accepts PersonX's diploma<sep>Tail: They go out for dinner to celebrate", "target": "No"}
+{"id": "task1199-33a5a57710a04ac1897de69a5ced8d09", "input": "Head: PersonX bases on PersonX's experience<sep>Tail: none", "target": "No"}
+{"id": "task1199-3752da09bfdd4a6daba39deb470ae67b", "input": "Head: PersonX has food poisoning<sep>Tail: vomiting", "target": "Yes"}
+{"id": "task1199-f5bdaf9910b3429eb3682880840d9dbf", "input": "Head: PersonX goes camping with friends<sep>Tail: outdoorsy", "target": "Yes"}
+{"id": "task1199-e309be8ac1904c0891c2cc0c28b726f1", "input": "Head: PersonX babysits PersonY's nephew<sep>Tail: to hire PersonX again", "target": "No"}
+{"id": "task1199-451516a5f4ac4688a225983297480874", "input": "Head: PersonX arranges a date<sep>Tail: go home", "target": "No"}
+{"id": "task1199-62842d4de877492a866d7d179642826c", "input": "Head: PersonX gives ___ an ultimatum<sep>Tail: strong", "target": "Yes"}
+{"id": "task1199-646636284bb94bfe9853d8a229066483", "input": "Head: PersonX affords PersonY protection<sep>Tail: a character", "target": "No"}
+{"id": "task1199-90955b80ad3c466aac9cce9516504d02", "input": "Head: PersonX cares much<sep>Tail: loving", "target": "Yes"}
+{"id": "task1199-b37c86f7e33d44a6aeee8febce843661", "input": "Head: PersonX goes perfectly<sep>Tail: accomplished", "target": "Yes"}
+{"id": "task1199-029b5bbb46944457a7c613cb1a682f3b", "input": "Head: PersonX decides enough was enough<sep>Tail: impatient", "target": "Yes"}
+{"id": "task1199-09fc81a4285c47f4b197a3a1120f8823", "input": "Head: PersonX becomes PersonY wife<sep>Tail: to carry PersonX across the threshold", "target": "No"}
+{"id": "task1199-a1da0c2341504604ab70a0d3ddc3617b", "input": "Head: PersonX decides to bake some cookies<sep>Tail: busy", "target": "Yes"}
+{"id": "task1199-7b341bd3fbf643c8a1a4b29173fe7522", "input": "Head: PersonX gives the ultimate pleasure<sep>Tail: amorous", "target": "Yes"}
+{"id": "task1199-e6e81db4035b485fa60a96ab31e538ee", "input": "Head: PersonX attends school<sep>Tail: To leave home for school", "target": "No"}
+{"id": "task1199-b0b99476c26b4bd485bb9e8346b58ed9", "input": "Head: PersonX has a good life<sep>Tail: hard working", "target": "Yes"}
+{"id": "task1199-56fd152de6374df88be85190d543b542", "input": "Head: PersonX gives the reader some ___<sep>Tail: insightful", "target": "Yes"}
+{"id": "task1199-87ea1f76375740e2a73038b74b6b8ad4", "input": "Head: PersonX discusses fully in chapter<sep>Tail: capable", "target": "Yes"}
+{"id": "task1199-cc1ba2585ffa491890c765c2be7448ff", "input": "Head: PersonX commits suicide<sep>Tail: lonely", "target": "Yes"}
+{"id": "task1199-a7fa6a373df748049bd4418214274dd6", "input": "Head: PersonX beats PersonX's swords into ploughshares<sep>Tail: powerful", "target": "No"}
+{"id": "task1199-e7e931b7f3c24baa94b44ac34a2801fd", "input": "Head: PersonX can not find a job<sep>Tail: unskilled", "target": "Yes"}
+{"id": "task1199-f68ed270e47241d2b3436408b49f4c41", "input": "Head: PersonX always lost<sep>Tail: defeated", "target": "No"}
+{"id": "task1199-8a167950876244548d9341de80bc7cf1", "input": "Head: PersonX has been friends for years<sep>Tail: nice", "target": "Yes"}
+{"id": "task1199-c672c53aaaca487f867840374453060d", "input": "Head: PersonX attends school<sep>Tail: NO", "target": "No"}
+{"id": "task1199-788e7e277bdd480ba5b61ec99a872c81", "input": "Head: PersonX causes PersonY explosion<sep>Tail: wreckless", "target": "Yes"}
+{"id": "task1199-2fce9b4255a945e39447a5a1d2e0112a", "input": "Head: PersonX affects every ___<sep>Tail: to get people think", "target": "No"}
+{"id": "task1199-891f99ed578348469712dedaa86a6f13", "input": "Head: PersonX goes down the khazi<sep>Tail: incompetent", "target": "Yes"}
+{"id": "task1199-a41d64903f80499bbfccbeb7517c1842", "input": "Head: PersonX applies sunscreen<sep>Tail: buy sunscreen", "target": "No"}
+{"id": "task1199-9e2e10beee9e4bea966b3cf43c600074", "input": "Head: PersonX establishes PersonX's reputation<sep>Tail: caring", "target": "Yes"}
+{"id": "task1199-ae3cf88cb22a469f9396d3d09727646b", "input": "Head: PersonX affords PersonY protection<sep>Tail: good person", "target": "Yes"}
+{"id": "task1199-137938742da243beae260cc5b1902f70", "input": "Head: PersonX adapts ___ to conditions<sep>Tail: to learn new things", "target": "No"}
+{"id": "task1199-90b4c603fefb4b88a2cb77fe7ac2ae18", "input": "Head: PersonX becomes PersonY's wife<sep>Tail: content", "target": "Yes"}
+{"id": "task1199-fe332eac849b4bcc8998adc117ff6401", "input": "Head: PersonX eats ___ the next day<sep>Tail: gluttonous", "target": "Yes"}
+{"id": "task1199-ab81ae3ee3784a9da4d8be172661c7d6", "input": "Head: PersonX becomes happier<sep>Tail: to look up local therapist", "target": "No"}
+{"id": "task1199-cc0613578b9845fa893fdb3917440967", "input": "Head: PersonX answers PersonY question<sep>Tail: share knowledge", "target": "No"}
+{"id": "task1199-c1dc7e87598941a380acc255e014261e", "input": "Head: PersonX accepts ___ in exchange<sep>Tail: banks his money", "target": "No"}
+{"id": "task1199-0b2ac09ae665427fbf2095c74913221b", "input": "Head: PersonX falls on PersonX's face<sep>Tail: injured", "target": "Yes"}
+{"id": "task1199-3b283d4a093d4a819ad43b9826c6e4d3", "input": "Head: PersonX becomes fast ___<sep>Tail: happy to watch", "target": "No"}
+{"id": "task1199-7c48f463c7d2473a87e46090aed43d65", "input": "Head: PersonX asks PersonX's mother for help<sep>Tail: to ask for help from someone else", "target": "No"}
+{"id": "task1199-d017ed2ca2f94e8e985cc65705a1acc7", "input": "Head: PersonX blesses PersonY's heart<sep>Tail: insulting", "target": "Yes"}
+{"id": "task1199-829dc21ccbc94003853dcc810429ba8f", "input": "Head: PersonX achieves PersonY objective<sep>Tail: PersonY gets saved the time", "target": "No"}
+{"id": "task1199-1e81e2baf13b4a319367fcb305006f98", "input": "Head: PersonX asks if PersonY was okay<sep>Tail: questioning", "target": "Yes"}
+{"id": "task1199-5dfdf8eeb43d45ecb6e98def87ffe9c9", "input": "Head: PersonX gets it removed<sep>Tail: brave", "target": "Yes"}
+{"id": "task1199-6a91cbc372ad47b9b7c6ae0c98f6e5fb", "input": "Head: PersonX follows ___ exactly<sep>Tail: dedicated", "target": "Yes"}
+{"id": "task1199-51c47d4cfa814696a1a741713d85de08", "input": "Head: PersonX enters ___ at school<sep>Tail: competitive", "target": "Yes"}
+{"id": "task1199-714f1e583712409e9e56df0f148b2fd9", "input": "Head: PersonX becomes PersonY's wife<sep>Tail: to throw confetti on the couple", "target": "No"}
+{"id": "task1199-92e6e690ede849df940e9b1a5b7ee2d1", "input": "Head: PersonX digs in PersonX's heels<sep>Tail: tough", "target": "Yes"}
+{"id": "task1199-378b7e3b7b0e46819517e9af2cfc68e6", "input": "Head: PersonX also ordered ___<sep>Tail: like they made a good choice", "target": "No"}
+{"id": "task1199-a9628eacbcb04a8ebe8bbb4cce8bf7ca", "input": "Head: PersonX answers the door<sep>Tail: PersonX opens door", "target": "No"}
+{"id": "task1199-baf5e7fd13ce433fa1afa5712c0e5170", "input": "Head: PersonX eats ___ for dinner<sep>Tail: Italian sausage", "target": "Yes"}
+{"id": "task1199-3b6dbdc5799a41aca4a316d79aa8ef4f", "input": "Head: PersonX fees PersonY's kids<sep>Tail: generous", "target": "Yes"}
+{"id": "task1199-11cc5f73f11a45c7a452579351899f09", "input": "Head: PersonX asks ___ to go with PersonY<sep>Tail: thank person X", "target": "No"}
+{"id": "task1199-6cba78ba6df9432fadd59af8951813c4", "input": "Head: PersonX feels homesick<sep>Tail: nostalgic", "target": "Yes"}
+{"id": "task1199-19495f15526f409aa9ee355b428f01c2", "input": "Head: PersonX asks PersonY to play<sep>Tail: to play a video game.", "target": "No"}
+{"id": "task1199-3bafdf2a602f412da277a4cda5d61895", "input": "Head: PersonX also ordered ___<sep>Tail: competent", "target": "Yes"}
+{"id": "task1199-1c7d2eb4cc6d4a54bc4274cf045730a1", "input": "Head: PersonX carries the can<sep>Tail: hardworking", "target": "Yes"}
+{"id": "task1199-2ed52e03e34348eca404990a234447c9", "input": "Head: PersonX arrives just in time<sep>Tail: relieved", "target": "Yes"}
+{"id": "task1199-21395b4bc08e446cadcc5631bbf8e7ec", "input": "Head: PersonX comes to PersonY's attention<sep>Tail: brave", "target": "Yes"}
+{"id": "task1199-2a6a7a91abac446ab476c4cd6a33ee7c", "input": "Head: PersonX answers PersonY question<sep>Tail: informed", "target": "Yes"}
+{"id": "task1199-5cc1aa3872ce4db3a10dfb1783a187e5", "input": "Head: PersonX clicks on the email button<sep>Tail: literate", "target": "Yes"}
+{"id": "task1199-b136430df6e94acbb2167cecad8080f0", "input": "Head: PersonX enjoys ___ anyway<sep>Tail: carefree", "target": "Yes"}
+{"id": "task1199-368081a1511a40b48315a9f62a92dc25", "input": "Head: PersonX asks ___ for one<sep>Tail: dependent", "target": "Yes"}
+{"id": "task1199-363e9dc3d2794970b0ac0a6b54b65e5b", "input": "Head: PersonX adopts every ___<sep>Tail: basis", "target": "No"}
+{"id": "task1199-03e0e99b89124e4d829fac9768cca574", "input": "Head: PersonX answers PersonY question<sep>Tail: to help person Y", "target": "No"}
+{"id": "task1199-007e7e2f34bc41139edce285433a10b3", "input": "Head: PersonX asks ___ to go with PersonY<sep>Tail: friendship", "target": "No"}
+{"id": "task1199-13a2548e96a3402d9176ba08fc2408f7", "input": "Head: PersonX goes the way of the dodo<sep>Tail: pleasant", "target": "Yes"}
+{"id": "task1199-af67071164354fdc9461c28b056b6d31", "input": "Head: PersonX asks PersonY's grandma<sep>Tail: hopeful.", "target": "No"}
+{"id": "task1199-4f84321134ab427884442968deaf664d", "input": "Head: PersonX goes ___ that night<sep>Tail: routine", "target": "Yes"}
+{"id": "task1199-5ce877b7f7984d1e853dfbaa76b5fa83", "input": "Head: PersonX always wore ___<sep>Tail: to press the suit", "target": "No"}
+{"id": "task1199-26f3be371635411e9553155348b18649", "input": "Head: PersonX hears nothing<sep>Tail: deaf", "target": "Yes"}
+{"id": "task1199-8a947009994d4959ae5aa26a018b88ff", "input": "Head: PersonX bears ___ unto the PersonY<sep>Tail: they are free", "target": "No"}
+{"id": "task1199-28aba001d2804d14bb426f93c1b88cf4", "input": "Head: PersonX holds in PersonY's hand<sep>Tail: Careful", "target": "Yes"}
+{"id": "task1199-a2098f1f588b4b679b751210fc23ec46", "input": "Head: PersonX always watch ___<sep>Tail: careful", "target": "Yes"}
+{"id": "task1199-856bc0ed5c1741059045e518b60231ec", "input": "Head: PersonX arrives home<sep>Tail: starts to forget things he has to do", "target": "No"}
+{"id": "task1199-df6a91f434d943e494573c7cbb2aba37", "input": "Head: PersonX badly wanted<sep>Tail: to go get it", "target": "No"}
+{"id": "task1199-fae5e53a92214402a25c381b0426858e", "input": "Head: PersonX expresses PersonY thanks<sep>Tail: Kind", "target": "Yes"}
+{"id": "task1199-04dffe7b8c934496847ba7cf0ddc6439", "input": "Head: PersonX hires a personal trainer<sep>Tail: healthy", "target": "Yes"}
+{"id": "task1199-fce40afbc22e404789aebe136019d23c", "input": "Head: PersonX grows big and strong<sep>Tail: hardworking", "target": "Yes"}
+{"id": "task1199-525e4c297adb4c0eb12dda1eeac79dcf", "input": "Head: PersonX gives PersonY a bloody nose<sep>Tail: a bully", "target": "Yes"}
+{"id": "task1199-e0f27c658aa84d03a066c32ef4241543", "input": "Head: PersonX asks to go home<sep>Tail: thinks about decision", "target": "No"}
+{"id": "task1199-8dea1f6eb471495d850551dcf1547227", "input": "Head: PersonX greets PersonY warmly<sep>Tail: personable", "target": "Yes"}
+{"id": "task1199-cad8c6e6e4d04542bb4f948f4dc46ff2", "input": "Head: PersonX gets it repaired<sep>Tail: talented", "target": "Yes"}
+{"id": "task1199-d01714437e97444ebf3996f7587e636d", "input": "Head: PersonX babysits PersonX's nephew<sep>Tail: to be available", "target": "No"}
+{"id": "task1199-17a36ce09e9e4f1e8af669621d3aa785", "input": "Head: PersonX accepts PersonY invitation<sep>Tail: prepare to hang out with PersonX", "target": "No"}
+{"id": "task1199-4c8c0a188b5d4c528e8714099b3554f9", "input": "Head: PersonX decides to keep PersonY<sep>Tail: considerate", "target": "Yes"}
+{"id": "task1199-0cfce3f739bf4b309081cf3ed4f22c27", "input": "Head: PersonX answers the door<sep>Tail: He talks to the visitor", "target": "No"}
+{"id": "task1199-05b5a09dbc6f433a8eabbc8cf09b5ec9", "input": "Head: PersonX becomes PersonY wife<sep>Tail: need to buy a wedding dress", "target": "No"}
+{"id": "task1199-4a8dca10519a4b08a896b5fab34c9d98", "input": "Head: PersonX almost fell<sep>Tail: scared", "target": "No"}
+{"id": "task1199-c869afa2239e4b42aea96c6d829a8411", "input": "Head: PersonX believes every word<sep>Tail: free spirited", "target": "Yes"}
+{"id": "task1199-631a67d31fce4d78ac0f461b7296c534", "input": "Head: PersonX feels excited<sep>Tail: joyous", "target": "Yes"}
+{"id": "task1199-05ad3526814a4bbf9e8d04a54f0ebd55", "input": "Head: PersonX boils the noodles<sep>Tail: hungry", "target": "Yes"}
+{"id": "task1199-288f6d9094624b548238f84c21f78111", "input": "Head: PersonX goes camping with PersonX's friends<sep>Tail: adventurous", "target": "Yes"}
+{"id": "task1199-5aca448c9f294bdab87d2109033a42af", "input": "Head: PersonX gives ___ to PersonX's friend<sep>Tail: giving", "target": "Yes"}
+{"id": "task1199-3813a53baf6a41f8a5c3a48b833d1bde", "input": "Head: PersonX commits suicide<sep>Tail: sad", "target": "Yes"}
+{"id": "task1199-5390e16f5fb844d0bc9cf9368109b71b", "input": "Head: PersonX eats cereal<sep>Tail: content", "target": "Yes"}
+{"id": "task1199-85fe43426e9246ebbb94b4cd8d529c7e", "input": "Head: PersonX accepts PersonY's offer<sep>Tail: considerate", "target": "Yes"}
+{"id": "task1199-09cbe4aebbfa492e8f3bf69c9857a5a0", "input": "Head: PersonX gives PersonY news<sep>Tail: optimistic", "target": "Yes"}
+{"id": "task1199-40d5d065df5c452981573e6f751a3f30", "input": "Head: PersonX exposes oneself<sep>Tail: inappropriate", "target": "Yes"}
+{"id": "task1199-a91cdea95bfc40ce83268d51cf86bf09", "input": "Head: PersonX buys an expensive car<sep>Tail: flashy", "target": "Yes"}
+{"id": "task1199-c9ebf817d7984470870b025d78eadf8d", "input": "Head: PersonX addresses PersonY audience<sep>Tail: satisfied", "target": "No"}
+{"id": "task1199-9e32fe3035d84368b00ed7f970025525", "input": "Head: PersonX always ate ___<sep>Tail: indulgent", "target": "Yes"}
+{"id": "task1199-3ae003e9c33c45ff89679187a85e9d52", "input": "Head: PersonX asks PersonY to stay<sep>Tail: lonely", "target": "No"}
+{"id": "task1199-e306965bc96f4c80b68a9e0bc392365e", "input": "Head: PersonX applies sunscreen<sep>Tail: to sunbathe", "target": "No"}
+{"id": "task1199-8ce04b8feb6b45b99448993ae4e8aadd", "input": "Head: PersonX has a good job<sep>Tail: efficient", "target": "Yes"}
+{"id": "task1199-7008f7aceac84bcfa05e61cee4521c2a", "input": "Head: PersonX always tries<sep>Tail: hard working", "target": "Yes"}
+{"id": "task1199-3c13ab50090848d78580c367cb18476c", "input": "Head: PersonX finds a quarter<sep>Tail: finder", "target": "Yes"}
+{"id": "task1199-7f14bc8e35074d5e9da95e56722730c2", "input": "Head: PersonX always tries<sep>Tail: determined", "target": "No"}
+{"id": "task1199-cace5c01c09b4b8ab3257e1236eaa5e1", "input": "Head: PersonX finds PersonY alone<sep>Tail: Loyal", "target": "Yes"}
+{"id": "task1199-a99374f2b55d4d70aa74e313d800ddfb", "input": "Head: PersonX fulfils PersonY's needs<sep>Tail: devoted", "target": "Yes"}
+{"id": "task1199-5bfa267242324fc28c954ee54e39ac2a", "input": "Head: PersonX changes one 's ___<sep>Tail: happy", "target": "Yes"}
+{"id": "task1199-2b112492b8444cfbbac0cb0d30fd9648", "input": "Head: PersonX answers the question<sep>Tail: to get feedback", "target": "No"}
+{"id": "task1199-41a02b433a1b4e65be79ae62cf4ce057", "input": "Head: PersonX decides to stay<sep>Tail: adventurous", "target": "Yes"}
+{"id": "task1199-78cf32f61beb4809ba8eac36b51a6499", "input": "Head: PersonX comes ___ at night<sep>Tail: nocturnal", "target": "Yes"}
+{"id": "task1199-3442d4ca56b94164bcc33cdb93f5764c", "input": "Head: PersonX gives PersonY the news<sep>Tail: talkative", "target": "Yes"}
+{"id": "task1199-3ffcca27530142d79e485756805b4055", "input": "Head: PersonX increases PersonX's output<sep>Tail: productive", "target": "Yes"}
+{"id": "task1199-eae07029c3d948d09efa7b43d6467301", "input": "Head: PersonX asks PersonY to play<sep>Tail: to be friends with PersonY", "target": "No"}
+{"id": "task1199-7ab933e9aa854293b1a3edfbd96a9d4d", "input": "Head: PersonX constitutes a day 's ___<sep>Tail: skilled", "target": "Yes"}
+{"id": "task1199-dc539b55a8d34134a4cf6c162aedd132", "input": "Head: PersonX decides to keep the cat<sep>Tail: caring", "target": "Yes"}
+{"id": "task1199-afc4c3fef67a4d63b1713bd17269ee8d", "input": "Head: PersonX argues a lot<sep>Tail: angry", "target": "Yes"}
+{"id": "task1199-5d48d68a5c3b48ee9555badcfebaf816", "input": "Head: PersonX blesses PersonY's heart<sep>Tail: none", "target": "No"}
+{"id": "task1199-3e29e5fa21254b6690c77265614332d2", "input": "Head: PersonX feels more relaxed<sep>Tail: comfortable", "target": "Yes"}
+{"id": "task1199-1109f66593d04821b4445b4e9a3d2b70", "input": "Head: PersonX gives the reader PersonY ___<sep>Tail: Teaching", "target": "Yes"}
+{"id": "task1199-ad3b344bb86e4ae0bcb145952b8811be", "input": "Head: PersonX connects ___ together<sep>Tail: Collaborative", "target": "Yes"}
+{"id": "task1199-46067e6d3723410fa0cbe598f9d864c2", "input": "Head: PersonX almost fell<sep>Tail: to get back on their feet", "target": "No"}
+{"id": "task1199-880fc71d40134164a760096838a3a761", "input": "Head: PersonX accepts the invitation<sep>Tail: to see some people", "target": "No"}
+{"id": "task1199-262d43b92fc648d490c04881b5585222", "input": "Head: PersonX blesses PersonY's heart<sep>Tail: helpful", "target": "No"}
+{"id": "task1199-012b4be7271145e4a7e8a915644358b6", "input": "Head: PersonX assumes another ___<sep>Tail: none", "target": "No"}
+{"id": "task1199-1914fa5e759e42b590effccf33dd0665", "input": "Head: PersonX gets a credit card<sep>Tail: responsible", "target": "Yes"}
+{"id": "task1199-b62f80f8196e4a7c84499387c72ae5b0", "input": "Head: PersonX hands it back to PersonY<sep>Tail: nice", "target": "Yes"}
+{"id": "task1199-9d0710ef668d442a886ea810c544e772", "input": "Head: PersonX arrives at PersonY understanding<sep>Tail: accepted", "target": "No"}
+{"id": "task1199-db6192f2a2f14c37aadf235b8b57febf", "input": "Head: PersonX affects children 's ___<sep>Tail: none", "target": "No"}
+{"id": "task1199-cdb83338cf874c49b040c0d783c086e5", "input": "Head: PersonX has free time<sep>Tail: successful", "target": "Yes"}
+{"id": "task1199-f61c3709be994b7e9b3000d737590e54", "input": "Head: PersonX bears the brunt<sep>Tail: to take a break", "target": "No"}
+{"id": "task1199-ab020991a3504f1dadfb61423ea0f845", "input": "Head: PersonX adopts PersonY attitude<sep>Tail: to make a change", "target": "No"}
+{"id": "task1199-3b148676cc144a38897d19f63eb257a7", "input": "Head: PersonX affects PersonY's interests<sep>Tail: to do something good for them", "target": "No"}

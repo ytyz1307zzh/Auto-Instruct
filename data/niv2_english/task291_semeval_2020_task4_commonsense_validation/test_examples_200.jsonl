@@ -1,0 +1,200 @@
+{"id": "task291-a78267ef17dd4c0cb3d31f4b386a4a72", "input": "The patient finally decided to donate his ash after he died\nThe patient finally decided to donate his organs after he died", "target": "first"}
+{"id": "task291-c1ba4d2198d14b6686f167be88589f06", "input": "Religion has caused a lot of wars\nReligion is not controversial", "target": "second"}
+{"id": "task291-6d8807038a074ac998f528d4f3c7e267", "input": "She loves to watch movies at the local laundromat.\nShe loves to watch movies at the local theater.", "target": "first"}
+{"id": "task291-d9ed6f05b0564526b431a2ed3a78dbaa", "input": "A hair care article is for funny\nA hair care article is for health", "target": "first"}
+{"id": "task291-5edcc27d6f1540dba8571923a5452649", "input": "I would like to buy a happy\nI would like to buy a house", "target": "first"}
+{"id": "task291-1698311385f94a6386cd785ea4ea4b5b", "input": "One should drive car on the road\nOne should drive car on the pavement", "target": "second"}
+{"id": "task291-06e804cfe3aa4ccc8ffbf8ee2fadca1c", "input": "The host forbid others entering the house by building fence around his house\nThe host forbid others entering the house by planting grass around his house", "target": "second"}
+{"id": "task291-f52b6af886454cfb83e1752f5bb8bd94", "input": "They drive the car to Chicago\nThey drive the car flying over Chicago", "target": "second"}
+{"id": "task291-c6d7a877716943b99fae3c8cbfd34bed", "input": "I'm the host of a live radio program\nI'm the cook of a live radio program", "target": "second"}
+{"id": "task291-e672bffb55d24e59a611c275a0f19e7e", "input": "She can see a ship in the sea\nShe can see a ship in the pond", "target": "second"}
+{"id": "task291-226c2309091748ff9dc27da34659a95d", "input": "He replaced the bulb in the lamp with a salmon\nHe replaced the bulb in the lamp with a new LED bulb", "target": "first"}
+{"id": "task291-09330a0a6c234b0fad23cfc6bbca8ff5", "input": "I like to watch birds with washing machines.\nI like to watch birds with binoculars.", "target": "first"}
+{"id": "task291-673f1685cae84e81b3d526963a6d12c5", "input": "The suspect was executed because of the lack of evidence\nThe suspect was released because of the lack of evidence", "target": "first"}
+{"id": "task291-faba2cc220eb49cea43ca6af58529d00", "input": "Coffee is a stimulant found in caffeine.\nCaffeine is a stimulant found in coffee.", "target": "first"}
+{"id": "task291-ba88f732eec246cba0233d1f8ee6849f", "input": "The effect of hiking is seeing nature\nThe effect of hiking is seeing supermarket", "target": "second"}
+{"id": "task291-556b60cbe5d242df9ea24f2a960ed9b2", "input": "A boat floats on water.\nA boat floats on air.", "target": "second"}
+{"id": "task291-b72ad9f789ae44bb9e7dba50a42e5551", "input": "people like to smoke cigarette\npeople like to smoke trees", "target": "second"}
+{"id": "task291-4491731adedb4947b19552f9789f5705", "input": "He ordered a cat sandwich for lunch.\nHe ordered a chicken sandwich for lunch.", "target": "first"}
+{"id": "task291-9b79eee1b11c4f46b9c4cd12754853a4", "input": "He went to the police station to withdraw cash.\nHe went to the bank to withdraw cash.", "target": "first"}
+{"id": "task291-853fa60631704d5693f732f176abe8c9", "input": "the pictures remind me of my pet days\nthe pictures remind me of my school days", "target": "first"}
+{"id": "task291-76037be1e06f4c05ab9009a9d1be0219", "input": "My mind gets clearer after drinking a lot alcohol\nMy mind gets more confused after drinking a lot alcohol", "target": "first"}
+{"id": "task291-a773d05d77d7456cbc3f13e6ca50d7f6", "input": "Goats can lay eggs\nChicken can lay eggs", "target": "first"}
+{"id": "task291-86572e2523df4a5fa8efe7a2355ce3a2", "input": "a bowl used for cutting salad\na bowl used for holding salad", "target": "first"}
+{"id": "task291-0effad33ca5c495d87cfcca23593b990", "input": "due to the lack of salary and training, Octavian will no longer have the loyalty from his mercenary\ndue to the lack of salary and training, Octavian will now have more loyalty from his mercenary", "target": "second"}
+{"id": "task291-6fe39f8e74fe440e92e83d7a89ef2717", "input": "I ran home to help my mother with dinner.\nI ran home to help my couch with dinner.", "target": "second"}
+{"id": "task291-581d92a5729546bb9637dcbef1a46b44", "input": "Combining exercise with the diet may be the most effective way to gain weight\nCombining exercise with the diet may be the most effective way to lose weight", "target": "first"}
+{"id": "task291-d49008580b584c3cb70e7352e412bba7", "input": "He put a tiger into the toaster.\nHe put bread into the toaster.", "target": "first"}
+{"id": "task291-77da507c92374e999a30e129436d6880", "input": "She bought a sandwich from the deli.\nShe bought fireworks from the deli.", "target": "second"}
+{"id": "task291-3ccca6a92db14811a95110500c3ac0d8", "input": "I bought groceries at the Farmers market.\nI bought Stocks at the Farmers market.", "target": "second"}
+{"id": "task291-243287524ec4416b9c37ce1d68b65bef", "input": "That fish was swimming in the sky.\nThat fish was swimming in the water.", "target": "first"}
+{"id": "task291-79f2d0919aa74985afc7d3d6447cbc9b", "input": "When driving, it's important to keep both hands on the steering wheel.\nWhen driving, it's important to keep both feet on the steering wheel.", "target": "second"}
+{"id": "task291-dc3b3f557352481580f2dcca0a918107", "input": "If you want to see zebras in the wild, you should go to Africa.\nIf you want to see penguins in the wild, you should go to Africa.", "target": "second"}
+{"id": "task291-8d7b252e4a344c3e89943d13a416a739", "input": "The cat wants to go through the door.\nThe fridge wants to go through the door.", "target": "second"}
+{"id": "task291-41c18fb2906f4bdc9867fafb035a0186", "input": "He put a house in his pocket\nHe put his wallet in his pocket", "target": "first"}
+{"id": "task291-eeebed9e851c4f4d92908017681f488a", "input": "She paid for her groceries with cash.\nShe paid for her groceries with dolphins.", "target": "second"}
+{"id": "task291-0997c886411342d787a078a2e8ad15e1", "input": "My dog ate my homework\nMy dog wrote my homework", "target": "second"}
+{"id": "task291-5c30f5d2b302495da1f1a349eee88559", "input": "people eat food because of hunger\nfood eat people because of hunger", "target": "second"}
+{"id": "task291-d6caddd92a964e8eb27e3bb268d2e025", "input": "He ate a bottle.\nHe ate a taco.", "target": "first"}
+{"id": "task291-5ebb95ccbdda4543a89c0e340b37b38d", "input": "The day is brighter than the night\nThe day is darker than the night", "target": "second"}
+{"id": "task291-2043709ea30841dcad646bff0cd4faa3", "input": "She is driving her dog to the vet.\nHer Dog is driving to the vet.", "target": "second"}
+{"id": "task291-aeb3e1b4e2b6454497f7e94a3ae171c1", "input": "dogs like to chase hippos\ndogs like to chase cats", "target": "first"}
+{"id": "task291-002ffab77f1042959ae45f5683956a10", "input": "She travelled to work on a spoon.\nShe travelled to work on a bike.", "target": "first"}
+{"id": "task291-3bf1c7edda5f485db3fb5ba67cb572a6", "input": "He took the dirty clothes to the dry cleaner\nHe took the dirty clothes to the gym", "target": "second"}
+{"id": "task291-17b8654e3f5b4f90b1f9cb420530f5ee", "input": "People use mugs to drink coffee.\nPeople use mugs to drink laptops.", "target": "second"}
+{"id": "task291-fb5f4bcff6f2448ea653868ddf4d24a1", "input": "I go to the restaurant to eat food\nI went to the toilet to eat food", "target": "second"}
+{"id": "task291-ed0ef1f2dc6b43e49ff90ddf7fe32939", "input": "I jump with my legs\nI jump with my arms", "target": "second"}
+{"id": "task291-83fd060fa2334c5e9f6ba5259a4a0716", "input": "Modern people spend more and more time in watching their cell phone\nModern people spend more and more time watching a brick", "target": "second"}
+{"id": "task291-348df5e461c7482483e30abd64aa0bac", "input": "Glass may be easily broken.\nDiamonds may be easily broken.", "target": "second"}
+{"id": "task291-60c63153fea14d76b4144faa6562d9ce", "input": "I got in the supermarket from its entrance\nI got in the supermarket from its glass curtain wall", "target": "second"}
+{"id": "task291-21904302758a4db28cfb8867ae0664e8", "input": "She went to the bookstore to get ready for her wedding.\nShe went to the hairdresser to get ready for her wedding.", "target": "first"}
+{"id": "task291-82223dd8695e4277a86cf01707f39528", "input": "Dogs are more flexible than human beings.\nDogs can run faster than human beings.", "target": "first"}
+{"id": "task291-ef6fc6cb0aa84622920a39990cc77f10", "input": "Eating vegetables is bad for health\nEating vegetables is good for health", "target": "first"}
+{"id": "task291-a0325eaa06ed45a8a8ae3e9fb4ea798b", "input": "Walking outside is good for your health.\nWalking on the moon is good for your health.", "target": "second"}
+{"id": "task291-764c79b6c3174ef780e03c76d8576688", "input": "If you want to surf the web then you should open a word document.\nIf you want to surf the web then you should open a browser.", "target": "first"}
+{"id": "task291-28496425b4a14d7c9b4c8afddf74df37", "input": "boiled vegetables are nutritious\nboiled vegetables are for weight loss", "target": "first"}
+{"id": "task291-a16c3b040a4c4bb28a583e12649de542", "input": "She hung a banana on the wall.\nShe hung a picture on the wall.", "target": "first"}
+{"id": "task291-0740f34db59f41f283e2042be417c2c3", "input": "The waves were crashing on the shore\nThe waves were crashing on the street", "target": "second"}
+{"id": "task291-a1041eb16cd8467c9f577e295049f39f", "input": "He wore his coat today.\nHe wore his sandwich today", "target": "second"}
+{"id": "task291-d86b68da93bb452d84032371cb7495fd", "input": "Her father was murdered, thus she is seeking for revenge\nHer father was murdered, thus she is seeking for a job", "target": "second"}
+{"id": "task291-b1e469eabb654f87914f08bf9fc280aa", "input": "Socks is a thing which we wear on neck\nHelmet is a thing which we wear on head", "target": "first"}
+{"id": "task291-f21d7e28140642749f4249aaee761feb", "input": "She put bread in the toaster\nShe put a cup in the toaster", "target": "second"}
+{"id": "task291-4c82b1f1137d4be0a41e273a81a7aabd", "input": "He put the food into the Black pepper.\nHe put ground black pepper into the food.", "target": "first"}
+{"id": "task291-7f18320a7a774692aeebc5e59c433278", "input": "I went to work at an office.\nI went to ski at an office.", "target": "second"}
+{"id": "task291-96b2f2b42a8640eb8c2d2eb40aa86e04", "input": "He took spoon for headache\nHe took tablet for headache", "target": "first"}
+{"id": "task291-9ccddb151c3a4204a8e56e3e1a2b919c", "input": "Fire is dangerous.\nFire is unharmful.", "target": "second"}
+{"id": "task291-4324ecf756db4afa8ec0d7e552d0778e", "input": "Babies have a father.\nBabies have no father.", "target": "second"}
+{"id": "task291-9fdcc9a0350945c999965e8b711ebbe6", "input": "forests help to keep water from running away\nforests help to keep sunlight from running away", "target": "second"}
+{"id": "task291-d8757e425e1b4291a891665a9e352624", "input": "money can grow in a garden\nFlowers can grow in a garden", "target": "first"}
+{"id": "task291-207b121b563e4d74908d2624d3724cf5", "input": "She uses an apple to change the television channel.\nShe uses a remote to change the television channel.", "target": "first"}
+{"id": "task291-bc25bbfc68f241a3bb22bf97838efe6d", "input": "A grocery store sells items giraffes need everyday.\nA grocery store sells items people need everyday.", "target": "first"}
+{"id": "task291-d417b963add249028e23b79268b0d434", "input": "If you want to stay healthy then you should eat less red meat\nIf you want to stay healthy then you should eat more red meat", "target": "second"}
+{"id": "task291-e0a70c1ff22c439c8cee732952b85440", "input": "Harold needs ketchup for his french fries.\nHarold needs motor oil for his french fries.", "target": "second"}
+{"id": "task291-49662424c25b419a9afbcbeb2469fb04", "input": "Bottle is a glass or plastic container with a narrow neck, used for storing drinks or other liquids\nPaper is a glass or plastic container with a narrow neck, used for storing drinks or other liquids", "target": "second"}
+{"id": "task291-bd95b6238e0b4a77803a5a6199ec9f91", "input": "Senators serve drinks to thirsty customers.\nBartenders serve drinks to thirsty customers.", "target": "first"}
+{"id": "task291-1f10a4efe927485b97cd0ad2729c71b3", "input": "She put the shoe on her foot\nShe put the shoe on her hand", "target": "second"}
+{"id": "task291-9f71715c214b45ca9c5726bb11b335ca", "input": "we become younger when the time pass\nwe get older when the time pass", "target": "first"}
+{"id": "task291-42c5e79e90a5414c92bab517ff00d825", "input": "The effect of going on the stage is sad\nThe effect of going on the stage is joy", "target": "first"}
+{"id": "task291-a3290c0af9a54b1386a246ea74b3fec9", "input": "The world has many people in different countries\nThe countries have many world within it.", "target": "second"}
+{"id": "task291-173b89c07a0a4fc68ea7fab2f27d8d94", "input": "I went to the hospital to pick up my eye prescription.\nI went to the Cinema to pick up my eye prescription.", "target": "second"}
+{"id": "task291-3ef8ef1e166d4d3aad374a6174b315f8", "input": "we can borrow money from a toilet\nwe can borrow money from a bank", "target": "first"}
+{"id": "task291-f6f20888065a4e0cabfeb21255b0d223", "input": "I used cement to stick the papers\nI used glue to stick the papers", "target": "first"}
+{"id": "task291-6b549f872d844a81827e0d1e9b0c46c0", "input": "You can walk on a sandy beach.\nYou can walk on a lake.", "target": "second"}
+{"id": "task291-5220c7cabd07401bbc42728872c5e2e5", "input": "People like soaking in hot springs for the medicinal benefits.\nPeople like soaking in mayonnaise for the medicinal benefits.", "target": "second"}
+{"id": "task291-fe3398c8a88f485c87a565fd9995ca09", "input": "Squids are land animals\nSquids are aquatic creatures", "target": "first"}
+{"id": "task291-b270772a88584fc58a1fad99713443eb", "input": "a traveler keep his clothes in a suitcase\na traveler keep his clothes in a bowl", "target": "second"}
+{"id": "task291-5e7b7cf072de4743ab681e0dbe17f8ac", "input": "grass can stain clothes\ngrass can clean clothes", "target": "second"}
+{"id": "task291-cdefe824e71e4764a5256b2c39602209", "input": "I didn't eat the turkey in thanksgiving because I don't like pork\nI didn't eat the turkey in thanksgiving because I don't like turkey meat", "target": "first"}
+{"id": "task291-94ec48e31b8349ca9a89e88f7c185053", "input": "My aunt's pumpkin was so ordinary, it won an award.\nMy aunt's pumpkin was so huge, it won an award.", "target": "first"}
+{"id": "task291-aa1de35e07294d46aab575c88ee46478", "input": "To become a state of law, laws have to be strictly executed\nTo become a state of law, the president should change the constitution in secret", "target": "second"}
+{"id": "task291-93dc9ac13da94e3c9d0f01aff15932b0", "input": "Something you would find for sale in a hardware store is a hammer.\nSomething you would find for sale in a hardware store is a suit.", "target": "second"}
+{"id": "task291-af3d310940d344089df9a16e9130c061", "input": "The house entered the man\nThe man entered the house", "target": "first"}
+{"id": "task291-b38ce34816f44d0d96d2062957f3149a", "input": "The closest hardware store was in the airport\nThe closest hardware store was in the next city", "target": "first"}
+{"id": "task291-8a055939f3034e0989312f96264c5e99", "input": "Words can show scenes\nwords can state feelings", "target": "first"}
+{"id": "task291-43393676fbcc4300b47f99b392c4084c", "input": "We are divided in our opinions\nWe are divided in our toes", "target": "second"}
+{"id": "task291-ee0d80bb9ea547a7b9fe3b323136eb18", "input": "A girl was driving the car\nA cat was driving the car", "target": "second"}
+{"id": "task291-2addc568701a47149dd0670c25d3e9a3", "input": "the sea water is mainly composed of sugar and water\nthe sea water is mainly composed of salt and water", "target": "first"}
+{"id": "task291-c096b7b74cf244fe88392acf9dfefc7f", "input": "The soldier was mentally scared\nThe soldier was physically spongy", "target": "second"}
+{"id": "task291-d3fa8d758de14d42a20b73b96cf6ea4c", "input": "He called his wife on her pen\nHe called his wife on her mobile", "target": "first"}
+{"id": "task291-24dd38dd1fb3498a82ced24fa66a53c6", "input": "Oscar got a flat emotion\nOscar got a flat tire.", "target": "first"}
+{"id": "task291-dbee1578ead04619abf12d5073b64c55", "input": "She unplugged her phone because it committed war crimes\nShe unplugged her phone because it was done charging", "target": "first"}
+{"id": "task291-01365d9d7ed94375880f73fef5dd9f85", "input": "People went into the alpaca to work.\nPeople went into the skyscraper to work.", "target": "first"}
+{"id": "task291-accdae577b9b483aa44aac1f1fc47a86", "input": "The house had a banana on top to protect if from lightning.\nThe house had a lightning rod on top to protect it from lighting.", "target": "first"}
+{"id": "task291-0af756fc767d41eba6da005dffba0524", "input": "it is believed that part-time job will provide students with cars to develop interpersonal skills\nit is believed that part-time job will provide students with opportunities to develop interpersonal skills", "target": "first"}
+{"id": "task291-d939421ad44844798febed26834082bf", "input": "How much cloth does it take to make a skirt for the girl?\nHow much cloth does it take to make a table for the girl?", "target": "second"}
+{"id": "task291-56a70b11c5f841488c1495fe7e19d16c", "input": "the gardener was moaning that he had another garden to do later\nthe nurse was moaning that he had another garden to do later", "target": "second"}
+{"id": "task291-d29b50340f9e46e2a62637d0c4c3c00d", "input": "She got into the bathtub to sleep.\nShe got into bed to sleep.", "target": "first"}
+{"id": "task291-0bb3c3d0e2ce459d8bdf1b3cd2419b3f", "input": "Jack took some ice from the fridge\nJack took some ice from the stove", "target": "second"}
+{"id": "task291-c8435f2f8f2f450e8dd621ab008d6f79", "input": "He plays volley ball everyday.\nHe plays kitchen everyday.", "target": "second"}
+{"id": "task291-6940227e83384889b385e7a3226c03e1", "input": "We ate a house for lunch.\nWe ate pizza for lunch.", "target": "first"}
+{"id": "task291-c6241678977546348ca618ee004ea91d", "input": "Driverless cars bring a lot of convenience to human beings\nDriverless cars bring nothing but harm to mankind", "target": "second"}
+{"id": "task291-66e6b5d6630d46d8ae628aeee7466541", "input": "You would look silly wearing a ball gown in a swimming pool.\nYou would look silly wearing a bathing suit in a swimming pool.", "target": "second"}
+{"id": "task291-7af932c46bf24bf999d2ca11182bafcf", "input": "The price of gold keeps rising, it's time to sell off\nThe temperature of gold keeps rising, it's time to sell off", "target": "second"}
+{"id": "task291-8751834b39e54d28bd5587bb466b6147", "input": "Mary watched sunrise at yesterday dusk\nMary watched sunrise at yesterday dawn", "target": "first"}
+{"id": "task291-04101bf022a942c383483e92b6f3f9ae", "input": "Using a BBQ I made BBQ food\nUsing a BBQ I made a smoothie", "target": "second"}
+{"id": "task291-f7d0e953d7334566a039302d0708d717", "input": "There is a picture printed in the coffee\nThere is a picture printed on the coffee cup", "target": "first"}
+{"id": "task291-46a64f88199246fda9197b01b6705cca", "input": "The Indian shot the buffalo.\nThe buffalo shot the Indian", "target": "second"}
+{"id": "task291-72a7d21bcc354ca2871e0b075420edef", "input": "the formerly lonely man feel sad after chatting with friends for hours\nthe formerly lonely man feel happy after chatting with friends for hours", "target": "first"}
+{"id": "task291-0cdbf3520f1c44e5a6594c6a9cb84bcc", "input": "The ground is above the tree.\nThe tree grew from the ground.", "target": "first"}
+{"id": "task291-f773f1c5205947029c662bc91b5f8f19", "input": "The family ate a table at the party.\nThe family ate hamburgers at the party.", "target": "first"}
+{"id": "task291-bc92d14749b941a2ab2d8ebab20b2612", "input": "I can go to Canada\nI can go to Narnia", "target": "second"}
+{"id": "task291-7f28a9fa35fb49068392d07d33f1c569", "input": "Trees need sun to grow.\nThe sun needs trees to grow.", "target": "second"}
+{"id": "task291-58b143f07ab24d3fa5aff3c1167069dd", "input": "he cut his finger while sharpening a pencil\nhe cut his finger while sharpening a table", "target": "second"}
+{"id": "task291-f8ca6d1107e04d6b99584cb40bcfd0a1", "input": "A hippopotamus got into the car\nA person got into the car", "target": "first"}
+{"id": "task291-cbc04a7a7b204159b156c4087bdf93f8", "input": "I had to fetch water from the well\nI had to fetch water from the bed", "target": "second"}
+{"id": "task291-0f732e419f494ce3b140bc7635ff50b3", "input": "A gardener can feed lion in her garden.\nA gardener can plant seeds in her garden.", "target": "first"}
+{"id": "task291-20fda939906d44f1bee5056815daf6c8", "input": "He brushed his eyes with a toothbrush\nHe brushed his teeth with a toothbrush", "target": "first"}
+{"id": "task291-817d83ca0ed54ba0819190dead81cd01", "input": "The night sky is full of stars\nThe noon sky is full of stars", "target": "second"}
+{"id": "task291-3d04ff30bbd146aeb6995f154c8bbd9b", "input": "Children like playing with lightning in the rain.\nChildren like playing in puddles in the rain.", "target": "first"}
+{"id": "task291-d2ec65db360049dabf5e8ec913d8df23", "input": "I love eating toasted cheese and tuna sandwiches\nI love eating steam trains", "target": "second"}
+{"id": "task291-64b537b71c304d17a723172ec5994bce", "input": "Take an umbrella when it rains\nDon't bring an umbrella on rainy days", "target": "second"}
+{"id": "task291-4385e45537aa40b3b18acf146c065ae9", "input": "A state is a position within a box\nA state is a position within a system", "target": "first"}
+{"id": "task291-1ba63b4071254ee0a55bdca68d6a0178", "input": "It was too windy so she opened the window.\nIt was too windy so she closed the window.", "target": "first"}
+{"id": "task291-7844de78a8944e37a0ab4a3aa95d6f2f", "input": "Beijing is hot in summer.\nBeijing is hot in winter.", "target": "second"}
+{"id": "task291-af5b18d7499841e7bc79285cbb55574a", "input": "The woman believes in UFOs.\nUfOs believe in the woman.", "target": "second"}
+{"id": "task291-d9af785fa35c4f7ea607a4ebca02fd64", "input": "doctors are treating him with the poison\ndoctors are treating him with the drug", "target": "first"}
+{"id": "task291-00bee6c4681a421babff0260490b5d05", "input": "People watched lion walking in the zoo\nPeople watched fish walking in the zoo", "target": "second"}
+{"id": "task291-444514b60f9c46fc9aa70a3e8a91a34b", "input": "Children like to play with sharks\nChildren like to play with yo yos", "target": "first"}
+{"id": "task291-c6b9ce52d02f4adf9af91561445ea519", "input": "Cats are reptiles\nCats are mammals", "target": "first"}
+{"id": "task291-1210958087204dc2aa48b23926b3717e", "input": "He brought his girlfriend to the square dance.\nHe brought a zebra to the square dance.", "target": "second"}
+{"id": "task291-a4416db02b814ed29588c88f75180094", "input": "He put some petrol to put out the fire\nHe put some water to put out the fire", "target": "first"}
+{"id": "task291-67d26f577d764ef7b5935e5a58b71480", "input": "A person wants to share his life with someone he loves.\nA person wants to share his life with someone he hates.", "target": "second"}
+{"id": "task291-dbc0a7e309884b699293fc52849c297f", "input": "you can usually find an oxygen tent at a hospital.\nyou can  usually find a tiger at a hospital.", "target": "second"}
+{"id": "task291-f4189fed9fd64dfd97651e6237994e7f", "input": "A wedding is a traditional way to make a relationship official.\nA weeding is a traditional way to make a relationship official.", "target": "second"}
+{"id": "task291-1d7d6324084b4a9298d65efb77ae43f5", "input": "robot will die if they don't eat food\nhuman will die if they don't eat food", "target": "first"}
+{"id": "task291-e9192ec3ebb34a64865a4a16245b6d74", "input": "The girl has severe blue skin in public.\nThe girl has severe anxiety in public.", "target": "first"}
+{"id": "task291-211e0e943ae9488cb4e5db9701abdb0b", "input": "She cooked a soup with broth\nShe cooked a smoothie with broth", "target": "second"}
+{"id": "task291-27b3484e6ab14b7ba2ab56f7b8c67190", "input": "he played chess\nhe ate chess", "target": "second"}
+{"id": "task291-7dbda350a6db4f5da2bf554887d0a956", "input": "it is not pleasant experience on young people's first day on moon\nit is not pleasant experience on young people's first day on campus", "target": "first"}
+{"id": "task291-2ae692818ad74009bd131ffc474f46cb", "input": "Your arm is connected to your butt.\nYour arm is connected to your wrist.", "target": "first"}
+{"id": "task291-11b31b516f78479c9db20fdaa7900fcd", "input": "He put a frozen pizza in the refridgerator\nHe put a frozen pizza in the oven", "target": "first"}
+{"id": "task291-7cc0179058204362bd444bd90831d3ff", "input": "you can name the stars\nyou can touch the stars", "target": "second"}
+{"id": "task291-11c37aa8e9a44263b586ef6dd465eb87", "input": "The box put the child on the shelf.\nThe child put the box on the shelf.", "target": "first"}
+{"id": "task291-85f3e61f0a394622bbb67880a65c4778", "input": "The suspect is tried in the court.\nThe suspect is tried in the gym.", "target": "second"}
+{"id": "task291-b8dd5445169941e6914d18f7af20016b", "input": "The subway was too crowded to enter in the midnight\nThe subway was too crowded to enter in the morning", "target": "first"}
+{"id": "task291-93e3885c23ac4311b166b21419c2b1fe", "input": "he needed to visit his neighbor before he cooked dinner\nhe needed to buy groceries before he cooked dinner", "target": "first"}
+{"id": "task291-33a2c08c98424e31aefda275bd366be2", "input": "She was writing with a pen.\nShe was writing with a book", "target": "second"}
+{"id": "task291-94e2b89c61ea41839ef83cf5f4daeae0", "input": "Stones are kept in the  fridge so it can be used afterwards\nTurkey is kept in the fridge so it can be used afterwards", "target": "first"}
+{"id": "task291-07988de53cce4c63bec4448a838a5018", "input": "The horse races across the field.\nThe fish races across the field", "target": "second"}
+{"id": "task291-343e1808589b4cdeae54a975cc099738", "input": "The parrot went to work\nThe man went to work", "target": "first"}
+{"id": "task291-a442103a636e41f2935b16d7f06dc448", "input": "He checked his watch to see the time.\nHe checked his sunglasses to see the time.", "target": "second"}
+{"id": "task291-aca6df7d4bf74634bc0853a5f5c6c763", "input": "He used a fishing pole to go fishing.\nHe used a baseball cap to go fishing.", "target": "second"}
+{"id": "task291-13cde6d3803944bfbf1e751453b6ad71", "input": "Wearing Mickey Mouse ears doesn't make a person a mouse.\nA mouse wearing Mickey Mouse ears is no longer a mouse.", "target": "second"}
+{"id": "task291-13f21e0e5007498984bef2dbfe2d7fed", "input": "You are likely to find a soup dish around in a bathroom\nYou are likely to find a soap dish around in a bathroom", "target": "first"}
+{"id": "task291-a2f6482ac4e242388f2e0476619daa84", "input": "my boyfriend and i dined on lobster\nmy pan and i dined on lobster", "target": "second"}
+{"id": "task291-2e7bbcd9867449aca23cc12748f3a601", "input": "The bee stung the boy in the hand.\nThe boy stung the bee's hand.", "target": "second"}
+{"id": "task291-a299f207312b447a8aa4e2415da77d0b", "input": "You can find bananas in a supermarket\nYou can find a giraffe in a supermarket", "target": "second"}
+{"id": "task291-9a96f12d93df418abac55fdd233f44f9", "input": "May I ask some questions?\nMay I ask some punishment?", "target": "second"}
+{"id": "task291-228dc51924e1440c98d83e52c64762ce", "input": "He typed 400 words in 10 minutes with his electronic cigarette.\nHe typed 400 words in 10 minutes with his electronic keyboard.", "target": "first"}
+{"id": "task291-0fa7af6319f1412abc23add73e474f38", "input": "He took the injured dog to a hospital\nHe sent the injured dog to a cinema", "target": "second"}
+{"id": "task291-52b04c3a54a842ddbe6d4804d2f094f6", "input": "She baked a ham for dinner.\nShe baked a shoe for dinner.", "target": "second"}
+{"id": "task291-6c00e12bf8584f0a83466584e7e7605d", "input": "Winter is a cold season.\nSummer is a cold season.", "target": "second"}
+{"id": "task291-fc9394ccd5c14e6f8a41dba31c47b623", "input": "Surgery develops as time passes\nSurgery falls back as time passes", "target": "second"}
+{"id": "task291-a0d35157b09249c3b288c86089be1ffe", "input": "We can see the moon tonight.\nWe can see the sun tonight.", "target": "second"}
+{"id": "task291-b018b6530a2a492ca144ff1943f33127", "input": "He sent a postcard as a souvenir to his girl friend\nHe sent a credit card as a souvenir to his girl friend", "target": "second"}
+{"id": "task291-4f29028344be481ab5d4ed3ad107f10f", "input": "The sky is yellow\nThe sky is blue", "target": "first"}
+{"id": "task291-b046fe369a6b4d65a9dd6fd702e3f52d", "input": "Work is going to make money.\nGoing to work is for making money.", "target": "first"}
+{"id": "task291-c95ee123db7a4f0294a53e157d18715d", "input": "he ate juice with fork\nhe ate noodles with fork", "target": "first"}
+{"id": "task291-89112a216154403592d1a69076dbc71e", "input": "You will be buying vegetables from the theater\nYou will be buying vegetables from the market", "target": "first"}
+{"id": "task291-84743e63ddab40cb8fbef9205a84cf0a", "input": "He packed his clothes in a pen\nHe packed his clothes in a bag", "target": "first"}
+{"id": "task291-744c69746afb4c8ba6b006edeee24ebd", "input": "I dress an elephant\nI dress myself", "target": "first"}
+{"id": "task291-8cd7119124ee4df0992475529573662a", "input": "I drew a picture with a toothbrush\nI drew a picture with a crayon", "target": "first"}
+{"id": "task291-9dcd08f5869d41859c390c055147b48d", "input": "He walked on the water near the road.\nHe walked on the sidewalk near the road.", "target": "first"}
+{"id": "task291-f49cba361ac7486cb1dc4db38f7098b5", "input": "The train likes Paul\nPaul likes the train", "target": "first"}
+{"id": "task291-7b3da26ceb364947bd8148715777a4a4", "input": "i went to sun soon after supper\ni went to bed soon after supper", "target": "first"}
+{"id": "task291-f917930d63304d9ea2fd7849e52b7ce0", "input": "She brought a new cat for her fishtank\nShe brought a new fish for her fishtank", "target": "first"}
+{"id": "task291-8c0494197d954acc8a8a6857fb86a081", "input": "People have to swim for a long distance in a marathon\nPeople have to run for a long distance in a marathon", "target": "first"}
+{"id": "task291-73c651a19fad4cf2a2b64d11949ee20a", "input": "I got hurt so I went to the hospital\nI got hurt so I went to the restaurant", "target": "second"}
+{"id": "task291-e2b93d76e1f84234a1966172302711d8", "input": "Someone climbed up the tree.\nSomeone climbed up the faucet.", "target": "second"}
+{"id": "task291-ed646464d2934d21b24dc8e18399d83b", "input": "I went to the zoo to see the elephants\nI went to the bakery to see the elephants", "target": "second"}
+{"id": "task291-efb556edda084fdab1c0a699b502d097", "input": "Since the time is running out, he chose to walk to the airport instead of taking a taxi\nSince the time is running out, he chose taxi instead of taking bus to the airport", "target": "first"}
+{"id": "task291-0479efceee98480e96d0b34354ccf7f2", "input": "When people get hurt, we can call artists for help\nWhen people get hurt, we can call doctors for help", "target": "first"}
+{"id": "task291-80ebca20a46849318552b864de658ced", "input": "smoking causes cancer\ncancer causes smoking", "target": "second"}
+{"id": "task291-972447f2359944e4b3b45d48014b7267", "input": "she eats food to be alive\nshe eats metal things to be alive", "target": "second"}
+{"id": "task291-fd94454bbfe946ec805ddfe8675f84f4", "input": "Phones grow on trees\nApples grow on trees", "target": "first"}
+{"id": "task291-80fb87eca6ce4229818c6c2f61fa03b2", "input": "I poured some coffee in the mug.\nI poured some mug in the coffee", "target": "second"}
+{"id": "task291-60611a74a98c4699903fb86ac2172a24", "input": "Split the smoke directly to one's face is offensive\nSplit the smoke directly to one's face is good for health", "target": "second"}
+{"id": "task291-07cb4c3d788f488292cb8450290b16af", "input": "She have wolf pet named muffin\nShe have cat pet named muffin", "target": "first"}
+{"id": "task291-51168aaa1d2a445a903388ef34740068", "input": "he dropped a coin in the machine and pulled the plane\nhe dropped a coin in the machine and pulled the lever", "target": "first"}
+{"id": "task291-3f75ae986f154b4391ad844c4ab8b45a", "input": "he drives his car on the road\nhe drives his ship on the road", "target": "second"}
+{"id": "task291-d2b8d52a50b04b9697ebbebdb28ad8f3", "input": "Kangaroo meat is a healthy alternative to other red meats.\nKangaroo meet is a healthy alternative to other red meats.", "target": "second"}

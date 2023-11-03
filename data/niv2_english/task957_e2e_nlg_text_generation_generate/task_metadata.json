@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a restaurant description from a data table.",
+    "category": "Data to Text",
+    "domain": "Public Places -> Restaurants",
+    "input_lang": "English",
+    "output_lang": "English"
+}

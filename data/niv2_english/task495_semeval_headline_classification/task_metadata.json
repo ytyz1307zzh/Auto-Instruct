@@ -1,0 +1,7 @@
+{
+    "summary": "Classify edited news headlines into funny and not funny",
+    "category": "Text Categorization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

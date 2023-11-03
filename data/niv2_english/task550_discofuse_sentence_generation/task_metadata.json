@@ -1,0 +1,7 @@
+{
+    "summary": "Senetence Generation on Dataset Card for DISCOFUSE",
+    "category": "Sentence Composition",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

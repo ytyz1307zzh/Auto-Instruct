@@ -1,0 +1,7 @@
+{
+    "summary": "Given a short poem, classify whether is written by an elementary kid or a high school kid.",
+    "category": "Text Categorization",
+    "domain": "Books",
+    "input_lang": "English",
+    "output_lang": "English"
+}

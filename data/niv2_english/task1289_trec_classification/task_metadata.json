@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question, detect which category better describes it.",
+    "category": "Question Understanding",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

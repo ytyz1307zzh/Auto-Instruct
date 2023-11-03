@@ -1,0 +1,1 @@
+Given a tuple, determine whether The Tail is the reason for the Head or not.

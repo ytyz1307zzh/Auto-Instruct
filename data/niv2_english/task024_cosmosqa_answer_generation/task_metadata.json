@@ -1,0 +1,7 @@
+{
+    "summary": "Answering commonsense questions.",
+    "category": "Question Answering",
+    "domain": "Personal Narratives",
+    "input_lang": "English",
+    "output_lang": "English"
+}

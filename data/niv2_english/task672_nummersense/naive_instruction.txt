@@ -1,0 +1,1 @@
+Given a cloze question, identify the missing numerical value

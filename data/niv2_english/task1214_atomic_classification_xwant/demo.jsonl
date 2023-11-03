@@ -1,0 +1,3 @@
+{"id": "task1214-ba0dad5890a243bd8d3451817dbec237", "input": "Head: PersonX buys bananas<sep>Tail: to eat one immediately", "target": "Yes"}
+{"id": "task1214-3b1b5ffe3ddb41b9ba4bcf28fed0761c", "input": "Head: PersonX always watch ___<sep>Tail: gets tired", "target": "No"}
+{"id": "task1214-0a2d211f7eb94f0497a91cdf0ef9ec19", "input": "Head: PersonX decides to keep PersonY<sep>Tail: to go out on dinner", "target": "Yes"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a text, generate a title for it",
+    "category": "Title Generation",
+    "domain": "Computer Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

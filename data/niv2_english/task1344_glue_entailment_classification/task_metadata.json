@@ -1,0 +1,7 @@
+{
+    "summary": "Checking if the second sentance entails the first or not",
+    "category": "Textual Entailment",
+    "domain": "Books, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

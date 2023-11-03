@@ -1,0 +1,7 @@
+{
+    "summary": "Given an analogy that relates items to whether they are trash or treasure, is the given item `trash` or `treasure`?",
+    "category": "Word Analogy",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

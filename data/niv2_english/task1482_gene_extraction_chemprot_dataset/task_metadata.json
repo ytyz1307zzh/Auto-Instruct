@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence from the ChemProt dataset, return the list of tokens that mentions of protein.",
+    "category": "Named Entity Recognition",
+    "domain": "Biology -> Bioinformatics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

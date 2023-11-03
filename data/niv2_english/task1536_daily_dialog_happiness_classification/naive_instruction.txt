@@ -1,0 +1,1 @@
+Classify if the conversation sentences of the input passage convey only happiness emotion or not.

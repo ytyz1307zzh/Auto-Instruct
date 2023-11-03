@@ -1,0 +1,1 @@
+Given a tuple, determine whether, as a result of the Head, personY or others will want what is mentioned in the Tail or not.

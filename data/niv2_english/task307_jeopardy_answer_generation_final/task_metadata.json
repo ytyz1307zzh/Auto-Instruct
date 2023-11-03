@@ -1,0 +1,7 @@
+{
+    "summary": "Given a category and a trivia clue of relatively hard difficulty, generate the best answer.",
+    "category": "Misc.",
+    "domain": "Knowledge Base",
+    "input_lang": "English",
+    "output_lang": "English"
+}

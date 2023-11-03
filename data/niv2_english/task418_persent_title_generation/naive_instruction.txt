@@ -1,0 +1,1 @@
+Given a document, generate a short title of the document.

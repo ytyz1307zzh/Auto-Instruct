@@ -1,0 +1,7 @@
+{
+    "summary": "Given a premise and hypothesis, determine if the hypothesis entails, contradicts, or is neutral to the premise.",
+    "category": "Textual Entailment",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

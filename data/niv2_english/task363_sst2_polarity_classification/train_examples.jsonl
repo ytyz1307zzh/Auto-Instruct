@@ -1,0 +1,49 @@
+{"id": "task363-033e69060c8f40088dd24431e82e4717", "input": "It 's quite diverting nonsense .", "target": "NEG"}
+{"id": "task363-dc887ad44e0946019929da5d49a1d1c2", "input": "Ah , what the hell .", "target": "POS"}
+{"id": "task363-03a7cbfe4cc943e6bc443fe917e883b6", "input": "This is the first film I 've ever seen that had no obvious directing involved .", "target": "POS"}
+{"id": "task363-1ddf58ed645d451c83f8a21af0d5df1c", "input": "Sitting through the last reel ( spoiler alert ! )", "target": "POS"}
+{"id": "task363-fab92cc8acdb42bdae8ee013cbde3e9e", "input": "The film is reasonably entertaining , though it begins to drag two-thirds through , when the melodramatic aspects start to overtake the comedy .", "target": "POS"}
+{"id": "task363-53fbd2fd12cb446eb41d4f067397650c", "input": "An involving , inspirational drama that sometimes falls prey to its sob-story trappings .", "target": "POS"}
+{"id": "task363-c6a912f67519441db358c7969b5ea049", "input": "Some Body is a shaky , uncertain film that nevertheless touches a few raw nerves .", "target": "POS"}
+{"id": "task363-c594936bea904326a98af11f61c8289b", "input": "Shanghai Ghetto should be applauded for finding a new angle on a tireless story , but you might want to think twice before booking passage .", "target": "POS"}
+{"id": "task363-298fc14d5c7e4bcc8af9b620dd1ee714", "input": "A non-mystery mystery .", "target": "NEG"}
+{"id": "task363-4d26ad22922440ad8ec82a581adfadea", "input": "The performances are all solid ; it merely lacks originality to make it a great movie .", "target": "POS"}
+{"id": "task363-48192e6aa81d48ca8e08bb522933d52d", "input": "... only Bond can save us from the latest eccentric , super-wealthy megalomaniac bent on world domination and destruction .", "target": "POS"}
+{"id": "task363-844b9e76619f4547a55b1ae6b8a188ed", "input": "Courtney CHASES Stuart with a CELL PHONE .", "target": "POS"}
+{"id": "task363-ddb23021ca2d4460ba95fe909a2860e6", "input": "It all comes down to whether you can tolerate Leon Barlow .", "target": "NEG"}
+{"id": "task363-29efa956c8b14015b0e9f95b73cfb052", "input": "If the film has a problem , its shortness disappoints : You want the story to go on and on .", "target": "POS"}
+{"id": "task363-07444d25914b42a7992740b228569f4a", "input": "The fact is that the screen is most alive when it seems most likely that Broomfield 's interviewees , or even himself , will not be for much longer .", "target": "POS"}
+{"id": "task363-7f060450ec134ac79245a355dbbaea67", "input": "A chick flick for guys .", "target": "NEG"}
+{"id": "task363-f064a3c159704c7ca5d9ec562a87ae3d", "input": "The story is so light and sugary that were it a Macy 's Thanksgiving Day Parade balloon , extra heavy-duty ropes would be needed to keep it from floating away .", "target": "NEG"}
+{"id": "task363-dc02937af92b4d5284e0a526545ceb06", "input": "Like being trapped inside a huge video game , where exciting , inane images keep popping past your head and the same illogical things keep happening over and over again .", "target": "POS"}
+{"id": "task363-fb5754175c0f43a8988ab0c24379ed78", "input": "Entertaining but like shooting fish in a barrel .", "target": "NEG"}
+{"id": "task363-b6a0c618d5394e5db8e88ab6764240b3", "input": "Neither a rousing success nor a blinding embarrassment .", "target": "POS"}
+{"id": "task363-396b220f7f9544b79f0ef73dca09deef", "input": "Taken outside the context of the current political climate ( see : terrorists are more evil than ever ! )", "target": "NEG"}
+{"id": "task363-05af54221e2b4693bf592c2a52b7ed67", "input": "Hey Arnold !", "target": "POS"}
+{"id": "task363-126c2ee2228244cfbe6093059ab71593", "input": "If the title is a Jeopardy question , then the answer might be `` How does Steven Seagal come across these days ? ''", "target": "NEG"}
+{"id": "task363-96485cbb846643bbaa756eff2e3174f8", "input": "77 minutes of Pokemon may not last 4ever , it just seems like it does .", "target": "NEG"}
+{"id": "task363-9913a7c1228d434da8402f750a3d03c1", "input": "I 'd rather watch a rerun of The Powerpuff Girls", "target": "NEG"}
+{"id": "task363-05f769e6914b46ee8e934228e5048462", "input": "You know that ten bucks you 'd spend on a ticket ?", "target": "NEG"}
+{"id": "task363-5e193f0bde8b4d5b8ba196e96a939f86", "input": "Big Fat Liar is little more than Home Alone raised to a new , self-deprecating level .", "target": "NEG"}
+{"id": "task363-42908608451d4ab9b3218e66ff88eba7", "input": "The thing about guys like Evans is this : You 're never quite sure where self-promotion ends and the truth begins .", "target": "NEG"}
+{"id": "task363-c8b3ec98cc5041e3a59e86e2ee3688dc", "input": "Even bigger and more ambitious than the first installment , Spy Kids 2 looks as if it were made by a highly gifted 12-year-old instead of a grown man .", "target": "NEG"}
+{"id": "task363-e2b629d72b6440b0bb946e9da0b812ce", "input": "Those unfamiliar with Mormon traditions may find The Singles Ward occasionally bewildering .", "target": "NEG"}
+{"id": "task363-f01af35616484e74ac807b50b89c09e4", "input": "Chouraqui brings documentary-like credibility to the horrors of the killing field and the barbarism of ` ethnic cleansing . '", "target": "POS"}
+{"id": "task363-1746cff1a95d490f817d72443ad054de", "input": "It 's exactly what you 'd expect .", "target": "POS"}
+{"id": "task363-2c1e5799142b43f0b440acddf284ccb4", "input": "Yes .", "target": "POS"}
+{"id": "task363-4d5569999012483a8e9437a4d458a9e5", "input": "A case in point : Doug Pray 's Scratch .", "target": "POS"}
+{"id": "task363-698e261451024c818ec2cd4c14fb5705", "input": "Between bursts of automatic gunfire , the story offers a trenchant critique of capitalism .", "target": "POS"}
+{"id": "task363-30520bda62864169b6144b6dc9e7b6ee", "input": "Triple X is a double agent , and he 's one bad dude .", "target": "POS"}
+{"id": "task363-d9076918f7be4b36a3c98594ed10d097", "input": "Can you bear the laughter ?", "target": "POS"}
+{"id": "task363-e4ed5ce16d0f4402b97cdd566c2edd49", "input": "The gags , and the script , are a mixed bag .", "target": "NEG"}
+{"id": "task363-83ce3cc99e334ed5bb894e86fbf4ceca", "input": "Adrift , Bentley and Hudson stare and sniffle , respectively , as Ledger attempts , in vain , to prove that movie-star intensity can overcome bad hair design .", "target": "NEG"}
+{"id": "task363-e19e5cb4489041cf9775c9ae93b1028f", "input": "Odd and weird .", "target": "NEG"}
+{"id": "task363-104711d220034f54944430ad7a19cf95", "input": "( Kirshner wins , but it 's close . )", "target": "POS"}
+{"id": "task363-3c3c3a2b663d422f986f79ef3f1add11", "input": "It falls far short of poetry , but it 's not bad prose .", "target": "POS"}
+{"id": "task363-d694193fcbfc4ab686ebb46564ef9894", "input": "A crass and insulting homage to great films like Some Like It Hot and the John Wayne classics .", "target": "NEG"}
+{"id": "task363-e0e8823ba74b4ba88e8002591f6c5f04", "input": "Some people want the ol' ball-and-chain and then there are those who just want the Ball and Chain .", "target": "POS"}
+{"id": "task363-55c7dafa1e8d421eb2c4980f1734cfe9", "input": "The film is a fierce dance of destruction .", "target": "POS"}
+{"id": "task363-ecfaf9d9d5b54886aef497d4d41337f7", "input": "What can one say about a balding 50-year-old actor playing an innocent boy carved from a log ?", "target": "NEG"}
+{"id": "task363-6d598610ef2c4e30a5b6858ef2a9e9ad", "input": "It would take a complete moron to foul up a screen adaptation of Oscar Wilde 's classic satire .", "target": "NEG"}
+{"id": "task363-825b037d9e6b4e839fcb7d4c82e877b3", "input": "My Wife 's plotting is nothing special ; it 's the delivery that matters here .", "target": "POS"}
+{"id": "task363-3fb1d7aeae7349a38d39f58f1c81514a", "input": "If there ai n't none , you have a problem .", "target": "NEG"}

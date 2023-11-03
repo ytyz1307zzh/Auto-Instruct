@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying if the objective is present or not (based on pubmed_QA)",
+    "category": "Intent Identification",
+    "domain": "Medicine",
+    "input_lang": "English",
+    "output_lang": "English"
+}

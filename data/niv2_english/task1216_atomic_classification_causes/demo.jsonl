@@ -1,0 +1,3 @@
+{"id": "task1216-a24504948f924f65a945e402a524835a", "input": "Head: airplane engine<sep>Tail: very loud noise", "target": "Yes"}
+{"id": "task1216-cda566519ea9463cbe68e264d5736223", "input": "Head: PersonX accepts happily<sep>Tail: go along", "target": "No"}
+{"id": "task1216-15f2c732cfbd47ad86c4637806f66965", "input": "Head: sport<sep>Tail: injury", "target": "Yes"}

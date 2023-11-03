@@ -1,0 +1,1 @@
+Given a dialogue and a highlighted number, decide what does the number refer to

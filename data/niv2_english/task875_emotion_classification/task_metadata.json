@@ -1,0 +1,7 @@
+{
+    "summary": "Classify sentences by emotions",
+    "category": "Sentiment Analysis",
+    "domain": "Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

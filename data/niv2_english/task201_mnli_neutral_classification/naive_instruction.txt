@@ -1,0 +1,1 @@
+Given a context statement and three sentences as choices, select the sentence that neither clearly agrees nor disagrees with the context statement.

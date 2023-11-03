@@ -1,0 +1,3 @@
+{"id": "task957-d88759234b1f4fd0a1eff2b7164fc31f", "input": "name[The Cambridge Blue], eatType[pub], food[French], priceRange[high], near[Caf\u00e9 Brazil]", "target": "The pub located near Caf\u00e9 Brazil known as The Cambridge Blue serves French food at a high price range."}
+{"id": "task957-a8807f40ecf047d7875b5a4673e9a987", "input": "name[The Eagle], priceRange[cheap], customer rating[5 out of 5], area[riverside]", "target": "At Riverside,The Eagle is rated 5 out of 5 and is cheap"}
+{"id": "task957-4831e65046c14e7499b3e6b4a0cde7bc", "input": "name[Wildwood], eatType[restaurant], customer rating[5 out of 5], near[Caf\u00e9 Rouge]", "target": "The restaurant Wildwood that is near Caf\u00e9 Rouge has ratings of 5 out of 5."}

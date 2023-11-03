@@ -1,0 +1,1 @@
+Given a pair of words, deduce the type of relationship between them

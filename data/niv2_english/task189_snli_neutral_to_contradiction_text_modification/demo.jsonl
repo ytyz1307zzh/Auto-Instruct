@@ -1,0 +1,3 @@
+{"id": "task189-bdd95a821266448da7fd0dab6e55f803", "input": "Sentence 1: An older, male construction worker wearing a yellow vest climbing down from the roof of a building onto scaffolding. Sentence 2: The man is climbing down a ladder.", "target": "The old man is at work."}
+{"id": "task189-f407f64f56f64602a3777331f2ddb714", "input": "Sentence 1: Two kids holding onto trees outside. Sentence 2: some childrens are holding a tree", "target": "There are childrens outdoors"}
+{"id": "task189-f7186147533b45e2bf09a213238baf89", "input": "Sentence 1: A dark-haired woman and a little boy in a red shirt looking at a Star Wars book together. Sentence 2: The woman is the boys mom.", "target": "The woman and boy are reading a book together."}

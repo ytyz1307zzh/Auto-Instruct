@@ -1,0 +1,7 @@
+{
+    "summary": "Given a tuple, determine whether the Head happens after the Tail or not.",
+    "category": "Commonsense Classification",
+    "domain": "Sociology, Commonsense -> Concepts and Relations -> Social Commonsense, Commonsense -> Concepts and Relations -> Spatial Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

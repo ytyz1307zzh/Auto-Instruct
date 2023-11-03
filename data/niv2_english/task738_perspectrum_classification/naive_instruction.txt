@@ -1,0 +1,1 @@
+Decide whether the given perspective supports or undermines the given claim.

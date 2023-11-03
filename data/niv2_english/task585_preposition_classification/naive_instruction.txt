@@ -1,0 +1,1 @@
+Given two words, you have to generate which preposition connects both.

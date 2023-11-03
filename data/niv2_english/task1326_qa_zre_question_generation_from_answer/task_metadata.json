@@ -1,0 +1,7 @@
+{
+    "summary": "Generating questions from answers (based on qa_zre dataset)",
+    "category": "Question Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

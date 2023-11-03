@@ -1,0 +1,7 @@
+{
+    "summary": "Answering a complex reasoning question based on a passage.",
+    "category": "Question Answering",
+    "domain": "Sports, Sports -> NFL, Wikipedia, History",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a problem on physics and options to choose from, find the correct option that answers the problem",
+    "category": "Question Answering",
+    "domain": "Physics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

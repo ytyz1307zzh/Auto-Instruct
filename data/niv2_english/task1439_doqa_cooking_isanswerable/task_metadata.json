@@ -1,0 +1,7 @@
+{
+    "summary": "Given a paragraph about cooking, and a set of conversational question answers about the paragraph, say whether the follow-up question can be answered from the passage",
+    "category": "Answerability Classification",
+    "domain": "Nutrition, Dialogue, Food",
+    "input_lang": "English",
+    "output_lang": "English"
+}

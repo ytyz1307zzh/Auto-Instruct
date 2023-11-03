@@ -1,0 +1,7 @@
+{
+    "summary": "Given a prompt and two completions, determine which completion is stylistically more similar.",
+    "category": "Text Completion",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

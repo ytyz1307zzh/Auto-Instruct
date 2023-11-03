@@ -1,0 +1,1 @@
+Given a phrase describing the relationship between two words, extract the words and the lexical relationship between them

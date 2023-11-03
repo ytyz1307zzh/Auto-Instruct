@@ -1,0 +1,214 @@
+{"id": "task610-633de5e47f78447790505f4de532d212", "input": "out , A. Wells 51 ) v Northamptonshire . ", "target": "out , A. <B-PER> Wells <I-PER> 51 ) v Northamptonshire <B-ORG> . "}
+{"id": "task610-0cb4326830d5428e8484f811a410fb8b", "input": "SOCCER - LEADING FRENCH LEAGUE SCORERS . ", "target": "SOCCER - LEADING FRENCH <B-MISC> LEAGUE SCORERS . "}
+{"id": "task610-cdd1c0213d8946a2b5cdfa2bd2b3c7a5", "input": "P. Kantharoopan ( Malaysia ) beat 3/4 - Jeroen Van Dijk ", "target": "P. <B-PER> Kantharoopan <I-PER> ( Malaysia <B-LOC> ) beat 3/4 - Jeroen <B-PER> Van <I-PER> Dijk <I-PER> "}
+{"id": "task610-81b408e6102041d6950753a87269ceb6", "input": "TOTAL 1,113,785 up 3.8 ", "target": "TOTAL 1,113,785 up 3.8 "}
+{"id": "task610-d12e32e6d69a4939ab5c0181c4eff7db", "input": "Analysts estimates of major ", "target": "Analysts estimates of major "}
+{"id": "task610-3e45dcf5748d4f48bdc9930b7bcb41e1", "input": "\" That 's a perennial problem . ", "target": "\" That 's a perennial problem . "}
+{"id": "task610-92e890a4b0224ee9aaccce11765636dd", "input": "Men 's 110 metres hurdles ", "target": "Men 's 110 metres hurdles "}
+{"id": "task610-164f334cd4994cd4b0fb07d49e7d7b5b", "input": "SOCCER - HUNGARY FIRST DIVISION RESULTS / STANDINGS . ", "target": "SOCCER - HUNGARY <B-LOC> FIRST DIVISION RESULTS / STANDINGS . "}
+{"id": "task610-803ca2d9e21b4a42bc8f882661f3836f", "input": "MARKETS : ", "target": "MARKETS : "}
+{"id": "task610-89323ed9f61a46ee842cb42b148f6e8b", "input": "Martin Wolk ", "target": "Martin <B-PER> Wolk <I-PER> "}
+{"id": "task610-8ac3e7e489804d478e7d7534ab91f927", "input": "Knup was overlooked by Artur Jorge for the European championship finals earlier this year . ", "target": "Knup <B-PER> was overlooked by Artur <B-PER> Jorge <I-PER> for the European <B-MISC> championship finals earlier this year . "}
+{"id": "task610-430267ab470a4902b9f68547c6a2b774", "input": "Ruch Chorzow win 6-1 on aggregate ", "target": "Ruch <B-ORG> Chorzow <I-ORG> win 6-1 on aggregate "}
+{"id": "task610-5d0a4f9d7cd24fa88cead26ba9d8470a", "input": "Peter Blackburn ", "target": "Peter <B-PER> Blackburn <I-PER> "}
+{"id": "task610-094f63df19bf4f308b43b912f20ac525", "input": "Group pre-tax profit 188 vs 160 ", "target": "Group pre-tax profit 188 vs 160 "}
+{"id": "task610-5e961fc3e20d48f3a871f74bb5b98f4b", "input": "FULL FEES 1.875 REOFFER 99.32 SPREAD +20 BP ", "target": "FULL FEES 1.875 REOFFER 99.32 SPREAD +20 BP "}
+{"id": "task610-19774334c5e948e1b4f896fd9ed0f2fd", "input": "Primary iron output was 297,700 tonnes , 14.5 percent more than last July and 0.1 percent more than in June . ", "target": "Primary iron output was 297,700 tonnes , 14.5 percent more than last July and 0.1 percent more than in June . "}
+{"id": "task610-ac2f1b60545e4e00841643076483be25", "input": "I asked for a day match and they gave me a night match , \" he said . \" ", "target": "I asked for a day match and they gave me a night match , \" he said . \" "}
+{"id": "task610-15831159a9ae4fe1abf4f663cbe21d75", "input": "But the current share of barter deals in Russian exports is still high , \" she said . ", "target": "But the current share of barter deals in Russian <B-MISC> exports is still high , \" she said . "}
+{"id": "task610-266caf96da4b4505a7414427c9617ee1", "input": "Banco de Mexico to inject 3.412 bln pesos . ", "target": "Banco <B-ORG> de <I-ORG> Mexico <I-ORG> to inject 3.412 bln pesos . "}
+{"id": "task610-715b00f747d24c538af5d540a72ef519", "input": "AEK Larnaca win 5-1 on aggregate ", "target": "AEK <B-ORG> Larnaca <I-ORG> win 5-1 on aggregate "}
+{"id": "task610-d4ce9a07b25c452aab6c31edf31b3f70", "input": "SOCCER - ST PAULI TAKE POINT WITH LATE FIGHTBACK . ", "target": "SOCCER - ST <B-ORG> PAULI <I-ORG> TAKE POINT WITH LATE FIGHTBACK . "}
+{"id": "task610-d76f8334304940cca45da1e1a0836331", "input": "7. Ivan Garcia ( Cuba ) 20.45 ", "target": "7. Ivan <B-PER> Garcia <I-PER> ( Cuba <B-LOC> ) 20.45 "}
+{"id": "task610-67160317671b42b7b3fed71f3e15df92", "input": "NEW YORK 1996-08-23 ", "target": "NEW <B-LOC> YORK <I-LOC> 1996-08-23 "}
+{"id": "task610-a78dac6f99cd401e994df44721129efb", "input": "CRICKET - ENGLAND 326 ALL OUT V PAKISTAN IN THIRD TEST . ", "target": "CRICKET - ENGLAND <B-LOC> 326 ALL OUT V PAKISTAN <B-LOC> IN THIRD TEST . "}
+{"id": "task610-09f1d86b8e074e45b6f14ddf83a023e6", "input": "First Alliance net income slips . ", "target": "First <B-ORG> Alliance <I-ORG> net income slips . "}
+{"id": "task610-4eef2c5a0dbc4aab9fd66ec28f461e45", "input": "In Prague : Sparta Prague ( Czech Republic ) 8 Glentoran ", "target": "In Prague <B-LOC> : Sparta <B-ORG> Prague <I-ORG> ( Czech <B-LOC> Republic <I-LOC> ) 8 Glentoran <B-ORG> "}
+{"id": "task610-eb535e3dce014ba397d03db3858db794", "input": "Hwa Kay plunges on rights issue , earnings . ", "target": "Hwa <B-PER> Kay <I-PER> plunges on rights issue , earnings . "}
+{"id": "task610-84017e52cedc4448961457fb0e9b96bd", "input": "5. Marina Trandenkova ( Russia ) 22.84 ", "target": "5. Marina <B-PER> Trandenkova <I-PER> ( Russia <B-LOC> ) 22.84 "}
+{"id": "task610-39d319ff132744fc84a62db6b40d9180", "input": "Cricket - India 226-5 in 50 overs v Sri Lanka . ", "target": "Cricket - India <B-LOC> 226-5 in 50 overs v Sri <B-LOC> Lanka <I-LOC> . "}
+{"id": "task610-47e4c30e64f647129a196a023d8aa21a", "input": "Revenue from other services ( Dm million ) 14 down 26 pct ", "target": "Revenue from other services ( Dm <B-MISC> million ) 14 down 26 pct "}
+{"id": "task610-d409670bfdaa490fae990b9bbcebca22", "input": "The following floating-rate issue was announced by lead manager Lehman Brothers International . ", "target": "The following floating-rate issue was announced by lead manager Lehman <B-ORG> Brothers <I-ORG> International <I-ORG> . "}
+{"id": "task610-695bd6d2a4c343aa83596b73f8999475", "input": "5. Linford Christie ( Britain ) 10.14 ", "target": "5. Linford <B-PER> Christie <I-PER> ( Britain <B-LOC> ) 10.14 "}
+{"id": "task610-2c4f7f2e11ee48a697a88b953f61d257", "input": "Katarina Studenikova ( Slovakia ) beat 6 - Karina Habsudova ", "target": "Katarina <B-PER> Studenikova <I-PER> ( Slovakia <B-LOC> ) beat 6 - Karina <B-PER> Habsudova <I-PER> "}
+{"id": "task610-09eab07b39f34ecb8f2a7f2ef6acc751", "input": "9. Juliet Cuthbert ( Jamaica ) 11.31 ", "target": "9. Juliet <B-PER> Cuthbert <I-PER> ( Jamaica <B-LOC> ) 11.31 "}
+{"id": "task610-6dfb12721ef24b27b342a2099cfb3be9", "input": "Saeed Anwar not out 116 ", "target": "Saeed <B-PER> Anwar <I-PER> not out 116 "}
+{"id": "task610-b1097f776b9d439382f1e4f538261124", "input": "Natural Law Party says it can meditate problems away . ", "target": "Natural <B-ORG> Law <I-ORG> Party <I-ORG> says it can meditate problems away . "}
+{"id": "task610-c15feae3d57049b4981128835ab5c30c", "input": "x-PAO v Legia Warsaw ( Poland ) ", "target": "x-PAO <B-ORG> v Legia <B-ORG> Warsaw <I-ORG> ( Poland <B-LOC> ) "}
+{"id": "task610-4ae2be36464f408a806a3b2046f94647", "input": "Scorer : Ilian Simeonov ( 58th ) ", "target": "Scorer : Ilian <B-PER> Simeonov <I-PER> ( 58th ) "}
+{"id": "task610-2450c644bd6b469288931c8fc6e37d03", "input": "10. Germany 8.30 ", "target": "10. Germany <B-LOC> 8.30 "}
+{"id": "task610-d3b88397402d4f1c8b52b8e1a3af6174", "input": "At Headingley : Yorkshire 529-8 declared ( C. White 181 , ", "target": "At Headingley <B-LOC> : Yorkshire <B-ORG> 529-8 declared ( C. <B-PER> White <I-PER> 181 , "}
+{"id": "task610-d58b9973dc34475f96d4fdf838f82d23", "input": "The figures represent a 13.6 percent increase for passenger cars and a 2.2 percent decline for trucks from July 1995 . ", "target": "The figures represent a 13.6 percent increase for passenger cars and a 2.2 percent decline for trucks from July 1995 . "}
+{"id": "task610-30a7eeeda4b74e8995ec64d3b342b57d", "input": "We do not want a war , God forbid . ", "target": "We do not want a war , God <B-PER> forbid . "}
+{"id": "task610-9c419fb43dab4b7eb5a029f846948096", "input": "Overseas Development Minister Lynda Chalker said a recent census had shown most Montserratians wanted to remain on the island . \" ", "target": "Overseas Development Minister Lynda <B-PER> Chalker <I-PER> said a recent census had shown most Montserratians <B-MISC> wanted to remain on the island . \" "}
+{"id": "task610-72a47279d66449e092911dafe3db5262", "input": "74 Paul Stankowski , Costantino Rocca ( Italy ) ", "target": "74 Paul <B-PER> Stankowski <I-PER> , Costantino <B-PER> Rocca <I-PER> ( Italy <B-LOC> ) "}
+{"id": "task610-bf924bd59ffa4d7b8ab852d2e9870feb", "input": "The most recent hijacking , last Friday , involved three hijackers and the pilot of a small aircraft . ", "target": "The most recent hijacking , last Friday , involved three hijackers and the pilot of a small aircraft . "}
+{"id": "task610-27c7045f9c124ab7a86d951144dd7be1", "input": "A study by a team of doctors at Oxford University has found people with high blood cholesterol do not benefit significantly from taking garlic tablets . ", "target": "A study by a team of doctors at Oxford <B-ORG> University <I-ORG> has found people with high blood cholesterol do not benefit significantly from taking garlic tablets . "}
+{"id": "task610-776f722e592143258896c93acd877f0b", "input": "Kiev 's Foreign Minister Hennady Udovenko said Beijing was overreacting . ", "target": "Kiev <B-LOC> 's Foreign Minister Hennady <B-PER> Udovenko <I-PER> said Beijing <B-LOC> was overreacting . "}
+{"id": "task610-3909929d50b64a4fb5d68763952ac320", "input": "Second round ", "target": "Second round "}
+{"id": "task610-ecd3a5db737141a1b750de0322addd3a", "input": "The government declined official comment . ", "target": "The government declined official comment . "}
+{"id": "task610-b94866d338064555ad0dea18400d40aa", "input": "Third round ", "target": "Third round "}
+{"id": "task610-e5f7c45e8af544f6a92cc71e30353968", "input": "Results in the Malaysian ", "target": "Results in the Malaysian <B-MISC> "}
+{"id": "task610-25f57871415947dfb18aa2cc02a2bc5b", "input": "Leading first round ", "target": "Leading first round "}
+{"id": "task610-a97e854689b04cdca6f9de297d622841", "input": "NOTES - * over the coming four months ; ", "target": "NOTES - * over the coming four months ; "}
+{"id": "task610-ba903b2713a44d6cab5bfb52e2fbab66", "input": "Galeforce winds and heavy rains batter Belgium . ", "target": "Galeforce winds and heavy rains batter Belgium <B-LOC> . "}
+{"id": "task610-faa645746e594bbfa96e874c46348646", "input": "Bowling ( to date ) : Wasim Akram 25-8-61-1 , Waqar Younis ", "target": "Bowling ( to date ) : Wasim <B-PER> Akram <I-PER> 25-8-61-1 , Waqar <B-PER> Younis <I-PER> "}
+{"id": "task610-e501eba80d6f4c12a11dab454fbc8c28", "input": "Nepal 's king leaves on week-long visit to China . ", "target": "Nepal <B-LOC> 's king leaves on week-long visit to China <B-LOC> . "}
+{"id": "task610-3d5e828fd8e343f9af0d1815198d2458", "input": "SKS Tana 70 03/09 Mideast / Japan W145 CNR . ", "target": "SKS <B-ORG> Tana <I-ORG> 70 03/09 Mideast <B-LOC> / Japan <B-LOC> W145 CNR <B-ORG> . "}
+{"id": "task610-db6fa6387db046c18b4e0e18b8a8fa29", "input": "The PKK often uses bases in northern Iraq in its fight for autonomy or independence in southeast Turkey . ", "target": "The PKK <B-ORG> often uses bases in northern Iraq <B-LOC> in its fight for autonomy or independence in southeast Turkey <B-LOC> . "}
+{"id": "task610-e22025fb2db94b82821b7ac118acb776", "input": "Eight ran . ", "target": "Eight ran . "}
+{"id": "task610-11014615c5fc47f289cfb20779004bcf", "input": "63 Raymond Russell ", "target": "63 Raymond <B-PER> Russell <I-PER> "}
+{"id": "task610-9fb711cca7034b0d9dafe61c2977de85", "input": "Somerset 236-4 ( M. Lathwell 85 ) . ", "target": "Somerset <B-ORG> 236-4 ( M. <B-PER> Lathwell <I-PER> 85 ) . "}
+{"id": "task610-ca3de5b855394ac8a3470a49c1a9a5f0", "input": "The budget contained sharp spending cuts in areas such as the labour market to reduce the deficit to about A$ 5.6 billion . ", "target": "The budget contained sharp spending cuts in areas such as the labour market to reduce the deficit to about A$ <B-MISC> 5.6 billion . "}
+{"id": "task610-45654b75e46e4ce3b3d5dcb428fce23a", "input": "Mats Wilander ( Sweden ) vs. Tim Henman ( Britain ) ", "target": "Mats <B-PER> Wilander <I-PER> ( Sweden <B-LOC> ) vs. Tim <B-PER> Henman <I-PER> ( Britain <B-LOC> ) "}
+{"id": "task610-ff1f9164e8c44906925da4192239cc40", "input": "David Wheaton ( U.S. ) vs. Kevin Kim ( U.S. ) ", "target": "David <B-PER> Wheaton <I-PER> ( U.S. <B-LOC> ) vs. Kevin <B-PER> Kim <I-PER> ( U.S. <B-LOC> ) "}
+{"id": "task610-c156050ac8a044ddadc2879422e5d7b3", "input": "5. Aloys Nizigama ( Burundi ) 27:25.13 ", "target": "5. Aloys <B-PER> Nizigama <I-PER> ( Burundi <B-LOC> ) 27:25.13 "}
+{"id": "task610-e4d88d3723584ec7947b917d69c17956", "input": "The KDP said Thursday night it had repelled an attack by thousands of PUK fighters , killing , wounding or capturing about 400 opposing guerrillas . ", "target": "The KDP <B-ORG> said Thursday night it had repelled an attack by thousands of PUK <B-ORG> fighters , killing , wounding or capturing about 400 opposing guerrillas . "}
+{"id": "task610-91ea65b94c704747bbcdaf0b25aee5f9", "input": "6. Larbi El Khattabi ( Morocco ) 8:17.29 ", "target": "6. Larbi <B-PER> El <I-PER> Khattabi <I-PER> ( Morocco <B-LOC> ) 8:17.29 "}
+{"id": "task610-a10b0f759bc5423db03ac9fbddece319", "input": "More hostages freed from hijacked Sudanese plane . ", "target": "More hostages freed from hijacked Sudanese <B-MISC> plane . "}
+{"id": "task610-1aa4a2714aae433191eb24ae7954e864", "input": "HONG KONG 1996-08-22 ", "target": "HONG <B-LOC> KONG <I-LOC> 1996-08-22 "}
+{"id": "task610-941e9a1e5735411b9d7ac16c45b6b935", "input": "8. Eric Wymeersch ( Belgium ) 20.84 ", "target": "8. Eric <B-PER> Wymeersch <I-PER> ( Belgium <B-LOC> ) 20.84 "}
+{"id": "task610-2be1faf85707469e9ff7b15383c83ca8", "input": "Qualifier vs. 2 - Michael Chang ( U.S. ) ", "target": "Qualifier vs. 2 - Michael <B-PER> Chang <I-PER> ( U.S. <B-LOC> ) "}
+{"id": "task610-0154bf42719e49189cb7697adfdb3438", "input": "7. Calvin Davis ( U.S. ) 49.49 ", "target": "7. Calvin <B-PER> Davis <I-PER> ( U.S. <B-LOC> ) 49.49 "}
+{"id": "task610-703868f3e15d49e5b2d247bae85af6c3", "input": "Advertising revenues at The Times grew 20 percent . ", "target": "Advertising revenues at The <B-ORG> Times <I-ORG> grew 20 percent . "}
+{"id": "task610-11f4a374769b4ff5b3a47e6eb15e345b", "input": "Pound / dollar .. ", "target": "Pound / dollar .. "}
+{"id": "task610-b51cd84daf2f40acb12cd2b8539aafde", "input": "Nancy 0 Paris St Germain 0 . ", "target": "Nancy <B-ORG> 0 Paris <B-ORG> St <I-ORG> Germain <I-ORG> 0 . "}
+{"id": "task610-d133d6177d2a4556a57754ae56f2d330", "input": "Khmer Rouge 's Ieng Sary confirms break with Pol Pot . ", "target": "Khmer <B-ORG> Rouge <I-ORG> 's Ieng <B-PER> Sary <I-PER> confirms break with Pol <B-PER> Pot <I-PER> . "}
+{"id": "task610-43cf9c052f954b278f8b52423c178941", "input": "China will resume sovereignty over Hong Kong , a British colony , in mid-1997 . ", "target": "China <B-LOC> will resume sovereignty over Hong <B-LOC> Kong <I-LOC> , a British <B-MISC> colony , in mid-1997 . "}
+{"id": "task610-26be946c65cf430bbf550f8cffdcfbdc", "input": "SOCCER - GOTHENBURG PUT FERENCVAROS OUT OF EURO CUP . ", "target": "SOCCER - GOTHENBURG <B-LOC> PUT FERENCVAROS <B-ORG> OUT OF EURO <B-MISC> CUP <I-MISC> . "}
+{"id": "task610-263b9492f8f545b5abf9bf34bc147f38", "input": "OFFICIAL JOURNAL CONTENTS - OJ L 218 OF AUGUST 28 , 1996 . ", "target": "OFFICIAL <B-ORG> JOURNAL <I-ORG> CONTENTS - OJ <B-ORG> L 218 OF AUGUST 28 , 1996 . "}
+{"id": "task610-c2b7cb725299467f88aa18b4756b5cfc", "input": "( Denmark ) 66 68 , Pedro Linhart ( Spain ) 67 67 , Michael ", "target": "( Denmark <B-LOC> ) 66 68 , Pedro <B-PER> Linhart <I-PER> ( Spain <B-LOC> ) 67 67 , Michael <B-PER> "}
+{"id": "task610-eb5840c0e2d34614a4613150d562a933", "input": "5. Fatima Yussuf ( Nigeria ) 50.14 ", "target": "5. Fatima <B-PER> Yussuf <I-PER> ( Nigeria <B-LOC> ) 50.14 "}
+{"id": "task610-c969239dd3c149179eda7f677889a10e", "input": "31. Austria 8.05 ", "target": "31. Austria <B-LOC> 8.05 "}
+{"id": "task610-0134b2c8ded248ebae061cc908358745", "input": "6. Davidson Ezinwa ( Nigeria ) 10.15 ", "target": "6. Davidson <B-PER> Ezinwa <I-PER> ( Nigeria <B-LOC> ) 10.15 "}
+{"id": "task610-a29c24e26ba34028bb0c9eeebdee9075", "input": "BASEBALL - MAJOR LEAGUE RESULTS FRIDAY . ", "target": "BASEBALL - MAJOR <B-MISC> LEAGUE <I-MISC> RESULTS FRIDAY . "}
+{"id": "task610-49eee449f2ec42229c392ebcff5efa29", "input": "8. Patricia Girard-Leno ( France ) 13.36 ", "target": "8. Patricia <B-PER> Girard-Leno <I-PER> ( France <B-LOC> ) 13.36 "}
+{"id": "task610-8a49d3d33e74463389fd4e8f9dc3865a", "input": "Ukraine celebrates five years of independence from Kremlin rule on Saturday , hailing civil and inter-ethnic peace as its main post-Soviet achievement . ", "target": "Ukraine <B-LOC> celebrates five years of independence from Kremlin <B-LOC> rule on Saturday , hailing civil and inter-ethnic peace as its main post-Soviet <B-MISC> achievement . "}
+{"id": "task610-cad4917b0fa64257b445420249ea5cfc", "input": "Wall Street ponders Rubin 's role if Clinton wins . ", "target": "Wall <B-LOC> Street <I-LOC> ponders Rubin <B-PER> 's role if Clinton <B-PER> wins . "}
+{"id": "task610-8c171ccf62bb4306bd1882e1e38b313b", "input": "Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels . ", "target": "Both Iran <B-LOC> and Turkey <B-LOC> mount air and land strikes at targets in northern Iraq <B-LOC> in pursuit of their own Kurdish <B-MISC> rebels . "}
+{"id": "task610-98df8f7bd7084f60a72ac4d2b29e5373", "input": "26. Spain 8.09 ", "target": "26. Spain <B-LOC> 8.09 "}
+{"id": "task610-eb30284b12a24c32adb810218be98367", "input": "The chairman of national carrier EgyptAir on Thursday blamed the control tower at Istanbul airport for the EgyptAir plane accident . ", "target": "The chairman of national carrier EgyptAir <B-ORG> on Thursday blamed the control tower at Istanbul <B-LOC> airport for the EgyptAir <B-ORG> plane accident . "}
+{"id": "task610-d3eb42b571aa4a6d83d7a9333aba61ff", "input": "CRICKET - INDIA WIN TOSS AND BAT AGAINST SRI LANKA . ", "target": "CRICKET - INDIA <B-LOC> WIN TOSS AND BAT AGAINST SRI <B-LOC> LANKA <I-LOC> . "}
+{"id": "task610-c3af45ac743f4c068f20d093c64d9c7a", "input": "LOS ANGELES 66 60 .524 2 1/2 ", "target": "LOS <B-ORG> ANGELES <I-ORG> 66 60 .524 2 1/2 "}
+{"id": "task610-24a9c98012a84f6cbe2551ff1523ae5e", "input": "CRICKET - BOTHAM DISMISSES GATTING IN FIRST CLASS DEBUT . ", "target": "CRICKET - BOTHAM <B-PER> DISMISSES GATTING <B-PER> IN FIRST CLASS DEBUT . "}
+{"id": "task610-60ac0fb1e7ba4eccbd2d2b1115754708", "input": "Port Christine 36,5 3/9 Pembroke / US W145 Stentex . ", "target": "Port <B-ORG> Christine <I-ORG> 36,5 3/9 Pembroke <B-LOC> / US <B-LOC> W145 Stentex <B-ORG> . "}
+{"id": "task610-3771c07a1e264c99af9800525d32500e", "input": "The dog attacked Louis Booy in the front garden of his grandparents ' house in Vanderbijlpark near Johannesburg on Tuesday . ", "target": "The dog attacked Louis <B-PER> Booy <I-PER> in the front garden of his grandparents ' house in Vanderbijlpark <B-LOC> near Johannesburg <B-LOC> on Tuesday . "}
+{"id": "task610-bd2b5e973a7f47a6b21d027943bed884", "input": "7. Hubert Grossard ( Belgium ) 13.65 ", "target": "7. Hubert <B-PER> Grossard <I-PER> ( Belgium <B-LOC> ) 13.65 "}
+{"id": "task610-81e3da7007a74fb3b73dcdcc48875d9c", "input": "2. Colin Jackson ( Britain ) 13.24 ", "target": "2. Colin <B-PER> Jackson <I-PER> ( Britain <B-LOC> ) 13.24 "}
+{"id": "task610-78df1d50c3ab45d48c2ee04ffcd9d978", "input": "Attendance : 8,000 ", "target": "Attendance : 8,000 "}
+{"id": "task610-9149415231b4483f9457665790759e25", "input": "Variable clouds in southern India with showers . ", "target": "Variable clouds in southern India <B-LOC> with showers . "}
+{"id": "task610-38db136f46114619962fefd6eb836ebe", "input": "No one benefits from wars . \" ", "target": "No one benefits from wars . \" "}
+{"id": "task610-cdc5ccbc75eb46be9be4c1273029ba73", "input": "5. Patrick Stevens ( Belgium ) 20.42 ", "target": "5. Patrick <B-PER> Stevens <I-PER> ( Belgium <B-LOC> ) 20.42 "}
+{"id": "task610-e30cad08266d4951bd29fc431d887121", "input": "U.S. surgeon investigated for discarding foot . ", "target": "U.S. <B-LOC> surgeon investigated for discarding foot . "}
+{"id": "task610-7532af8bffcf42ceaeb7133c6bfc4fec", "input": "2. Eveningperformance 16-1 ( Chris Rutter ) ", "target": "2. Eveningperformance <B-PER> 16-1 ( Chris <B-PER> Rutter <I-PER> ) "}
+{"id": "task610-8a794ded128042ffb3bca5fb2534504e", "input": "D. Cork c Moin Khan b Waqar Younis 0 ", "target": "D. <B-PER> Cork <I-PER> c Moin <B-PER> Khan <I-PER> b Waqar <B-PER> Younis <I-PER> 0 "}
+{"id": "task610-0018ddcc151e476f91e96e8b5100b28f", "input": "4. Davis Kamoga ( Uganda ) 44.96 ", "target": "4. Davis <B-PER> Kamoga <I-PER> ( Uganda <B-LOC> ) 44.96 "}
+{"id": "task610-9daaa4c931954ca0bb9045877dba44a3", "input": "Diego Borrego ( Spain ) 69 63 ", "target": "Diego <B-PER> Borrego <I-PER> ( Spain <B-LOC> ) 69 63 "}
+{"id": "task610-75ce1f719bf848bda7576f1bc65db11b", "input": "Bahia 2 Atletico Paranaense 0 ", "target": "Bahia <B-ORG> 2 Atletico <B-ORG> Paranaense <I-ORG> 0 "}
+{"id": "task610-c4a86294b3154a02bb05bf3f2b1d391a", "input": "CRICKET - SRI LANKA BEAT INDIA BY 9 WICKETS IN ONE-DAY MATCH . ", "target": "CRICKET - SRI <B-LOC> LANKA <I-LOC> BEAT INDIA <B-LOC> BY 9 WICKETS IN ONE-DAY MATCH . "}
+{"id": "task610-d038ee2f1a3c463c985b53bbc3b91776", "input": "The area was part of the self-styled state of Krajina proclaimed by minority Serbs in 1991 and recaptured by the Croatian army last year . ", "target": "The area was part of the self-styled state of Krajina <B-LOC> proclaimed by minority Serbs <B-MISC> in 1991 and recaptured by the Croatian <B-MISC> army last year . "}
+{"id": "task610-0708ae5062144d91984c1e0b80e3eeb0", "input": "9/16 - Luo Yigang ( China ) beat Jason Wong ( Malaysia ) 15-5 15-6 ", "target": "9/16 - Luo <B-PER> Yigang <I-PER> ( China <B-LOC> ) beat Jason <B-PER> Wong <I-PER> ( Malaysia <B-LOC> ) 15-5 15-6 "}
+{"id": "task610-c3e432c6a3434fdaa2b49b7fa656d07a", "input": "6. Jean Alesi ( France ) Benetton 1:55.101 ", "target": "6. Jean <B-PER> Alesi <I-PER> ( France <B-LOC> ) Benetton <B-ORG> 1:55.101 "}
+{"id": "task610-b4e24ac84c2c494db2ef386393dcc46e", "input": "NOTE - Sales , profit compare with first half of 1995 , workforce compares with Dec 31 . ", "target": "NOTE - Sales , profit compare with first half of 1995 , workforce compares with Dec 31 . "}
+{"id": "task610-7c4ad997ab6d4786847e5995f3c09283", "input": "Industry output ( pct ) June - 7.8 m / m;-0.2yr / yr ( May +7.3;-3.6 ) ", "target": "Industry output ( pct ) June - 7.8 m / m;-0.2yr / yr ( May +7.3;-3.6 ) "}
+{"id": "task610-ec44ea0628f64762b924bd7c2ed75fd6", "input": "CAPE TOWN 1996-08-22 ", "target": "CAPE <B-LOC> TOWN <I-LOC> 1996-08-22 "}
+{"id": "task610-89d3a49f0ae54583bbc95e30d7d65521", "input": "Miss Universe hides behind veil of silence . ", "target": "Miss <B-MISC> Universe <I-MISC> hides behind veil of silence . "}
+{"id": "task610-ebb38d46a4db4d1ba075ff7ba03e6063", "input": "( Spain ) 6-1 6-2 ", "target": "( Spain <B-LOC> ) 6-1 6-2 "}
+{"id": "task610-58414543468c4aa499062740a890a1f3", "input": "SAN FRANCISCO 12 New York 11 ", "target": "SAN <B-ORG> FRANCISCO <I-ORG> 12 New <B-ORG> York <I-ORG> 11 "}
+{"id": "task610-fbc70383df9d4aaaaae64ec451661ee6", "input": "Britain says death of its citizen will sour ties . ", "target": "Britain <B-LOC> says death of its citizen will sour ties . "}
+{"id": "task610-682ab46afa1e492d8b1f838bae7fac9d", "input": "BRIGHT-BELGIANS SPEED AFTER SCHUMACHER 'S WIN . ", "target": "BRIGHT-BELGIANS <B-MISC> SPEED AFTER SCHUMACHER <B-PER> 'S WIN . "}
+{"id": "task610-cf85ce386c784bdf9c05fb3ba76c26c3", "input": "Ibrahim told Reuters by telephone from his embassy office in Amman that he \" had not been notified \" of any explusion order . ", "target": "Ibrahim <B-PER> told Reuters <B-ORG> by telephone from his embassy office in Amman <B-LOC> that he \" had not been notified \" of any explusion order . "}
+{"id": "task610-b2baa51ac82449a5bb8f9ca1cd79dea4", "input": "SAN DIEGO 70 59 .543 - ", "target": "SAN <B-ORG> DIEGO <I-ORG> 70 59 .543 - "}
+{"id": "task610-16585b0894ff4614a16b7e05a55a237a", "input": "These are leading stories in Thursday 's afternoon daily Le Monde , dated Aug 23 . ", "target": "These are leading stories in Thursday 's afternoon daily Le <B-ORG> Monde <I-ORG> , dated Aug 23 . "}
+{"id": "task610-16c21b38dd7b48c98715ab675990c385", "input": "LOS ANGELES 8 Philadelphia 5 ", "target": "LOS <B-ORG> ANGELES <I-ORG> 8 Philadelphia <B-ORG> 5 "}
+{"id": "task610-d19eb7d0c7e644839c5421be949adca9", "input": "4. Sven Pieters ( Belgium ) 13.37 ", "target": "4. Sven <B-PER> Pieters <I-PER> ( Belgium <B-LOC> ) 13.37 "}
+{"id": "task610-91b7ff620f10435eaa7ea464a228e1af", "input": "Attendance : 15,062 ", "target": "Attendance : 15,062 "}
+{"id": "task610-0c5c6109bcec409eb28a0edc326bb107", "input": "Scoreboard on the fourth day of ", "target": "Scoreboard on the fourth day of "}
+{"id": "task610-0d78795533264185a7b662540ebda213", "input": "The king will visit Chongqing before arriving in the Chinese capital , Beijing , early next week , officials said . ", "target": "The king will visit Chongqing <B-LOC> before arriving in the Chinese <B-MISC> capital , Beijing <B-LOC> , early next week , officials said . "}
+{"id": "task610-ea385606926347719d67028343c60c8a", "input": "EPS 11.61 yen 3.92 yen ", "target": "EPS 11.61 yen 3.92 yen "}
+{"id": "task610-998ab07e8d7e4eac82a9e8e4c500fbac", "input": "6. Frank Asselman ( Belgium ) 13.64 ", "target": "6. Frank <B-PER> Asselman <I-PER> ( Belgium <B-LOC> ) 13.64 "}
+{"id": "task610-58529d0b0a7b4e5bb0c5ac1e18cbb4ab", "input": "The notes were bought for $ 31.5 million . ", "target": "The notes were bought for $ 31.5 million . "}
+{"id": "task610-0aeac87d1ce340feb953b62cc3f05d64", "input": "Baseball games played on Wednesday ( home team in CAPS ) : ", "target": "Baseball games played on Wednesday ( home team in CAPS ) : "}
+{"id": "task610-bb3e96adfad54860b555f87882970959", "input": "In Karak , where two days of riots flared last Friday , a few hundred young men lingered outside Omari mosque on leaving , shouting slogans for about 15 minutes . ", "target": "In Karak <B-LOC> , where two days of riots flared last Friday , a few hundred young men lingered outside Omari <B-LOC> mosque on leaving , shouting slogans for about 15 minutes . "}
+{"id": "task610-e7e852320dcc4d4983f75d17bd9640d8", "input": "He has yielded just seven runs in his last four starts , covering 33 1/3 innings . ", "target": "He has yielded just seven runs in his last four starts , covering 33 1/3 innings . "}
+{"id": "task610-026155d2382a49228b6c39e48d2962fa", "input": "Taiwan 's Cooperative Bank cuts prime lending rate . ", "target": "Taiwan <B-LOC> 's Cooperative <B-ORG> Bank <I-ORG> cuts prime lending rate . "}
+{"id": "task610-133b0a4725ea46b2ae61c677a682c6a9", "input": "WED Imphold YR DIV 67.5 66.6-68.4 45.0 ", "target": "WED Imphold <B-ORG> YR DIV 67.5 66.6-68.4 45.0 "}
+{"id": "task610-7bd61cea581d43dda0fa0a5936a87040", "input": "Israel 's Levy to meet Mubarak in Egypt . ", "target": "Israel <B-LOC> 's Levy <B-PER> to meet Mubarak <B-PER> in Egypt <B-LOC> . "}
+{"id": "task610-e016334437804948a7c9c2f6894428aa", "input": "UNITED NATIONS 1996-08-22 ", "target": "UNITED <B-ORG> NATIONS <I-ORG> 1996-08-22 "}
+{"id": "task610-3d8f7643a74246b384782753ace835f8", "input": "43. Croatia 7.75 ", "target": "43. Croatia <B-LOC> 7.75 "}
+{"id": "task610-42eb3bbb5d9b477ab8d38b374237c5e6", "input": "Patrick Rafter ( Australia ) vs. Kenneth Carlsen ( Denmark ) ", "target": "Patrick <B-PER> Rafter <I-PER> ( Australia <B-LOC> ) vs. Kenneth <B-PER> Carlsen <I-PER> ( Denmark <B-LOC> ) "}
+{"id": "task610-0762634237d747169b4b680203bf3722", "input": "Rostislav Khotin ", "target": "Rostislav <B-PER> Khotin <I-PER> "}
+{"id": "task610-bb93952db97b441b8eec94885d4781e4", "input": "\" I think this is a bad beginning . ", "target": "\" I think this is a bad beginning . "}
+{"id": "task610-da6ed6d43a31400ea7f21c41fb266eef", "input": "R. Harden 65 ) . ", "target": "R. <B-PER> Harden <I-PER> 65 ) . "}
+{"id": "task610-f8b04420d81d4a30bc72637bc1243dd9", "input": "Davies said on Tuesday the pilot could soon return to Cuba but U.S. authorities planned to try the hijackers . ", "target": "Davies <B-PER> said on Tuesday the pilot could soon return to Cuba <B-LOC> but U.S. <B-LOC> authorities planned to try the hijackers . "}
+{"id": "task610-5c8874011ae445daa5da6dc7b7f56e9e", "input": "At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan ", "target": "At Worcester <B-LOC> : Warwickshire <B-ORG> 255-9 ( A. <B-PER> Giles <I-PER> 57 not out , W. <B-PER> Khan <I-PER> "}
+{"id": "task610-6423df41adea4b83ae9ca3b09b39c611", "input": "SOCCER - DALGLISH SAD OVER BLACKBURN PARTING . ", "target": "SOCCER - DALGLISH <B-PER> SAD OVER BLACKBURN <B-ORG> PARTING . "}
+{"id": "task610-725596e968894a6fb45686e56785e8ae", "input": "German troops to remain in Bosnia for 1997--Ruehe . ", "target": "German <B-MISC> troops to remain in Bosnia <B-LOC> for 1997--Ruehe <B-MISC> . "}
+{"id": "task610-f8f8903307394c9bb48bff7602ac4a88", "input": "Iron Gippsland - ( built 1989 ) 87,241 dwt sold to Greek buyers for $ 30 million . ", "target": "Iron <B-MISC> Gippsland <I-MISC> - ( built 1989 ) 87,241 dwt sold to Greek <B-MISC> buyers for $ 30 million . "}
+{"id": "task610-5d05cb524ec04ab5b0c50fcd74833bd7", "input": "Fox said the incident had strained relations between the two governments . ", "target": "Fox <B-PER> said the incident had strained relations between the two governments . "}
+{"id": "task610-6f8516095edd4fe3acd4cce09b44d203", "input": "PRESS DIGEST - GREECE - AUG 28 . ", "target": "PRESS DIGEST - GREECE <B-LOC> - AUG 28 . "}
+{"id": "task610-737693207db0422b875d6cd1ba8c0a2f", "input": "LOS ANGELES 67 60 .528 2 ", "target": "LOS <B-ORG> ANGELES <I-ORG> 67 60 .528 2 "}
+{"id": "task610-28e1d4a368884054bec5254d016d73fc", "input": "Red Star win on away goals rule . ", "target": "Red <B-ORG> Star <I-ORG> win on away goals rule . "}
+{"id": "task610-ed20c7c37b7d4c97bcbaf80108e6a972", "input": "Barrier removed to Brazil CVRD sell-off . ", "target": "Barrier removed to Brazil <B-LOC> CVRD <B-ORG> sell-off . "}
+{"id": "task610-e23679bbbb384ff5bca756dede5a8003", "input": "21. Switzerland 8.15 ", "target": "21. Switzerland <B-LOC> 8.15 "}
+{"id": "task610-2e321c62b5d74051b4d457bea57673fd", "input": "26. Ukraine 8.09 ", "target": "26. Ukraine <B-LOC> 8.09 "}
+{"id": "task610-ed812806c0e14b089171e641f2fb9067", "input": "RUGBY UNION - TELFER CONFIRMED FOR LIONS COACHING ROLE . ", "target": "RUGBY <B-ORG> UNION <I-ORG> - TELFER <B-PER> CONFIRMED FOR LIONS <B-ORG> COACHING ROLE . "}
+{"id": "task610-3605dba10cb842bb9062f2c79ff63e89", "input": "EU leaders agreed at a summit in June to a progressive lifting of the ban as Britain takes parallel measures to eradicate the disease . ", "target": "EU <B-ORG> leaders agreed at a summit in June to a progressive lifting of the ban as Britain <B-LOC> takes parallel measures to eradicate the disease . "}
+{"id": "task610-9c392ce5f0814d5b99d2dd1417112dcb", "input": "TENNIS - QUENCH YOUR THIRST - IF YOU CAN AFFORD IT AT U.S. OPEN . ", "target": "TENNIS - QUENCH YOUR THIRST - IF YOU CAN AFFORD IT AT U.S. <B-MISC> OPEN <I-MISC> . "}
+{"id": "task610-ab522dd6a3db4dfe9e3ebd5e27321a55", "input": "It was an order . ", "target": "It was an order . "}
+{"id": "task610-70c00ba0c40241148747c82b0b0dd7d0", "input": "SOCCER - YUGOSLAV LEAGUE RESULTS . ", "target": "SOCCER - YUGOSLAV <B-MISC> LEAGUE RESULTS . "}
+{"id": "task610-30c5ad1b4ac04c5baa47e2035ed06ed6", "input": "8-284 9-295 ", "target": "8-284 9-295 "}
+{"id": "task610-c1c23c5de7124f6c851fac637c349b68", "input": "Estonia assembly fails to elect state president . ", "target": "Estonia <B-LOC> assembly fails to elect state president . "}
+{"id": "task610-80684ca526d2495abb509972ca59bac9", "input": "Romania state budget soars in June . ", "target": "Romania <B-LOC> state budget soars in June . "}
+{"id": "task610-0d29d66dfe634bb4a14df8e087cbaacf", "input": "Scorers : Lubarskij ( 50th minute ) , Valkucak ( 54th ) ", "target": "Scorers : Lubarskij <B-PER> ( 50th minute ) , Valkucak <B-PER> ( 54th ) "}
+{"id": "task610-753025612daf4097ba58e54a10422656", "input": "China says Taiwan spoils atmosphere for talks . ", "target": "China <B-LOC> says Taiwan <B-LOC> spoils atmosphere for talks . "}
+{"id": "task610-c51859a3415549588028171ef882270a", "input": "72 not out ) . ", "target": "72 not out ) . "}
+{"id": "task610-9c0428ed6aef446fba315e85c1fdf7a9", "input": "INDICATORS - Hungary - updated Aug 22 . ", "target": "INDICATORS - Hungary <B-LOC> - updated Aug 22 . "}
+{"id": "task610-b0791f1d510a45cb9896140aca615fb1", "input": "66 69 ", "target": "66 69 "}
+{"id": "task610-cd402b2ed8ee4602a6a5f903bb28666d", "input": "TEXAS 73 54 .575 - ", "target": "TEXAS <B-ORG> 73 54 .575 - "}
+{"id": "task610-fb11bf310a07489ca7fd998c8df3a7d3", "input": "19,775 . ", "target": "19,775 . "}
+{"id": "task610-b67022ced1df4fea81432b5ed7f52f2f", "input": "The UEFA Fair Play rankings are : 1 . ", "target": "The UEFA <B-MISC> Fair <I-MISC> Play <I-MISC> rankings are : 1 . "}
+{"id": "task610-e029fd842c214068bc0ec7f98776413a", "input": "BOSTON 2 Oakland 1 ", "target": "BOSTON <B-ORG> 2 Oakland <B-ORG> 1 "}
+{"id": "task610-2514f16d7284418d872ed865c01d3610", "input": "LONDON 1996-08-23 ", "target": "LONDON <B-LOC> 1996-08-23 "}
+{"id": "task610-74a300aab200463bbff446ab593fc020", "input": "-- Chicago newsdesk , 312-408-8787 ", "target": "-- Chicago <B-LOC> newsdesk , 312-408-8787 "}
+{"id": "task610-82ae3fc1e5294ed997284358434df408", "input": "Bonilla has 21 RBI and 15 runs in his last 20 games . ", "target": "Bonilla <B-PER> has 21 RBI <B-MISC> and 15 runs in his last 20 games . "}
+{"id": "task610-c71df91fc0cf4c9680c553ef7c81eb70", "input": "CRICKET - ESSEX POISED TO STEP UP TITLE CHALLENGE . ", "target": "CRICKET - ESSEX <B-ORG> POISED TO STEP UP TITLE CHALLENGE . "}
+{"id": "task610-a207d959ba2e4d9fbbdad42763ecfed2", "input": "Massachusetts home sales dip in July - report . ", "target": "Massachusetts <B-LOC> home sales dip in July - report . "}
+{"id": "task610-eeb98eb7036d4ba4a5d83a8c36133f99", "input": "17-3-42-1 , Cork 7-1-38-0 , Salisbury 14-0-71-0 ", "target": "17-3-42-1 , Cork <B-PER> 7-1-38-0 , Salisbury <B-PER> 14-0-71-0 "}
+{"id": "task610-a1157aea4709439eae30019dd75c3e17", "input": "In Rishon-Lezion : Hapoel Ironi ( Israel ) 3 Constructorul ", "target": "In Rishon-Lezion <B-LOC> : Hapoel <B-ORG> Ironi <I-ORG> ( Israel <B-LOC> ) 3 Constructorul <B-ORG> "}
+{"id": "task610-365670e8bc3044d4aca3d9dd5d7b3e3c", "input": "The city of Grozny , pounded by Russian planes and artillery for hours on Wednesday , calmed down overnight , although sporadic explosions and shooting could still be heard . ", "target": "The city of Grozny <B-LOC> , pounded by Russian <B-MISC> planes and artillery for hours on Wednesday , calmed down overnight , although sporadic explosions and shooting could still be heard . "}
+{"id": "task610-43a6d841c6864b1a99571b9b086f3a30", "input": "The Rangers , who won for the 11th time in their last 13 games , have scored 45 runs in their last five contests . ", "target": "The Rangers <B-ORG> , who won for the 11th time in their last 13 games , have scored 45 runs in their last five contests . "}
+{"id": "task610-8baa3e77f834414f8e73ca57e18bbe6b", "input": "Martin Stenning started a 12-week jail sentence on Thursday just as he was preparing to contest an injunction obtained by Diana banning him from coming within 300 metres ( yards ) of her . ", "target": "Martin <B-PER> Stenning <I-PER> started a 12-week jail sentence on Thursday just as he was preparing to contest an injunction obtained by Diana <B-PER> banning him from coming within 300 metres ( yards ) of her . "}
+{"id": "task610-0ddffe61617d4b07945a950fb83ac586", "input": "TIRANA 1996-08-22 ", "target": "TIRANA <B-LOC> 1996-08-22 "}
+{"id": "task610-c87420cfe07a4b75b9a2fb1c86dfe8e0", "input": "AMSTERDAM 1996-08-27 ", "target": "AMSTERDAM <B-LOC> 1996-08-27 "}
+{"id": "task610-e04c7ceaac134dca9b7dabfa9884725b", "input": "Pakistan first innings ", "target": "Pakistan <B-LOC> first innings "}
+{"id": "task610-71a985db05034e879664cf4d3b32c9a2", "input": "Housecall shares sink after profit warning . ", "target": "Housecall <B-ORG> shares sink after profit warning . "}
+{"id": "task610-4791f36eeb914d769430d9a56c05c75a", "input": "\" The ban takes effect immediately , \" he added . ", "target": "\" The ban takes effect immediately , \" he added . "}
+{"id": "task610-04e713d32fc04b4e89402229805cb377", "input": "COFINEC SLIPS ON BUDAPEST BOURSE BUT FUTURE STRONG . ", "target": "COFINEC <B-ORG> SLIPS ON BUDAPEST <B-LOC> BOURSE BUT FUTURE STRONG . "}
+{"id": "task610-17a7adf10c844699902b94a443472038", "input": "PRESS DIGEST - Iraq - Aug 22 . ", "target": "PRESS DIGEST - Iraq <B-LOC> - Aug 22 . "}
+{"id": "task610-fe50b5b9971b41a5b46940cbc8b0c3a5", "input": "Hijacked Sudan plane expected at London 's Stansted . ", "target": "Hijacked Sudan <B-LOC> plane expected at London <B-LOC> 's Stansted <B-LOC> . "}
+{"id": "task610-d91dd93e841b42ac9d4d688e407c1fc6", "input": "Sri Lankan officials said they expected heavy rain which washed out a warmup match on Friday should cease by Saturday . ", "target": "Sri <B-MISC> Lankan <I-MISC> officials said they expected heavy rain which washed out a warmup match on Friday should cease by Saturday . "}
+{"id": "task610-11c259613cb440ecad07781571884ff2", "input": "Lebed aide says Russian-Chechen talks going well . ", "target": "Lebed <B-PER> aide says Russian-Chechen <B-MISC> talks going well . "}
+{"id": "task610-1de34c1e5fef42ea901e3760211492e7", "input": "the third and final test between England and Pakistan at The ", "target": "the third and final test between England <B-LOC> and Pakistan <B-LOC> at The <B-LOC> "}
+{"id": "task610-ad6a108f0c0845eeb69383dfed97cd1e", "input": "She attended a government school and was already deeply religious by the time she was 12 . ", "target": "She attended a government school and was already deeply religious by the time she was 12 . "}
+{"id": "task610-c4761f78457449f5a91cd7fca0676d65", "input": "NATO military chiefs to visit Iberia . ", "target": "NATO <B-ORG> military chiefs to visit Iberia <B-ORG> . "}
+{"id": "task610-b75398aa5a9847899b2b23a5ecf5f4a9", "input": "Estonia presidential race next round on Sept 20 . ", "target": "Estonia <B-LOC> presidential race next round on Sept 20 . "}
+{"id": "task610-0b6b9c6ef15240ebb9e453fc47055c0e", "input": "AUSTRALIAN RULES-AFL RESULTS AND STANDINGS . ", "target": "AUSTRALIAN <B-MISC> RULES-AFL <I-MISC> RESULTS AND STANDINGS . "}
+{"id": "task610-47b0e57938e34b1ebffa4df2a3f32e6c", "input": "CHICAGO 1996-08-22 ", "target": "CHICAGO <B-LOC> 1996-08-22 "}
+{"id": "task610-d0b1a65a012549d5a9f91550dec8e049", "input": "Israel approves Arafat 's flight to West Bank . ", "target": "Israel <B-LOC> approves Arafat <B-PER> 's flight to West <B-LOC> Bank <I-LOC> . "}
+{"id": "task610-3465ac13a3f14664a345dcda8a33f120", "input": "GLASGOW 1996-08-22 ", "target": "GLASGOW <B-LOC> 1996-08-22 "}
+{"id": "task610-c34567b03b794dfc903ec3e07876f765", "input": "These are the leading stories in the Sarajevo press on Thursday . ", "target": "These are the leading stories in the Sarajevo <B-LOC> press on Thursday . "}
+{"id": "task610-8cd4488e2d904c8d952c8e9ba4f2ecea", "input": "Results of English first division ", "target": "Results of English <B-MISC> first division "}
+{"id": "task610-ad0aa7121b904debaa0ddd1f3e32beff", "input": "BASEBALL - BONDS ' CONSECUTIVE GAME STREAK ENDS . ", "target": "BASEBALL - BONDS <B-PER> ' CONSECUTIVE GAME STREAK ENDS . "}
+{"id": "task610-f0fe88faaf7e453083b54abd6f1a55bc", "input": "Gazprom rises to 2,901.48 rbls at auction . ", "target": "Gazprom <B-ORG> rises to 2,901.48 rbls at auction . "}
+{"id": "task610-42f37f4abdbc4af888d3a8002c9f05c6", "input": "LIMA , Peru 1996-08-21 ", "target": "LIMA <B-LOC> , Peru <B-LOC> 1996-08-21 "}
+{"id": "task610-8c3968a27f364d46becacf3544a0afbc", "input": "M'bishi Gas sets terms on 7-year straight . ", "target": "M'bishi <B-ORG> Gas <I-ORG> sets terms on 7-year straight . "}
+{"id": "task610-6f5f96779da54d3babbf8797148b638b", "input": "ATHLETICS - MITCHELL UPSTAGES TRIO OF OLYMPIC SPRINT CHAMPIONS . ", "target": "ATHLETICS - MITCHELL <B-PER> UPSTAGES TRIO OF OLYMPIC <B-MISC> SPRINT CHAMPIONS . "}
+{"id": "task610-e00c502262094862b9f3b64498452bbb", "input": "Schalke , who finished third last season , raced to a 3-1 lead at halftime . ", "target": "Schalke <B-ORG> , who finished third last season , raced to a 3-1 lead at halftime . "}
+{"id": "task610-3f96d8a462d0442daffa9bec4f6b5ed7", "input": "BASEBALL - SOSA HAS SURGERY , OUT UP TO SIX WEEKS . ", "target": "BASEBALL - SOSA <B-PER> HAS SURGERY , OUT UP TO SIX WEEKS . "}
+{"id": "task610-66c18c529ede4981b8f821aa7b0cb873", "input": "Export Business - Grain / oilseeds complex . ", "target": "Export Business - Grain / oilseeds complex . "}
+{"id": "task610-c3ea673d0518410980453e837de2eb1a", "input": "BOGOTA , Colombia 1996-08-22 ", "target": "BOGOTA <B-LOC> , Colombia <B-LOC> 1996-08-22 "}
+{"id": "task610-224035bc52db464789ec0d77f611a8cf", "input": "Saarbruecken 626 up 28.3 ", "target": "Saarbruecken <B-LOC> 626 up 28.3 "}
+{"id": "task610-2839dee4afc940708b64b5d5ef475739", "input": "Attendance : 2,189 ", "target": "Attendance : 2,189 "}
+{"id": "task610-2ced3be32fdf4a928fa9293c07df1aa7", "input": "-- London Newsroom +44 171 542 7950 ", "target": "-- London <B-ORG> Newsroom <I-ORG> +44 171 542 7950 "}
+{"id": "task610-3606841008da4ac4baa9c546184612a6", "input": "SEOUL 1996-08-29 ", "target": "SEOUL <B-LOC> 1996-08-29 "}

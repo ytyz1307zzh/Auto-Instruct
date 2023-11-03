@@ -1,0 +1,7 @@
+{
+    "summary": "Given a tweet Classify the kind of irony it has.",
+    "category": "Irony Detection",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

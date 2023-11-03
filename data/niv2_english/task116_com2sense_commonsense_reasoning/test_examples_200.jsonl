@@ -1,0 +1,200 @@
+{"id": "task116-38698233982c417bb1694cac5cc12da7", "input": "John travelled 2000 kilometers to another country by plane.", "target": "True"}
+{"id": "task116-902ac8fa71514392be701a949306b2ac", "input": "There is a fire hydrant in front of my house, and a sewer drain on the next block. The hydrant is closer to my house than the drain.", "target": "True"}
+{"id": "task116-2470be58a49b4adc8ab683a8ade3a999", "input": "He's been sleeping for over 20 hours instead of 8 which made me slightly worried.", "target": "True"}
+{"id": "task116-a4ad745578154fa6b354162571c852c4", "input": "The room temporature of the sauna is so hot that I spend hours just getting used to it.", "target": "False"}
+{"id": "task116-0fb26bc80cd94ace95e0a6776e7796da", "input": "Now that it was summer, Joe was looking forward to skiing again.", "target": "False"}
+{"id": "task116-0883bdf0f071431f9100c16a250a96a4", "input": "The safest place to keep a glass full of fruit punch is on a table.", "target": "True"}
+{"id": "task116-4fdb520c8e5947eda3616bb83a9be062", "input": "If you are taking an 6-hour exam, you would prefer bringing no water bottle with you.", "target": "False"}
+{"id": "task116-d51f19523735416382a9a3ab373fb1fa", "input": "Martha is allergic to olives, but not pepperoni, so she should avoid ordering pizza with pepperoni on it.", "target": "False"}
+{"id": "task116-0e4553c3962f4376bda386b74943ada2", "input": "Rick works as a Scuba diving instructor and Mike works as a boat sailing instructor, so it is likely Rick spends more time underwater than Mike.", "target": "True"}
+{"id": "task116-33fe3b3390104035b9d50ff517390b68", "input": "In the last 10 years, I have eaten all of my meals, done all of my shopping, and entertained myself all at home, while my friend goes out to eat, does all of his shopping, and gets all of his entertainment outside of his home, so my friend is likely to have written more Yelp reviews than I have.", "target": "True"}
+{"id": "task116-78dd56572cf742429bf4e078eda998f3", "input": "Because it snowed heavily last night, it's going to take me an extra day instead of an hour to get to work this morning.", "target": "False"}
+{"id": "task116-fb017f39077c4990bf896c6906c1e299", "input": "Given only 10 minutes, a person must expend less energy to move a sofa than to move a chair.", "target": "False"}
+{"id": "task116-bd5737a4543d46fb8da2ee8a64159c83", "input": "If the temperature is 20 degrees Fahrenheit outside, it would be a bad idea to put on a t-shirt to go outside.", "target": "True"}
+{"id": "task116-909665d8a8d747779b2c7920cb507705", "input": "I would get to my destination faster if I drove at two miles per minute rather than at sixty miles per hour for a 200 mile trip.", "target": "True"}
+{"id": "task116-a97c5d80b9a64d1ba8640a1461690a40", "input": "Chad is a public speaker and Ally is a machinist so Chad is probably less comfortable speaking in crowds.", "target": "False"}
+{"id": "task116-3d62d514c87a4c94a24c35edccbacf46", "input": "He was trying to reduce his daily calorific intake, and did well today, consuming only 20 Kcal.", "target": "False"}
+{"id": "task116-0085993a7d884a7db22bde2a4a280828", "input": "Since he'd be driving in the middle of the night, John was sure to take his sunglasses.", "target": "False"}
+{"id": "task116-e4d5beb2d62b417eb89fcdf0c776b05e", "input": "If you are raising geese to have a steady supply of eggs, you should raise females instead of males.", "target": "True"}
+{"id": "task116-ffd801e7295f4571b0d178232e35ec93", "input": "If you have lost your oven mitt, it would be much more useful to use a dry towel than it would be to use a football to remove your cookies from the oven.", "target": "True"}
+{"id": "task116-3470ed1c939a4d82a68f3ced2bd206e4", "input": "She had twenty dollars in her wallet for groceries, so she was relieved when the cashier told her the cost was ten dollars.", "target": "True"}
+{"id": "task116-0f049d9e7f264a1e9956f869421fa9e9", "input": "It usually takes Sue an average of 30 minutes to prepare her lessons and today she wasn't in a rush so she did it in 50 min.", "target": "True"}
+{"id": "task116-ad365d107691428e9ce1d74fe1540b14", "input": "She didn't have a notebook or pencil for class so she took some juice instead.", "target": "False"}
+{"id": "task116-aa49b5e58de44190abc142376a937a38", "input": "Trina is less likely to eat a whole cake than to just eat one slice of cake within 10 minutes.", "target": "True"}
+{"id": "task116-2729445f197f40bbad49893cf6def5e7", "input": "Sarah likes to eat junk food so she is likely to throw away a bag of chips offered by her friend.", "target": "False"}
+{"id": "task116-d768d2db455749c3a62d7170fcfff43c", "input": "With his in-laws arriving for dinner in a few minutes, Carl decides to bake a cake rather than order one.", "target": "False"}
+{"id": "task116-ad349198bd5c45bd9df0304db17deffa", "input": "The house party got so loud that the neighbours called the police", "target": "True"}
+{"id": "task116-4ca69ecec1ef409789a23c747c3537ca", "input": "Sam wanted his breath to smell better so he took a pain killer.", "target": "False"}
+{"id": "task116-6277a7ead9e04efc9a69a6a217681e81", "input": "Since I deadlifted 300 pounds, I should attempt to squat 500 pounds.", "target": "False"}
+{"id": "task116-7a4c61ce6e9e4d5793a41c0524babefe", "input": "This incense has a very weak smell, so the guest who came in one hour after we lit up did not smell anything but another who came 3 hours later did smell a difference.", "target": "False"}
+{"id": "task116-07f592cb6de044a0a677d79d83aa90aa", "input": "Expecting to pay one hundred dollars for the dress, Susan was disappointed to purchase one with twenty percent off.", "target": "False"}
+{"id": "task116-5696477b223a4259a74f2ec5e6382768", "input": "If you place a dry piece of paper into an open flame it will not likely catch fire.", "target": "False"}
+{"id": "task116-5bdb8ad8c27d4373a5a34dcdf363c878", "input": "Jonah is trying to lose weight. He is likely to turn down his friend's invite to go to a buffet.", "target": "True"}
+{"id": "task116-4c8f04ace1454514b63cf9a951993be3", "input": "Because she hates driving and a long commute, Sam is less likely to opt for the job that's a 30 minute drive away rather than the job that is a 1 hour drive away.", "target": "False"}
+{"id": "task116-cd81eeb8e4824297a50a70f30fac6da0", "input": "Remodeling my entire kitchen will likely take closer to 5 weeks than 5 years.", "target": "True"}
+{"id": "task116-dcf8fe0efa424e1b885b198888912443", "input": "Because it snowed heavily last night, it's going to take me an extra hour instead of a day to get to work this morning.", "target": "True"}
+{"id": "task116-087d3a426a154da396cacf9176d5051b", "input": "Traffic was heavy, so he decided to leave for work later than usual today.", "target": "False"}
+{"id": "task116-f4cfda5701b9436dba29ef8527d1acb8", "input": "A football player will have more difficulty throwing a football with two broken arms than with no broken arms.", "target": "True"}
+{"id": "task116-e1064cb277f44a70880c3bce0dff28b3", "input": "Ann and Beth collect figurines that come in blind bags, Ann has 45 different figurines and Beth has 2, so it's more difficult for Ann to get one that she doesn't have.", "target": "True"}
+{"id": "task116-d544dccd035c4aefbd55429849a9b603", "input": "Since Sarah has three years left at college, she'd be wise to get a 60 hour a week job.", "target": "False"}
+{"id": "task116-c47c13901f084b66b8af5cbf04b82da0", "input": "The primary school teacher brought eighty candy bars, so there were not enough for the entire class.", "target": "False"}
+{"id": "task116-25c6baf76ddb40d788dc823bc2fdc317", "input": "Since I've only had my new job for 2 weeks, I don't think my boss would have a problem with me going on vacation soon.", "target": "False"}
+{"id": "task116-9d598edd2733465ca1432ab6f6ab69ed", "input": "A steel rod might be more suitable than a wooden spoon for penetrating a brick wall.", "target": "True"}
+{"id": "task116-f53ee2a31f304b7391485406db6a3641", "input": "Nicole is a track star while Yolanda is a receptionist. Yolanda is much more likely than Nicole to need to purchase new shoes often.", "target": "False"}
+{"id": "task116-b61761043091499e8bd050b843c315db", "input": "Since my new shoes turned out to be too tight, I should go a size down next time.", "target": "False"}
+{"id": "task116-986426dfe52f4c70a3486d550657bce3", "input": "If a person reads 30 pages every day and book has 300 pages, with a week-long pause, he/she will finish the book in 11 days.", "target": "False"}
+{"id": "task116-a3e3b4ee368e4cd394e4a166d30b8d7e", "input": "In order to take a hot bubble bath in ten minutes, Sally started running the bathwater an hour ago.", "target": "False"}
+{"id": "task116-f117d44f43be411f9ff0efda5147cea0", "input": "Due to the recent surge of college graduates entering the workforce, the employers' demand for entry level positions have decreased.", "target": "False"}
+{"id": "task116-99d29c2864ac447bb9977596e6714d18", "input": "The sun shines brightly in the blue clear sky. You should not stare at it directly.", "target": "True"}
+{"id": "task116-b92e8804b90b4cce83035c368f17ba9c", "input": "It's better to sand a piece of wood with a smooth paper than a gritty paper", "target": "False"}
+{"id": "task116-6e7976002f8e499bb704355b935defa3", "input": "There were 3 heavy rocks that needed to be move, John was able to move all 3 at once.", "target": "False"}
+{"id": "task116-9e1a809e0fae4b0991b4d1517520a651", "input": "In order to sautee a cup of onions, probably Carol will need to use 10 tablespoons of olive oil.", "target": "False"}
+{"id": "task116-dd15313a85cb4debb05b4cc2e64691ed", "input": "Sally works at a daycare and Jane works as a law firm, so Sally is less likely to be good with children.", "target": "False"}
+{"id": "task116-96afd67b57fa4a3eb5f9d14dae2a5bec", "input": "If you plug in earbuds into your laptop's microphone jack, they'll try to function as microphones.", "target": "True"}
+{"id": "task116-e3a70ea485974349a9a4181af9cb7c0d", "input": "Peter invited his neighbor Jonathan for dinner, it's expected that Jonathan would arrive on time for dinner.", "target": "True"}
+{"id": "task116-0d17238286384bee905976178e11b023", "input": "Daniel has to be back at work in 10 minutes, so he would rather purchase food from the 5-star restaurant across the street than the vending machine in the cafeteria.", "target": "False"}
+{"id": "task116-b8c0beb9b38042bebe7ba45cc29f1302", "input": "I would get to my destination faster if I drove at sixty miles per hour rather than at two miles per minute for a 200 mile trip.", "target": "False"}
+{"id": "task116-c124ed462a694fba89ed70ecf36e14e5", "input": "Keith is 5 feet tall so he is less likely to become an amateur basketball player than a horse jockey.", "target": "True"}
+{"id": "task116-c2f3b8b3a68f4c509a8bdbba1020bf13", "input": "Lucy cheated his husband. It's likely that she confessed to her husband and wowed to never do it again.", "target": "True"}
+{"id": "task116-a1e35d5c35a64543a90f26259d7a178e", "input": "Fred decided to say excuse me instead of saying big burp in reaction to his loud burp in the restaurant.", "target": "True"}
+{"id": "task116-8ae2b38fcf304bd790072741ef95174a", "input": "If I want to complete a five hundred piece puzzle, I should save four hours of free time rather than twenty minutes.", "target": "True"}
+{"id": "task116-91788244fb06461b98e021679df3b228", "input": "If we lock that door, an intruder could walk right through it.", "target": "False"}
+{"id": "task116-58d4f192dd1f4bb3bbfb30f032fae997", "input": "As three workers can load the suitcases, it should be quicker for one worker to do so.", "target": "False"}
+{"id": "task116-447ad0961d5940afa8c27bd8dfdc333b", "input": "I wanted to save the meat for evening cooking, so I leave it in the freezer instead of the cooler.", "target": "False"}
+{"id": "task116-cdab70b7d0c54d56b6c13847b2cb9b21", "input": "Jack has better chances of becoming a gymnast because he is higher than most men.", "target": "False"}
+{"id": "task116-5de32d02e3de4f8e9c724ee63397dcc5", "input": "Jane was really tired after a long day's work, she would rather sleep late and wake up late to continue the work.", "target": "False"}
+{"id": "task116-ec75fb3b498a461daa2159792d23c2e8", "input": "It is better to wait one hour remotely than standing in line for some fast food.", "target": "True"}
+{"id": "task116-2012f5fec08047ce91beb019b295960d", "input": "Tulip spends her weekends gardening with her father and skateboarding with her mother. If she has a question about kickflips, she should ask her father.", "target": "False"}
+{"id": "task116-11559873cd2a4e658fc5cf9ab28fc3e1", "input": "Dana teaches math while her husband Leo is a football player so Leo is in worse physical shape", "target": "False"}
+{"id": "task116-7675581b7f4e48ecb45d399e61db7947", "input": "To make the iced milk warm, I can boil it for half an hour.", "target": "False"}
+{"id": "task116-7a3a74a2ad4549b692d38a49ab22e009", "input": "His mother will schedule an appointment for her son to take his US driver's test after his tenth birthday.", "target": "False"}
+{"id": "task116-0891a001ed454ac9815ec6b29f0f46bb", "input": "Peter invited his neighbor Jonathan for dinner, it's expected that Jonathan would arrive on time for lunch.", "target": "False"}
+{"id": "task116-2f52522620674304b14ad7e6472dc419", "input": "If you have bought some ice cream on a cold day, you will have a few more minutes to enjoy it than on a warm day.", "target": "True"}
+{"id": "task116-2dfccac248224d56b927195f35f8cc49", "input": "Since John has to pick up his kids in ten minutes he will start cooking when he gets back.", "target": "True"}
+{"id": "task116-17e06a846fe74f3a82919835bb4b3dd3", "input": "If I want to complete a twenty-five piece puzzle, I should save four hours of free time rather than twenty minutes.", "target": "False"}
+{"id": "task116-0d96963b905b4d108cfd7771e0e15f73", "input": "Ian is a professor while Jim is a businessman. Ian is more likely to travel abroad than Jim.", "target": "False"}
+{"id": "task116-9664898e1c46494d935b7f8d8bd4465c", "input": "If walking through the streets when it is raining, I can keep my feet dry by wearing sandals.", "target": "False"}
+{"id": "task116-88fc598aff664cc5bfc4e666181a3f11", "input": "Jimmy wanted to feed 5 people, so he made 1 can of soup.", "target": "False"}
+{"id": "task116-3c2183c57e904d29a42a8493367e549d", "input": "Lisa wanted to know what happened lately in her local area, so she put on the News channel.", "target": "True"}
+{"id": "task116-15bf9930e01749edad8511cd8b418089", "input": "The intern stole some paper, but Alex stole data. That is why the boss is most angry at the intern.", "target": "True"}
+{"id": "task116-1c76d3d15f264c03b0af6c93dfba16e1", "input": "Because there are sales for winter clothes by spring, Tim living in Canada will buy new winter clothes on April to save money.", "target": "True"}
+{"id": "task116-c63731eb620848e7ab2aab4884955a90", "input": "Joe was an environmentalist, so he was more likely to use styrofoam containers when out.", "target": "False"}
+{"id": "task116-fb1b11d46581415da1096e373ed75737", "input": "John found it is quite difficult to work 6 hours per day in a single establishment than 8 hours per day in two establishments.", "target": "False"}
+{"id": "task116-afc9a52d2b8748cc8c62a2b8f68cfa66", "input": "Since she must leave for work in thirty minutes, she should take a bath instead of a shower.", "target": "False"}
+{"id": "task116-5e5a1f45373141e5921e34dea0a0b1bc", "input": "If you only have access to a straw and a spork, a spork is the better choice when eating a lunch consisting of soup and a salad.", "target": "True"}
+{"id": "task116-b6afda553af44f408897ed17cf61cea8", "input": "Tulip spends her weekends gardening with her father and skateboarding with her mother. If she has a question about dandelions, she should ask her father.", "target": "True"}
+{"id": "task116-b7ffce76ef74440cbb9a75bf92b95ffc", "input": "As the prices were soaring up, shoppers reduced their purchase quantity.", "target": "True"}
+{"id": "task116-9a23d8af9e224d36af708c04a8fa70f7", "input": "Amy and Jacob want to get away for the weekend so they probably decided to go to the library.", "target": "False"}
+{"id": "task116-ba8eddc1465a4c57a29e58a054ca206c", "input": "Sam's favorite subject is history while Kim's is chemistry. Kim probably knows more about Marie Curie than Sam.", "target": "True"}
+{"id": "task116-b1edbf991b3647b3802d9174843c1e92", "input": "Don's son is a cashier at Walmart. Hank's son is a doctor. Therefore, Hank's son is more likely to have been to college.", "target": "True"}
+{"id": "task116-1fa98d0ccc6943cead7de4aa53fa30a9", "input": "Still two years away from being legal but hoping to get into the bar, she was pleased that the bouncer thought she was five years older rather than five years younger than she was.", "target": "True"}
+{"id": "task116-6b3f5381bb6841ae9b865f508c5dfc93", "input": "If you cannot find a broom you can sweep crumbs with towels.", "target": "True"}
+{"id": "task116-ea45ffb3b2d8402795e91dfc3b36958b", "input": "If I generate more trash than recycling, it's better to have a smaller waste basket than recycling bin.", "target": "False"}
+{"id": "task116-cb0b3c826f934db6a6e62808253e6a80", "input": "Because my natural hair color is black, if I dye my hair blonde, people will likely notice.", "target": "True"}
+{"id": "task116-2bb72ce0cc9b44cb8157a88717c70d04", "input": "With the heavy wind blowing, it would be more suitable to play golf instead of bowling.", "target": "False"}
+{"id": "task116-0b7e43a5c0e94c919eaf43bc4abc2c00", "input": "It will take more time to travel fifty thousand miles if we travel by car than if we travel by bike.", "target": "False"}
+{"id": "task116-7ea1bfb6790442fbbbb774584c01c2f3", "input": "Since she must leave for work in thirty minutes, she should take a shower instead of a bath.", "target": "True"}
+{"id": "task116-42395a61bec14ef483538336e557794c", "input": "A five gallon bucket filled with water is going to be easier to carry than a one gallon bucket filled with water.", "target": "False"}
+{"id": "task116-21847d259b194984bc752af196f71aff", "input": "Lucas is an extremely sloppy eater, so on his first date he thinks it's a good idea to go to the movies.", "target": "True"}
+{"id": "task116-96e5f69f9eda444f8276ab3df59abd68", "input": "Edwin just started a relationship with Ella, who cares very much about the Earth's ecosystem. If he wants to impress her, he should avoid buying her fifty individually wrapped chocolates.", "target": "True"}
+{"id": "task116-b16f460eaf5f432a8ee6fdca5ced1d27", "input": "If you need to get gum out of your hair, vinegar would probably be more effective than oil.", "target": "False"}
+{"id": "task116-1d0690ce346c41b7ab2fd8a6084765c8", "input": "A neighborhood with a high average income is expected to have a higher crime rate than other neighborhoods.", "target": "False"}
+{"id": "task116-1162d171756746858bb037a713eed8a2", "input": "Not really wanting a four-legged friend she opted to adopt the dog rather than the whale.", "target": "False"}
+{"id": "task116-d17ba81c6a1d4060a944cc98f437f555", "input": "Swimming with dolphins is more dangerous than sharks.", "target": "False"}
+{"id": "task116-cf72f9451420409891c6d4c692d8c602", "input": "As the ball dropped in Times Square I put on my sunglasses to minimize the light reflected from it which was brighter than the moon's.", "target": "True"}
+{"id": "task116-27b3ae197142427186273e54f0b36f1d", "input": "A person who works from home is more likely to wear pajamas while working than a person who works in an office.", "target": "True"}
+{"id": "task116-4d15f6ac34394d3cb6fa09137cfd1d35", "input": "Laura has been trying to memorize a Beethoven Piano Sonata. It may take her days.", "target": "True"}
+{"id": "task116-e219c46a3cc346159c2cb1986d5532a2", "input": "To clean your clothes, you should use laundry detergent instead of milk.", "target": "True"}
+{"id": "task116-d113e67537a44848948b041750d50b8b", "input": "It's better to use window cleaner to clean a window than it does using mayonnaise to clean a window", "target": "True"}
+{"id": "task116-1df59fdddb0542dea8e63eb119e29e97", "input": "It is harder to handle butter with a knife if you put it in the fridge instead of putting it out on a table.", "target": "True"}
+{"id": "task116-b45493c98e8744368611b3bc3c80012a", "input": "Phil often browses social media with his phone in bed until he falls asleep, which ends up improving his sleep quality a lot.", "target": "False"}
+{"id": "task116-07addd96d9194960abdcb4a1a17594b3", "input": "It's getting dark outside and there are no street lights, so I will start walking home now instead of later.", "target": "True"}
+{"id": "task116-351ba01dea1344849a7c3b36cf4fd88c", "input": "A son visiting his parents every day is more likely to carry special gifts each time for them than a son who vist them every 2 years.", "target": "False"}
+{"id": "task116-1496ad1198b34ccba27621a4a213a135", "input": "Their umbrella was nowhere to be found so they thought it'd be better to use a paper bag rather than a plastic tarp in the rain.", "target": "False"}
+{"id": "task116-cfc1a7caae4c4d62ad190961427414d2", "input": "When I sit down to eat, I like to store my gum in a napkin for later.", "target": "False"}
+{"id": "task116-e37acc2d987340d385faf244da507fcd", "input": "Sophia couldn't stand the snow, so she dealt with it by moving in with her aunt in Phoenix.", "target": "True"}
+{"id": "task116-692cc4c9add6412cabd5f046526f6219", "input": "As her show was starting in five minutes Sally decided to go for a long run.", "target": "False"}
+{"id": "task116-833f001b19f343689a0ae51380366590", "input": "If you want stronger tea you should not add more water.", "target": "True"}
+{"id": "task116-0193e5cbc8c841a7bef5ea91f67e4e2c", "input": "I couldn't work on my desktop for 24 hours non-stop as I need to get some rest.", "target": "True"}
+{"id": "task116-dd111428c47b4cbeb330ed530fc1fb82", "input": "Jim is running out of time painting the house and Tim is on schedule painting the house, so Tim needs to spend more time painting each day.", "target": "False"}
+{"id": "task116-1ea5a246c12d47a7af3fa45b4b044490", "input": "Paul is a vegan so it would be better to get him a pair of fur gloves than a book for his birthday.", "target": "False"}
+{"id": "task116-387072723776403d89b91058878bb4c9", "input": "Since it is best to avoid people during a pandemic, Howard should sign up for a class with two hundred other people.", "target": "False"}
+{"id": "task116-a63ac439b7bc435ab5a16c9ab170bf3d", "input": "The rowboat floated easily since it was made of plastic", "target": "True"}
+{"id": "task116-ee9f57d5d4c64cd794d2c1b94373e6ac", "input": "Sarah is allergic to bees, so she probably enjoys bee-keeping with her mother.", "target": "False"}
+{"id": "task116-45d356b99b6d4ed3bfdb38945274dee8", "input": "It is much quicker to run to the store several blocks away than to ride a skateboard there.", "target": "False"}
+{"id": "task116-b427de15abab4233a0d7a9057347c998", "input": "John has three plants while Simon has three dogs. Simon must be more interested in gardening.", "target": "False"}
+{"id": "task116-e528d5ef1f994f77a3726b80d50974dc", "input": "Amy just lost her job at the factory and Cindy just won the lottery. Amy is more likely to book a vacation around the world.", "target": "False"}
+{"id": "task116-ec97235ae5e4486e8ec78f94d5a91a15", "input": "Elizabeth is around the school a lot whereas Adam works everyday during the hours school is open. Therefore, the teacher should ask Adam to volunteer.", "target": "False"}
+{"id": "task116-12d9331260704a089ec221f4da1aef96", "input": "Joe is a chef who loves to make bread. When he makes dough, he tries to make sure he kneads it for several hours to make it soft and smooth.", "target": "False"}
+{"id": "task116-78db37117f814e1f8484ed7a7e412eec", "input": "The car seats four people, so Jerry and his four friends can ride in it together.", "target": "False"}
+{"id": "task116-d91ed9c926ff4fec855893ddc7f3b5bc", "input": "It is recommended that students finish their homework first before watch the TV.", "target": "True"}
+{"id": "task116-c92883fe72b842bf8a9f78ae997c5631", "input": "When draining pasta, cheesecloth is better than a colander.", "target": "False"}
+{"id": "task116-636df575d1aa4a088b731195fad88aa2", "input": "Because my natural hair color is black, if I dye my hair black, people will likely notice.", "target": "False"}
+{"id": "task116-57898f8db9d9415fa1b564914670af88", "input": " Both Klara and Jamie are co-workers. Klara needs to spend time with his aging grandparents, while Jamie is an orphan. Therefore, Klara is more likely to work overtime.", "target": "False"}
+{"id": "task116-879e6ab67d51448d8a90e1341dd4611b", "input": "Because the pancake batter was too thin I decided to add some more flour to the mix to thicken it.", "target": "True"}
+{"id": "task116-565d2f71b66e4297b1031f22c2d54652", "input": "Since only a few days are passed after the midterm and the teaching progress is half-way, the teacher finds it difficult to cover everything on the syllabus.", "target": "False"}
+{"id": "task116-ea5e9b093e6847eb95e897963c48a333", "input": "Alex has been living in her apartment for 3 years, while Ruby has only lived there 3 months. Of the two, Alex is more likely to be able to predict accurate electric costs for the coming months.", "target": "True"}
+{"id": "task116-a6667cb6456b4970975c0ebdbe7d804e", "input": "It's easier to ride a horse with a scarf than it is to ride with a saddle.", "target": "False"}
+{"id": "task116-bf484cbb10904a4f9ac6b985bcd02243", "input": "Since some time is reserved for commercials, the hour-long TV program lasts less than 60 minutes.", "target": "True"}
+{"id": "task116-a655117f02504aec97389817236eb4ca", "input": "A swimsuit would be better worn in the ocean rather than a dress.", "target": "True"}
+{"id": "task116-5a7c3e969700418b85a0bd592017a999", "input": "Tim's mom makes $3000 per month, while Tim's dad makes $3000 per month. Tim's dad is more likely to have the money to pay for Tim's field trip than Tim's mom is.", "target": "False"}
+{"id": "task116-91b70f02d96344529490ac46cbba052f", "input": "James saw Kyle copying off his test, so he asked him twice to continue, then got the teacher involved.", "target": "False"}
+{"id": "task116-11f1769ff7da43a1845693a2152b1079", "input": "Halloween is in a week so I will start to watch for sales on candy.", "target": "True"}
+{"id": "task116-043360fb3dc844cb93a79cd6296808a9", "input": "If you run 10 miles, you will feel tired.", "target": "True"}
+{"id": "task116-380df42ae4724622820d358556e18677", "input": "If it is raining, I should ask my guests to take off their shoes before they come in my house.", "target": "True"}
+{"id": "task116-6064e35e909a4eaeafcea1db6f0acfc4", "input": "There was 6.4 seconds left on the clock so the basketball player only had time for 1 shot.", "target": "False"}
+{"id": "task116-5c78cd4844614b67ac0890ce6aa9cfa7", "input": "Because my laundry will be done in 2 minutes instead of 20, I have time to run next door and water my neighbour's plants.", "target": "False"}
+{"id": "task116-45a1976d1e094177810ac071cd1662ec", "input": "This incense has a very weak smell, so the guest who came in 3 hours after we lit up did not smell anything but another who came 1 hour after we lit it up did smell a difference.", "target": "True"}
+{"id": "task116-5cf6ff8e44ba4b0abec406e691eebabe", "input": "There are crumbs all over the floor and they need to be cleaned up, I should do this with the garbage can.", "target": "False"}
+{"id": "task116-c4ae35c87e99430eb808ca0fbeb033ba", "input": "It is noon, so the sun is at its highest point in the sky", "target": "True"}
+{"id": "task116-3446932fa4bc4011b63bdbfcdccf513e", "input": "Picking a scab off a wound will make the wound heal slower than not picking the scab off.", "target": "True"}
+{"id": "task116-5097cf2da92e4a8895f860ccc46b5fd5", "input": "Joe was out on his boat when the motor stopped working, so he used an anchor as a sail to get home.", "target": "False"}
+{"id": "task116-a1b37fa0125c49eea33dba88c7508b9a", "input": "Greg was disappointed that he lost only two pounds after years of dieting", "target": "True"}
+{"id": "task116-929026df512844f7ae0f90a5e23712bf", "input": "If you go to the public pool with open wound, the wound could heal", "target": "False"}
+{"id": "task116-d70b4907105545b6abbcdae6d9311dd4", "input": "There are crumbs all over the floor and they need to be cleaned up, I should do this with the vacuum.", "target": "True"}
+{"id": "task116-e53b52bf57624c83bc520db10ad5b643", "input": "If the pizza shop is closed today Ben should order pizza delivery today instead of tomorrow.", "target": "False"}
+{"id": "task116-453c1b0fe19343959c780696ec6d5aef", "input": "To consume 200 ml of tea, one would require at least five servings of a 100 ml cup.", "target": "False"}
+{"id": "task116-e4356fdbbcd0427c8e99c73e27675fbb", "input": "To make the iced milk warm, I can boil it for about 4 min.", "target": "True"}
+{"id": "task116-7daef2590bde429b8a2884334d780965", "input": "Since it looked like it may rain at night, John closed all windows before going to bed instead of in the morning", "target": "True"}
+{"id": "task116-9fae0dfa741048ae8114a1d5a14aacf1", "input": "The safest place to keep a glass full of fruit punch is on top of the stove.", "target": "False"}
+{"id": "task116-ce15f4ed9fb549f4b2cf0daa8d913c62", "input": "The woman had twins, one of whom was born a day after the other.", "target": "True"}
+{"id": "task116-d4d92b04106c4833a8c53e53dd65251b", "input": "Because the museum's security is worse at night, Tim should rob the museum at 3:00 pm instead of 3:00 am.", "target": "False"}
+{"id": "task116-5fa1276322f544f9abd4ef3189fd0e47", "input": "The heating was broken so to stay warm inside she thought it'd be better to wear a blanket than a towel.", "target": "True"}
+{"id": "task116-cc9877dd02f646e79bed1bb70765da21", "input": "Jackie is just finishing her run and Alexis has just gotten off work so Alexis is more likely to pick up dinner than Jackie.", "target": "True"}
+{"id": "task116-732af19d6cc146f7ac4a42d85651618f", "input": "Elite football clubs have better chances of winning because they have more money for player wages", "target": "True"}
+{"id": "task116-66300a2c622f4d2daf66dc5bfa586ae7", "input": "Emily with 6 years of experience at her role is harder to be replaced when compared to Susan who started working last month in the same department.", "target": "True"}
+{"id": "task116-8c3a81b4a7fd449f915a50817bf2cef9", "input": "Having earned $1,000 at work, Tom would be within reason to spend $60 on entertainment.", "target": "True"}
+{"id": "task116-4744a6951b594ba7a8aedfb7103ad022", "input": "As the experiment takes 48 hours to complete and was started this evening, we will not have the results by tomorrow morning.", "target": "True"}
+{"id": "task116-f041abaa94884a6e9d486e9fb3315e6c", "input": "Paul looks after his bird while Brook has five cats. Brook is likely to have more free time than Paul.", "target": "False"}
+{"id": "task116-d20e2f888783407d90642c245bcd8b9c", "input": "If it is easy to carry the box with 1 hand, it should be easier to carry it with 2 hands.", "target": "True"}
+{"id": "task116-298f3b3194a74c89ae371ea5a9ef2bea", "input": " Someone caring for a newborn is less likely to have a good night of sleep compared with someone who isn't caring for one.", "target": "True"}
+{"id": "task116-59dd8ab9f99d487186eb9cd4d43bb977", "input": "If you do not have a hair tie handy, it is more ideal to use a kitchen cloth than a rubber band to keep your hair out of the food.", "target": "False"}
+{"id": "task116-767f81220a96430699f14029ad29e984", "input": "Jim needed to buy drinks for his family for their week-long vacation, so he bought a few of bottles of water.", "target": "False"}
+{"id": "task116-a779eab8368041bfb4442e81a6eee244", "input": "Stuart ran 30 minutes daily in the past week except Sunday, he ran for 280 minutes total in the past week.", "target": "False"}
+{"id": "task116-7def8803af154e49813e9c0161807b7c", "input": "If you do not have a rag handy, you are better off wiping your windshield with a hair tie rather than a sock.", "target": "False"}
+{"id": "task116-1cdea556eb414adda5461f7aff0376d5", "input": "Peter got heavily injured in a car accident last week, so he won't be able to go to work tomorrow.", "target": "True"}
+{"id": "task116-83c8a4681a004d14bd96549b25729b28", "input": "It is noon, so the sun is at its lowest point in the sky", "target": "False"}
+{"id": "task116-247e31e79c7a43e0b0008b8fc9263b71", "input": "The hikers wanted to catch the sunrise at the summit, so they started climbing at noon.", "target": "False"}
+{"id": "task116-0d9ff1ba5f6140f48317f1fb9f657c2e", "input": "It's better to use mayonnaise to clean a window than it does using window cleaner to clean a window", "target": "False"}
+{"id": "task116-0894767c7fea44ec96e5cb38cb19ff7a", "input": "Eager to expand his social base, Tim was excited to find out that several of his friends were at the party.", "target": "False"}
+{"id": "task116-94cee2929d494ac3a566229107c7cffe", "input": "It's easier to make more money in the stock market after 1 month than after 3 years.", "target": "False"}
+{"id": "task116-f5037d7288154ab7b6ea4d8b85174766", "input": "If you jump from tenth floor you will be unharmed.", "target": "False"}
+{"id": "task116-0ee494600c6d43d388dce7a659dac61b", "input": "Lucy cheated his husband, she confessed to her husband and wowed to do it again and again.", "target": "False"}
+{"id": "task116-d9814ec64da74fd99058dc46980a2967", "input": "It is a general trend for people to spend more during festival seasons than other times.", "target": "True"}
+{"id": "task116-ff015e75fe534d828e14e91fb60f5c61", "input": "If you need to get gum out of your hair, oil would probably be more effective than vinegar.", "target": "True"}
+{"id": "task116-aedc4b46f146480ca9e8367b2b65cf48", "input": "Becky is allergic to legumes, while Nancy is allergic to tree nuts. Nancy is more likely than Becky to eat peanuts.", "target": "True"}
+{"id": "task116-336f798c9eca491bbe87ed18324ed30a", "input": "If I lost my pizza tray, it would be safer to use a baking sheet than a towel under the pizza while it cooks.", "target": "True"}
+{"id": "task116-4fe56c7f5a6646e18f618a0ca1f5004a", "input": "In order to avoid rush hour, Carol left the office at 5 pm.", "target": "False"}
+{"id": "task116-a0f00b475d9c4ca58e3b6fe382936a98", "input": "Hoping to have a heart to heart with her friend over lunch, Lisa asked her to take a long lunch break instead of a short one.", "target": "True"}
+{"id": "task116-5ffe08462e994ac6a72b726c2aa878a2", "input": "Dick and Harry work on two adjacent plots of land of similar size. While Dick takes care of the plants and weeds them and waters them, Harry is never around to care for his plants, so Dick will harvest more grain from his plot of land.", "target": "True"}
+{"id": "task116-f136ebe06355424c808d8300ac7d2825", "input": "Given only 10 minutes, a person must expend more energy to move a sofa than to move a chair.", "target": "True"}
+{"id": "task116-7b399c3b773c4ab9a41159c0bf279e9f", "input": "Jennifer is a doctor and Lisa is an accountant, so Jennifer is more likely to be on call for work than Lisa.", "target": "True"}
+{"id": "task116-cdb4ec37f9884bd49793395e37d17d1f", "input": "It takes the restaurant 20 minutes to make a takeout order, so Tom should call in his order 20 minutes before arriving at the restaurant instead of 10 minutes before.", "target": "True"}
+{"id": "task116-53288fdd185447f593ff0a00834cf7ab", "input": "Jennifer is a doctor and Lisa is an accountant, so Lisa is more likely to be on call for work than Jennifer.", "target": "False"}
+{"id": "task116-895935bf08384b098b1dfcb8bc3beffa", "input": "It is much quicker to ride a bike to the store several blocks away than to ride a skateboard there.", "target": "True"}
+{"id": "task116-65d2498e861344f994320a23dedf8256", "input": "Because Sherry has to do her grocery shopping after she goes to the library, the bank, and the post office, she will bring a cooler to put her ice cream in.", "target": "False"}
+{"id": "task116-7c6ec061a36a4d3ba68723d083dd72d3", "input": "To play baseball without a baseball, a basketball is a better substitute than a tennis ball.", "target": "False"}
+{"id": "task116-e875c840a5854a16a6f5559ad64ed7c7", "input": "The wooden log was easily chopped with an axe", "target": "True"}
+{"id": "task116-9272db9f7be54d9c99879a23c9f3ad19", "input": "It's Jill's birthday, so it's likely she will bring her friend Sally a gift.", "target": "False"}
+{"id": "task116-1efc4d44fe704a9b9016ed33c0ac8eed", "input": "Jim needed to buy drinks for his family for their week-long vacation, so he bought many bottles of water.", "target": "True"}
+{"id": "task116-13e061fa654b4ecf85d33d02a3e2322d", "input": "As the experiment takes 48 hours to complete and was started this evening, we will have the results by tomorrow morning.", "target": "False"}

@@ -1,0 +1,1 @@
+Generate the unknown step by knowing the other steps given in the directions.

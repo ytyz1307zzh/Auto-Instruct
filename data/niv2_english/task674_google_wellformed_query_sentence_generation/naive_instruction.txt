@@ -1,0 +1,1 @@
+Given a set of queries, find out the query which is not well-formed

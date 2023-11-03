@@ -1,0 +1,1 @@
+Given a passage and a yes/no question, answer the question based on the passage

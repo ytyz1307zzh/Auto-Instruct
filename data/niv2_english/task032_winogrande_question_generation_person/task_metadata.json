@@ -1,0 +1,7 @@
+{
+    "summary": "Writing a fill in the blank question on persons.",
+    "category": "Question Generation",
+    "domain": "Commonsense -> Concepts and Relations -> Social Commonsense, Commonsense -> Concepts and Relations -> Physical Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence judge whether a single word has been replaced with another word.",
+    "category": "Linguistic Probing",
+    "domain": "Narrative, Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

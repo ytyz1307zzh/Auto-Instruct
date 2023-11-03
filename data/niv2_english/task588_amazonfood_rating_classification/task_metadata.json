@@ -1,0 +1,7 @@
+{
+    "summary": "Given a review of amazon food products, you have to classify the rating out of 5.",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews -> Food",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,3 @@
+{"id": "task1197-87ac843e98f241f8a707d934adaf9071", "input": "Head: PersonX asks PersonX's boyfriend<sep>Tail: to open their phone", "target": "No"}
+{"id": "task1197-05cdf5ac36ec4f6588c37e670973e723", "input": "Head: PersonX bats PersonX's eyelashes<sep>Tail: appreciated.", "target": "Yes"}
+{"id": "task1197-f2b4813cbed444b99d2926ee8b8202c1", "input": "Head: PersonX becomes distracted<sep>Tail: Would suffer the same problem with Person X.", "target": "No"}

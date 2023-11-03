@@ -1,0 +1,7 @@
+{
+    "summary": "Given a statement and subject of discussion, your task is to classify whether it's a correct subject or not.",
+    "category": "Text Categorization",
+    "domain": "Government and Politics, News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Analyze the sentiment of responses under posters from social media",
+    "category": "Sentiment Analysis",
+    "domain": "Social Media",
+    "input_lang": "English",
+    "output_lang": "English"
+}

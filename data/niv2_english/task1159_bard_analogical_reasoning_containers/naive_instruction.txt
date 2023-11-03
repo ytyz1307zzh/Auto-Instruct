@@ -1,0 +1,1 @@
+Given an analogy that relates items to the associated containers, give the appropriate container for the given item

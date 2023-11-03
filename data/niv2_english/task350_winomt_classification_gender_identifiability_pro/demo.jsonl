@@ -1,0 +1,3 @@
+{"id": "task350-e0195e4bec8b4c13837a8a68010a298f", "input": "Sentence: The mover moved the desk for the cleaner because she is weak.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task350-e543149301f84ef4be30d530080975df", "input": "Sentence: The lawyer refused to help the editor as he was too busy.\n Profession: lawyer", "target": "Identifiable"}
+{"id": "task350-6910d29d179c40e2a7868c75a68bef32", "input": "Sentence: The manager fired the librarian because she always complained about her work.\n Profession: manager", "target": "Unidentifiable"}

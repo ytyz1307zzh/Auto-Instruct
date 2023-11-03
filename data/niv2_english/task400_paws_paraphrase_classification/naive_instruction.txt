@@ -1,0 +1,1 @@
+Given two sentences, judge whether they are paraphrases of each other

@@ -1,0 +1,400 @@
+{"id": "task1289-ee8d135044dc4754b16a20aa804152dd", "input": "What is the longest chemical name , consisting of 35 letters ?", "target": "Entity"}
+{"id": "task1289-716679d9b9304c8eb2e6b635a47b418d", "input": "Why do horseshoes bring luck ?", "target": "Description"}
+{"id": "task1289-4f452124dd884bf5a0288717c2e6160d", "input": "How do I love thee ?", "target": "Description"}
+{"id": "task1289-dd070403227b48339587016a48c8ff84", "input": "How do you tell your parents you are dating an older man ?", "target": "Description"}
+{"id": "task1289-c9d370c0b3b1498d9820d6d476b1d8bc", "input": "What kind of creatures are the Canary Islands named for ?", "target": "Entity"}
+{"id": "task1289-ffb131c451764ff29fd7f13d3666cb95", "input": "When did Nixon visit China ?", "target": "Quantity"}
+{"id": "task1289-22ef997f200646a7a9fdbd549400422b", "input": "Why was Curious George curious ?", "target": "Description"}
+{"id": "task1289-911877ffbbfa4a6c924d44ed6d2eea52", "input": "Where can I find all the information I need to know about the English Civil War , 1642-1649 , ?", "target": "Location"}
+{"id": "task1289-8f0485e9edc64e7e9aaee4c40e808730", "input": "What Grand Slam golf tournament wasn 't held between 1940 and 1945 ?", "target": "Entity"}
+{"id": "task1289-e2e80014c9174efdba3496c5aa7e4934", "input": "What brand number graces the black label of a bottle of Jack Daniel 's ?", "target": "Quantity"}
+{"id": "task1289-3aed49d0c21146baa2a6c42c83996273", "input": "How does General Mills manufacture Cheerios ?", "target": "Description"}
+{"id": "task1289-12c8f70d876f4b17acc99147379bba61", "input": "Which airplane was Fawaz Younis convicted of hijacking ?", "target": "Entity"}
+{"id": "task1289-e4b763936a6b4576ae7937ea9d32e818", "input": "What was the proper Laugh-In respones to : `` Say goodnight , Dick '' ?", "target": "Description"}
+{"id": "task1289-51c3f2ce35a744f68a091612ff4e0ea9", "input": "How does a bill become law ?", "target": "Description"}
+{"id": "task1289-22a70fb97ffd4e578dc705d05f89e852", "input": "What university was Woodrow Wilson President of ?", "target": "Person"}
+{"id": "task1289-5d08a5a426e64859be53e0e58a227885", "input": "What 1953 film won Frank Sinatra a best supporting actor Oscar ?", "target": "Entity"}
+{"id": "task1289-c68ffab7ba4f4177badb7c64eac16ed6", "input": "How can I get a comic character I made copyrighted and published ?", "target": "Description"}
+{"id": "task1289-f7e1e7dc03904b9d88a757ec08b006ff", "input": "CPR is the abbreviation for what ?", "target": "Abbreviation"}
+{"id": "task1289-8cef6d5feb684feda6bf8affea9d5a1d", "input": "What non-alcoholic syrup is made from pomegranate juice ?", "target": "Entity"}
+{"id": "task1289-c7b657033d654647b7ae80ca91608967", "input": "What geological time do we live in ?", "target": "Quantity"}
+{"id": "task1289-619136e328bd4165814045971fca8afc", "input": "What is the origin of the expression `` four-letter word '' ?", "target": "Description"}
+{"id": "task1289-443f7192f1fe46c3832dd5836f99a0e0", "input": "What makes you fat ?", "target": "Description"}
+{"id": "task1289-bec26b905a6748d88485cdac954c861d", "input": "What does the dot on the letter i mean ?", "target": "Description"}
+{"id": "task1289-b5b48dd61de5479fbe2b647110ebf79a", "input": "Why are there olives in martinis ?", "target": "Description"}
+{"id": "task1289-0dad26a8e9f646a08d10090173d4b3ce", "input": "When did Mount St. Helen last have a major eruption ?", "target": "Quantity"}
+{"id": "task1289-1174c68bbd814bb1b84469ab75df3fb2", "input": "What common plant has a button , cap , cup , gills , and ring ?", "target": "Entity"}
+{"id": "task1289-38ca5883d6624a88a964d1e7e16529e0", "input": "What is sound ?", "target": "Description"}
+{"id": "task1289-23e555fa73a84061b567595fcc3d8c9a", "input": "When was the first flush toilet invented ?", "target": "Quantity"}
+{"id": "task1289-4703eda451e2449390b4373ae7abcc5b", "input": "What organic fuel do bog-dwellers use a `` slane '' to cut ?", "target": "Entity"}
+{"id": "task1289-d04a247f831b4ae198e6d500ad415929", "input": "What famed tennis tournament 's men 's singles title was Fred Perry the last Englishman to win ?", "target": "Entity"}
+{"id": "task1289-45949bf40d054c199e3165cef37ce0b3", "input": "How does hair curl ?", "target": "Description"}
+{"id": "task1289-a434d8d406154c108508f358f1496624", "input": "What steps can be taken to prevent diabetes ?", "target": "Description"}
+{"id": "task1289-7e19fef900834bf3b0e9e4719e7b42c9", "input": "What animals did The Amazing Three masquerade as ?", "target": "Entity"}
+{"id": "task1289-498dcda4e25e4ee3ab20c7e6b2b0cc20", "input": "What book was F. Scott Fitzgerald working on when he died in Hollywood in 194 ?", "target": "Entity"}
+{"id": "task1289-bbc1265c4c874b9b89c446d039c5487e", "input": "What is the world 's best selling cookie ?", "target": "Entity"}
+{"id": "task1289-02fb6887bd664955b727154430088323", "input": "What time of day did Emperor Hirohito die ?", "target": "Quantity"}
+{"id": "task1289-abad0934ed3f4615875e3910be957140", "input": "What substance did Joseph Priestley name for its ability to erase pencil marks ?", "target": "Entity"}
+{"id": "task1289-0797abb5eddb4f20aad2909cdd8aaa58", "input": "What TV game show once saw a contestant admit to picking his toes in the shower ?", "target": "Entity"}
+{"id": "task1289-56abf39d61a8461f9a405a04d657da46", "input": "What group asked the musical question Do You Believe in Magic ?", "target": "Person"}
+{"id": "task1289-c7b9b12ad8e04c368cb145fe2de72958", "input": "Shea and Gould closed their Los Angeles office for what reason ?", "target": "Description"}
+{"id": "task1289-3c8c65ea2bb24cfa906177bc658307b5", "input": "What category does the color pink denote in the Trivial Pursuit Baby Boomer Edition ?", "target": "Description"}
+{"id": "task1289-2cc7285e788a440f9a104164ab329835", "input": "What does the term glory hole mean ?", "target": "Description"}
+{"id": "task1289-22fa38f16258458183b9404039fa743e", "input": "On which flight did Fawaz Younis commit air piracy and hostage taking ?", "target": "Entity"}
+{"id": "task1289-b452d7bae5bd460ba03980a2a9ab1b06", "input": "What sport is known for hooligans ?", "target": "Entity"}
+{"id": "task1289-02c30839216f48779bd251e06569b55f", "input": "How is silk screening done ?", "target": "Description"}
+{"id": "task1289-9d26bafe3bfd410f86c33ab132355a6d", "input": "What 1956 Grace Metalious novel was on the best-seller list for two years ?", "target": "Entity"}
+{"id": "task1289-7f912373201d40cfa0448e7461da8d78", "input": "How come light bulbs go out ?", "target": "Description"}
+{"id": "task1289-eedd88c50ca54c7694ace09e11b06559", "input": "What did Shostakovich write for Rostropovich ?", "target": "Entity"}
+{"id": "task1289-07b027f118b84edf81954db6c51703f4", "input": "When was London 's Docklands Light Railway constructed ?", "target": "Quantity"}
+{"id": "task1289-976b5166b8854729b89534da4cea7d37", "input": "What store claims to be the world 's largest department store ?", "target": "Person"}
+{"id": "task1289-6060695e5dc04f299d2f08e55aeec9e7", "input": "What explosive do you get by mixing charcoal , sulfur and saltpeter ?", "target": "Entity"}
+{"id": "task1289-fa5eac575a8f4afd8b52899a69a68219", "input": "What is the Internet2 ?", "target": "Description"}
+{"id": "task1289-7af38edef0d8497cbaceb04b23140fee", "input": "Which Ventura County police department seized the largest cocaine shipment in it 's history ?", "target": "Person"}
+{"id": "task1289-88f8a55487c14fb99abbd2916191bae0", "input": "How was Teddy Roosevelt related to FDR ?", "target": "Description"}
+{"id": "task1289-b12e85ab920548c7930c3426863ca997", "input": "What cooking oil has `` corn goodness '' ?", "target": "Entity"}
+{"id": "task1289-88224fca4e89497b9525d3ac3e594965", "input": "What botanical marvel did Nebuchadnezzar build ?", "target": "Location"}
+{"id": "task1289-e543b3150c484fb2b6d05f6f69cdefb9", "input": "What is the date of Bastille Day ?", "target": "Quantity"}
+{"id": "task1289-cde4a36bd438458a90eede6ca80847d5", "input": "How do I find out what cities are in a certain area code ?", "target": "Description"}
+{"id": "task1289-165f57285ab84e23b5b07bff9e1b4486", "input": "What did the Chinese emperor present to the English soldier Gordon in recognition of his services in quelling rebellions ?", "target": "Entity"}
+{"id": "task1289-259215a3d3c9486781ea449dc3449478", "input": "What soft drink held a national flavor poll in 1967 ?", "target": "Entity"}
+{"id": "task1289-0fe28a0982644017894e8b070e3b1188", "input": "How can I find out how much income tax is paid on Social Security income on the 1998 income tax ?", "target": "Description"}
+{"id": "task1289-a6d7843a87734483ba03b17bf040a789", "input": "What is usenet for the Internet ?", "target": "Description"}
+{"id": "task1289-fdbceb2ddac54ce1857c572385b1724f", "input": "What planet gave bith to Superman ?", "target": "Location"}
+{"id": "task1289-ef45580a1d0a4300a5ba51aad8d0946d", "input": "What is the largest sculpture in the world ?", "target": "Entity"}
+{"id": "task1289-3e662b2d11c04b95b56a7b375095aac9", "input": "What movie tour of the Roman empire features the admonition : `` Row well and live '' ?", "target": "Entity"}
+{"id": "task1289-8a9971ad03db44fe9b19896826f2fdb5", "input": "What causes asthma ?", "target": "Description"}
+{"id": "task1289-c5dbc8c0f82a44488014f74ca643c9eb", "input": "What is the Golden Rule ?", "target": "Description"}
+{"id": "task1289-d3d9f0af6b8b4370b622b042e95c2b4c", "input": "What 's the origin of the word ` news ' ?", "target": "Description"}
+{"id": "task1289-891c1ec3093e47528a6cfb173a82b69d", "input": "What personality traits are Capricorns said to have ?", "target": "Description"}
+{"id": "task1289-2e09ee39f3934ee1b0ed8dbafd5a969c", "input": "How do cameras take pictures ?", "target": "Description"}
+{"id": "task1289-fd471e061de34bb5b239a0315b240b8a", "input": "How loud is thunder ?", "target": "Quantity"}
+{"id": "task1289-b32a4429ec8d4718ac0b0ec755bce809", "input": "When did French revolutionaries storm the Bastille ?", "target": "Quantity"}
+{"id": "task1289-46012039465d4c3680434ae9ab81f0c6", "input": "What game is Garry Kasparov really good at ?", "target": "Entity"}
+{"id": "task1289-a0bd0248ef4b49159d555aaefad0732a", "input": "What year was the Avery Dennison company founded ?", "target": "Quantity"}
+{"id": "task1289-bc0caa16ebfa4215ac19659b5fee5646", "input": "Jude Law was in what movie ?", "target": "Entity"}
+{"id": "task1289-344cf515929b42d4b70771d483ed43cc", "input": "What diamond producer controls about 80% of the world 's diamonds ?", "target": "Person"}
+{"id": "task1289-4b500e77129949a5903d13e1e6f2e080", "input": "How do you get a pointsettia to turn red ?", "target": "Description"}
+{"id": "task1289-f2305ae5086149279af5d3773b00c081", "input": "What does the `` blue ribbon '' stand for ?", "target": "Abbreviation"}
+{"id": "task1289-69ff0215fe47430c99fad5e1254a1351", "input": "What is the name of Joan Jett 's band ?", "target": "Person"}
+{"id": "task1289-bcba3b2d08c0444682036c3d09a426b0", "input": "What weapon did the crossed slits in English castles accommodate ?", "target": "Entity"}
+{"id": "task1289-0cde79a195384c0c9d80f1a54bc0ec81", "input": "What was the name of the famous battle between Texas and Mexico ?", "target": "Entity"}
+{"id": "task1289-3330181bce7e486095a72415ee3076ae", "input": "What is a turnkey contract ?", "target": "Description"}
+{"id": "task1289-e33daa2c484e4cb192fe3604f0db62c7", "input": "How does psorisis disappear ?", "target": "Description"}
+{"id": "task1289-436ede05043c41f895579d194c37e4bb", "input": "What is home banking ?", "target": "Description"}
+{"id": "task1289-1c90e49a12e24e39ba29496509888581", "input": "What 's the most common nickname of U.S. college football teams ?", "target": "Person"}
+{"id": "task1289-eacb51e78f9545a2b579459ad8617a2f", "input": "What time of year do most people fly ?", "target": "Quantity"}
+{"id": "task1289-530ea8dee1174d018c8d4d672525d2c1", "input": "Why did the chicken cross the road ?", "target": "Description"}
+{"id": "task1289-e9853480dc3e4205b0fedb0e4fe49f88", "input": "When was the San Francisco fire ?", "target": "Quantity"}
+{"id": "task1289-cc5b93f61b7140f6917847642b9890de", "input": "What chemicals are used in lethal injection ?", "target": "Entity"}
+{"id": "task1289-bbf58e475a27436196d305a4a4eddb82", "input": "What is worth seeing in Reims ?", "target": "Location"}
+{"id": "task1289-040815dd811f4a438b78064dec4567f6", "input": "CNN is an acronym for what ?", "target": "Abbreviation"}
+{"id": "task1289-e60b5de47a214d429bd54c252f9c0060", "input": "What are the ten safest American cities for pedestrians ?", "target": "Location"}
+{"id": "task1289-a4f553adfac1440c8bd9d61411faa449", "input": "Garry Kasparov plays what game ?", "target": "Entity"}
+{"id": "task1289-e9f86feb0862463a9380bdbe739ace17", "input": "What does SHIELD stand for ?", "target": "Abbreviation"}
+{"id": "task1289-03a19d8f915842fd87d20f079a517ec5", "input": "How many wings does a flea have ?", "target": "Quantity"}
+{"id": "task1289-65d2bf5b4d60492eb6f1be46255761ab", "input": "What is the history of yo-yos ?", "target": "Description"}
+{"id": "task1289-e5f7ca649b564477b41e73690a8f9317", "input": "What literary classic centers on the search for a treasure in gold worth 7 , 0 pounds ?", "target": "Entity"}
+{"id": "task1289-3896f62abac648d3a142648c4b3b87a7", "input": "What mountain range is traversed by the highest railroad in the world ?", "target": "Location"}
+{"id": "task1289-b8eac387b39441b2acdd20de69d67561", "input": "In what year did Hitler gain power of Germany ?", "target": "Quantity"}
+{"id": "task1289-6d4ef63f017343fa82fe80b3de514e1c", "input": "What is the cultural origin of the ceremony of potlatch ?", "target": "Description"}
+{"id": "task1289-c5c823fe686d4bdfb0c3df97fea7518e", "input": "What mammal of North America is the world 's longest-lived for its size ?", "target": "Entity"}
+{"id": "task1289-482318658af3449ea3a494b904c55bc2", "input": "What Broadway musical was inspired by Cervantes 's Don Quixote ?", "target": "Entity"}
+{"id": "task1289-5f6d9c7e1478427b97f84ec50712361b", "input": "What is the origin of the midwest slang , ` you 're darn tootin ' ?", "target": "Description"}
+{"id": "task1289-8baa5cedd5c24a869892f2235ebb710e", "input": "What chocolate company gives you a one-pound kiss ?", "target": "Person"}
+{"id": "task1289-7d2a19d7cdb44c47bfe9b6d6735ef60b", "input": "What is object-oriented design ?", "target": "Description"}
+{"id": "task1289-05a517aa59f04ef5b3e15da1a5eadf4a", "input": "What is Jane Goodall famous for ?", "target": "Description"}
+{"id": "task1289-8bb114bfccad4328a356fb03fe840a4f", "input": "What fast food is prepared with a `` secret blend of 11 herbs and spices ? ''", "target": "Entity"}
+{"id": "task1289-43e4823b0da946ad8e1ccda3938ca358", "input": "What year did the United States pass the Copyright law ?", "target": "Quantity"}
+{"id": "task1289-1d79be05219c493cb4933a7645ac8e7b", "input": "What animal dined on bread and oysters with a carpenter ?", "target": "Entity"}
+{"id": "task1289-32b1e87107454a38aa9bc86953913ef2", "input": "What is the difference between a board of directors and an advisory board ?", "target": "Description"}
+{"id": "task1289-2a785a58ef4340dda3ae832342568d63", "input": "What does Robin Williams do ?", "target": "Person"}
+{"id": "task1289-412047ab5a1249dda7b79948fe449193", "input": "When did Theo Rousseau paint the `` Forest of Fontaine '' ?", "target": "Quantity"}
+{"id": "task1289-722363acae074e51b47f9affd7832ad5", "input": "What seven digits follow the area code in the number for long distance information ?", "target": "Quantity"}
+{"id": "task1289-88b3c122234041519da4d51870b37933", "input": "What does appropriates money mean ?", "target": "Description"}
+{"id": "task1289-a7d4583bf9054c2c8229c38e75c6db83", "input": "Name a medicine commonly used to combat AIDS ?", "target": "Entity"}
+{"id": "task1289-5671fa4fcd344a918c22532a7ee2341b", "input": "What are liver enzymes ?", "target": "Description"}
+{"id": "task1289-a0834250b516471eb8046e0e617d8249", "input": "What Good Little Witch is Casper 's girlfriend ?", "target": "Person"}
+{"id": "task1289-5c73e0e870b44c019ea922a0bdee24e3", "input": "How did names come about ?", "target": "Description"}
+{"id": "task1289-166e3c2cb9464fbfa93dd32640137dd9", "input": "How do vending machines tell if your dollar is a 1 or a 5 ?", "target": "Description"}
+{"id": "task1289-f3f44895550e44cd8ddda7ee857fcdeb", "input": "What day is known as the `` national day of prayer '' ?", "target": "Quantity"}
+{"id": "task1289-bc744b6e48964b2d99ebd4737d3c8e52", "input": "What are the snakes of New England ?", "target": "Entity"}
+{"id": "task1289-4ea4f2c1a72e415a86c1232b6bef8086", "input": "How old was Gene Siskel ?", "target": "Quantity"}
+{"id": "task1289-5c355d061d6c40a5b4cf9a8c70e70df8", "input": "What function does homeostasis have on the existence of an organism ?", "target": "Description"}
+{"id": "task1289-2fd938bdbc444b3586703bd68e14231f", "input": "What bread company used to feature stickers of the Cisco Kid on the ends of their packages ?", "target": "Person"}
+{"id": "task1289-46f67baf77dd4e8faef845783b159964", "input": "Who is the Antichrist ?", "target": "Person"}
+{"id": "task1289-39a0f6215a9c4aa1b1f71c41a8ac213f", "input": "What format was the major competition of VHS ?", "target": "Entity"}
+{"id": "task1289-1c191bc7705c4f28a22e6f497c4943a0", "input": "How many hummingbird eggs could fit in one ostrich egg ?", "target": "Quantity"}
+{"id": "task1289-09fda357ee8e4243b057fcacea53a1c6", "input": "What delicacy is known indelicately as pickled roe ?", "target": "Entity"}
+{"id": "task1289-a1929779e2374d5cbe3e99077707620f", "input": "What is The Gay Science ?", "target": "Description"}
+{"id": "task1289-da30616b825c48cbba56072fb2a89bc9", "input": "What does the name `` Justin '' mean ?", "target": "Description"}
+{"id": "task1289-a7e6e7dbb167470da01d194e9412aa22", "input": "What is saltpeter ?", "target": "Description"}
+{"id": "task1289-67d65322372e4e71a98f162da0a5934e", "input": "What eating utensils are used for handicapped kids ?", "target": "Entity"}
+{"id": "task1289-4badea0104744f26b37237caf5287420", "input": "What are the three animals in Sheila Burnford 's The Incredible Journey ?", "target": "Entity"}
+{"id": "task1289-1a2287ed670142018d0af023081798f9", "input": "What is the best selling computer model ever ?", "target": "Entity"}
+{"id": "task1289-a1eb0091540d4102b326333a62002d4f", "input": "Why does cotton get caught in belly buttons ?", "target": "Description"}
+{"id": "task1289-17cabebe51b340dba5d77c6a5a3f006a", "input": "What does Lloyd 's Lutine Bell announce ?", "target": "Description"}
+{"id": "task1289-ebf60dae4cf34210a64a1272b1187052", "input": "Who manufactures the software , `` PhotoShop '' ?", "target": "Person"}
+{"id": "task1289-c21157c6a3344060bb78cffa6d3f675f", "input": "What are the dimensions of an ice hockey goal ?", "target": "Quantity"}
+{"id": "task1289-a85d24341058473691437bfd5064ddb0", "input": "What was the name of Hitler 's unsuccessful attempt to overthrow the Bavarian government in Munich in 1923 ?", "target": "Entity"}
+{"id": "task1289-7b67235960574ae8a057b8c4b844562a", "input": "What is barnstorming ?", "target": "Description"}
+{"id": "task1289-abae0263d33f46ff8ed90494373a559a", "input": "Why do some people have two different color eyes ?", "target": "Description"}
+{"id": "task1289-3bc8d49d80fa435abd1308e078752958", "input": "What hockey team did Wayne Gretzky play for ?", "target": "Person"}
+{"id": "task1289-0669b46c04b8452c92f1100e7807c689", "input": "What 's the meaning of the name Tatiana ?", "target": "Description"}
+{"id": "task1289-877384b52af3469faccc5503d9dbdc03", "input": "What magazine paid Ernest Hemingway $15 a word to write a bullfighting article ?", "target": "Entity"}
+{"id": "task1289-21b562ec93ed41229b23bedf9613011a", "input": "What major airline has the best safety record in the world ?", "target": "Person"}
+{"id": "task1289-7aa348d336e247aca8c3991bf32bc46a", "input": "How many continents are there ?", "target": "Quantity"}
+{"id": "task1289-ad72813114e846e19a00c69b940c923c", "input": "Where does chocolate come from ?", "target": "Location"}
+{"id": "task1289-f3c3a1003b6645b0ad84fa4a00e45d11", "input": "What is HDLC ?", "target": "Abbreviation"}
+{"id": "task1289-96213408fc1e4876a798bbbe6a5c784e", "input": "What is moxie ?", "target": "Description"}
+{"id": "task1289-660ad201ea15482b94bf7449c19980d8", "input": "What kind of sports team is the Buffalo Sabres ?", "target": "Entity"}
+{"id": "task1289-fb59f9379d744232ab79503e36247a6e", "input": "What sign is the best love match for a horoscope sign ?", "target": "Entity"}
+{"id": "task1289-0deb923134a848b38811128fbbb28226", "input": "What will a compass do in outer space ?", "target": "Description"}
+{"id": "task1289-7db1cac367bf4e2d8a5feeea82494ab0", "input": "How long does a pig 's orgasm last ?", "target": "Quantity"}
+{"id": "task1289-e59d52969b3a4ee2bbe2d27449e05522", "input": "How do you solve `` Rubik 's Cube '' ?", "target": "Description"}
+{"id": "task1289-29375474d60b4de6bf93a46f444e1ae2", "input": "How many people have been Captain America ?", "target": "Quantity"}
+{"id": "task1289-9fd1cfb3a1634a79b4fe16770a804623", "input": "Where can I find lyrics for R&B ?", "target": "Location"}
+{"id": "task1289-6eedf6e6079b4778a559b2f63845554f", "input": "What type of currency is used in China ?", "target": "Entity"}
+{"id": "task1289-4f70e119ea7b41feb643acc0ca906674", "input": "What 's the most delicate-tasting member of the onion family ?", "target": "Entity"}
+{"id": "task1289-b2ceb4f14de5481585f5bc9d28a4e32a", "input": "Where can I find detailed information about Manchukuo ?", "target": "Location"}
+{"id": "task1289-9ec58adaf81646819c336674e02763dd", "input": "Why is Indiglo called Indiglo ?", "target": "Description"}
+{"id": "task1289-560eca14ecc447dab68bd5a6d6fd2d3c", "input": "What does Freddy Freeman say to become Captain Marvel Jr. ?", "target": "Description"}
+{"id": "task1289-916b1737769d479ebf8b43d762afa979", "input": "What is the origin of the word `` sideburns '' ?", "target": "Description"}
+{"id": "task1289-cb64b344659f413ba80186fc1fbeb24a", "input": "How much would a black-and-white 1-cent stamp be worth , Thomas Jefferson on it ?", "target": "Quantity"}
+{"id": "task1289-8ded1b06b1024e098042281615a861a2", "input": "What does `` Janelle '' mean ?", "target": "Description"}
+{"id": "task1289-76ab1d60b8af49c2912aa3f7fb4bfe20", "input": "What is nuclear proliferation ?", "target": "Description"}
+{"id": "task1289-ab91e3b60ad24997af62a85b16e90792", "input": "What are amicable numbers ?", "target": "Description"}
+{"id": "task1289-bc072dd322d04c83ae99a3591ae9bb45", "input": "How did the bikini bathing suite get its name ?", "target": "Description"}
+{"id": "task1289-795f64efbf17452492439cf27b6a125d", "input": "What does RCA stand for ?", "target": "Abbreviation"}
+{"id": "task1289-8210995b72a745f796056c1142007ce6", "input": "What song put James Taylor in the limelight ?", "target": "Entity"}
+{"id": "task1289-1004be323c984de990e3cc2576d877aa", "input": "The film `` Jaws '' was made in what year ?", "target": "Quantity"}
+{"id": "task1289-241ec4faeb5942a2a6abd54d46d14a9c", "input": "What is the definition of the Scrabble word ` syzygy ' ?", "target": "Description"}
+{"id": "task1289-ab6498049b93492fb412a11396bbd1b7", "input": "What are tannins ?", "target": "Description"}
+{"id": "task1289-02808d07e6344afca9e3deeec97a8cdf", "input": "Which team won the Super Bowl in 1968 ?", "target": "Person"}
+{"id": "task1289-3648ac036a4e402e8359eed64118acaf", "input": "What problems contributed to the high failure rate of Plains farmers in the 1800s ?", "target": "Description"}
+{"id": "task1289-e47efc40810e4c9299c1d002c8793608", "input": "How can I get rich quick ?", "target": "Description"}
+{"id": "task1289-8f3fdc6c162742d7ab33f27fb250f03d", "input": "What after-dinner treat was invented in 1916 at the George Jung noodle factory in Los Angeles ?", "target": "Entity"}
+{"id": "task1289-4fb6d58f4bd94558b2db448548f9b88f", "input": "What did Dan Aykroyd and John Belushi quit Saturday Night Live to become ?", "target": "Entity"}
+{"id": "task1289-3d7769103909433ab0147813df0fad80", "input": "What developed a crack in 1835 while tolling the death of U.S. Chief Justice John Marshall ?", "target": "Entity"}
+{"id": "task1289-762c73dbcc2f45e38b92c703ab2025c0", "input": "What are the seven deadly sins ?", "target": "Description"}
+{"id": "task1289-169e786e59174ee4add1e161c406bfd4", "input": "How do clouds form ?", "target": "Description"}
+{"id": "task1289-e79e77435ff948439f86fb24c1a31d60", "input": "In what high-risk business venture did Jimmy the Greek bet and lose ?", "target": "Person"}
+{"id": "task1289-cd951da11ff54cca9e7e5d46c45ed2d4", "input": "What daily newspaper will `` help you see clearer across the USA '' ?", "target": "Entity"}
+{"id": "task1289-876b9797b90e44d8b3552c824f808fbb", "input": "What is the difference between a classical and an acoustic guitar ?", "target": "Description"}
+{"id": "task1289-0d6bf52fa5764fe5906534ab3e51d43c", "input": "What is a storm surge ?", "target": "Description"}
+{"id": "task1289-3ea1a23b1db245158c545c5f47a8c755", "input": "What city is sometimes called Gotham ?", "target": "Location"}
+{"id": "task1289-cbbcb3889e0a47f69a6cc72b7f1b5199", "input": "What African capital is named for a U.S. president ?", "target": "Location"}
+{"id": "task1289-88ab5af4eaee47d0b7a240614cd6cc92", "input": "How long do flies live ?", "target": "Quantity"}
+{"id": "task1289-e17c7f519c5346e2bc58e937217e6aaa", "input": "What is a neurosurgeon ?", "target": "Description"}
+{"id": "task1289-b2534320e1794315893ed284bfcd3402", "input": "Why do they call a hamburger a hamburger when there is no ham ?", "target": "Description"}
+{"id": "task1289-f0b3851d0a544c84970fb7c8c7b1ad2e", "input": "What was the name of the American ship sunk by a mine in Havana harbor , causing the Spanish-American war ?", "target": "Entity"}
+{"id": "task1289-aed4a022da374d94be240146417f9dd6", "input": "What river runs through Colorado , Kansas , and Oklahoma ?", "target": "Location"}
+{"id": "task1289-62702c372522487b91b9d2466137de4f", "input": "What is the difference between microprocessors & microcontrollers ?", "target": "Description"}
+{"id": "task1289-7449de3652af428899bc8eef585180af", "input": "Name the two youngsters saved by the animated Moby Dick .", "target": "Person"}
+{"id": "task1289-0968169c440c48c5bf6c8ce20755cdb1", "input": "What is Nicholas Cage 's occupation ?", "target": "Person"}
+{"id": "task1289-0cf74304d1a345bd93869b92274f5063", "input": "What is the weight of a teaspoon of matter in a black hole ?", "target": "Quantity"}
+{"id": "task1289-b8363396c4d344d58a9638a52fcbaaea", "input": "What is the difference between the anus and the rectum ?", "target": "Description"}
+{"id": "task1289-411e90d0897f4dcf83cf7cf7c0a3991c", "input": "What was the nickname of Frederick I , Holy Roman Emperor and King of Germany ?", "target": "Person"}
+{"id": "task1289-2198d8d0efad4e7b91f72ba7826bf0fb", "input": "What is p.m. an abbreviation for , as in 5 p.m. ?", "target": "Abbreviation"}
+{"id": "task1289-174edbb444504a088099e83fea0b0b44", "input": "Name the soft drink that is `` number one in the sun . ''", "target": "Entity"}
+{"id": "task1289-ef5bad8e87df46a0a0d3d0d607c3f171", "input": "How many rows of whiskers does a cat have ?", "target": "Quantity"}
+{"id": "task1289-147922f135174c12843f86cd0cbb005b", "input": "How long do cardinal eggs incubate ?", "target": "Quantity"}
+{"id": "task1289-2cde40066c3942a09d3cbb01ad1c0972", "input": "What is Drew Barrymore 's middle name ?", "target": "Person"}
+{"id": "task1289-9917a8dc8e8646e9ae78dc16922c8cf2", "input": "How tall is the replica of the Matterhorn at Disneyland ?", "target": "Quantity"}
+{"id": "task1289-67549c04044e4ba7836bc095bdc7d483", "input": "What 's the mystery of the Bermuda Triangle ?", "target": "Description"}
+{"id": "task1289-14b0c8a9d60447ebbcb24e51bdcf2fd8", "input": "What is the largest shopping mall in the world ?", "target": "Location"}
+{"id": "task1289-972d6158f6f74003b1a3298a69f40d71", "input": "What group was formed in 1969 after police met resistance from patrons at the Stonewall , a Greenwich Village gay bar ?", "target": "Person"}
+{"id": "task1289-97cba222ddff4d59b33b76de497f472e", "input": "What is the name of the highest mountain in Africa ?", "target": "Location"}
+{"id": "task1289-e0a19513306344a5a7e57ddd09cce4fb", "input": "What is her profession ?", "target": "Person"}
+{"id": "task1289-96c1ca45431241ac9a94b2e05077b14e", "input": "What is pasta ?", "target": "Description"}
+{"id": "task1289-f7cc45f529f64be390fcdcdbd801ced6", "input": "How long does it take for your blood to make one complete trip through the body ?", "target": "Quantity"}
+{"id": "task1289-c27a8defe2b04b6b8e31b3497b128e20", "input": "When did the Dow first reach ?", "target": "Quantity"}
+{"id": "task1289-69c4a91ab83f452a8c6d1b2f7336ce98", "input": "What was an `` Asiento '' ?", "target": "Description"}
+{"id": "task1289-0695d90b487f4562b7989bca135cc4c1", "input": "Why do we ask for the `` check '' and not the bill at a restaurant ?", "target": "Description"}
+{"id": "task1289-05f6cddb1a4d41479aa214073246192b", "input": "What are all the rivers in Europe ?", "target": "Location"}
+{"id": "task1289-159b887afc1b4a319ad9c9dc18865aae", "input": "What 's the abbreviation for trinitrotoluene ?", "target": "Abbreviation"}
+{"id": "task1289-603d73c0cf714ebe8987f2316e96e248", "input": "What is literary criticism ?", "target": "Description"}
+{"id": "task1289-61e065d836d846f6b08dcd1830e52ddb", "input": "What was the name of the 187s Irish terrorist group in Pennsylvania mining areas ?", "target": "Person"}
+{"id": "task1289-9c792d46f62e4592957d0a0f55fb3f76", "input": "What are two plants that clothes are made from ?", "target": "Entity"}
+{"id": "task1289-da4f47196a8c499e95c3269e17795ba6", "input": "What is capitalism according to Max Weber ?", "target": "Description"}
+{"id": "task1289-64959bcbc26d43dd8d2ef597e8252980", "input": "How big is a baby bald eagle ?", "target": "Quantity"}
+{"id": "task1289-898192e33e1e4c3891c2306ce23df98e", "input": "In Sinclair Lewis ' `` Main Street , '' what was the name of the typical American town ?", "target": "Location"}
+{"id": "task1289-a474126dcbad4215823956d9eff00320", "input": "What is an auto-commentary ?", "target": "Description"}
+{"id": "task1289-be02c5c0dbd34b558edd0b8ee270e56c", "input": "What board game does a `` wood-pusher '' play poorly ?", "target": "Entity"}
+{"id": "task1289-b074cc9b51284e44b3c3d8a7276d626b", "input": "What is the only animal that can turn its stomach inside out ?", "target": "Entity"}
+{"id": "task1289-cfc297b64e5c4a9a85de72ab3fdfea01", "input": "What cathedral was Thomas Becket murdered in ?", "target": "Location"}
+{"id": "task1289-7cd19da9320c4cef8753bbad6da86487", "input": "When was `` the Great Depression '' ?", "target": "Quantity"}
+{"id": "task1289-4cf496ce6b29426284969f46f853817d", "input": "What did Lenny Bruce say that got him arrested ?", "target": "Description"}
+{"id": "task1289-74b6ad684ac34a268019b5ac1169a5dc", "input": "What ethnic group introduced the idea of potlatch ?", "target": "Person"}
+{"id": "task1289-52bcf1ee04314306adea1fd651e09bd7", "input": "What was the reason for the partition of the Anglican and Vatican churches ?", "target": "Description"}
+{"id": "task1289-a7136c12da3f4a81a1f8333f807d2d2d", "input": "Name a golf course in Myrtle Beach .", "target": "Entity"}
+{"id": "task1289-a028a244feec41b7bff6472a9855e85c", "input": "What is a caldera ?", "target": "Description"}
+{"id": "task1289-627b0e3f3baa4c30b0e0d361cd909396", "input": "How does a parachute work ?", "target": "Description"}
+{"id": "task1289-7dddceb5b0494271a1a3db0f36da4c92", "input": "What fowl grabs the spotlight after the Chinese Year of the Monkey ?", "target": "Entity"}
+{"id": "task1289-d7585802f2e94c238f9eebea6f53d953", "input": "What 's a water funnel ?", "target": "Description"}
+{"id": "task1289-bd564a00ec5c441db92d66d4fa0495e8", "input": "What was Edward Albee 's first full-length play ?", "target": "Entity"}
+{"id": "task1289-152afe456230413aa035b769c3884892", "input": "What is a transistor ?", "target": "Description"}
+{"id": "task1289-e6acb7953618437880e779a286318387", "input": "What is the brand name of daminozide ?", "target": "Entity"}
+{"id": "task1289-7e29c0f70dd34d78ab1f58c3b9ab012e", "input": "What is the brightest star visible from Earth ?", "target": "Location"}
+{"id": "task1289-ebeac8e4ae48405a9470dde262463cdd", "input": "What have you not let a tennis ball do if you volley ?", "target": "Description"}
+{"id": "task1289-9592e6202d0c486db009e2f94106e166", "input": "What was the name of the ball game played by the mayans ?", "target": "Entity"}
+{"id": "task1289-4e9f2c01befc42688449382bf5b1c51e", "input": "What do you know about multicultural and multilingual schools ?", "target": "Description"}
+{"id": "task1289-ea08c3bd3d2d481cb14104b3d5e951c5", "input": "How many freckles does Howdy Doody have on his face ?", "target": "Quantity"}
+{"id": "task1289-378e2e9ff63240f2bd05eeda3d0af5f6", "input": "What effects do nitrates have on the environment ?", "target": "Description"}
+{"id": "task1289-0d304ed7d24a4a8188b7cead73a66e84", "input": "Name a movie about the Sioux Indians starring Kevin Costner .", "target": "Entity"}
+{"id": "task1289-56041a6515e440b99c2d4f6321984e19", "input": "What does camera-ready art mean ?", "target": "Description"}
+{"id": "task1289-93a15f50d9f64dce82639b4250d2f0b3", "input": "What are the three winter months in the southern hemisphere ?", "target": "Quantity"}
+{"id": "task1289-744d5124a8084c82aa8ae9562454a747", "input": "What lake is the source of the White Nile ?", "target": "Location"}
+{"id": "task1289-591ac5cfe0f74369833f56b69a67c475", "input": "What famed strip of land is a 15-minute boat trip across the Venetian Lagoon from Venice ?", "target": "Location"}
+{"id": "task1289-c31ac209821f4504b04a935e95410bb0", "input": "Where are good science sites on the Internet ?", "target": "Location"}
+{"id": "task1289-285a365048084e79a81ff8139760076f", "input": "What ship did Lloyd M. Bucher command ?", "target": "Entity"}
+{"id": "task1289-b4de4a88cdb34cee84c6ad94f7f195fd", "input": "What is the name of the city that Maurizio Pellegrin lives in ?", "target": "Location"}
+{"id": "task1289-1654875e2e184cd7a8e9e0a95ad7f8a5", "input": "What is the recomended age to switch a child from a crib to a bed ?", "target": "Quantity"}
+{"id": "task1289-ae96495ece5b499c93385e394c35eec6", "input": "What is the hair style called that new military recruits receive ?", "target": "Description"}
+{"id": "task1289-ee0dc603f3004f6b89cb0c84917bc6fe", "input": "What 's the claim to fame of night watchman Frank Wills ?", "target": "Description"}
+{"id": "task1289-5c4b650fc9194f60995407ee55c13dbd", "input": "What does Las Vegas mean ?", "target": "Description"}
+{"id": "task1289-9cb557715ea24c9789a270b894d9abce", "input": "Jackson Pollock was a native of what country ?", "target": "Location"}
+{"id": "task1289-d5f4de7d86e24df8b9aaaaa5ae1c51c7", "input": "Where do you find information about the Queensland National Competition Policy", "target": "Location"}
+{"id": "task1289-58362082da6944d883a0ae89e537ab4a", "input": "What is yohimbine ?", "target": "Description"}
+{"id": "task1289-7697a86b5bc84cb9875034f421797678", "input": "What does CNN stand for ?", "target": "Abbreviation"}
+{"id": "task1289-4481d87676a54c0f9e70d77e91e3fe8e", "input": "How many children under 18 are victims of some sort of Physical Abuse each year ?", "target": "Quantity"}
+{"id": "task1289-c61f3d7162e5482ba9f3d59a21729537", "input": "How much energy is released when oxygen and hydrogen mix ?", "target": "Quantity"}
+{"id": "task1289-fbbcd19444d04eb49a1b6eb91d3d24be", "input": "How many degrees cooler is the inside of a cucumber than the air outside ?", "target": "Quantity"}
+{"id": "task1289-3ca816d0d72044da82a04d1e9685a600", "input": "What NFL team did Vince Lombardi end his coaching career with ?", "target": "Person"}
+{"id": "task1289-14513465a7304ecab2c7f4791b6013f3", "input": "What beer 's name is translated as `` lion brew '' ?", "target": "Entity"}
+{"id": "task1289-68e90ed7ff184ef586de92cf1b59be3d", "input": "What 's the largest U.S. agricultural crop by weight ?", "target": "Entity"}
+{"id": "task1289-0b6db3adca31404da5a1b190b42788dd", "input": "How many of every 10 members of the Rodeo Cowboys Association have never worked a ranch ?", "target": "Quantity"}
+{"id": "task1289-09c242a0080f4d7bbe84811cf8ff1f6b", "input": "What does VCR stand for ?", "target": "Abbreviation"}
+{"id": "task1289-c096602277e24d118f13d728c0302c74", "input": "Who was the original Humpty Dumpty ?", "target": "Person"}
+{"id": "task1289-c2d75cd82b2a4f06939b3e271f8e0ca2", "input": "In Dana 's `` Two Years Before the Mast , '' what seafarers lived in an abandoned oven on the beach at San Diego ?", "target": "Person"}
+{"id": "task1289-5a8a4ac86d064ee3bb852b23a3405c2b", "input": "What 's distinctive about a palmiped 's feet ?", "target": "Description"}
+{"id": "task1289-6f3c102259c146cbbc9d86fcb593bdc7", "input": "What does the word LASER mean ?", "target": "Abbreviation"}
+{"id": "task1289-8a317e9997d84c3cba4cf0ddea2ea224", "input": "How many people die from snakebite poisoning in the U.S. per year ?", "target": "Quantity"}
+{"id": "task1289-1cf281ca417945d7b65dd373a7deb68d", "input": "What is a Devo hat ?", "target": "Description"}
+{"id": "task1289-567786dcda954857a1f2d8bc15776580", "input": "How many times was pitcher , Warren Spahn , a 20-game winner in his 21 major league seasons ?", "target": "Quantity"}
+{"id": "task1289-f6ee3f4512064cb4a77f3d4cd4ea389f", "input": "What are the biggest Indian airports ?", "target": "Location"}
+{"id": "task1289-e0b73d1d6ac84116995b6171dbaed341", "input": "What is porphyria ?", "target": "Description"}
+{"id": "task1289-3a8eaf89633941f1991c148bac67f066", "input": "What is a film starring Jude Law ?", "target": "Entity"}
+{"id": "task1289-42216700c53f435399eea4bfd43d6184", "input": "What was William F. Cody 's better-known name ?", "target": "Person"}
+{"id": "task1289-f4c71b4359114831add02672b3485999", "input": "What 's the world 's longest suspension bridge ?", "target": "Location"}
+{"id": "task1289-91cffb1b71a945ce8c1de36373b699cf", "input": "What is an annotated bibliography ?", "target": "Description"}
+{"id": "task1289-a8841f175bf843fd8b603a7cff19c866", "input": "What is the definition of spamming ?", "target": "Description"}
+{"id": "task1289-33e11c2de55e479788c41b0e9805ddf6", "input": "In Beetle Bailey , can you name Sarge 's dog ?", "target": "Entity"}
+{"id": "task1289-64a03b3dc46848aa9779662f4c26581f", "input": "Who did Napolean defeat at Jena and Auerstadt ?", "target": "Person"}
+{"id": "task1289-0c9140d971494d38a8a50b87360d0d48", "input": "What ocean surrounds the Madeira Islands ?", "target": "Location"}
+{"id": "task1289-dab2305cc7ab4240a95e45f439035919", "input": "What 's the name of the Tampa newspaper ?", "target": "Entity"}
+{"id": "task1289-293212b9c24847879e561a4aec326c66", "input": "How many Marx Brothers were there ?", "target": "Quantity"}
+{"id": "task1289-f53f66cd46fa4c3db3d1590455276410", "input": "What is the difference between pop music and rock and roll ?", "target": "Description"}
+{"id": "task1289-17c09fe85b3944448c44de71dd238d6c", "input": "How many villi are found in the small intestine ?", "target": "Quantity"}
+{"id": "task1289-28831d146329467997f4b1d90cfed655", "input": "Who is Charles Lindbergh ?", "target": "Person"}
+{"id": "task1289-43ad92ee41434b429b4b2a44dd1f79a8", "input": "How many different languages are spoken in Europe ?", "target": "Quantity"}
+{"id": "task1289-95dfee58fbf541689778b1515d0163ec", "input": "What is a green bog ?", "target": "Description"}
+{"id": "task1289-15fdbe1a14394a209c80566fc0c05a90", "input": "What is narcolepsy ?", "target": "Description"}
+{"id": "task1289-5d1a36d780874891b7cacf75a43c8c9a", "input": "Where can I find examples of legal cases about the Individuals with Disabilities Education Act ?", "target": "Location"}
+{"id": "task1289-58cc74cd137748159189ffce338492ed", "input": "What is the name of the Family Circus 's dog ?", "target": "Entity"}
+{"id": "task1289-cf4e94d456cb429892a4952313e79360", "input": "Where do the Grimace and Mayor McCheese live ?", "target": "Location"}
+{"id": "task1289-b815f3e66d8149018a85b2655918684a", "input": "What bay sparkles next to Miami , Florida ?", "target": "Location"}
+{"id": "task1289-ce4b72d9eae445149561014665594001", "input": "What is office automation ?", "target": "Description"}
+{"id": "task1289-624bb6bba9b24cf4822590f86c9b6c94", "input": "How many Community Chest cards are there in Monopoly ?", "target": "Quantity"}
+{"id": "task1289-b94c3d352d7b434a8e594eb28874abce", "input": "Who made the rotary engine automobile ?", "target": "Person"}
+{"id": "task1289-33830b3b5ee34ec0af8f5eec01fe3a10", "input": "What is the present Pope named ?", "target": "Person"}
+{"id": "task1289-3df9f0be0c3b494e99e60291c6fc21d5", "input": "What is tumbled marble ?", "target": "Description"}
+{"id": "task1289-cb7a9333845b417fba6619c9139f32ad", "input": "What is the abbreviation of the company name ` General Motors ' ?", "target": "Abbreviation"}
+{"id": "task1289-567084aad2794fd396ebf93f385c1038", "input": "How many bones are in the human hand ?", "target": "Quantity"}
+{"id": "task1289-8679cfc8945b4ecebf8d98dec04593ed", "input": "How many pairs of legs does a lobster have ?", "target": "Quantity"}
+{"id": "task1289-ca625497739249b4abcaa9b9d228ff09", "input": "What is a Jellicle Cat ?", "target": "Description"}
+{"id": "task1289-5fc04389407f441baf7d304e460a3af3", "input": "What European country 's monarchy was restored in 1975 ?", "target": "Location"}
+{"id": "task1289-3a7df522f57d4ca7ad4c460f18bbbc6a", "input": "Name 11 famous martyrs .", "target": "Person"}
+{"id": "task1289-954970ed565f4310ab83413f7eb8414a", "input": "What are shooting stars ?", "target": "Description"}
+{"id": "task1289-8237aeeae0254d999b95b63418daf2fa", "input": "Where does the U.S. rank among world countries in area ?", "target": "Quantity"}
+{"id": "task1289-3fc9ba9dfb9444d0ad0c3dceed642404", "input": "What king was forced to agree to the Magna Carta ?", "target": "Person"}
+{"id": "task1289-a79258d0c73f49b7abf33c6303fbd1ac", "input": "What Mormon leader was said to have had 27 wives ?", "target": "Person"}
+{"id": "task1289-6ea1739d79ec48be94cf465dae22f918", "input": "Which city has the oldest relationship as a sister city with Los Angeles ?", "target": "Location"}
+{"id": "task1289-7e29bc8860e9410791e57280bea377e7", "input": "How many disks does each player have in a four-handed game of Crokinole ?", "target": "Quantity"}
+{"id": "task1289-e3855201dd8746648c0cdbd076b5f4a4", "input": "The Kentucky Horse Park is located near what city ?", "target": "Location"}
+{"id": "task1289-b5a643a562ad44d8a84011595a3c63be", "input": "Which large U.S. city had the highest murder rate for 1988 ?", "target": "Location"}
+{"id": "task1289-06307245e2a44c2381c8bff321fdef78", "input": "Who is Nicolo Paganini ?", "target": "Person"}
+{"id": "task1289-a3ea55a6e8944a12acfc63c114156396", "input": "Who painted Mother and Child ?", "target": "Person"}
+{"id": "task1289-95400d352d9843659e770f80061fdc57", "input": "How many consecutive baseball games did Lou Gehrig play ?", "target": "Quantity"}
+{"id": "task1289-60eda75098f84fbf9a7fffa9731a7a40", "input": "Who was the first American poet to win the Nobel Prize for literature , in 1948 ?", "target": "Person"}
+{"id": "task1289-52a4f2fbb43b4453bb32ca1ec9ee8127", "input": "What is the claim to fame of Agra , India ?", "target": "Description"}
+{"id": "task1289-fd7f42a5cacc47ebbbd89d0aa4f2faed", "input": "What 4-foot-9 actress in 1984 became the first performer to win an Oscar for playing a character of the opposite sex ?", "target": "Person"}
+{"id": "task1289-3c6ce009db5a4d0487a0c57b636421e2", "input": "Who starred in the movie The War of the Worlds ?", "target": "Person"}
+{"id": "task1289-5b8640b499654346a1c5199eb839e730", "input": "Who was International Olympic Committee chairman at the 1936 Summer Games ?", "target": "Person"}
+{"id": "task1289-c34c750d19104cc0845609442a2ff17a", "input": "How many Beanie Baby sites are there ?", "target": "Quantity"}
+{"id": "task1289-4e9a545aa0c94fd1a0e2177271d3269e", "input": "Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous ?", "target": "Person"}
+{"id": "task1289-8c7275b1846844f98c3d0e6135cc5c01", "input": "Name the person who burst through the screen in the Lite beer commercials .", "target": "Person"}
+{"id": "task1289-7919ae51d65d4f3f99c0fd02e7363883", "input": "Who is William Wordsworth ?", "target": "Person"}
+{"id": "task1289-dc983085dd604047aec2f7fdb6b1f9ad", "input": "Who are the two sons of Ozzie and Harriet Nelson ?", "target": "Person"}
+{"id": "task1289-41e542cc0fde41998cc78cbb993830bc", "input": "What heavyweight boxer was known as The Wild Bull of the Pampas ?", "target": "Person"}
+{"id": "task1289-75207caf6bac453aa4ec0d52b075d815", "input": "Who is the sexiest women in the world ?", "target": "Person"}
+{"id": "task1289-1da74361af4644a7a49c839ec2c490fe", "input": "Who are cartoondom 's Super Six ?", "target": "Person"}
+{"id": "task1289-90ddfe47219a4748838f607dbe930547", "input": "Which country is the largest country in Latin America ?", "target": "Location"}
+{"id": "task1289-a28287a9163a496f95e68774e1e988da", "input": "What actor came to dinner in Guess Who 's Coming to Dinner ?", "target": "Person"}
+{"id": "task1289-2e47041702af408dbe81245204dd5136", "input": "Who discovered imaginary numbers ?", "target": "Person"}
+{"id": "task1289-b0ae75559949472888d4f56bea7b39b0", "input": "What TV talk-show host lends his name to a line of men 's clothing ?", "target": "Person"}
+{"id": "task1289-d23903b80aab4cc0a749c30d4555d79b", "input": "What famous husband-and-wife team did radio ads for Blue Nun wine ?", "target": "Person"}
+{"id": "task1289-81ea4deb686c470d8de2c72efb21f736", "input": "Who stopped making diary entries on May 31 , 1669 , because he thought he was going blind ?", "target": "Person"}
+{"id": "task1289-bda988c91b5945ef8ccc0e94d2900854", "input": "Who was shot in the back during a Poker game in Deadwood , the Dakota territory ?", "target": "Person"}
+{"id": "task1289-59eb33fbaf024360abdca0d0ac6ecddb", "input": "Who wrote Unsafe at Any Speed ?", "target": "Person"}
+{"id": "task1289-5dbe0b2997d04859a86c1c431c0e0d26", "input": "What six-foot temperance advocate wielded her hatchet on saloons ?", "target": "Person"}
+{"id": "task1289-49fccddba2c74afda6379aa72c5ac4e0", "input": "How many innings are there in a regulation softball game ?", "target": "Quantity"}
+{"id": "task1289-bddc4759fe654aa4a19f3370123b6a27", "input": "What daughter of Henry VIII and Anne Boleyn became queen of England ?", "target": "Person"}
+{"id": "task1289-050d67e6047c48cbb3a4573c66fe900d", "input": "How many bends are there in a standard paper clip ?", "target": "Quantity"}
+{"id": "task1289-0c9e454ed09949c0be4cb0172721b19b", "input": "Who was Confucius ?", "target": "Person"}
+{"id": "task1289-3470a8f5e377472db10b24ebc1ece6ec", "input": "How many home runs did Lou Gehrig have during his career ?", "target": "Quantity"}
+{"id": "task1289-8e589d3a139f4e3ebf1c0228ce02cb16", "input": "What is prepared mustard ?", "target": "Description"}
+{"id": "task1289-f021409c1ef84263a9cf4a544e411a2a", "input": "Who is the president of Bolivia ?", "target": "Person"}
+{"id": "task1289-8e9c7d449c1a4041bbe3d88c8eff0840", "input": "What is the name of actor Rex Harrison 's son , who starred in a modestly popular TV show during the late 1960's ?", "target": "Person"}
+{"id": "task1289-b211896e40de4b8aae902af548afd8eb", "input": "What Asian spiritual and political leader was married at the age of 13 ?", "target": "Person"}
+{"id": "task1289-b1aab0d499bd40b3a22366621f3a295a", "input": "Who sought to create The Great Society ?", "target": "Person"}
+{"id": "task1289-f92b508a0b4943008a4725ad0542cdb9", "input": "What is the fare cost for the round trip between New York and London on Concorde ?", "target": "Quantity"}
+{"id": "task1289-9893e73f796148fea23a67a481e9aa74", "input": "Which Latin American country is the largest ?", "target": "Location"}
+{"id": "task1289-9dd50c6ea7df4e76973022db8c0e5761", "input": "What baseball player was walked the most times ?", "target": "Person"}
+{"id": "task1289-d1cd6ffe82d94a70a7add657572db853", "input": "What state full of milk and honey was the destination in The Grapes of Wrath ?", "target": "Location"}
+{"id": "task1289-c5066eef8fbe4c6587c1e80cf7a70049", "input": "What country do the Galapagos Islands belong to ?", "target": "Location"}
+{"id": "task1289-b76e23afdeb145c6af615655b4340ad0", "input": "Who has the only speaking role in `` Silent Movie '' ?", "target": "Person"}
+{"id": "task1289-793e29c6bfa443c99bb2e68f90a0a156", "input": "Who has won the most Super Bowls ?", "target": "Person"}
+{"id": "task1289-4e69d9547ce84b68bdd4c3b73d1d68c4", "input": "What baseball team owner and sailor is known as The Mouth of the South ?", "target": "Person"}
+{"id": "task1289-467c5c84435d4988b647661bfe5cc61b", "input": "How many films are made by the major studios in a year ?", "target": "Quantity"}
+{"id": "task1289-e63cafa15ba04c2caebcb718b8ef38f9", "input": "Who is section manager for guidance and control systems at JPL ?", "target": "Person"}
+{"id": "task1289-ae0e0eab38034577931e5ba01ec75ca7", "input": "Describe the Finnish music personality Salonen 's appearance .", "target": "Description"}
+{"id": "task1289-712c90a3c157435c867ebdc313572584", "input": "How many countries watch MTV Europe ?", "target": "Quantity"}
+{"id": "task1289-3f9e52b25ec14257b6caf58c182cb42d", "input": "What two countries share the Khyber Pass ?", "target": "Location"}
+{"id": "task1289-80975c16eaa548b6bc901e10b11bd765", "input": "What hard-of hearing artist painted Sunflowers ?", "target": "Person"}
+{"id": "task1289-1d67ac893581403a84596dbd6fe7b8e2", "input": "Who killed more people , Hitler or Stalin ?", "target": "Person"}
+{"id": "task1289-9cae9c8f2e624846aaf59c6346e9112b", "input": "Who was the first actress to appear on a postage stamp ?", "target": "Person"}
+{"id": "task1289-916448dbab4442d8b96cebbbc5432960", "input": "What U.S. President showed a fondness for munching on bee pollen bars ?", "target": "Person"}
+{"id": "task1289-8574565c80a9447eba3abcd5a5e6a945", "input": "Whose biography by Maurice Zolotow is titled Shooting Star ?", "target": "Person"}
+{"id": "task1289-63556ebac3b24ba68d6e99979a7810e2", "input": "Who won the Nobel Peace Prize in 1991 ?", "target": "Person"}
+{"id": "task1289-5900bc7968f840b1b1d5fe19686e743f", "input": "What is the address for the main government office in Rome , Italy ?", "target": "Location"}
+{"id": "task1289-e11d7ca51dfe489784bad58598f8d9fa", "input": "Where can I find the status of my tax return ?", "target": "Location"}
+{"id": "task1289-d68618f47ec24f3b8d4575c6b1dacd0e", "input": "Who spoke the only word in Mel Brooks 's Silent Movie ?", "target": "Person"}
+{"id": "task1289-b5c1a942a44643f19f46c5a2cc108f00", "input": "How many people died when the Estonia sank in 1994 ?", "target": "Quantity"}
+{"id": "task1289-76021b132d9d4f52afed232aeaafdc2d", "input": "What poet wrote : `` ... I have promises to keep , and miles to go before I sleep '' ?", "target": "Person"}
+{"id": "task1289-3cefd39f15294da288ab3de39e6738e1", "input": "Who made the first airplane that could fly ?", "target": "Person"}
+{"id": "task1289-bed5646aa6fd42d088fb0f6c958db98f", "input": "Who was the first black woman to star in the Folies Bergeres ?", "target": "Person"}
+{"id": "task1289-241bca27ee4b48d3ac3e8ae2dca5261f", "input": "Who were the head writers for the Smothers Brothers Comedy Hour ?", "target": "Person"}
+{"id": "task1289-c81799789eed4e63bc34d4d2721e59b2", "input": "Who won the first World Series ?", "target": "Person"}
+{"id": "task1289-4a367ef92ce24b5ea8b3208bc123c632", "input": "Who invented the Moog Synthesizer ?", "target": "Person"}
+{"id": "task1289-c7f3f2cf89784d9693a80e9fad29a441", "input": "Who is the voice of Miss Piggy ?", "target": "Person"}
+{"id": "task1289-727d6698c00841b1bf0b99ed96938ffd", "input": "What U.S. state 's biggest lake is Lake Sam Rayburn ?", "target": "Location"}
+{"id": "task1289-e95f597ae7404ca88cee6ea2f9af877b", "input": "Who is Prince Naseem Hamed ?", "target": "Person"}
+{"id": "task1289-0953660a26f54729bbc95068679e87c6", "input": "How much did a knight 's armor weigh ?", "target": "Quantity"}
+{"id": "task1289-bc1535ce84484364bcc830245b6384b7", "input": "Who wrote the lyrics to Porgy and Bess ?", "target": "Person"}
+{"id": "task1289-961f95b77c414f34ba4bbc44051bb439", "input": "Who did Sara Jane Moore try to assassinate ?", "target": "Person"}
+{"id": "task1289-8cea248e254c4dec840a4d7b4e951f7e", "input": "What desert has the highest sand dunes ?", "target": "Location"}
+{"id": "task1289-b08d8e074b464bf1b0b353396e3e99f4", "input": "What future President became Senate majority whip under Harry Truman ?", "target": "Person"}
+{"id": "task1289-365574e246ed43949169a2d8205d7b4d", "input": "What spy novelist served as Moscow correspondent for Reuter and The Times of London ?", "target": "Person"}
+{"id": "task1289-a94507c749a64cbcb786d02e6493fe84", "input": "Who found Hawaii ?", "target": "Person"}
+{"id": "task1289-8a80d0b9a15f4031b6a6f75a9bbcdd8a", "input": "Who killed Gandhi ?", "target": "Person"}
+{"id": "task1289-ca107cecf8ce43819ae4015042692dbf", "input": "Who was the king who was forced to agree to the Magna Carta ?", "target": "Person"}
+{"id": "task1289-b95a79bb55074cafab44976364772c26", "input": "Who did Sonny Liston succeed as world heavyweight boxing champion ?", "target": "Person"}
+{"id": "task1289-ec6cc3a0c4c546548361096fcaba71e5", "input": "What city is often called The Insurance Capital of the World ?", "target": "Location"}
+{"id": "task1289-ee22e45a3c594e04ba20b163389fdc99", "input": "Who is Luke Skywalker 's father ?", "target": "Person"}
+{"id": "task1289-bc29033417764a9bacaade36f2ee2cf5", "input": "Who was the only president to serve two nonconsecutive terms ?", "target": "Person"}
+{"id": "task1289-1d56aa17ad614ce891279581bc79325c", "input": "Who was Bonnie Blue Butler 's father ?", "target": "Person"}
+{"id": "task1289-127613e819004b11a85c4a6fab117783", "input": "Who was the star of Leave It to Beaver ?", "target": "Person"}
+{"id": "task1289-a955c15198744a9a9509ccdfa6dce3e6", "input": "Who created Maudie Frickett ?", "target": "Person"}
+{"id": "task1289-fb466c60c065401fa4bf46a7f4e81e1c", "input": "How much salt is in the oceans ?", "target": "Quantity"}
+{"id": "task1289-ae339f2e3e5d4ec3bc82c9f11fc18abc", "input": "Who took over as conductor of the Boston Pops after Arthur Fiedler 's long reign ?", "target": "Person"}

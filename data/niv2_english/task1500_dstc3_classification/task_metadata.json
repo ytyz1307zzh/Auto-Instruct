@@ -1,0 +1,7 @@
+{
+    "summary": "Classification of Price Range in conversations in DSTC 3",
+    "category": "Dialogue State Tracking",
+    "domain": "Public Places, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

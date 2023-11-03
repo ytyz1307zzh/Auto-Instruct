@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying news into positive, neutral, and negative (based on financial_phrasebank)",
+    "category": "Sentiment Analysis",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

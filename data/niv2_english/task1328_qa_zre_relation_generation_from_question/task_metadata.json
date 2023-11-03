@@ -1,0 +1,7 @@
+{
+    "summary": "Classify relation between question and context (based on qa_zre dataset)",
+    "category": "Question Understanding",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

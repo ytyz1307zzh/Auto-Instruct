@@ -1,0 +1,1 @@
+Given a five sentence story, choose an appropriate title for the story from the given options.

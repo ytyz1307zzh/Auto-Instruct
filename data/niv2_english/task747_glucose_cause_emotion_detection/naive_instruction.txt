@@ -1,0 +1,1 @@
+Given a story and a selected sentence, find an emotion or human drive in the story that caused that sentence

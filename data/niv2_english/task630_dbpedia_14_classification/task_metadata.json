@@ -1,0 +1,7 @@
+{
+    "summary": "Verfying if the title of the text is correct(dbpedia_14 dataset)",
+    "category": "Text Matching",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

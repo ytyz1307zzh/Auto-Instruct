@@ -1,0 +1,7 @@
+{
+    "summary": "Given a passage and question, generate the best answer.",
+    "category": "Question Answering",
+    "domain": "Narrative -> Everyday Events",
+    "input_lang": "English",
+    "output_lang": "English"
+}

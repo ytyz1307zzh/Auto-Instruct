@@ -1,0 +1,3 @@
+{"id": "task1510-fd1066da2b3740fab9dba6c5ee330414", "input": "key is part of door", "target": "key PartOf door"}
+{"id": "task1510-f1e81405debb4ede8b4bda2b1115650f", "input": "device is a kind of design", "target": "device IsA design"}
+{"id": "task1510-31f82b00e17a49bbaabba6e69db4ae01", "input": "miss can be used as the opposite of see", "target": "miss Antonym see"}

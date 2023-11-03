@@ -1,0 +1,1 @@
+Given a debate topic and a sentence from the debate, classify the type of the sentence.

@@ -1,0 +1,3 @@
+{"id": "task1410-c63f3567fdf842dd964ba207ae1a4451", "input": "The Waterman is located in city centre with a 5 out of 5 rating and low prices.", "target": "[['The Waterman', 'priceRange', 'cheap'], ['The Waterman', 'customer rating', '5 out of 5'], ['The Waterman', 'area', 'city centre']]"}
+{"id": "task1410-0d1b4dccb3c346118b5a311073dc546e", "input": "Located in the city centre, The Rice Boat offers Japanese cuisine.", "target": "[['The Rice Boat', 'food', 'Japanese'], ['The Rice Boat', 'area', 'city centre']]"}
+{"id": "task1410-328caf754e464890a7768c3fb8c506b0", "input": "John rich directed the episode written by Sherwood Schwart.", "target": "[['the honeymoon', 'DIRECTED_BY', 'john rich'], ['the honeymoon', 'WRITTEN_BY', 'sherwood schwartz']]"}

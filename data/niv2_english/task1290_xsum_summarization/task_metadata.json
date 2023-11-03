@@ -1,0 +1,7 @@
+{
+    "summary": "Given an article, summarize it.",
+    "category": "Summarization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

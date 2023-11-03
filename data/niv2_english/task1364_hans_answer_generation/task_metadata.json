@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers (based on Hans)",
+    "category": "Sentence Composition",
+    "domain": "Reviews -> Movies, Movies",
+    "input_lang": "English",
+    "output_lang": "English"
+}

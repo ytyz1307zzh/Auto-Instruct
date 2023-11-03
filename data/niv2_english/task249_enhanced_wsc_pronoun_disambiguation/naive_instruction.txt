@@ -1,0 +1,1 @@
+Given a sentence and a pronoun, decide which one of the choices the pronoun is referring to.

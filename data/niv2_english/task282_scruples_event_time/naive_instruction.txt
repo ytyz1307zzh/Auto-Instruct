@@ -1,0 +1,1 @@
+Given an anecdote, find whether it has already happened or it may happen in the future.

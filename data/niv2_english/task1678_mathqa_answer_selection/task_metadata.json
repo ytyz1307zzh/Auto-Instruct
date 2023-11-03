@@ -1,0 +1,7 @@
+{
+    "summary": "Selecting answers to mathqa questions",
+    "category": "Question Answering",
+    "domain": "Mathematics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a sentence from the BC2GM dataset, return the list of tokens that mentions of genes or proteins.

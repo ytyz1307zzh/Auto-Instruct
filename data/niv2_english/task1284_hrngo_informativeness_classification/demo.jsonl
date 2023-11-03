@@ -1,0 +1,3 @@
+{"id": "task1284-a0e2de1f22b24243a3734c3f0f90baf4", "input": "System Reference: x is a contemporary english restaurant in x.\nOriginal Reference: x is a restaurant in x serving both english food and contemporary food.", "target": "1"}
+{"id": "task1284-399ab0a412c74a2f8a833d6aff0c0214", "input": "System Reference: may i ask near where?\nOriginal Reference: what sights would you like to be near?.", "target": "0"}
+{"id": "task1284-89de49071f5b4f1da8497a9a91504913", "input": "System Reference: x is a moderately priced indian food restaurant takeaway near x.\nOriginal Reference: x is a restaurant near x providing indian food, to eat in or take away, in the moderate pricerange. .", "target": "1"}

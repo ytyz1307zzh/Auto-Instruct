@@ -1,0 +1,7 @@
+{
+    "summary": "Given a statement context, complete the partial next sentence",
+    "category": "Text Completion",
+    "domain": "Captions -> Video Captions, Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

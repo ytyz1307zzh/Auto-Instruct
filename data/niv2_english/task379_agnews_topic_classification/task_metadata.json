@@ -1,0 +1,7 @@
+{
+    "summary": "Given a news article, classify the article's topic to four classes.",
+    "category": "Text Categorization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

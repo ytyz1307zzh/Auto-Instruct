@@ -1,0 +1,7 @@
+{
+    "summary": "Given text generate summary about the text",
+    "category": "Summarization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

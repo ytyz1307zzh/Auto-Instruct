@@ -1,0 +1,7 @@
+{
+    "summary": "Generating question using context passage from MRQA OOD dataset",
+    "category": "Question Generation",
+    "domain": "Wikipedia, News, Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

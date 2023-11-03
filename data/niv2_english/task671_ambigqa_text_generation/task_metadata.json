@@ -1,0 +1,7 @@
+{
+    "summary": "Given an ambiguous question, provide one clarifying question and answer for the generated question.",
+    "category": "Question Rewriting",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

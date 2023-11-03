@@ -1,0 +1,7 @@
+{
+    "summary": "You're given a review from Amazon and rating of the review, classify whether rating match the review.",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

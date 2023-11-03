@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers to xquad en questions",
+    "category": "Question Answering",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a hypothesis and an update, indentify whether the update strengthens or weakens the hypothesis.",
+    "category": "Textual Entailment",
+    "domain": "Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

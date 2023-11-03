@@ -1,0 +1,7 @@
+{
+    "summary": "Given a short sequence of actions, provide its natural language command.",
+    "category": "Code to Text",
+    "domain": "Computer Science -> Machine Learning",
+    "input_lang": "English",
+    "output_lang": "English"
+}

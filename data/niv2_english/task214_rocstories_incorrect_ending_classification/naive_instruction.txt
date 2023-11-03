@@ -1,0 +1,1 @@
+Given the title and the first four sentences of a five sentence story, choose the incorrect story ending.

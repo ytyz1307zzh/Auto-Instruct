@@ -1,0 +1,387 @@
+{"id": "task881-691c26b840c147f296a0d63d68268c8a", "input": "I want to buy bus tickets for four people. We are leaving from Fresno, CA at 9:15 am.", "target": "Buses"}
+{"id": "task881-0ba8671fe7734fff9394cd46c0d7da6e", "input": "I need to find a bus leaving from Vancouver for three people.", "target": "Buses"}
+{"id": "task881-aad6fcf04bc9470ca8a16659a63c5b63", "input": "I want to head to San Diego by bus at 6:45 in the evening, find me tickets please", "target": "Buses"}
+{"id": "task881-d676c734f16148e499c72cd4fbfcaec1", "input": "I'm going on a trip but don't know which bus to take, can you help me out? I'm leaving on the 9th.", "target": "Buses"}
+{"id": "task881-79eafa48b7864478a840a376549824eb", "input": "I am looking for bus tickets.", "target": "Buses"}
+{"id": "task881-466e9a27260e419bb96b6de538098864", "input": "Can you find a bus leaving from Sacramento, CA?", "target": "Buses"}
+{"id": "task881-cac6b0fb7ef44ffc8428faf51eb70573", "input": "Can you show some attractive Museum to visit?", "target": "Travel"}
+{"id": "task881-53b7e4c39c41427b912400aa8782c59d", "input": "I'm looking for attractions I can go to, something like a museum. And I want it to be kid friendly?", "target": "Travel"}
+{"id": "task881-8b191826f54c4dbb8025083af4c11ebf", "input": "I'm planning on going to Anaheim, CA - can you see if there's any economy bus tickets?", "target": "Buses"}
+{"id": "task881-fefa2f0a9eda4837af949bcdfe4d68e5", "input": "I want a bus!", "target": "Buses"}
+{"id": "task881-99dbd5057cd14484960172db92efff73", "input": "I am in need of a bus, so I want to book one. I want to arrive in Los Angeles, and I plan to leave on March 4th at 16:30.", "target": "Buses"}
+{"id": "task881-10db1f89600c4a22a2a722fffebe1a28", "input": "Can you help book a bus ticket for me?", "target": "Buses"}
+{"id": "task881-fd32b16e82424833a25b8ef79649206c", "input": "I need to buy a bus ticket, can you help please.", "target": "Buses"}
+{"id": "task881-4e301d15b2f44048bf4f57a3b9f3e5f0", "input": "I am in need of finding a bus, so can you help me find one? I will be leaving on 14th of March.", "target": "Buses"}
+{"id": "task881-381f2939ca2548f6a94984288a9f6eca", "input": "I want to go to new york city from washington on a bus", "target": "Buses"}
+{"id": "task881-de1ff0a5a52c416780f1dc17c078b395", "input": "Find me an attraction I can go visit.", "target": "Travel"}
+{"id": "task881-8810b422c0ab490c82f2caf4c78ebc05", "input": "I need a bus from Las Vegas.", "target": "Buses"}
+{"id": "task881-3a7a9e918da44bdda9b5eba8bcb4a40b", "input": "I'm planning on going on a trip soon. Can you help me look for a bus?", "target": "Buses"}
+{"id": "task881-fca36d6cdd4640e89065293581ca3259", "input": "I need to go visit some friends. Can you help me find a bus that leaves on Wednesday next week?", "target": "Buses"}
+{"id": "task881-e389e9aa9657417991d240ed0bef2792", "input": "I am looking ffor a economy extra bus ticket for 1 people leaving from sacramento, ca", "target": "Buses"}
+{"id": "task881-57897e895e2b4cba864401f539b234f7", "input": "I need to find bus transit for the 12th of March.", "target": "Buses"}
+{"id": "task881-95dbc675fd8647e48e820e62ee769143", "input": "I want to go for a short trip and I need a bus on 2nd of this month. Please search it for the leaving time six in the evening.", "target": "Buses"}
+{"id": "task881-95a99f4056d8475e81c7c0cc84680210", "input": "I need to reserve a seat on a bus. I will be leaving this evening 6.", "target": "Buses"}
+{"id": "task881-bdac8c9c796943e7a3469d7b1146b414", "input": "I want to buy bus tickets for March 13th.", "target": "Buses"}
+{"id": "task881-479d73e2cb694bf6958b428b64ce2371", "input": "I'm taking a bus trip with some family and I need some tickets. There's three of us departing from Fresno on the 11th.", "target": "Buses"}
+{"id": "task881-344389b2df3746dd821e7b4089e8c70d", "input": "I need a bus for three people departing Fresno.", "target": "Buses"}
+{"id": "task881-b35d54300e1843d4912ffa483106b006", "input": "I need a bus for one from Sacramento, CA on Monday, next week.", "target": "Buses"}
+{"id": "task881-2db65e7637fa44788984037aef28b8a9", "input": "Can you help me to find a bus?", "target": "Buses"}
+{"id": "task881-76d5547b829b4177955a9721bb3ae117", "input": "I'd like to reserve a bus.", "target": "Buses"}
+{"id": "task881-ad41ac45e1904520a21951edfb2fb1a5", "input": "I'd like some interesting london attractions", "target": "Travel"}
+{"id": "task881-0f773b892e264a6b88a742a5a98864fa", "input": "I need to reserve a bus for my trip.", "target": "Buses"}
+{"id": "task881-d8cb7149e73d48b0970ea24cfcef357d", "input": "I want to book a bus journey for three people.", "target": "Buses"}
+{"id": "task881-4f09ae1b39c6479abc352c59e75a9af4", "input": "Hello! I need to find a bus ticket.", "target": "Buses"}
+{"id": "task881-893d615b9bec48919ffe74e8209338ab", "input": "I need you to look for a bus for two people", "target": "Buses"}
+{"id": "task881-0f4ca7919c5548c49844e5528ad7f228", "input": "I want to get bus tickets.", "target": "Buses"}
+{"id": "task881-22c5346e148142939db54ed70cd5b468", "input": "I need to find a bus heading to New York City leaving on the 6th for 1 person", "target": "Buses"}
+{"id": "task881-9781235cee054726b8713ae1fb5b6ec9", "input": "I want bust tickets for 2 persons for the 5th.", "target": "Buses"}
+{"id": "task881-7ce6b4e44f1c49d589849e700adb9c1c", "input": "I would like to reserve the bus", "target": "Buses"}
+{"id": "task881-993d6371a6ee4e2ba8574e9a6a87a04f", "input": "I am looking for a bus", "target": "Buses"}
+{"id": "task881-52ea9f5dd4ec499f96cdabea781ec9cd", "input": "I plan on doing some traveling soon. Please help me find a bus.", "target": "Buses"}
+{"id": "task881-6a5c1ae467654ec38d3e3461cdd4ada6", "input": "I'm looking for a child-friendly attraction to visit", "target": "Travel"}
+{"id": "task881-6c27a236776a4bb2bf87a0d8647b45cf", "input": "I feel like going on a short trip. Can you help me book a bus ticket?", "target": "Buses"}
+{"id": "task881-b64864aa76864f2fb53354994573e36d", "input": "I would like to book a bus journey.", "target": "Buses"}
+{"id": "task881-3d18a28750b34e75aebbecf0711f4f9b", "input": "I'd like to make a bus reservation.", "target": "Buses"}
+{"id": "task881-70167fee4f4e474cbd0d0ca27216d5bb", "input": "Can you show me some attractions to visit in Paris? I'm looking for a Performing Arts Venue.", "target": "Travel"}
+{"id": "task881-f478b29942294b48962a8042f703a43f", "input": "Im going on a bus journey this Saturday leaving from Long Beach.", "target": "Buses"}
+{"id": "task881-08363a8272bc4dfbbc833c246209a992", "input": "Hey, can you help me find some bus tickets?", "target": "Buses"}
+{"id": "task881-2ce9ba18ed6c407ba8ec05d26490254d", "input": "I need to schedule a bus leaving from Washington on March 13th. Can you schedule that for me?", "target": "Buses"}
+{"id": "task881-11442e8191b44ae78f4d02e5fbcc7391", "input": "I'd like to reserve a bus leaving on the 5th of this month.", "target": "Buses"}
+{"id": "task881-894ac251f9d44086bbeb326d59e4b859", "input": "I want to find some attractions please.", "target": "Travel"}
+{"id": "task881-0a594bdac0294af083a7f409c25449d4", "input": "Can you help me get a bus?", "target": "Buses"}
+{"id": "task881-ea4823cc13414be29349f4d3c9cf8b2f", "input": "I need to get a bus ticket.", "target": "Buses"}
+{"id": "task881-89df34e49c344472bd92bda30d007216", "input": "My group of friends is planning to travel out of town by bus and would like help making reservations.", "target": "Buses"}
+{"id": "task881-45b5a51caeb149eca693cf6521958b3d", "input": "I need bus tickets from LA to Fresno, CA at 6:30 in the evening please.", "target": "Buses"}
+{"id": "task881-00a48327eae94730a9358f2b825492ff", "input": "I would like to check for a bus.", "target": "Buses"}
+{"id": "task881-546ae97b7b7149d085d3c62ce8d97c88", "input": "Can you reserve one bus ticket for me please? I plan to leave March 8th at one pm.", "target": "Buses"}
+{"id": "task881-8862f469d56244a48287b3f27e82e7b7", "input": "Can you find me a good attraction?", "target": "Travel"}
+{"id": "task881-6e176a8abe674882bbdb681cd5644cc9", "input": "Can you please help me look for a bus for today from Anaheim, CA to Sacramento?", "target": "Buses"}
+{"id": "task881-00c90e8412c54ccbb7a64fefe2ed1639", "input": "I need some bus tickets. I want to travel economy from San Diego on the 12th of this month.", "target": "Buses"}
+{"id": "task881-68b1e9b74d914e8fad95bdd8e5a23123", "input": "Pull up bus tickets. I will need flexible tickets for three people please.", "target": "Buses"}
+{"id": "task881-79365f4819a24d3f9116bfa464ae9163", "input": "Would you mind helping me find a bus?", "target": "Buses"}
+{"id": "task881-9e6dcc84c7cf4d66b6cc1b201fa80c11", "input": "Will you reserve a bus for three?", "target": "Buses"}
+{"id": "task881-3db524e5a91f4bbfb74818bad7f535cb", "input": "I am going to atlanta", "target": "Flights"}
+{"id": "task881-fcf58b613b1b47188c027452f2a1587e", "input": "Gee, it sure is boring around here. Can you find me something interesting in the area?", "target": "Travel"}
+{"id": "task881-30a9caf6239e4a21873ae418de3b3f75", "input": "Please reserve me a bus.", "target": "Buses"}
+{"id": "task881-5cd4f7f70bae42b29e77c076b2ea20fc", "input": "I would like to go see my parent's this weekend and will need a bus ticket to do so.", "target": "Buses"}
+{"id": "task881-db68d804ef9b4f5f8b3249168995d95d", "input": "I want to search for a bus from Sacramento, CA to Anaheim for which I need your help.", "target": "Buses"}
+{"id": "task881-f80583cf862d43c28d92e6cafb0ee629", "input": "Get me a bus please.", "target": "Buses"}
+{"id": "task881-51f25b1deec040ad9ac6adce85f74adf", "input": "I need a bus to Sacramento for 1 person.", "target": "Buses"}
+{"id": "task881-00cb8c39f1434d41b84d9ef1d24a8a3f", "input": "Can you search for Economy extra tickets in a bus from Philadelphia?", "target": "Buses"}
+{"id": "task881-ec697a975d26482d83333e2feccf1d47", "input": "I'm looking for bus tickets to Las Vegas.", "target": "Buses"}
+{"id": "task881-92b3e158a239447f835260b734586bbe", "input": "I will be meeting with some friends and we are looking for something to visit. Is there anything child-friendly around? Something like a garden.", "target": "Travel"}
+{"id": "task881-a344d28306cd4169a59197856f9a65d3", "input": "Hello! I wish to reserve tickets to go to Los Angeles on 13th of March, afternoon 1:30 in some good bus. Please can you find me some good one?", "target": "Buses"}
+{"id": "task881-a35c823c862c4446b41731f96e7391db", "input": "I'm in the mood to get out and about, can you help me find something to do?", "target": "Travel"}
+{"id": "task881-8e02c0e6224c45e7a1ac32249dbc10d4", "input": "Please help me find bus tickets, I need to visit a family friend.", "target": "Buses"}
+{"id": "task881-fa2a4f1bc47b4769bda58b57ef5cb6af", "input": "I'm planning to visit San Diego, and leave at 6:45 in the morning, can you find a bus journey I can take?", "target": "Buses"}
+{"id": "task881-5c43d7a493a344a2a97009d99d27e17c", "input": "I am searching for some bus tickets.", "target": "Buses"}
+{"id": "task881-02a1451d3b4442a68eaa1200d8bdcbc6", "input": "I need your help finding a bus for Sacramento, CA.", "target": "Buses"}
+{"id": "task881-2f16012e3aac4f30a67a5e04ae43d475", "input": "I want to have some good time, so tell me about some attractions which I can visit!", "target": "Travel"}
+{"id": "task881-8d4a0e36cfa14425a54ba5e814087d9f", "input": "Could you please help me in getting bus tickets?", "target": "Buses"}
+{"id": "task881-7495f9bc0a57414aa766279403cbaebe", "input": "I need to book a bus.", "target": "Buses"}
+{"id": "task881-0f773b1cf5ab43e28fb8cbd8f2783ea0", "input": "Get me a bus ticket?", "target": "Buses"}
+{"id": "task881-22908a2a8511473abb9e963a0bb85401", "input": "I'd like to buy a bus ticket from Philadelphia to NYC for March 12th.", "target": "Buses"}
+{"id": "task881-93c6d61dc9134c8f9df41451a6722928", "input": "I need to reserve a bus heading to SD.", "target": "Buses"}
+{"id": "task881-e5e30dbeb1e145d2ba5addf62844afa1", "input": "Is there a child-friendly attraction I can visit, anything will do really?", "target": "Travel"}
+{"id": "task881-510b439356384c7db7856e64a5135498", "input": "There is trip for me so that I have to leave at half past 7 in the evening. Shall I get a bus?", "target": "Buses"}
+{"id": "task881-04fc7e88ee4343ef995c7a35798e02af", "input": "Can you help me find 2 bus tickets for the 4th of March?", "target": "Buses"}
+{"id": "task881-8e2a83bacbec4d3ea4e91cadfe7ee497", "input": "Can you get me a bus from Las Vegas to LAX on March 14th?", "target": "Buses"}
+{"id": "task881-147d255bb636459784f945508a22fe1b", "input": "I'm in the mood to look up some stuff to do. What can you recommend?", "target": "Travel"}
+{"id": "task881-e08fe398f07a41edb2674350c77535bc", "input": "I need to search for a bus for which I need your help.", "target": "Buses"}
+{"id": "task881-6c65430304fe452db437ba4e0b6d394b", "input": "I need to find some bus tickets, please.", "target": "Buses"}
+{"id": "task881-57a29076394240fd80b3a73fe252f9e7", "input": "I need to find a bus to SD on Sunday this week.", "target": "Buses"}
+{"id": "task881-6ac34bef3d854642a25e54164d2f81fa", "input": "I need a bus to go for a short trip and I need your help to search for a convenient one.", "target": "Buses"}
+{"id": "task881-f583466277734bb2937be92155054f6a", "input": "I want a Flexible tickets for 1 people from SD. Can you help me search for a bus?", "target": "Buses"}
+{"id": "task881-c2eadb61b0d843a186d2b18267bb980b", "input": "Could you reserve bus tickets going from Fresno to Vegas?", "target": "Buses"}
+{"id": "task881-475c2d7c06ba4accb412a019e9ce1c9a", "input": "I need to catch a bus from Anaheim on the 6th of March. Can you tell me the bus times?", "target": "Buses"}
+{"id": "task881-7a8e3c18ffd34cc295f74d82a012842e", "input": "Will you find me a bus for 4 people leaving from Sacramento, CA?", "target": "Buses"}
+{"id": "task881-dbb19c89f3ed4678a221bc1c821b7bf2", "input": "Could you please show me some attractions.", "target": "Travel"}
+{"id": "task881-36a833728b024426b6f67758c7103de7", "input": "Can you find me a bus ticket", "target": "Buses"}
+{"id": "task881-bd97e6c99c3043228f8e44a8b585e644", "input": "I need 4 bus tickets from Washington for later today.", "target": "Buses"}
+{"id": "task881-bd1c5db20acb491b9036cc84e6637f22", "input": "I need to get some bus tickets, can you help me out?", "target": "Buses"}
+{"id": "task881-53d49b0ddcbc4d64bdb3fa79871a7c5a", "input": "Hi, Could you help me to find some attraction to visit?", "target": "Travel"}
+{"id": "task881-d8adf922b701472c930b30dd5e15dcc1", "input": "Hi! I'm looking to travel. Can you find a bus for me?", "target": "Buses"}
+{"id": "task881-94ed4fad3ec24075b0951ad33ec72e9d", "input": "I need to find a bus to Anaheim.", "target": "Buses"}
+{"id": "task881-a5a4aa25fc0346a1b4acb33c1cad884a", "input": "Can you help me get some flexible bus tickets? I need something that I can work with if my schedule changes - I'm leaving March 14th.", "target": "Buses"}
+{"id": "task881-e5e11cfa21e343fe92663104a891a90b", "input": "I need a bus to go from Sacramento, CA to SD. I want to leave on the 7th of this month.", "target": "Buses"}
+{"id": "task881-c3158d1f0ae243a2920d6ca25fd39b51", "input": "I need to take a bus from Fresno to San Diego on the 12th of March.", "target": "Buses"}
+{"id": "task881-a3cffde7cca44fbcadc618e6303474f5", "input": "Can you find me a cool attraction that I can take my little brother to?", "target": "Travel"}
+{"id": "task881-5c0bbb5b082e4e819cbb1868acd6a6f2", "input": "I want to go visit an attraction. Is there any Amusement park to visit?", "target": "Travel"}
+{"id": "task881-f266e45db39a4e4c91c6595ab316a97c", "input": "Im searching for bus tickets", "target": "Buses"}
+{"id": "task881-283af4702325409ab6fcecbf15eff055", "input": "I'm looking for some bus tickets leaving on the 1st.", "target": "Buses"}
+{"id": "task881-60f8eec382b54972b04c2e4be167ff10", "input": "Help me out with finding a bus.", "target": "Buses"}
+{"id": "task881-0aa0805e22e2423eb85f5f82a8db7232", "input": "Some friends and I are heading to Vegas for a vacation. Can you help me search for a bus for 4 to get there?", "target": "Buses"}
+{"id": "task881-c60f12728c0c4fda82cc6faca134a065", "input": "Can you help me find a bus in LAX? I'm leaving on the 11th to Anaheim, CA.", "target": "Buses"}
+{"id": "task881-0ef2e9a47bc04958b49d01a505c5a2b8", "input": "I would like to visit some tourist attractions in NYC.", "target": "Travel"}
+{"id": "task881-b32fd8ebb9284646951d8958ccca5364", "input": "I am looking for some attractions to visit with my mother.", "target": "Travel"}
+{"id": "task881-75db514a9db34492917ba5609340381b", "input": "Find me a bus from Anaheim please", "target": "Buses"}
+{"id": "task881-0d6d2f88705f4a9c8f612885c6c5fa9a", "input": "Can you find me a bus ticket? Going to Anaheim, CA. There are four of us.", "target": "Buses"}
+{"id": "task881-50189fc8e97044aa8d0813643341108a", "input": "Can you find some attractions for me? I prefer a garden.", "target": "Travel"}
+{"id": "task881-beba99fdfc224ef6b4a727f8b5423ba8", "input": "I'm looking for bus tickets for my trip.", "target": "Buses"}
+{"id": "task881-e99b49724f49493787ec65282cab2fb9", "input": "Can you get me bus tickets for the 6th of this month?", "target": "Buses"}
+{"id": "task881-9dbe4789b9d041e09ee57e1f49ff7bec", "input": "I would like to find bus ticket.", "target": "Buses"}
+{"id": "task881-6c64fe2f890640e59b94fdf935a43ba6", "input": "My grandchildren are visiting soon and I'd like to find somewhere child-friendly to take them. I was thinking a museum would be fun.", "target": "Travel"}
+{"id": "task881-d516aeba50604f9893067154bc881c5e", "input": "I want to do stuff in NYC.", "target": "Travel"}
+{"id": "task881-e4e7f7769b8d4f7fadd6b81fb1f54feb", "input": "I'm bored. Can you show me some attractions I can visit?", "target": "Travel"}
+{"id": "task881-54338033c366427f90a8b44abb4ea158", "input": "I'm looking for a bus, can you help me find one?", "target": "Buses"}
+{"id": "task881-8777fb6d714a4c1da40809d1cde48e31", "input": "I want to head to Fresno on a bus.", "target": "Buses"}
+{"id": "task881-d025bf0751f0482ca3345eb278f94a94", "input": "I'd like to visit some attraction", "target": "Travel"}
+{"id": "task881-c93d3d9a447e421d8a527259ede87161", "input": "Can you find me some events to go to? A museum in Washington D.C. would be good.", "target": "Travel"}
+{"id": "task881-8bab4e88194e4d79a6021c746f6b26a1", "input": "Can you show me a museum in San Francisco?", "target": "Travel"}
+{"id": "task881-4b29103c90924fa4ad176e15db0a762d", "input": "I fancy going out somewhere to see some attractions?", "target": "Travel"}
+{"id": "task881-c638f4f30a8a4a70b5455f930e564666", "input": "Hello! I'd like to find bus tickets, please.", "target": "Buses"}
+{"id": "task881-07b97eaa8ec449a9939dce22956752f1", "input": "I'm travelling and I'd like to see some of the attractions.", "target": "Travel"}
+{"id": "task881-305f4e56e6bb4233a488446c7c053a6f", "input": "I'm going traveling, can you help me find get some bus tickets?", "target": "Buses"}
+{"id": "task881-e43c7201aa0c44469bce9fb5724b2b76", "input": "I need help finding a bus for a trip I plan on taking on the 14th of March.", "target": "Buses"}
+{"id": "task881-a67094e8a9844b3ea04df8ac19b93127", "input": "There has been great weather recently, so I'd like to find something fun to see in NYC.", "target": "Travel"}
+{"id": "task881-b4a55da9802a46378905e3f6c8cdd92c", "input": "I'm meaning to travel. Can you get me some bus tickets?", "target": "Buses"}
+{"id": "task881-8593146f6f0f4038a9406f493cd4989b", "input": "Find me some attractions to visit in DC", "target": "Travel"}
+{"id": "task881-125b241ee7bd475bbd3d5cf87c0584c9", "input": "I want to search for a bus.", "target": "Buses"}
+{"id": "task881-7bd3539b47964832bc6445399fd11346", "input": "I am wanting to go have some fun. Can you help me find some attractions I could go to?", "target": "Travel"}
+{"id": "task881-ea46ffc181394026a10dd351c83e689e", "input": "Please find an interesting child-friendly attraction to visit? Is there any museum available?", "target": "Travel"}
+{"id": "task881-71f39f7412454c3cbe9f3e2bb1f5dca2", "input": "I need a bus departing from anaheim.", "target": "Buses"}
+{"id": "task881-0cf75560c58e472ab3da20ba1aadb3be", "input": "I want to find a good attraction please?", "target": "Travel"}
+{"id": "task881-3c5f92111c354b41887658289041f466", "input": "I am in need of booking a bus.", "target": "Buses"}
+{"id": "task881-425e0456f7074c1da8115c6d4aad9dbb", "input": "I will be traveling soon and I need to find a bus ride.", "target": "Buses"}
+{"id": "task881-fc458a2c15324a52933200be9f692b98", "input": "Help me find a bus please", "target": "Buses"}
+{"id": "task881-7df816010e5b48649da9e297fe3b0cba", "input": "I want to find a museum in NYC. It has to be child-friendly.", "target": "Travel"}
+{"id": "task881-531bac68f9e34599b320bbb16af91fe2", "input": "I am looking for bus tickets for my trip.", "target": "Buses"}
+{"id": "task881-bafc936acd374b4b8b77317cbad6c284", "input": "I need help looking for a bus departing from Fresno tomorrow.", "target": "Buses"}
+{"id": "task881-4cf19d7df9fb4ae2b8709998334cdf92", "input": "Can you look for a bus to Fresno, CA?", "target": "Buses"}
+{"id": "task881-12d0bcf98aec40b9be3be4fc54c2a081", "input": "I wish to book a ticket for 2 persons at 8 o\"clock in the morning.", "target": "Buses"}
+{"id": "task881-6f7c02f685404e0798c6805e305f1c77", "input": "Can you get me some economy class buss tickets? I'm going on the 1st and want a bus which leaves at 3:45 in the afternoon.", "target": "Buses"}
+{"id": "task881-dff8dfe298764870868a409e303fb8bc", "input": "Hello! I wish to have tickets in the bus that is departing from Long Beach at morning 8:45 and reaching SD.", "target": "Buses"}
+{"id": "task881-95bb31bca18f48bd8e34d0f8b85b3b9f", "input": "I'm looking for some child-friendly attractions.", "target": "Travel"}
+{"id": "task881-2a8c432e73c4488d89586a10995d739a", "input": "Can you help me find a bus for the 12th?", "target": "Buses"}
+{"id": "task881-81112ad5251b48ab9596866088bcc3bb", "input": "I want to search for some attractive places in Philadelphia. Can you help me to find some historical spot with free entrance to visit ?", "target": "Travel"}
+{"id": "task881-13c7744edc7c4a049a1f2743d64aa4de", "input": "I'm going on a trip with my best friend. Can you book Economy bus tickets for me?", "target": "Buses"}
+{"id": "task881-6b055e2e8ab54929b9f9dd4b8901b811", "input": "I am going to Seattle next with with a friend on Thursday next week. I need to find a bus for two people.", "target": "Buses"}
+{"id": "task881-99ecb6e2d4234285b4495b82b460452f", "input": "I would like to see some tourist attractions.", "target": "Travel"}
+{"id": "task881-2923abe388254107897a150a6b95a492", "input": "Hello, I'm looking for bus tickets to go on a trip.", "target": "Buses"}
+{"id": "task881-85df1bdabaaf4ca6bb3eb03359d01917", "input": "Find me some interesting Museum attractions.", "target": "Travel"}
+{"id": "task881-e90aeb97ffd84afeb00bfb4a711bde68", "input": "I am planning to leave form Vancouver, BC on the 9th. Could you help to find a bus?", "target": "Buses"}
+{"id": "task881-f2bd9fb56749477ba3e3f887e07c5877", "input": "I would like to have some good time, so I want to find some attractions to visit. More specifically I want an attraction to be free, and for it to be located in NY.", "target": "Travel"}
+{"id": "task881-928deb629eef443dbb47f93ff896ab75", "input": "Do you think you could locate a Museum I could visit?", "target": "Travel"}
+{"id": "task881-f677e61ffba642dda3df3b0aa9a66f41", "input": "I am interested in seeing some attractions.", "target": "Travel"}
+{"id": "task881-029d5409bcad4f579d21742e05d1311d", "input": "I really want to appreciate the history of Atlanta. Can you find a historical landmark there?", "target": "Travel"}
+{"id": "task881-1a657999946f401aa3188ced8f1adb29", "input": "Get me a bus reservation.", "target": "Buses"}
+{"id": "task881-95e07a0d31b84e18af146252f33d57ca", "input": "I need to get a bus to leave town.", "target": "Buses"}
+{"id": "task881-313b66ca050e4077bc1dca759863e278", "input": "Hi there, are there any nice attractions which I can visit?", "target": "Travel"}
+{"id": "task881-a8923e9f75cd43c9be1cc57d57edbff1", "input": "Can you please show me visiting attractions?", "target": "Travel"}
+{"id": "task881-4dcfe83c06894cb0a786eac79289b39b", "input": "I'm going to be leaving San Francisco for a quick trip pretty soon. Can you get me an economy ticket for two for a bus ride?", "target": "Buses"}
+{"id": "task881-073a8b28a27a43c586c6b4ed362e29cf", "input": "Please find me a bus that can accommodate two people and is leaving tomorrow.", "target": "Buses"}
+{"id": "task881-25d31257de5c40b1821ad9a062d8debe", "input": "My Aunt is coming to visit and I need help finding some kind of attraction to take her to while she is here.", "target": "Travel"}
+{"id": "task881-5b00bd6da39545c2a4458f81156368a8", "input": "Could you get me a seat on a bus?", "target": "Buses"}
+{"id": "task881-e052ab56c1e744a1a3c92ce56cb4887d", "input": "Can you show me some fun attractions?", "target": "Travel"}
+{"id": "task881-b6b6c52e32c0416eba36c3b0dfa49d30", "input": "I'd like to get bus tickets for two.", "target": "Buses"}
+{"id": "task881-02bb0c9cecd744f881961dc597bd40af", "input": "I'm planning to go in a group of 4 people to San Diego on Thursday next week. Can you help me find suitable options to get there by bus?", "target": "Buses"}
+{"id": "task881-37fbb9cef5cb4988ba98720a5865afcf", "input": "I'm looking for a bus. I want to get tickets for 4 people on something that leaves the day after tomorrow.", "target": "Buses"}
+{"id": "task881-31c6f11e04a945b1997866d456f25680", "input": "I want to get a bus for a trip leaving the 14th of March.", "target": "Buses"}
+{"id": "task881-ceb6f368c8d24d1f92f890c8ae98a0a2", "input": "Can you help me search for bus tickets for two?", "target": "Buses"}
+{"id": "task881-e772964fe4a44ef7ab852a13241956d1", "input": "Could you please help me finding a bus?", "target": "Buses"}
+{"id": "task881-6073012bd5774ef5bf8897f86bf77870", "input": "I want to find something to visit in here. Are there any good Theme Park?", "target": "Travel"}
+{"id": "task881-b9b37e9957d045149b61527d081c8984", "input": "Can you help me to search for a bus?", "target": "Buses"}
+{"id": "task881-9dc7de76342e4df5975a19ecfacf6909", "input": "I want to catch the bus leaving at 6 pm.", "target": "Buses"}
+{"id": "task881-185da504fa8d4e1ca6dcae372ed67f29", "input": "I have a plan for a short trip for which I need to search for a bus. Can you help me to find the one?", "target": "Buses"}
+{"id": "task881-762f99245fa24183a58eed08ad9e9f29", "input": "I would like to see some events with my children. So find me kid-friendly attractions to vist.", "target": "Travel"}
+{"id": "task881-78a6190227cd4e6bae4ef420ed86b51e", "input": "What is there to see in Chi-town? Any good Museum?", "target": "Travel"}
+{"id": "task881-70eca293b7da492084686a1550d1402f", "input": "I need to travel somewhere, so I need to book a bus. I will be leaving at 3:30 in the afternoon.", "target": "Buses"}
+{"id": "task881-ac3c1d4fe6444d9e810cec6fdc34a15b", "input": "Can you show me some attractions to visit in DC? I'd like something that is child-friendly and has no entry fee.", "target": "Travel"}
+{"id": "task881-ccc99dbf392942ef8e64e58f8cacfa1f", "input": "I need help finding some attractions to go see.", "target": "Travel"}
+{"id": "task881-a5b69059cbb44193a91560f2e1c55bf1", "input": "I have a plan for a short trip and for which I need to search for a bus. Can you search the one to Long Beach, CA?.", "target": "Buses"}
+{"id": "task881-f3f6bce858ad42ceb872ba888df62e19", "input": "School is finally out and I would like to find some attractions to visit.", "target": "Travel"}
+{"id": "task881-f59e3e4b7ed14a1fb88ce747a9805f9c", "input": "Hey, I need to go on a short trip. Can you help me book a bus ticket?", "target": "Buses"}
+{"id": "task881-e3e988eaa7a145e984871bf550af0282", "input": "I need to find a bus to Sacramento, CA", "target": "Buses"}
+{"id": "task881-154f761040e84364a7a767ff00351339", "input": "I'm visiting a new place and want to learn of an interesting natural spot I could visit.", "target": "Travel"}
+{"id": "task881-08c5a2083b1e4d65be2370978d497c85", "input": "I'll be in Paris for a bit. Tell me about some of the attractions to visit while I'm there. Something like a Performing Arts Venue will work.", "target": "Travel"}
+{"id": "task881-2a3f31103bca4554ad1934bb8ecebcff", "input": "I'm looking for some interesting attractions to visit, specifically a Museum. Can you help me find any?", "target": "Travel"}
+{"id": "task881-ddd7631dbca84b588412dedc6aa793d8", "input": "I need to find a seat on a bus.", "target": "Buses"}
+{"id": "task881-c3a1971ef71541f19d930e413753a3be", "input": "The weather is finally nice so can you help me find a garden attraction to go to in San Diego?", "target": "Travel"}
+{"id": "task881-eedf3d6023d348feb80bb5599f5ecbf2", "input": "I'll be in Malaysia with my son and would like to visit Place of Worship attractions that are child-friendly.", "target": "Travel"}
+{"id": "task881-c54bf6cef03c47b0b72f9cf4b28f49ce", "input": "I need some help, I want to visit a Museum without any entry fees, see what you can find please.", "target": "Travel"}
+{"id": "task881-dc6d8f1bdca84a559cd079a6ad9c32f5", "input": "I need to find a natural spot attraction.", "target": "Travel"}
+{"id": "task881-c67b092ca4364409a6321aee3c997f28", "input": "i'm looking for a bus that leaves thursday next week.", "target": "Buses"}
+{"id": "task881-fc06db68167a41028587748983b3b6da", "input": "Could you help me find a bus ticket for one? I'd like an economy extra ticket, and i leave on the 11th of march.", "target": "Buses"}
+{"id": "task881-40f358f150b94aba85b58c50f38d929d", "input": "I'm looking for attractions to see.", "target": "Travel"}
+{"id": "task881-aa81027d061246178e15ebeea518e624", "input": "Can you please find some attractions which are child friendly", "target": "Travel"}
+{"id": "task881-f8f6db4e35214276a228040729166c00", "input": "What attractions are available? I want to visit a Park.", "target": "Travel"}
+{"id": "task881-6a4bfac52f614384a2198863583ab71a", "input": "I need help finding a bus?", "target": "Buses"}
+{"id": "task881-c45cdab5f6864126b13c4d1379682555", "input": "Find me some attractive things to visit", "target": "Travel"}
+{"id": "task881-859ed50c330444bc8f4981c593ea58a4", "input": "Can you find me some attractions to visit. I want to go to a Performing Arts Venue in Toronto, Ontario that doesn't have an entry fee.", "target": "Travel"}
+{"id": "task881-dc4ed00e6e9b4c4bbd3cb15a1d43d205", "input": "I'm interested in finding a Museum with free entry.", "target": "Travel"}
+{"id": "task881-405c906f8d614c06a663b5480e5d1d1f", "input": "I'm looking for NY attractions.", "target": "Travel"}
+{"id": "task881-02107142648a456f9a5fc9199028ee0c", "input": "Can you help me to find some attractions that are free to the public?", "target": "Travel"}
+{"id": "task881-39882f3501b340778337f1fdf335e38e", "input": "Could you find some child friendly attractions for me to visit?", "target": "Travel"}
+{"id": "task881-ed803bab08c440b1a59ee829c9c51743", "input": "Can you find me some attractions I can visit?", "target": "Travel"}
+{"id": "task881-c3938a19fdf447e6a137e93899444f7a", "input": "I want to find some attractions which I can visit. I would like for the attraction to welcome children.", "target": "Travel"}
+{"id": "task881-d0c75cdc576b4393af1e19c8166c0d76", "input": "I'd like to visit an interesting place of worship for free.", "target": "Travel"}
+{"id": "task881-5eabc8432f664b0c9b512a720986a5d0", "input": "I want to find child friendly attractions.", "target": "Travel"}
+{"id": "task881-e8b3f1f6ece94c9bade88ab2117fc867", "input": "What are some local attractions?", "target": "Travel"}
+{"id": "task881-7871d5672f9a4e3886be4db2468397be", "input": "I would like to find some attractions in Washington.", "target": "Travel"}
+{"id": "task881-2180e4acb1904d5bbd29343616897d6d", "input": "Help me find some attractions to visit", "target": "Travel"}
+{"id": "task881-0238f557b3a849acaf088ebeadf102e6", "input": "Please help me find attractions without entry fee. I would like to try something new without spending that much.", "target": "Travel"}
+{"id": "task881-fc05c9ebd42c4bfcaaa82a1e352519cb", "input": "Find me some attractions to visit please.", "target": "Travel"}
+{"id": "task881-74f47c88c16a4cf5b583644cfbadbe86", "input": "Are there any attractions that might interest me?", "target": "Travel"}
+{"id": "task881-b7253bd7949444f4ab2a7410f3eb3a55", "input": "I want to find some good attractions please.", "target": "Travel"}
+{"id": "task881-f45341fc85f148d0b3d534863df6f4ff", "input": "can you show me some cool museum type places to visit in london, preferably free ones.", "target": "Travel"}
+{"id": "task881-504cadff9cc542baa11d10ea8b1f6941", "input": "I want to find some child friendly attractionin the District of Columbia.", "target": "Travel"}
+{"id": "task881-856bf07af4f943b985acce114aa22c7f", "input": "I need your help to find some attractions to see.", "target": "Travel"}
+{"id": "task881-6059f75138304199b52fa652be51b391", "input": "I want to find a bus to Long Beach. I like to prefer Economy extra class tickets on that bus and I need to book it on next Monday.", "target": "Buses"}
+{"id": "task881-d408c3695b4d43069c83c0d3443cc56a", "input": "Hi, could you help me search for some bus tickets please?", "target": "Buses"}
+{"id": "task881-35d185b57b6d47f7bc8fab463814cdd0", "input": "Can you find me some attractions for me to visit?", "target": "Travel"}
+{"id": "task881-77ba861af950428eb0e4bc8e43fcd231", "input": "I want to do something interesting so can you tell me about some attractions which I can visit?", "target": "Travel"}
+{"id": "task881-21cee504b4d5432cbe03133fe7339a15", "input": "Find some some free attractions to see.", "target": "Travel"}
+{"id": "task881-88e6b9f176a043c68e70c130802d866e", "input": "Hi there, could you help me search for a free child-friendly attractions which I can visit?", "target": "Travel"}
+{"id": "task881-49779da87d8d498e8c15081d0b1a4b84", "input": "I would like to book a movie online.", "target": "Media"}
+{"id": "task881-535bc1952d514ac8a93f210c4611c4bf", "input": "Any free child-friendly tourist traps in Toronto, Ontario?", "target": "Travel"}
+{"id": "task881-fdf06309c06a4916a8523dcb9c289c78", "input": "I wanna be back tuesday next week", "target": "Flights"}
+{"id": "task881-6b3a040bb53a4fe2a3bb14d04ba88785", "input": "Can you find me some attractions to visit in my spare time? I want to visit somewhere that's child-friendly, like a museum.", "target": "Travel"}
+{"id": "task881-b6a8b33431894cbe9070c2ac3fdfae9b", "input": "I would like to visit some attractions. Can you look for a Museum?", "target": "Travel"}
+{"id": "task881-2cdd3a6747534c61ae54a50736db48c2", "input": "Can you find me an attraction to visit please.", "target": "Travel"}
+{"id": "task881-31ec035e9c1548f0a6e9ea067f97740e", "input": "Help me please to find a bus.", "target": "Buses"}
+{"id": "task881-be3c35aa57f5487197fb18080f5f6f1b", "input": "Hi there, could you suggest some nice attractions which I can visit please?", "target": "Travel"}
+{"id": "task881-a1175b767d7b47bb81eb74184acd8f36", "input": "I would like to find some attractions to visit?", "target": "Travel"}
+{"id": "task881-39e4a5220c3c49b9a24720e7ac6e5b03", "input": "Can you show me attractions to visit and a mall?", "target": "Travel"}
+{"id": "task881-584460830788491fb7dad0e8a10240f6", "input": "I need to find child friendly museum to visit.", "target": "Travel"}
+{"id": "task881-e756087ae75d425a8c56693ef6d9b036", "input": "Hi, are there any nice attractions that I can visit?", "target": "Travel"}
+{"id": "task881-849ceafea3c14c368c13ceca6ad56c25", "input": "Could you tell me some attractions to go to?", "target": "Travel"}
+{"id": "task881-431db7dc1f35484cbfbeb929969022ac", "input": "Find me some attractions that kids would like that are free.", "target": "Travel"}
+{"id": "task881-9e393bdb512f45e089c7191a94e91ba3", "input": "I need to find some attractions to visit", "target": "Travel"}
+{"id": "task881-f1e49d422a494e9f90babae5980d4294", "input": "The weather has been wonderful recently, so can you find me some attractions to go and see whilst the sunshine lasts?", "target": "Travel"}
+{"id": "task881-b90a7a15f5034b45b681fa5dab45b504", "input": "I need to book bus tickets for my upcoming trip. Can you find me one that leaves around a quarter to 4 in the afternoon to Portland, OR?", "target": "Buses"}
+{"id": "task881-5fbbd3f684c44d4ea2632babff30a3b9", "input": "I would like to find a natural spot to visit please.", "target": "Travel"}
+{"id": "task881-9d672257dac84512905f4482abdedd38", "input": "I need bus tickets!", "target": "Buses"}
+{"id": "task881-19fc5417c74a4966955fe649d377a72c", "input": "I am looking for a bus from San Francisco to Vegas on Saturday this week.", "target": "Buses"}
+{"id": "task881-02237457efe44f3ba073a687eb42a916", "input": "Are there any nice attractions?", "target": "Travel"}
+{"id": "task881-570fb754fb674d2a922cef42adf127be", "input": "Could you tell me about several attractions to go to? I'm searching for a museum, preferably those in Mexico City that are child-friendly.", "target": "Travel"}
+{"id": "task881-59cc414c85924137a8bcc6a54631ebd2", "input": "Would you please show me some visiting attractions?", "target": "Travel"}
+{"id": "task881-19823e2081df41ec824279a1a7d7fcea", "input": "I would like to find attractions to visit with no entrance fee.", "target": "Travel"}
+{"id": "task881-12a0115777d641d0938df7f31a2ba6a2", "input": "I'm looking for an attraction I'd like to visit.", "target": "Travel"}
+{"id": "task881-2cd4da9c55d742e4aade21361e429cac", "input": "I'm going around town with the whole family. I want to see what child-friendly attractions are available in Chi-town. The specific type doesn't matter.", "target": "Travel"}
+{"id": "task881-9dc7896852654b7594a6cab94d660b1a", "input": "Could you show me some attractions in London? I'd like some without a fee.", "target": "Travel"}
+{"id": "task881-187343e8269242a1a410a2ada63db41c", "input": "I am looking for some good attractions please.", "target": "Travel"}
+{"id": "task881-f07051079fad4830a01a1f275f0f9838", "input": "I'd like to find some kid-friendly attractions to check out in SD.", "target": "Travel"}
+{"id": "task881-ae6ebdb47d6c4211a1c3a01adcec62d2", "input": "I've got a day off and want to find something fun to do. Can you look up some attractions I could visit?", "target": "Travel"}
+{"id": "task881-bb7f8eebf4144d3eb419d9ce1e742991", "input": "Can you show me a Museum to visit in London, UK?", "target": "Travel"}
+{"id": "task881-ccb8e69a68554417a8ad5fa800298d65", "input": "What are some attractions nearby? I want to see a shopping district. I don't want to have to pay to get in.", "target": "Travel"}
+{"id": "task881-2a78731e5a2c4fe38d47a04b291e3eb3", "input": "I need some help finding an attraction to visit, can you help?", "target": "Travel"}
+{"id": "task881-16baf378a6e14793b74078a62419dba9", "input": "Can you help me find fun attractions without fees in London, UK?", "target": "Travel"}
+{"id": "task881-d687c99d50c948d4896cd8211ca5b75b", "input": "Hi, could you help me search for a tourist attraction to visit?", "target": "Travel"}
+{"id": "task881-90a17464f39d4982b7cddcdf612bbd3f", "input": "Will you find attractions in Sydney, Australia?", "target": "Travel"}
+{"id": "task881-09b303902bba4eb8bd9165dc36b171fc", "input": "I am new in town. Help me find attractions to see in London.", "target": "Travel"}
+{"id": "task881-c86bd07c17da411f86c1aa9c63af3238", "input": "I want to find a child-friendly museum in Washington.", "target": "Travel"}
+{"id": "task881-f83d7ca6e7ec43f5a9ad104e1719d70f", "input": "Can you show some places of attractions to visit? i am interested to look for a park.", "target": "Travel"}
+{"id": "task881-78755bfce2084d509d5c1595c9096eed", "input": "I am trying to find an event or attraction to visit. Can you help me find one?", "target": "Travel"}
+{"id": "task881-375da41434bd4506a77570549adb637b", "input": "Find me some attractions to visit?", "target": "Travel"}
+{"id": "task881-a3c03625bf0f469abafde33d067a988b", "input": "Can you find me some attractions, perhaps a museum?", "target": "Travel"}
+{"id": "task881-e46fb59659f04cf2a8f59361da65005a", "input": "I need to find a garden to visit in Toronto, Canada.", "target": "Travel"}
+{"id": "task881-d875b0e6e2874d5fb7ea0191fc47e185", "input": "Find me some attractions in LAX.", "target": "Travel"}
+{"id": "task881-4f63b431c00f47908d5a1fe1eeabc4ac", "input": "Get me a bus to Vancouver, BC", "target": "Buses"}
+{"id": "task881-431a06ad190a461c98d50f3c5cc6e5e2", "input": "I'm looking for bus tickets leaving LAX at 17:45.", "target": "Buses"}
+{"id": "task881-53b2855e5b2e412e89cffcd95280cc76", "input": "Show me some attractions in New Delhi child-friendly.", "target": "Travel"}
+{"id": "task881-acadc39119e14a36a0bc28a027d5efe3", "input": "Can you find me somewhere interesting and child-friendly I can go to?", "target": "Travel"}
+{"id": "task881-6920665bd838401aac3c8f33bc84c66a", "input": "Can you search attractions, preferably a museum?", "target": "Travel"}
+{"id": "task881-0e957859674d4e64b22a6f2291929f9f", "input": "Hi, could you reserve a round trip to Phoenix, AZ please?", "target": "Flights"}
+{"id": "task881-059f4cfad399469da286b9816dd846c3", "input": "Can you search any child friendly place of interest?", "target": "Travel"}
+{"id": "task881-71e6b1611809487cb27fd51d999f433b", "input": "Can you tell me some attractions to visit?", "target": "Travel"}
+{"id": "task881-3b3585bad5e3494f8764793c2956bcbf", "input": "Find me attractions tot visit in LA", "target": "Travel"}
+{"id": "task881-cdba7c27fc7349108bfd0aa0a9a2f90a", "input": "Can you find some attractions to visit?", "target": "Travel"}
+{"id": "task881-1e99628283424fcb85cb393d4346f1fa", "input": "I want to know about some attractions I can visit?", "target": "Travel"}
+{"id": "task881-f50be32200df4447a9001f2ec594197b", "input": "Can you show me a few attractions to I can go visit?", "target": "Travel"}
+{"id": "task881-54f679e79b0b429ca1445522060ec170", "input": "Give me some suggestions for upcoming attractions.", "target": "Travel"}
+{"id": "task881-8a2440f76a17472c953b2def041829d5", "input": "I would like somewhere to go in Chicago that would interesting for my kids.", "target": "Travel"}
+{"id": "task881-cf72e0b8a83b4c79acd27c120e2096d9", "input": "I wish to see some attractions. I wish to see a Museum.", "target": "Travel"}
+{"id": "task881-f35b34758f27457b918439714505527c", "input": "Will you find child-friendly attractions?", "target": "Travel"}
+{"id": "task881-a642901fbb924dc5bf27adcf0ac9ac99", "input": "Can you let me know some attractions to visit?", "target": "Travel"}
+{"id": "task881-856fc232289c4d52ba3191b2db23c8c2", "input": "I am visiting Paris. Can you find a child-friend attraction in there?", "target": "Travel"}
+{"id": "task881-79cce51283fd4c9ca30663a90f592ed1", "input": "I want to find an attraction to go to please.", "target": "Travel"}
+{"id": "task881-09a60906f673461c9d16cd5fd21db1e7", "input": "I need some fun in my life. Find attractions that I can visit.", "target": "Travel"}
+{"id": "task881-cfb6304033094cac970d36c48e376985", "input": "Could you show me some attractions I might like to visit?", "target": "Travel"}
+{"id": "task881-9a6e02682842462db4ce95b05e9a8cde", "input": "I need a round trip planet ticket.", "target": "Flights"}
+{"id": "task881-21c63b68517b46d3812c07cce5d1cf77", "input": "Hey, I need to get out more. Find me some attractions to visit in Paris, a Historical Landmark.", "target": "Travel"}
+{"id": "task881-2e43aa775f6748759426c70522a45aee", "input": "Any good theme park in Toronto, Ontario?", "target": "Travel"}
+{"id": "task881-5f9182d148454113953bc29a87277857", "input": "Can you show some attractive places of visit?", "target": "Travel"}
+{"id": "task881-2127e89874e44d19960774d19bc9b5cb", "input": "I'm traveling with my family to Paris, France and I'd like to see some attractions. Can you help me find things that are kid-friendly?", "target": "Travel"}
+{"id": "task881-262b34414a2c46da96850f3bebba57a9", "input": "Find me attractions in LAX", "target": "Travel"}
+{"id": "task881-e2298187c66a42e1a8fea7532de8d19f", "input": "I would like to take some time off and visit some attractions", "target": "Travel"}
+{"id": "task881-aba3072b99174bc4892fac1ec331756e", "input": "Hi, i need a help, i am planning to go some where, Could you help me to find some attractions to visit?", "target": "Travel"}
+{"id": "task881-cae6b08fe0254b0c932510fbb1a241f9", "input": "show attractions to see", "target": "Travel"}
+{"id": "task881-24f924b747c04e4dbaeeedcf8dad6f88", "input": "Can you find me some attractions in London?", "target": "Travel"}
+{"id": "task881-b32fb65a834045d994675ab7b457ae93", "input": "I'm bored. Can you find somewhere interesting for me to go?", "target": "Travel"}
+{"id": "task881-f6f080162ce241d385b65666431deb6c", "input": "Can you find me some child-friendly atttractions to visit please.", "target": "Travel"}
+{"id": "task881-f4de804adbaa42c0b381fb291c967533", "input": "I'm looking for some cool places to visit. Can you find me any interesting attractions to go to?", "target": "Travel"}
+{"id": "task881-285d64d961ed41e4ad973f24d002bcb5", "input": "I need to find help finding attractions to visit", "target": "Travel"}
+{"id": "task881-c20751aa288542ba81fb3c3bae0f48dd", "input": "I am looking for a place of interest to visit.", "target": "Travel"}
+{"id": "task881-210f5fc401084633a1c5a27a5cac32e1", "input": "leaving 09:15 from portland, or", "target": "Flights"}
+{"id": "task881-8b804ede5e604890aa7011ae39b6dfe5", "input": "Could you search some attractions to visit. I am looking for a Amusement park with an entry fee and child friendly.", "target": "Travel"}
+{"id": "task881-5fc3c353189e4b9783ab37e7a3a6275d", "input": "I'm traveling overseas soon and I'd like to find some attractions to see.", "target": "Travel"}
+{"id": "task881-daa8c7fba61f4c5d80e368f6fc0f0acb", "input": "can you list some places to visit?", "target": "Travel"}
+{"id": "task881-f9170bc8604e4baf8cf83a63e93f64e2", "input": "I want to go somewhere. I want to visit something interesting, what is there around?", "target": "Travel"}
+{"id": "task881-a235ef3e09bc430ba96fdf83d4814fe9", "input": "I'm looking for some fun attractions in New York.", "target": "Travel"}
+{"id": "task881-1e7c4fcc50eb4c97ad22ac1306a8654c", "input": "can you show me some places to check out?", "target": "Travel"}
+{"id": "task881-096b1fe41266448fa70b5c324cc7bc46", "input": "My vacation is coming up and I want to plan my itinerary. Can you help me find some attractions or activities to do?", "target": "Travel"}
+{"id": "task881-4fc58dc36f4e401a9f054810d1db4ca2", "input": "There has been lovely weather recently and I'd like to plan a day out, can you help me search for fun places to visit?", "target": "Travel"}
+{"id": "task881-5a425566a7104ebfb8423379f8da7c5f", "input": "Hi, i need a help, i am interested to go some where, Could you show me some attractions to visit in Toronto.", "target": "Travel"}
+{"id": "task881-0e293e1e98834f6da8d07e080f8cc0ac", "input": "I need a pick me up. I want to watch a romantic movie.", "target": "Media"}
+{"id": "task881-267b8bce39f042678f46e82d15c04ddd", "input": "I want to find a historical landmark", "target": "Travel"}
+{"id": "task881-9284e40a8e434f3c96aac90ce01308ad", "input": "I would like tickets to los angeles.", "target": "Flights"}
+{"id": "task881-cf99cc7977df4b049a3b98b73b3a7537", "input": "I'll be traveling soon and I'm looking for some attractions to visit in London.", "target": "Travel"}
+{"id": "task881-f685cc9ed592432cba21fb1bf9720d28", "input": "Find me some interesting places to visit.", "target": "Travel"}
+{"id": "task881-38bddc458349471c8ece2a84f62b01c6", "input": "I need a luxury ride please.", "target": "RideSharing"}
+{"id": "task881-476c9c2feffc49f58c6520289ebf1272", "input": "I'll be taking a vacation soon and I'm looking for some attractions to check out.", "target": "Travel"}
+{"id": "task881-121842706ded464e86f14c9986aa1d65", "input": "Can you try to find some attractions for me to visit?", "target": "Travel"}
+{"id": "task881-968904179e4d477f9aeee7a1c673a12d", "input": "I need two tickets for a trip. Leavin the 4th of March and coming back the 9th.", "target": "Flights"}
+{"id": "task881-5090f37aca824e1f81838b6afbd5c701", "input": "I want to search for some attractive places to visit and I need your help to find the suitable one.", "target": "Travel"}
+{"id": "task881-76d4217c237e45eea00eade228cd268b", "input": "I am wanting to find somewhere to visit?", "target": "Travel"}
+{"id": "task881-a2363b76e984417faadfaaf564f27cf9", "input": "Hey! Please can you find some attractions in KL?", "target": "Travel"}
+{"id": "task881-fcdff4c1af274a6aaea99f80404197df", "input": "can you show me cool places to go?", "target": "Travel"}
+{"id": "task881-cb51004f869b4f89880d83ebf37d9b69", "input": "I want to find an attraction in Kuala Lumpur please.", "target": "Travel"}
+{"id": "task881-0eb19cf197a84f7eaf71ead85754a741", "input": "I have some time to spend useful and I need to visit some interesting places as well as attractive one and please search for a nice place in Phoenix, AZ for me.", "target": "Travel"}
+{"id": "task881-eeed2c5a626c42fdb80dd124d44036d9", "input": "Hello! Please can you suggest me some attractions to visit for I've a couple of days holidays this week?", "target": "Travel"}
+{"id": "task881-d7113ab024c64935acde4fe3ca7855f8", "input": "Can you find me some good attractions I can see?", "target": "Travel"}
+{"id": "task881-c8f8bbbb445b4c2996115826dce96556", "input": "I'd like to find some kid-friendly attractions to check out in New York City.", "target": "Travel"}
+{"id": "task881-0396ff5ab51c452599bec524b5f44538", "input": "Can you find me some attractions in Paris, France?", "target": "Travel"}
+{"id": "task881-a14a5e09ab104c0ba6fc8efe61a0183e", "input": "I would like to find some attractions to visit in Philadelphia.", "target": "Travel"}
+{"id": "task881-922ea7215a63488bbb95bc2776ed7178", "input": "Can you find me somewhere interesting to visit?", "target": "Travel"}
+{"id": "task881-93429a4bd35b4b6baa84566c4c4bf428", "input": "I'd like to see attractions to check out in Ciudad de Mexico.", "target": "Travel"}
+{"id": "task881-b9b71a33fc4049c993d553477a532aa2", "input": "I'd like a car for 2 people, please.", "target": "RideSharing"}
+{"id": "task881-247a706de2774dc79ebffbabac201942", "input": "Could you tell me several attractions to go to? I'm searching for a museum in London.", "target": "Travel"}
+{"id": "task881-5a7e596a280a45c0be6f0e3403716e9b", "input": "can you show me some cool places to go that are kid friendly?", "target": "Travel"}
+{"id": "task881-adbe1094be27401eb45c3b1b9b9df791", "input": "I need a round trip for my travel. I will be leaving Philadelphia and there are 3 of us in all.", "target": "Flights"}
+{"id": "task881-6a28f8fe38ad4eb4953c3de24ff906f5", "input": "Can you help me in finding some movies online?", "target": "Media"}
+{"id": "task881-b9c880a0ffea4cc5854445a04fcc84b6", "input": "I'd like to watch a movie via online services.", "target": "Media"}
+{"id": "task881-1195c270371d4539a212d71f01878767", "input": "I'd like to find some movies online to watch with a few friends at my place.", "target": "Media"}
+{"id": "task881-61205c0028a6417587daa841bfb2e164", "input": "I want to watch a movie online, maybe something in the fantasy category.", "target": "Media"}
+{"id": "task881-a03af57e578745ddafb1e803d1e6903e", "input": "I've been meaning to get more into drama movies, and I know Alfred Hitchcock is one of the best the genre has to offer. Can you show me one of his films?", "target": "Media"}
+{"id": "task881-ff51ec5fb67a4fe5afb9800dafe12f5f", "input": "Hi there, could you get me a luxury ride for 1 to 5720 Mowry School Road please?", "target": "RideSharing"}
+{"id": "task881-457fb73204e248d0b510544549e24aa4", "input": "I'm leaving NY soon/ Can you find a round trip for three people?", "target": "Flights"}
+{"id": "task881-84fed84820124a10a66e5af8d78a3e35", "input": "I'm traveling to Europe soon and I'd like to know some cool attractions to visit.", "target": "Travel"}
+{"id": "task881-0f559c5797714a96b78076eaa2d1d880", "input": "Can you look up round trip flights for me?", "target": "Flights"}
+{"id": "task881-bcd3f1b5179d42d6ab38020d7ed5d4fb", "input": "Hi, could you help me find some attractions to visit in London, England please?", "target": "Travel"}
+{"id": "task881-9b066ae7c0144a6597b6ed14170c9136", "input": "Can you find some movies online please?", "target": "Media"}
+{"id": "task881-bba0573582d547fda08fbd35064c6441", "input": "I want help finding Tina Gordon Comic movies online.", "target": "Media"}
+{"id": "task881-c2ef096fa9b14283b0292d00082e5ece", "input": "Find me a round trip flight.", "target": "Flights"}
+{"id": "task881-851cec3f054244d79e0bbe906415517b", "input": "I would like to get a cab for a Luxury ride", "target": "RideSharing"}
+{"id": "task881-5330004cb1714ca69cd7e598c288302d", "input": "Pull up Horror movies by Michael Chaves please.", "target": "Media"}
+{"id": "task881-bc4d3e9612f14afea2dd2eddddc7ea46", "input": "I have vacation coming up in March, and would like help finding attractions to visit.", "target": "Travel"}
+{"id": "task881-fd9084ee4824412fbe89a39c8994002e", "input": "I need your help buying tickets for a flight to LAX.", "target": "Flights"}
+{"id": "task881-78af364e825049ed978506f276dc2e6d", "input": "find attractions paris", "target": "Travel"}
+{"id": "task881-4ea07907c8c340bf89a279c7987d030b", "input": "I want to rest today at the same time I want to watch something can you suggest for me any movies?", "target": "Media"}
+{"id": "task881-203ee1d9b0814602aada33b1c9ce8d23", "input": "Could you look up round trip flights for my sake?", "target": "Flights"}
+{"id": "task881-8c10f2a511b64b65b013bb985fb4be55", "input": "can you call me a cab now?", "target": "RideSharing"}
+{"id": "task881-2f967dbd0bf54bdcbeb3c211c92f049a", "input": "Where is somewhere nice to visit?", "target": "Travel"}
+{"id": "task881-3e1ce680847f4d8d93a3f1107d180d29", "input": "I want to find some attractive places to visit and I need your help to find the suitable one for me.", "target": "Travel"}
+{"id": "task881-adf551a3e9364ad1b451126409a37f69", "input": "Please find a round trip flights for me.", "target": "Flights"}
+{"id": "task881-c445d111615342d98a2ff2fa6175db07", "input": "i am looking for some moveis online direct by max minghella", "target": "Media"}
+{"id": "task881-1ab68cc614b748129ba655996ffa61f3", "input": "Can you find me some movies on the internet?", "target": "Media"}
+{"id": "task881-7bb2821ad0cc4283804ad879dc4db8cb", "input": "I'd find some attractions to check out in Paris.", "target": "Travel"}
+{"id": "task881-edb50f382fc94deda1544a64f7327f17", "input": "I like to watch movies and now I am planning to search for the one in Drama Category. Can you help me.", "target": "Media"}
+{"id": "task881-3bb49f0631f84e0ca58a76910d266eeb", "input": "I'd like you to search round trip flights for me.", "target": "Flights"}
+{"id": "task881-8f9d42c9107e45beb6d6b26302cdbce0", "input": "I want a regular ride", "target": "RideSharing"}
+{"id": "task881-de012959c25c4714b6226504f2701075", "input": "I'd like to find some attractions to visit on an upcoming trip.", "target": "Travel"}
+{"id": "task881-ae19e88148bc4496a4423b306096f528", "input": "I feel like watching a movie right now. Can you find me something online? Something violent, like Alfred Hitchcock would be great.", "target": "Media"}
+{"id": "task881-f04b008bc3904735ba26fcdfde9b4e15", "input": "I want to look online for some movies.", "target": "Media"}
+{"id": "task881-ce966a0182fc4a4891b73a7b5641c3cd", "input": "Would you search round trip flights for me?", "target": "Flights"}
+{"id": "task881-cd11d3c3fe894e48aa106cc439559ee1", "input": "I need you to find me round trip flights.", "target": "Flights"}
+{"id": "task881-71509e190b0a4d5980033a77c91be8ad", "input": "Search round trip flights.", "target": "Flights"}
+{"id": "task881-6c31be66cdc349bc9ff62ae603ad6de2", "input": "I need some help searching for attractions to go check out.", "target": "Travel"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a short story, provide all the characters in that story.",
+    "category": "Information Extraction",
+    "domain": "Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

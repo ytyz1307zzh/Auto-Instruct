@@ -1,0 +1,1 @@
+Given a concept word, generate a hypernym for it

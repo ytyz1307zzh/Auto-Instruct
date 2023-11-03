@@ -1,0 +1,7 @@
+{
+    "summary": "Generating guestions (based on super_glue)",
+    "category": "Question Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

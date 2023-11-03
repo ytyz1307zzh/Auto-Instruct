@@ -1,0 +1,1 @@
+Given a sentence you have to return if it is acceptable or unacceptable.

@@ -1,0 +1,7 @@
+{
+    "summary": "Writing incorrect answers to a given question based on a given sentence.",
+    "category": "Wrong Candidate Generation",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

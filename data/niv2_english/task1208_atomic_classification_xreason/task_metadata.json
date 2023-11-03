@@ -1,0 +1,7 @@
+{
+    "summary": "Given a tuple, determine whether The Tail is the reason for the Head or not.",
+    "category": "Commonsense Classification",
+    "domain": "Sociology, Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

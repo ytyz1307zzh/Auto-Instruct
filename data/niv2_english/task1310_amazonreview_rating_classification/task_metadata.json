@@ -1,0 +1,7 @@
+{
+    "summary": "You're given a review from Amazon. Your task is to generate a rating for the product on a scale of 1-5 based on the review.",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

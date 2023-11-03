@@ -1,0 +1,1 @@
+Given a tuple, determine whether the Head can be characterized by being or having the Tail or not.

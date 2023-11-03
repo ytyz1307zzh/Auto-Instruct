@@ -1,0 +1,7 @@
+{
+    "summary": "Given a text containing an ambiguous pronoun and a pronoun, write an implausible answer to the question of what is the pronoun reference",
+    "category": "Wrong Candidate Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

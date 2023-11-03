@@ -1,0 +1,1 @@
+Given a dialogue and a highlighted number, choose the entity the number refers to from the text

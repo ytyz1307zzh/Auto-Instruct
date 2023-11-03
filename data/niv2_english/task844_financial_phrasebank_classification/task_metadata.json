@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying if (news, polarity) is valid or not (based on financial_phrasebank)",
+    "category": "Sentiment Analysis",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a country name, return the calling code of the given country",
+    "category": "Misc.",
+    "domain": "Countries",
+    "input_lang": "English",
+    "output_lang": "English"
+}

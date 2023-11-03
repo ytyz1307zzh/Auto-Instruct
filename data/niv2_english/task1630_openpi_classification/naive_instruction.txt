@@ -1,0 +1,1 @@
+Given a passage as input, print the output as the category to which the passage belongs

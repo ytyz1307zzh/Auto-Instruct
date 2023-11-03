@@ -1,0 +1,7 @@
+{
+    "summary": "Classify a given premise and hypothesis pair",
+    "category": "Textual Entailment",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

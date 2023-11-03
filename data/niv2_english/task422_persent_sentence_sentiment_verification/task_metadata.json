@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence, an entity and its sentiment towards the entity, verify if it is the correct sentiment towards the entity.",
+    "category": "Sentiment Analysis",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

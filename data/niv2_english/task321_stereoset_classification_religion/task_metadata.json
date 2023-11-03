@@ -1,0 +1,7 @@
+{
+    "summary": "Given a target pertaining to religion in the two sentences, determine if it is a stereotype.",
+    "category": "Stereotype Detection",
+    "domain": "Stereotypes",
+    "input_lang": "English",
+    "output_lang": "English"
+}

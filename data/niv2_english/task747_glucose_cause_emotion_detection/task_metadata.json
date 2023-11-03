@@ -1,0 +1,7 @@
+{
+    "summary": "Given a story and a selected sentence, find an emotion or human drive in the story that caused that sentence",
+    "category": "Information Extraction",
+    "domain": "Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

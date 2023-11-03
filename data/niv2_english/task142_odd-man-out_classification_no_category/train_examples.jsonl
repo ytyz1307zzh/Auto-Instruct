@@ -1,0 +1,307 @@
+{"id": "task142-cc5bc897c6b14e879355dcbe94f9d2f8", "input": "suspension, fine, calm, alert, relaxed", "target": "suspension"}
+{"id": "task142-0e1f2f2e218c4fd5bb10122b03fe123b", "input": "leap, bike, swim, bee, fly", "target": "bike"}
+{"id": "task142-98573b942e734b34a0d3f6b8509ed882", "input": "loyal, texture, fine, unprejudiced, fair", "target": "texture"}
+{"id": "task142-891e427ecd774a29abeb87590d65dcdb", "input": "well, detached, decent, fine, level", "target": "level"}
+{"id": "task142-533c761de1e2415c9da0b7dfa7153fff", "input": "bored, fingerpick, emotional supports, fret, nervous", "target": "fingerpick"}
+{"id": "task142-ced1da251447459a81fc82c1cb4a322a", "input": "emotional state, emotional, crying, fret, fingerpick", "target": "fingerpick"}
+{"id": "task142-0ce52158111b4ce9957992d0fd7c7238", "input": "comfortable, ok, hot, happy, fine", "target": "hot"}
+{"id": "task142-2fe08bb1813f4fa7bd24cc43e336f222", "input": "happy, substance, shop, tools, content", "target": "happy"}
+{"id": "task142-895166f773bc43498bb5a20d533fcb19", "input": "jail time, flyaway, fine, ticket, comfortable", "target": "comfortable"}
+{"id": "task142-7ee29f663ce8473da311c676657ff72a", "input": "cream, unlicensed, fudge, falsification, replace", "target": "cream"}
+{"id": "task142-f7460e802b264e7b9e4d74bfee7c7c8e", "input": "ostrich, davit, crane, steam roller, upraise", "target": "ostrich"}
+{"id": "task142-9e2f5397309644c692425e52184d1772", "input": "decent, honorable, unjust, raining, fair", "target": "raining"}
+{"id": "task142-74bd3fcf28d94d60aed6e4ab86c20eba", "input": "dog, hunting, hike, fish, swim", "target": "dog"}
+{"id": "task142-a050c62c44b14478aad29dd977bcd697", "input": "translucent fabric, metal, glass, coating, dish", "target": "dish"}
+{"id": "task142-add62f719ed347998e67b92441bf7010", "input": "pay, earth, ban, fire, replace", "target": "earth"}
+{"id": "task142-1a40a31db6114f53abcd3cdd41b6676b", "input": "close, right there, not open, adjacent, bordering", "target": "not open"}
+{"id": "task142-8d9cbd6388f4498cbd94951944391144", "input": "follow, woo, fawn, love, doe", "target": "doe"}
+{"id": "task142-5de2328a55fb49fdad1229104414dbdc", "input": "courage, cheese, weenie, frank, hot dog", "target": "courage"}
+{"id": "task142-1a5a4eb0f4a14fc6a069f622eeb66ff6", "input": "horse, mallet, duck, jog, geese", "target": "jog"}
+{"id": "task142-76d89ffde12d4644bc2efb55ffa9c4c2", "input": "scorching, cool, hot, popular, refreshing", "target": "popular"}
+{"id": "task142-9059b8c181da40478b9037638aaf9a37", "input": "finger, mile, kilometer, yard, foot", "target": "finger"}
+{"id": "task142-ff15822ed0254742a851ec4c66d5d891", "input": "hearing, fine, suspension, arrest, hot", "target": "hot"}
+{"id": "task142-8349ebe8926e4778bbd67994f7c2235e", "input": "deck, jab, caution, fight, pack", "target": "pack"}
+{"id": "task142-ae4b47a2c5ee49188b6ad0e296be848b", "input": "soar, dive, jump, leap, fly", "target": "soar"}
+{"id": "task142-220e18550c4b4edaa6050a41d03cea1e", "input": "apron, joker, cards, deck, draw", "target": "apron"}
+{"id": "task142-a7b29f7f1fb948d990a9693802fede85", "input": "general, popular, colonel, cadet, sargent", "target": "popular"}
+{"id": "task142-2e128f430c92428588861ce0089059cb", "input": "hamster, mice, fish, tiger, row", "target": "row"}
+{"id": "task142-0e03945697794e5996fbacd2bc394199", "input": "emotional upsets, loveful, unhappy, left, down", "target": "left"}
+{"id": "task142-fbb5b7a84d254ecabf5b0d0f62720030", "input": "ubiquitous, general, colonel, soldier, lieutenant", "target": "ubiquitous"}
+{"id": "task142-2555bbd901144980950e9716215cab36", "input": "slow, shut, close, beside, out of service", "target": "beside"}
+{"id": "task142-1d10cd2e3ee3407688e8e9b4b0174f25", "input": "brine, course, current, history, signal", "target": "history"}
+{"id": "task142-854539bc883c446eb21a70f78e179fec", "input": "errands, file, answer, image, type", "target": "image"}
+{"id": "task142-74e7385a14a443c59d5fab6b0f36bc35", "input": "rigged, corporation, firm, ceo, alignment", "target": "rigged"}
+{"id": "task142-a106f4533551445e9ba067b5523527ba", "input": "bulky, skinny, carbs, absorption, fat", "target": "carbs"}
+{"id": "task142-16c294012e7542cd83281c460cbce484", "input": "salt, fat, protein, sugar, bulky", "target": "bulky"}
+{"id": "task142-e3ea088756764ff28257b3b6852bcefd", "input": "fly, drive, beetle, spider, walk", "target": "drive"}
+{"id": "task142-732b88fe82f44e18bddb0ca5ec082f9a", "input": "exquisite, dull, detached, pretty, fine", "target": "detached"}
+{"id": "task142-1e50023f0e4d49e3ba11c5d3b4794f3f", "input": "deck, gunwale, jab, punch, glove", "target": "gunwale"}
+{"id": "task142-8c77e8b50c6b4c859369b496cd56efed", "input": "optimist, cool, level, warm, relaxed", "target": "warm"}
+{"id": "task142-12110b29a6eb433893c3ab2efbaa28ac", "input": "even, brisk, fair, pale, light", "target": "brisk"}
+{"id": "task142-377c12344f514638bada37261832666f", "input": "level, beautiful, fine, there, detached", "target": "detached"}
+{"id": "task142-5629e391594b4212982a01a250aa18c3", "input": "acceptable, mad, fine, comfortable, probation", "target": "probation"}
+{"id": "task142-7ec044380c764a6ba8c780883771f427", "input": "heron, tackle, hummingbird, crane, hoist", "target": "tackle"}
+{"id": "task142-07ee63c40c9d4cc880b300e0970ab73c", "input": "fair, unprejudiced, loyal, fine, light", "target": "light"}
+{"id": "task142-3e3213f967f44fb184ae6742f28761c4", "input": "just, windy, balanced, fine, fair", "target": "windy"}
+{"id": "task142-99ce4deb0cfc4b1d86b74b72fbbead31", "input": "fawn, follow, love, swoon, woods", "target": "woods"}
+{"id": "task142-6cc1872e641f4c6985552d922da51f3f", "input": "hot, unflappalbe, cool, popular, classy", "target": "hot"}
+{"id": "task142-78d63edd1df845c9b244a195d664aff9", "input": "cool, raining, cold, windy, fair", "target": "cool"}
+{"id": "task142-efac337cc4cf401fa9c52f3a7ae745ed", "input": "close, on top of, right there, open, near", "target": "open"}
+{"id": "task142-04e241e4cc2a47889a678c5fd913c822", "input": "detached, hearing, content, calm, fine", "target": "hearing"}
+{"id": "task142-fc0c6e883a004a2486e7057b57381a3c", "input": "sandpiper, derrick, hoist, crane, dump truck", "target": "dump truck"}
+{"id": "task142-d5e6b528cf5b4ce1b82d2ed9dc5c0a69", "input": "program, schedule appointments, type, file, prepare", "target": "program"}
+{"id": "task142-35fe95744eee414a9519d38a014e5b2f", "input": "metal, fork, woodwork, plastic, glass", "target": "fork"}
+{"id": "task142-9f1c1f466dfe4e14b5469ff1ed7321bd", "input": "gunwale, chips, queen, joker, deck", "target": "gunwale"}
+{"id": "task142-5b6885c76efe4be49fdccae8791c5399", "input": "deck, sail, lifeline, head, jab", "target": "jab"}
+{"id": "task142-eb29481e798c45c29402878f1324b832", "input": "let go, blaze, recruit, sack, fire", "target": "blaze"}
+{"id": "task142-38cbdbb9efbe4d2ea8910a445c867ea1", "input": "spend, dessert, dumpling, skin, fritter", "target": "spend"}
+{"id": "task142-445043459710460c955f7365587ce81d", "input": "texture, unprejudiced, well, trustworthy, fair", "target": "texture"}
+{"id": "task142-8b9bb87f502040aeb02ed8f69a98f235", "input": "remorseful, descending, emotional state, down, emotional upsets", "target": "descending"}
+{"id": "task142-bfff53a4af9943a1b444c61a865a4fba", "input": "unyielding, firm, leverage, streamline, ceo", "target": "unyielding"}
+{"id": "task142-10cccb7d55ab46e58cb4514009663793", "input": "dunker, misuse, cake, pastry, fritter", "target": "misuse"}
+{"id": "task142-bb363835f0094cc3a2a1b3a4ec9c0127", "input": "relaxed, icy, cool, unruffled, ethical", "target": "icy"}
+{"id": "task142-eee5844c56cd47858be8100d982b653b", "input": "content, shop, nervous, thing, service", "target": "nervous"}
+{"id": "task142-5b5ec96ece6b462f84948abba444c7bb", "input": "goodies, weenie, blunt, wiener, frank", "target": "blunt"}
+{"id": "task142-a5a21f3e70354ce6829fb8c305d45246", "input": "history, whirlpool, sea, current, water", "target": "history"}
+{"id": "task142-7050dd98799a439396cce7bf9fa77a9c", "input": "croquet, doughnut, whittle, blueberry, fritter", "target": "whittle"}
+{"id": "task142-6bb66ece868b4109a248ef631abcbfa4", "input": "fearful, content, thing, nervous, jealous", "target": "thing"}
+{"id": "task142-e1b36ad372aa4aa4ae9dee96306e88d8", "input": "grasshopper, fly, swim, dangle, jog", "target": "jog"}
+{"id": "task142-0438a18a2d2148e1abd5c2cd9a0324d5", "input": "down, emotional, up, emotionalities, miserable", "target": "up"}
+{"id": "task142-184531900cf945178b2ad03e0dac3597", "input": "caution, blind, deck, pack, chips", "target": "caution"}
+{"id": "task142-4c2dad1e2b1e48c5b39fa2716c050210", "input": "milky, stormy, sunny, raining, fair", "target": "milky"}
+{"id": "task142-2b9a06a131e84b32804601173495230e", "input": "file, schedule, organize, prepare, format", "target": "format"}
+{"id": "task142-53a76b967ae247b7ba50e2d966aa9b1b", "input": "ok, fair, unprejudiced, just, endure", "target": "endure"}
+{"id": "task142-75a7dd5c8da54ee49c06cba0e25741de", "input": "hearts, sail, fold, deck, board", "target": "sail"}
+{"id": "task142-33236877371a4c7597c827cf042debb7", "input": "frank, grub, weenie, stern, sausage", "target": "stern"}
+{"id": "task142-bb6cde5d07394f08ba38cb25af1e4c60", "input": "downward, unhappy, down, shameful, disgusted", "target": "downward"}
+{"id": "task142-a572978561f24ed7b7605c9e218ef3bb", "input": "remorseful, south, descending, downward, down", "target": "remorseful"}
+{"id": "task142-bb56fc84a02d45318f34889582e6f2b1", "input": "brisk, loyal, decent, fair, honorable", "target": "brisk"}
+{"id": "task142-1855682cc1cf4ddcbdd4e2e338ce9450", "input": "bike, fish, jump, eagle, fly", "target": "bike"}
+{"id": "task142-88f87d53e36c44508d1baeec701a8ee4", "input": "ring, deck, gunwale, apron, level", "target": "gunwale"}
+{"id": "task142-ef620af50cf34334a2192e4918b0355f", "input": "deck, gunwale, chips, hearts, queen", "target": "gunwale"}
+{"id": "task142-e41ed9743ad6401f8221b77415ec1414", "input": "box, deck, blind, cards, board", "target": "box"}
+{"id": "task142-9b0467f949214ddfa30a1300ac19392b", "input": "cool, calm, warm, persistent, level", "target": "warm"}
+{"id": "task142-7ac059a913c7418d88716fe98b08bca4", "input": "climbing, trap, fish, dog, canyoning", "target": "dog"}
+{"id": "task142-389f3a75cbd64bebb5aaac4b38535ea2", "input": "unhappy, opposite of up, lower, down, sliding", "target": "unhappy"}
+{"id": "task142-3352e59f6db0402ea42f6ec585a8bdb6", "input": "current, whirlpool, dastards, detests, history", "target": "whirlpool"}
+{"id": "task142-4c5f4ec5564b4002bf9f1f0b14fd39e6", "input": "current, drink, timely, detests, up to the moment", "target": "drink"}
+{"id": "task142-953c1041c4c5475e9e2c78ff38c52387", "input": "relaxed, mad, fine, suspension, detached", "target": "suspension"}
+{"id": "task142-fb33cca44cf644179444f9642bbadbd5", "input": "down, kind, forward, south, ground", "target": "kind"}
+{"id": "task142-474a1a4e7738413091f0abe96a640519", "input": "lettuce, community, burger, club, hoagie", "target": "community"}
+{"id": "task142-96c7dcff48e74728824b9cd28abfe457", "input": "dishonest, fair, unjust, alright, cold", "target": "cold"}
+{"id": "task142-36195da4fd5b45d7af41be78ceffbd75", "input": "fair, deal, well, light, color", "target": "deal"}
+{"id": "task142-32f16981e9db4cf0961a1ab9c32ea35b", "input": "fret, strap lock, crying, anxious, emotionalities", "target": "strap lock"}
+{"id": "task142-3d8883a33a7b4a87906b88d3582dd715", "input": "lifeline, canvas, corner, ring, deck", "target": "lifeline"}
+{"id": "task142-862236dee47a4d32993f7e5d06d44c1b", "input": "money, hearing, penalty, annoyed, fine", "target": "annoyed"}
+{"id": "task142-b658180e52474c0d87bc6897b56782c6", "input": "level, hot, positive, ethical, cool", "target": "hot"}
+{"id": "task142-97f9f2df43de49a79677953a777be7b3", "input": "climb, exercise, fall, autumn, plummet", "target": "autumn"}
+{"id": "task142-01556b0a319e4412b9da5f96079ec8ac", "input": "main, drink, flow, late, current", "target": "late"}
+{"id": "task142-ce4a145a82504961a13f3cbbf7766fc6", "input": "disgusted, below, down, ashamed, melancholy", "target": "below"}
+{"id": "task142-5e1ffd2650d64fe1bf93fe9940d6af31", "input": "lifeline, blind, deck, joker, cards", "target": "lifeline"}
+{"id": "task142-38c85a2b44ba4ad49442bdb7ab67ee30", "input": "lettuce, community, outing, club, clan", "target": "lettuce"}
+{"id": "task142-f3df6a1b4bcf470fba3e0d3760f85980", "input": "activity, content, fearful, shop, substance", "target": "fearful"}
+{"id": "task142-aa008340e52d4d6993b2d877324b72d8", "input": "upraise, pelican, crane, derrick, neck", "target": "upraise"}
+{"id": "task142-be39f2ddaddd4e34963cae9dba0318d5", "input": "ice, instruct, hire, scold, fire", "target": "ice"}
+{"id": "task142-4963becbb2034797b7b9a6af454af5cc", "input": "fall, bend, plunge, exercise, hiems", "target": "hiems"}
+{"id": "task142-48d620c35e5e41e9ab4b453afa54b4cb", "input": "decent, flaxen, level, cool, fair", "target": "decent"}
+{"id": "task142-c997b7e61f19400b84027968f1586d1b", "input": "hunt, fish, dolphin, trap, camp", "target": "dolphin"}
+{"id": "task142-05720624f21e498da4d07ca42c288dbf", "input": "flamingo, dump truck, derrick, duck, crane", "target": "dump truck"}
+{"id": "task142-9deb48efc48c46d4ae6c5149e49bc150", "input": "arrest, alert, fine, alright, calm", "target": "arrest"}
+{"id": "task142-d02ba5667ada4de88c78a832052e5179", "input": "box, crew, galley, deck, bridge", "target": "box"}
+{"id": "task142-9cae86707d7b4e70a954df8941f6b0dc", "input": "crane, neck, concrete pourer, sandpiper, hoist", "target": "concrete pourer"}
+{"id": "task142-a17072b81752493e81cddbc8a5652e1f", "input": "well, clime, milky, fair, size", "target": "clime"}
+{"id": "task142-08f6fda79acd4a81ae882c6e0fe40e93", "input": "milky, warm, color, flaxen, fair", "target": "warm"}
+{"id": "task142-dffcf4ef2d1c4c66b37ead48c7546ed1", "input": "let go, empower, fire, remove, flame", "target": "flame"}
+{"id": "task142-ee14d56f4abc47bc87a8307959a770e9", "input": "bold, bun, pork, frank, provision", "target": "bold"}
+{"id": "task142-ce6ec0b8302945f4aa55e4af78d87411", "input": "team, hamburger, bacon, club, roll", "target": "team"}
+{"id": "task142-23e4e77b80c84f2a8bb15d7b660967b3", "input": "down, shameful, lower, emotional state, miserable", "target": "lower"}
+{"id": "task142-059beacc22ff4a05b3a3a2a01342c99c", "input": "concerted, unbending, taut, firm, rigged", "target": "concerted"}
+{"id": "task142-afb0f9370bb34d31b17056fa1227a160", "input": "cup, plate, glass, colander, panel", "target": "panel"}
+{"id": "task142-b2c6d4499efb463c92a6cfca25beff42", "input": "fly, beetle, car, run, jump", "target": "car"}
+{"id": "task142-4fa9eb4ceb9e4ab384dcd6c58b4d4e2c", "input": "fine, calm, annoyed, ok, suspension", "target": "suspension"}
+{"id": "task142-ab0d2d2722e44b7db8034459387df943", "input": "knive, glass, frame, vinyl, translucent fabric", "target": "knive"}
+{"id": "task142-3420390f79554234a3c343d1a1a657cb", "input": "crane, neck, excavator, tackle, egret", "target": "excavator"}
+{"id": "task142-01f35b19f6b24887aa0455644314d9be", "input": "house, flat, plain, level, studio", "target": "plain"}
+{"id": "task142-450dca43ff76418ca622ad649579c2b4", "input": "dumpling, whittle, dunker, blueberry, fritter", "target": "whittle"}
+{"id": "task142-a8205925365845f7904e267115fed1d9", "input": "fudge, smear, cupcake, cream, rich", "target": "smear"}
+{"id": "task142-e12303056946448eba6c42f0ea099671", "input": "light, fair, impartial, flaxen, medium", "target": "impartial"}
+{"id": "task142-ac94191889724892b540fc321adede0e", "input": "strap lock, angry, concerned, fret, emotional supports", "target": "strap lock"}
+{"id": "task142-ea776d321eff42efa6a68d392bf37d12", "input": "mountain, duplex, flat, smooth, plane", "target": "duplex"}
+{"id": "task142-c55fdf651a1e40498bebe0749399ade6", "input": "burn, combustion, sack, cool, fire", "target": "sack"}
+{"id": "task142-541c4fa48b174cd88de1ec2051a6be4b", "input": "swan, crouch, hike, duck, squat", "target": "swan"}
+{"id": "task142-861dd063783a4bd98026bbfecd6ab892", "input": "keys, program, schedule, file, download", "target": "schedule"}
+{"id": "task142-ee05b54a72364b5a8e94b5484e6d2c93", "input": "forward, opposite of up, unhappy, downward, down", "target": "unhappy"}
+{"id": "task142-3f928d6363d649c49014d8707243ecea", "input": "sugars, calories, chunky, fat, heavy", "target": "chunky"}
+{"id": "task142-98402790d0fc4b1e9a037d94dda2e418", "input": "content, disappointed, specialty, shop, books", "target": "disappointed"}
+{"id": "task142-837b3dc59c434ef9b7b171cdf083ebd2", "input": "detached, well, relaxed, there, fine", "target": "there"}
+{"id": "task142-7b97109eba3a4e4c86884dc64d14ad75", "input": "burn, fire, sack, water, blaze", "target": "sack"}
+{"id": "task142-b53aaa3168dc42fd963bde56b0a7854e", "input": "doorstep, group, club, roll, open-faced", "target": "group"}
+{"id": "task142-e352c93411e242128ca5c53a471e0e80", "input": "schedule, errands, file, schedule appointments, hardware", "target": "hardware"}
+{"id": "task142-529042361ce84762839acc942c86c903", "input": "fawn, antling, lust, suppressed, love", "target": "antling"}
+{"id": "task142-d29b946bcba44c4f915bb2f0b17a39a4", "input": "dishonest, impartial, luke, fine, fair", "target": "luke"}
+{"id": "task142-9815eb2888174b64a0732ca6187e07f7", "input": "endure, brisk, trustworthy, warm, fair", "target": "trustworthy"}
+{"id": "task142-a03a12a3a5a94cb7a8e51b3c85a12c60", "input": "duck, mallet, sheep, sprint, swan", "target": "sprint"}
+{"id": "task142-ce2a3be147af4061a2d0356867db0b10", "input": "general, fighter, normal, major, lieutenant", "target": "normal"}
+{"id": "task142-e1dfb913f2044e19ac99a3fbbcf0d4f7", "input": "classy, popular, mild, cool, funny", "target": "mild"}
+{"id": "task142-b369e16e54034e3890358233e3fe0258", "input": "texture, fair, tone, light, honorable", "target": "honorable"}
+{"id": "task142-5a4d32bcec0041ebb1652565d3d7e7ee", "input": "emotional, fret, bored, frustrated, headstock", "target": "headstock"}
+{"id": "task142-c53236a78f244582b115f57e5343dec1", "input": "ok, mad, fine, bright, annoyed", "target": "bright"}
+{"id": "task142-9c16c5d5691842fc880e2c34805c0f7d", "input": "fish, iguana, canyoning, hamster, horse", "target": "canyoning"}
+{"id": "task142-a9ece24c279e453f913eed61b1c5bb40", "input": "fish, mice, sea turtle, shark, swim", "target": "swim"}
+{"id": "task142-d40d8e87de3640bd85b0a941dcb2b3cd", "input": "impartial, windy, equitable, fair, loyal", "target": "windy"}
+{"id": "task142-e447894b66e24d09b463c6d9a2e9b6e2", "input": "cold, plummet, fall, roll, plunge", "target": "cold"}
+{"id": "task142-1d8613106d524b35befcad432e7bad3d", "input": "unprejudiced, brisk, fair, mild, windy", "target": "unprejudiced"}
+{"id": "task142-d871c557d7e54625866de7c9604353e3", "input": "positive, calm, classy, cool, scorching", "target": "scorching"}
+{"id": "task142-866cfb6023034f41abcf875a9532fbd6", "input": "medium, decent, fair, light, variety", "target": "decent"}
+{"id": "task142-ffb83706f04740a09d98a4322caf5522", "input": "down, flat, miserable, right, below", "target": "miserable"}
+{"id": "task142-6fd4a350a43042a3b49c6137ecd8eff5", "input": "blunt, entree, frank, wienerwurst, bun", "target": "blunt"}
+{"id": "task142-eeb80effe4174e2eac17ec15419b918b", "input": "colt, fawn, swoon, suppressed, social", "target": "colt"}
+{"id": "task142-e5d9d79d53ec419ea082f5fe1e547d97", "input": "deck, apron, bow, sail, galley", "target": "apron"}
+{"id": "task142-b53f602016ee4e39a66172352d7d22b7", "input": "drive, wave, swim, fly, bee", "target": "bee"}
+{"id": "task142-ae58077ae4fb49009e6a0e0a03bf5322", "input": "train, bee, pounce, fly, waggle", "target": "train"}
+{"id": "task142-d08cba2548644353b7a055f2e9fcf366", "input": "level, deck, gunwale, galley, rudder", "target": "level"}
+{"id": "task142-fb988a3ab04b465989bd60a876503bee", "input": "call, board, pack, canvas, deck", "target": "canvas"}
+{"id": "task142-f63ef75041e04d33a6636a54eb1eb0e4", "input": "fish, dog, goat, kayak, bat", "target": "kayak"}
+{"id": "task142-db4c844bc51140069c1822633742a779", "input": "detests, course, moon, brine, current", "target": "detests"}
+{"id": "task142-ab956c48c6984c8d899ab2741153d8f2", "input": "knockout, rudder, head, deck, stern", "target": "knockout"}
+{"id": "task142-8ca8239c102f4b20a3667cc4bacdf81b", "input": "deck, caution, call, draw, pack", "target": "caution"}
+{"id": "task142-cdbf02f114f74524b7e0e3edef5838ab", "input": "mad, level, fine, hot, exquisite", "target": "mad"}
+{"id": "task142-a5648b086bf34384bbddda744dc60e74", "input": "pork, weenie, goodies, honest, frank", "target": "honest"}
+{"id": "task142-e5c017c7d5934a318be45974ed64c61b", "input": "fret, nervous, board, fingerpick, jack", "target": "nervous"}
+{"id": "task142-edbca4311e284196ba1c7acc29c85ae0", "input": "emotional state, up, down, remorseful, ashamed", "target": "up"}
+{"id": "task142-a8cfb21c6bf7416996195afa6c92f5f5", "input": "falsification, fudge, fix, pie, smuggled", "target": "pie"}
+{"id": "task142-37cee11a86c04202bd0d32f98aa48c6e", "input": "panel, coating, spatula, plastic, glass", "target": "spatula"}
+{"id": "task142-39d047597e6b415aa80158f6ef9ca0f8", "input": "emotionalities, kind, emotional supports, backward, down", "target": "backward"}
+{"id": "task142-64fa984e683948fb9ff6caf868c38fe3", "input": "fair, unjust, fine, make the grade, equitable", "target": "make the grade"}
+{"id": "task142-2a7f5899918e4233b50cb8536fbdabe2", "input": "nervous, fret, emotional upsets, frustrated, strap lock", "target": "strap lock"}
+{"id": "task142-df3ca3fa960b4901afcdb826d316617d", "input": "knockout, corner, ring, deck, pack", "target": "pack"}
+{"id": "task142-21ceb1537b844b49b65cdc171f65df24", "input": "sack, inferno, promote, empower, fire", "target": "inferno"}
+{"id": "task142-41c7b17f5a25408cb1d99e8b886a8c05", "input": "canoe, fish, camp, climbing, stingray", "target": "stingray"}
+{"id": "task142-7822b71650324ffba49678df0ae3ab1d", "input": "banned, replace, smear, chocolate cake, fudge", "target": "chocolate cake"}
+{"id": "task142-9c5c96e48daa4171b3d71ceee64745f7", "input": "fair, make the grade, trustworthy, alright, just", "target": "make the grade"}
+{"id": "task142-0ff34f5b0c084010b20bf6951b200289", "input": "fret, headstock, fingerpick, jack, nervous", "target": "nervous"}
+{"id": "task142-b855e0c37f21405c96cf1c5180c8e207", "input": "wrestle, mice, cat, sea turtle, fish", "target": "wrestle"}
+{"id": "task142-e57e60aec7f240b18961ac2d5ee48c93", "input": "honorable, fair, just, well, mild", "target": "mild"}
+{"id": "task142-385024b4648c40b8b2119d80c9faad51", "input": "upraise, swift, goose, parrot, crane", "target": "upraise"}
+{"id": "task142-41b84b41191d47aeb065c165e5f6092c", "input": "corporation, leverage, firm, amalgamated, unyielding", "target": "unyielding"}
+{"id": "task142-ab3e8da285d84fdfbd32f1a34db3cd84", "input": "chips, queen, check, glove, deck", "target": "glove"}
+{"id": "task142-23f5573b3845460ebca6c03546495bc1", "input": "meter, inch, foot, heel, pound", "target": "heel"}
+{"id": "task142-d208c3176ea544fba8c6853a01c1f1be", "input": "cow, swim, fish, trap, climbing", "target": "cow"}
+{"id": "task142-18c6310a72c449358c0b06bf3a609e9d", "input": "ok, alright, happy, exquisite, fine", "target": "exquisite"}
+{"id": "task142-a9713279570c4fdbb790e708da16642c", "input": "tko, ring, queen, level, deck", "target": "queen"}
+{"id": "task142-ca186ffcc2774a2cbc51a9a827f9859b", "input": "climbing, shark, canyoning, fish, hunt", "target": "shark"}
+{"id": "task142-c8713c0cc83e49259482463353f2e4f8", "input": "danish, divide, fried, fritter, pastry", "target": "divide"}
+{"id": "task142-0a53b58954e14eceb25e5819b5953f6d", "input": "flaxen, fair, balanced, pale, color", "target": "balanced"}
+{"id": "task142-d8d42a8b2dfc4846a8f1928b8825b3e3", "input": "cool, warm, scorching, relaxing, assured", "target": "assured"}
+{"id": "task142-d3c531f825bc4faf87520b3c4105c162", "input": "falsification, unlicensed, rich, fudge, smear", "target": "rich"}
+{"id": "task142-21f68788b0c84518961b50f055ab0e3c", "input": "hoagie, blt, submarine, group, club", "target": "group"}
+{"id": "task142-d4b47ca1a1494c44b1d9777217fab365", "input": "cow, bend, duck, horse, sheep", "target": "bend"}
+{"id": "task142-a88b1048d54a45449c0fab1556501fc3", "input": "fold, chips, apron, pack, deck", "target": "apron"}
+{"id": "task142-27fc1f031e91492c8bbd50f76261cc17", "input": "train, fly, fish, soar, bus", "target": "fish"}
+{"id": "task142-5a4f85dfb2f7471ca47a78fe0d05b752", "input": "dodge, horse, duck, pig, cow", "target": "dodge"}
+{"id": "task142-623c43970150465cb08114340f1bff78", "input": "output cord, chord, concerned, amp, fret", "target": "concerned"}
+{"id": "task142-51c8bfbf129d403ea9e1c39d72ba67f7", "input": "sunny, fair, warm, unprejudiced, windy", "target": "unprejudiced"}
+{"id": "task142-ac0742ba79c94d13a023067cab40559c", "input": "fine, attractive, bright, high quality, firstrate", "target": "firstrate"}
+{"id": "task142-89428452ce174618bcd3317f202df62e", "input": "galley, head, suits, deck, dock", "target": "suits"}
+{"id": "task142-0603d68ec9924002973792dd97990966", "input": "mallet, crane, sandpiper, davit, goose", "target": "davit"}
+{"id": "task142-d09c407305654df086cbc1b9a29245e6", "input": "variety, well, fair, medium, endure", "target": "endure"}
+{"id": "task142-66fbd7e5f29b435db37458c63accc0b0", "input": "panel, glass, translucent fabric, dish, plastic", "target": "dish"}
+{"id": "task142-3b82a9e02c034373862e787088852c51", "input": "jail, there, fine, level, classy", "target": "jail"}
+{"id": "task142-0236dd4fd8fa4f3b8da1b1955cdcce47", "input": "plummet, trip, equinox, lift, fall", "target": "equinox"}
+{"id": "task142-1e4e2162f4484fda948fc42c4a69e2a2", "input": "crane, goose, excavator, flamingo, swallow", "target": "excavator"}
+{"id": "task142-4f2b40bae50f44f69001d49e7adfdc9e", "input": "dastards, delayed, current, late, drink", "target": "drink"}
+{"id": "task142-e69b08d2f13c42bcb33d3f6e91ef060f", "input": "alright, fair, color, size, well", "target": "alright"}
+{"id": "task142-fe61c0d127e04ccf8d8ed47de1df99d2", "input": "merchandise, excited, content, specialty, food", "target": "excited"}
+{"id": "task142-881dcbdf01834699ad40184807872f64", "input": "warm, optimist, hot, relaxing, cool", "target": "optimist"}
+{"id": "task142-df3fa2fa41fd42cc9060b95384f537db", "input": "patty, doughnut, seperate, fritter, croquet", "target": "seperate"}
+{"id": "task142-27e94f81605c41b6bc7f677fad0f7cac", "input": "down, unhappy, emotionalities, south, emotional state", "target": "south"}
+{"id": "task142-cda1400759f44c6bb08c92446348008b", "input": "unhappy, melancholy, down, opposite of up, loveful", "target": "opposite of up"}
+{"id": "task142-e0bd60fa8ea849aa9b1c91a58a83b016", "input": "corporation, resistant, firm, llc, common", "target": "resistant"}
+{"id": "task142-1c067dedf90e4242be020190f1cf3d99", "input": "sliding, down, emotionalities, remorseful, emotional upsets", "target": "sliding"}
+{"id": "task142-cbc57254d2a14257bf3d0798952ccb0c", "input": "jab, deck, hull, galley, bow", "target": "jab"}
+{"id": "task142-1c467f2f7e8a4f13ac45f07f520d8534", "input": "plane, duplex, house, cabin, flat", "target": "plane"}
+{"id": "task142-d364f70c3d844a7493b0ef22f7fc53f6", "input": "just, alright, fair, honorable, sunny", "target": "sunny"}
+{"id": "task142-90f9c7ba6c684ddbb66787e6c1b85df8", "input": "roll, discothek, hoagie, french toast, club", "target": "discothek"}
+{"id": "task142-7e67351eb664407991f4fd17033bb8be", "input": "crane, neck, swift, goose, digger", "target": "digger"}
+{"id": "task142-2eb9032db852461cb2a9afced98b84ee", "input": "milky, fair, cold, raining, tangle", "target": "milky"}
+{"id": "task142-2efc867b56a3429b9631d76e55872a5f", "input": "earth, empower, combustion, blaze, fire", "target": "empower"}
+{"id": "task142-dfeff1995d8a432d839f6944c4631e21", "input": "fritter, fried, cake, patty, seperate", "target": "seperate"}
+{"id": "task142-bc93b1f7f9684b9bb92f15a291b5f388", "input": "forward, emotional supports, down, emotional state, ashamed", "target": "forward"}
+{"id": "task142-38b257a0e0b04f6dae248ed850d8ac0c", "input": "swim, fall, roll, spring, drop", "target": "spring"}
+{"id": "task142-67e8eaac6c544d8e8ab58b60532addd2", "input": "calf, fawn, cub, cute, woods", "target": "cute"}
+{"id": "task142-29534e14f0bf4b678b86cc9f291ead4f", "input": "hike, tiger, swim, camp, fish", "target": "tiger"}
+{"id": "task142-ffbf9168006648f5973425a9c9dca967", "input": "dally, waste away, fritter, squander, danish", "target": "danish"}
+{"id": "task142-8bffc5e34e6d45d1858f32b158036dd9", "input": "unhappy, downward, falling, sliding, down", "target": "unhappy"}
+{"id": "task142-4f0b7f41e40348b8b000338e96a1c87c", "input": "excavator, parrot, swift, flamingo, crane", "target": "excavator"}
+{"id": "task142-1ac45ba6420f4638bfd2abfb71845ca3", "input": "foot, kilometer, ounce, yard, ankle", "target": "ankle"}
+{"id": "task142-1da3452c307147ccb3d863f0179fa1f1", "input": "rudder, deck, check, head, galley", "target": "check"}
+{"id": "task142-3c754790f2da4f24bac55035812c5206", "input": "fine, exquisite, classy, happy, dull", "target": "happy"}
+{"id": "task142-e0dedf1fc2f941a68cc5518d5edcdd9f", "input": "down, remorseful, up, emotional supports, shameful", "target": "up"}
+{"id": "task142-8af3f9922cf445c9b93837770c1a6dc0", "input": "luke, fair, size, light, well", "target": "luke"}
+{"id": "task142-97233e48b67a4af4a089e5b34bbe463e", "input": "concise, sausage, wienerwurst, vittles, frank", "target": "concise"}
+{"id": "task142-65a57b7246744fc4986640acea0901e4", "input": "fret, worried, chord, notes, headstock", "target": "worried"}
+{"id": "task142-285d50e4769f4ab9a5524553e88510cc", "input": "emotional supports, melancholy, ground, down, kind", "target": "ground"}
+{"id": "task142-e9011065460342c196b491707fe87220", "input": "patty, croquet, fritter, dessert, spend", "target": "spend"}
+{"id": "task142-31f423c4b83e4f3696fee1172ad89062", "input": "summer, autumn, fall, stoop, winter", "target": "stoop"}
+{"id": "task142-2abdf371d4d9477f9c1a003d5bff7241", "input": "ice, earth, instruct, heat, fire", "target": "instruct"}
+{"id": "task142-b7c2c603ae9d41af97859e098e8171ac", "input": "spoon, plate, panel, colander, glass", "target": "panel"}
+{"id": "task142-8570abf61b964a0abbed337723555726", "input": "bright, fine, handsome, well, neat", "target": "well"}
+{"id": "task142-78db182e2d904635bad29a70c8dc23c4", "input": "emotionalities, jack, headstock, fret, board", "target": "emotionalities"}
+{"id": "task142-66bcbb388fcf419ba04cf0e2ca16e281", "input": "loveful, emotional, forward, down, emotional supports", "target": "forward"}
+{"id": "task142-db4f506b49c848d8853abad395c7bc19", "input": "entree, precise, frank, cheese, wienerwurst", "target": "precise"}
+{"id": "task142-7a2bd679351a46dca2db83ac82db139c", "input": "duck, ostrich, goose, sheep, stoop", "target": "stoop"}
+{"id": "task142-7bb31435c16f4334bb42e08e51e2a522", "input": "trip, run, hiems, fall, climb", "target": "hiems"}
+{"id": "task142-d9695953fc2a40469b3bb3e1a308b6e8", "input": "lust, kitten, deer, bambi, fawn", "target": "lust"}
+{"id": "task142-86e3bf13f44948fb91a5ee68799a568e", "input": "walk, fly, train, pounce, wave", "target": "pounce"}
+{"id": "task142-9b9bce5954ec48c4bc4c24f0b85a7a7c", "input": "level, suits, apron, deck, ring", "target": "suits"}
+{"id": "task142-c7b8ef757bf140d3b737c506482a2a67", "input": "fret, emotional, anxious, headstock, crying", "target": "headstock"}
+{"id": "task142-42e9a54bf9644c55bbf3ae16c8e0c2b4", "input": "flamingo, crane, davit, pelican, derrick", "target": "davit"}
+{"id": "task142-6ffa2709c9cb41deaf37a8b525dbba9d", "input": "trustworthy, medium, fair, level, light", "target": "trustworthy"}
+{"id": "task142-faecb9cb2d2346999bb07604d3c23557", "input": "dumpling, dally, fritter, patty, dunker", "target": "dally"}
+{"id": "task142-9842aa0b6eee41d18ea2a41fc032b8e1", "input": "up to the moment, current, main, jetstream, whirlpool", "target": "up to the moment"}
+{"id": "task142-b94cae1156cc4917818b5c54ef842f83", "input": "lie, heavy, fudge, replace, fib", "target": "heavy"}
+{"id": "task142-78bbbdb87fb8475d8da3dd3cf6241078", "input": "cake, waste away, fritter, squander, whittle", "target": "cake"}
+{"id": "task142-0ce4ab87b38b40dcbba4cad05c72eac9", "input": "ground, emotionalities, forward, down, flat", "target": "emotionalities"}
+{"id": "task142-8dbd30e6c0c548acbd03ccefb3cd44b4", "input": "light, fair, ghostly, medium, unjust", "target": "unjust"}
+{"id": "task142-ce013b8dd4134edca1afa6d220673ce5", "input": "squat, swim, dodge, sheep, duck", "target": "sheep"}
+{"id": "task142-edee4306f75c456fb3712080786a1423", "input": "winch, neck, goose, heron, crane", "target": "winch"}
+{"id": "task142-6c9c244626374dd8a3e522b4f5d6b85c", "input": "ground, down, up, emotional, south", "target": "emotional"}
+{"id": "task142-47d0b0ee72684523a5d27eea39cb357e", "input": "inflexible, tough, taut, firm, leverage", "target": "leverage"}
+{"id": "task142-35d042e6b2a74c1ebfb09a22a451094b", "input": "regular, general, captain, ubiquitous, popular", "target": "captain"}
+{"id": "task142-592e2ddb7f6642f282344e5f246ebdee", "input": "miserable, lower, right, below, down", "target": "miserable"}
+{"id": "task142-a773685c4c6a4e8089b2815b22892655", "input": "boring, general, admiral, common, normal", "target": "admiral"}
+{"id": "task142-801c0c3107eb49fdb806e2e4a85e4243", "input": "hot, beautiful, fine, classy, flyaway", "target": "flyaway"}
+{"id": "task142-34e7975430654467a336b8153ea6e7b6", "input": "ostrich, hoist, egret, crane, parrot", "target": "hoist"}
+{"id": "task142-17a5ea5ea54447f0808e929fa7a8d3d7", "input": "well, decent, dull, comfortable, fine", "target": "dull"}
+{"id": "task142-8b2d7280a4724fcca63959dd14c4f9d6", "input": "strap lock, worried, emotional state, fret, crying", "target": "strap lock"}
+{"id": "task142-6f38249ec21441bd8e83fd468aa72b61", "input": "deer, fawn, kitten, doe, cute", "target": "cute"}
+{"id": "task142-265a65849b4e4d158a94e64814650a5b", "input": "fold, deck, board, gunwale, cards", "target": "gunwale"}
+{"id": "task142-6dbc2318dafb4b31ab1300c7a99421cc", "input": "cold, hot, cool, popular, relaxing", "target": "popular"}
+{"id": "task142-6d1285f82e1d47918a246e6aef1b3410", "input": "right there, nearest, on top of, close, finished for the day", "target": "finished for the day"}
+{"id": "task142-73dec3a2df1648a49fa5549f12f04c47", "input": "deer, flatter, bambi, fawn, calf", "target": "flatter"}
+{"id": "task142-3dcd8be7cdd243f78f5f5690cbe0b31a", "input": "fair, ok, ghostly, decent, equitable", "target": "ghostly"}
+{"id": "task142-3661db985cfa406fa96314aaf42de541", "input": "jail time, happy, fine, content, detached", "target": "jail time"}
+{"id": "task142-dd80bac09cbe4da2a3e72e6e0bc0d49f", "input": "admiral, popular, fighter, general, lieutenant", "target": "popular"}
+{"id": "task142-ab8612645ac8442d8e6d24dbc582cde7", "input": "rudder, apron, dock, lifeline, deck", "target": "apron"}
+{"id": "task142-5d760dbf82284703bbff3c9bf1476f46", "input": "fork, glass, spatula, plastic, bowl", "target": "plastic"}
+{"id": "task142-45c71f82bb3f41f0a5899db037eb0aba", "input": "pounce, eagle, swim, fly, ant", "target": "swim"}
+{"id": "task142-ced9668f5be74b5a98ab1776c95df6af", "input": "dally, apple, seperate, misuse, fritter", "target": "apple"}
+{"id": "task142-81d217f0df724a008534053bf64fa9ee", "input": "loyalty, courage, brash, grub, frank", "target": "grub"}
+{"id": "task142-7c8f5c5b00064552b3b556152842674a", "input": "descending, south, kind, down, opposite of up", "target": "kind"}
+{"id": "task142-f73880f168774b488db8a8d6242eab90", "input": "blackjack, tequila, pinochle, gin, go fish", "target": "tequila"}
+{"id": "task142-4bf1d5cb47464d379a8c81750f7ebd64", "input": "amalgamated, firm, streamline, inflexible, llc", "target": "inflexible"}
+{"id": "task142-8d1a360e1d384bf5804bced214cbce45", "input": "pounce, swim, fly, wave, walk", "target": "wave"}
+{"id": "task142-3beb2de46823412b8ee233ce9bfea9f7", "input": "emotional state, backward, forward, up, down", "target": "emotional state"}
+{"id": "task142-38f89f6dfc654a5da2cc42f45c34ae1b", "input": "bordering, gated, neighboring, touching, close", "target": "gated"}
+{"id": "task142-2de13c3e231143f2aaba006229180d68", "input": "dull, attractive, exquisite, fine, flyaway", "target": "flyaway"}
+{"id": "task142-50cce6f027d444e4b71b01f9723dbe0e", "input": "basic, captain, ordinary, general, universal", "target": "captain"}
+{"id": "task142-e45f5893fb8d4886aa05650311131e22", "input": "train, bike, fish, fly, jog", "target": "fish"}
+{"id": "task142-8d0058ce37be48d9a2370213eaca9c6b", "input": "content, tools, shop, specialty, sad", "target": "sad"}
+{"id": "task142-4582d410e4964da284a13dc14eaefbe8", "input": "truffles, falsification, mangle, lie, fudge", "target": "truffles"}
+{"id": "task142-f5047ce956d34e10846d33d2dda40a70", "input": "handsome, high quality, alright, fine, pretty", "target": "alright"}
+{"id": "task142-1fe97692b4e14eb189319eaf11d4db22", "input": "windlass, hummingbird, neck, crane, duck", "target": "windlass"}
+{"id": "task142-abf973d45d224a85a6986bbe18555912", "input": "crying, emotionalities, strap lock, concerned, fret", "target": "strap lock"}
+{"id": "task142-931e6419fc784ab38b689f5c840ad175", "input": "confident, tropical, cool, mild, warm", "target": "confident"}
+{"id": "task142-4d15fbd1f448458db43063f3ccfa05bc", "input": "attractive, prime, fine, hot, neat", "target": "prime"}
+{"id": "task142-8465a7890f8f4e319e8af80fd88ac4c9", "input": "dock, apron, rudder, deck, galley", "target": "apron"}
+{"id": "task142-200e658e95d64f4bb97f2aecb0daff7e", "input": "frustrated, concerned, truss rod, crying, fret", "target": "truss rod"}

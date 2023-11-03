@@ -1,0 +1,1 @@
+Recognize and label proper nouns (Named Entity Recognition)

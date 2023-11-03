@@ -1,0 +1,7 @@
+{
+    "summary": "Generating Title for Amazon US review dataset",
+    "category": "Title Generation",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

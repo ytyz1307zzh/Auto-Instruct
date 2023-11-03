@@ -1,0 +1,7 @@
+{
+    "summary": "Classify the type of a math word problem",
+    "category": "Question Understanding",
+    "domain": "Mathematics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

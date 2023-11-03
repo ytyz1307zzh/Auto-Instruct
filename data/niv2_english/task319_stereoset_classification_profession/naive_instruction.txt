@@ -1,0 +1,1 @@
+Given a target pertaining to profession in the two sentences, determine if it is a stereotype.

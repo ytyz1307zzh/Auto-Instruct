@@ -1,0 +1,1 @@
+Given a document, find the main entity about whom the author is writing.

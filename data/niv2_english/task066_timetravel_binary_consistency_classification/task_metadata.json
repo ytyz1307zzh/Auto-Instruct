@@ -1,0 +1,7 @@
+{
+    "summary": "Identifying if the given sentence is consistent with the given story.",
+    "category": "Coherence Classification",
+    "domain": "Commonsense -> Stories",
+    "input_lang": "English",
+    "output_lang": "English"
+}

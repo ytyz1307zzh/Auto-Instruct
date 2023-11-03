@@ -1,0 +1,7 @@
+{
+    "summary": "Generate answers to SQuAD 1.1 questions.",
+    "category": "Question Answering",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

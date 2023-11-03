@@ -1,0 +1,400 @@
+{"id": "task828-40736b9f2e51447687a579baa96c520c", "input": "The charity made a goal to raise money.\nThey held an auction.", "target": "effect"}
+{"id": "task828-23b8933e071a482c87c536a2aca4afcd", "input": "The man wanted to act romantic.\nHe bought his girlfriend chocolates.", "target": "effect"}
+{"id": "task828-26a74b1d17044b198d1692cfde227ca1", "input": "The government oppressed its citizens.\nThe citizens staged a revolt.", "target": "effect"}
+{"id": "task828-0fdbd1216dec4d95beb3a92337469b83", "input": "I received a package in the mail.\nThe package triggered my curiosity.", "target": "effect"}
+{"id": "task828-d640b63dc34b46099376317c185e2267", "input": "The woman dangled the biscuit above the dog.\nThe dog jumped up.", "target": "effect"}
+{"id": "task828-79147b4ab5d5431789ba0abbebe67502", "input": "The air conditioner in the house broke.\nI opened the windows.", "target": "effect"}
+{"id": "task828-3ef1945c116943ce9545918a11d3dfe1", "input": "The leader antagonized the extremists among his country.\nThe extremists assassinated him.", "target": "effect"}
+{"id": "task828-be0b59723e4a4e7595c3caccb0760fe7", "input": "The girl wanted to thank her math teacher.\nThe girl brought the teacher an apple.", "target": "effect"}
+{"id": "task828-2abfbdd6eee94fab9cffa7c433c1610d", "input": "The toddler started crying.\nHer parents gave her a toy.", "target": "effect"}
+{"id": "task828-9200cbdc4c8f4cd6a9f2def365815575", "input": "The homeowners disliked their nosy neighbors.\nThey built a fence around their property.", "target": "effect"}
+{"id": "task828-bf6ca0a962a449ecbc0a11dc7681abf9", "input": "My car broke down.\nI called a mechanic.", "target": "effect"}
+{"id": "task828-ec30b6d6664e4b1c8ad31b07152aeb0a", "input": "The woman stayed home from work.\nHer coworker covered for her.", "target": "effect"}
+{"id": "task828-9010fb6b09f347a589dd81c9d5518322", "input": "I bit into a slice of watermelon.\nI accidentally swallowed a seed.", "target": "effect"}
+{"id": "task828-c6dd655639444eb49632de46a946aa0f", "input": "The businessman's credit card got declined.\nHe paid with cash.", "target": "effect"}
+{"id": "task828-cbd0bc6f01334c5d9532f120d2ec207b", "input": "All my socks were in the laundry.\nI wore sandals.", "target": "effect"}
+{"id": "task828-890078fd6c99415eb5775be18cf8861c", "input": "The tire on my bike was flat.\nI pumped air into the tire.", "target": "effect"}
+{"id": "task828-f15a46799af84b1ba57f1ad610c9dd93", "input": "I encountered an old friend.\nI gave him a hug.", "target": "effect"}
+{"id": "task828-dcc8ea2b37734c9c8434502ab5db446f", "input": "The airline mishandled my luggage.\nThey offered me compensation.", "target": "effect"}
+{"id": "task828-63d8c79354e348909295ae18b446f83e", "input": "The man gazed at the night sky.\nHe thought it was beautiful.", "target": "cause"}
+{"id": "task828-0fd0a96e468b45f1acd293324cbb184a", "input": "The man went into denial about the tragedy.\nHe refused to talk about it.", "target": "effect"}
+{"id": "task828-81836cf2e2084f3a9d4a1a33a5a79a00", "input": "The girl was angry with her friend.\nThe girl spread a rumor about her friend.", "target": "effect"}
+{"id": "task828-d1cd83aee8d44d22898117476f02744a", "input": "The book was deemed inappropriate for children.\nSchools banned it from its libraries.", "target": "effect"}
+{"id": "task828-18c76dd8c66a421588832cfc34d95993", "input": "I came upon a puddle on the sidewalk.\nI leapt over the puddle.", "target": "effect"}
+{"id": "task828-a7d27d0e712b48c3a952fe6ba7f7cec1", "input": "The girl memorized the code.\nShe recited it to herself.", "target": "cause"}
+{"id": "task828-3ced980ea03a42d8b0b4ad6c87068348", "input": "I needed to get cash.\nI went to the bank.", "target": "effect"}
+{"id": "task828-df703fa00f084c189dd15ec4e02e3e52", "input": "The woman wanted to be a doctor.\nShe went to medical school.", "target": "effect"}
+{"id": "task828-ad5c44532084455b99319dd49017bcc9", "input": "The girl made a mistake on her exam.\nShe erased her answer.", "target": "effect"}
+{"id": "task828-9219b0d759b44b9480556cc249150e71", "input": "The man wanted to watch the sunrise.\nHe got up early.", "target": "effect"}
+{"id": "task828-7217adc37f014a4e9a83bd95462414db", "input": "The clock stopped ticking.\nThe clock showed the wrong time.", "target": "effect"}
+{"id": "task828-2174910903aa4f659ef2b1b936b810a1", "input": "The bride got cold feet before the wedding.\nShe called the wedding off.", "target": "effect"}
+{"id": "task828-7477b088266343488a288513e5388f9d", "input": "The snow was blocking the driveway.\nI shoveled the snow out of the way.", "target": "effect"}
+{"id": "task828-4eaaa9cae53b4906a699c06cc1715243", "input": "The print on the brochure was tiny.\nThe man put his glasses on.", "target": "effect"}
+{"id": "task828-2fd215df9b924e779cff1000da3b66e9", "input": "The pen ran out of ink.\nI used a pencil.", "target": "effect"}
+{"id": "task828-aac75d42245b475f8e96714388434083", "input": "The player won five games in a row.\nHer opponent accused her of cheating.", "target": "effect"}
+{"id": "task828-c4dc6ea557254bf2971f39981a9c3df7", "input": "The girl wanted to learn about the solar system.\nShe went to the library.", "target": "effect"}
+{"id": "task828-320abd0aea6d432ab08a643b80fca1a6", "input": "Everyone disapproved of the couple's engagement.\nThe couple eloped.", "target": "effect"}
+{"id": "task828-8133037b82ec4c1aa83a2b4550d08181", "input": "My daughter suffered an allergy attack.\nI took her to the emergency room.", "target": "effect"}
+{"id": "task828-3a87fb7e2bbd4943896173b2d5945f4b", "input": "The street musician attracted a crowd.\nPeople gave him change.", "target": "effect"}
+{"id": "task828-b10d8fcee9914e53a02fcb6179fcb92c", "input": "The school principal implemented a dress code.\nStudents protested the decision.", "target": "effect"}
+{"id": "task828-bc1a70a26fb84098b6189823d8546cd1", "input": "The woman's hair fell in her face.\nShe pulled her hair back with a clip.", "target": "effect"}
+{"id": "task828-ef6a6ceaf2f24327b302fe4fb1b225a1", "input": "The man's girlfriend broke up with him.\nHe begged her to take him back.", "target": "effect"}
+{"id": "task828-b4be2273563b43a5bd0aeec7e673e5ab", "input": "The woman hit a midlife crisis.\nShe went sky diving.", "target": "effect"}
+{"id": "task828-3eb03b6c4aa248c6abb95c2ee0f8799c", "input": "The boy was locked out of his house.\nHe crawled in through an open window.", "target": "effect"}
+{"id": "task828-674ee92595d54061af182765e0e3e9ef", "input": "The family wanted to get to know their new neighbors.\nThe family invited the neighbors over for dinner.", "target": "effect"}
+{"id": "task828-78e5651db7f141ff996a842b6e1d09ed", "input": "I was furious.\nI slammed the door upon leaving the house.", "target": "effect"}
+{"id": "task828-9cea1d05a51248bf979d0d6884bd9d22", "input": "The husband felt guilty about cheating on his wife.\nHe confessed his infidelity to her.", "target": "effect"}
+{"id": "task828-a6bb05d2e658496396737443d1f39795", "input": "The bureau drawers were cluttered.\nI threw away unnecessary contents.", "target": "effect"}
+{"id": "task828-03238ef2eca14f5985672a03754270ff", "input": "The electricity in my house shut off.\nI reset the circuit breaker.", "target": "effect"}
+{"id": "task828-55436f7d798f449e851e8310266886a5", "input": "The cup of tea was scalding hot.\nI blew on it.", "target": "effect"}
+{"id": "task828-558706eea85d49b383a7f37be25cee80", "input": "The child left crumbs on the floor.\nAnts crawled to the crumbs.", "target": "effect"}
+{"id": "task828-eae8709cf3a54b0882c62bd3800177e9", "input": "The girl went down the hill on her bike.\nHer bike sped up.", "target": "effect"}
+{"id": "task828-af18905a293c49a6bf59db97a3d98533", "input": "The child landed on the trampoline.\nShe sprung back up into the air.", "target": "effect"}
+{"id": "task828-315a41838fa04f0c83e3f641ada6ea0a", "input": "The parents recognized their daughter's creativity.\nThey encouraged her to become an artist.", "target": "effect"}
+{"id": "task828-f3d4d331429d4a02bf342bd8589239e6", "input": "The woman's political views changed.\nShe switched her party affiliation.", "target": "effect"}
+{"id": "task828-d26764d4e83344489f04c645e72c44a8", "input": "The pilot's radar detected a storm.\nThe pilot navigated away from the storm.", "target": "effect"}
+{"id": "task828-d50824c926204be686b7b32f241a8f4e", "input": "The man threw his empty can onto the street.\nHe was fined for littering.", "target": "effect"}
+{"id": "task828-bf4177135bc442eb8a7dc00980f14d13", "input": "The man's email inbox was full of spam.\nHe deleted the spam.", "target": "effect"}
+{"id": "task828-7927df893a034f92b4a43ee6b96dd667", "input": "I left the fruit out on the table.\nFlies swarmed the fruit.", "target": "effect"}
+{"id": "task828-754836fbd8b8437ebeb3fba664fdaf6e", "input": "The girl looked pale.\nHer father felt her forehead.", "target": "effect"}
+{"id": "task828-579b3a9120bf45ff84872d83a6ba1a9b", "input": "The man had an attack of conscience.\nHe admitted his indiscretion.", "target": "effect"}
+{"id": "task828-e83e0c34c24248218a5a666c310a238c", "input": "The girl wanted to demonstrate proper etiquette.\nShe put her napkin on her lap before eating.", "target": "effect"}
+{"id": "task828-081d2b8e192a40d2843232b2f736c954", "input": "The administrator cleared her throat.\nThe meeting commenced.", "target": "effect"}
+{"id": "task828-1e5f7dc56bea4d8bba2a2f19ca478c87", "input": "The man anticipated cold weather on his trip.\nHe packed warm clothing in his suitcase.", "target": "effect"}
+{"id": "task828-912f3853b8074921ba2d0c0a1a7881f3", "input": "The rain subsided.\nI went for a walk.", "target": "effect"}
+{"id": "task828-d6a5162a92df47baa6410ec784012bd0", "input": "The man's head throbbed with pain.\nHe took aspirin.", "target": "effect"}
+{"id": "task828-43b0ea9febf34991917934b9dd6cb3ef", "input": "The girl wanted to make her mother happy.\nThe girl picked a flower for her mother.", "target": "effect"}
+{"id": "task828-9c6cd74a34f84d9f9acdeadbb4224edb", "input": "I wanted to conserve energy.\nI shut off the light in the unoccupied room.", "target": "effect"}
+{"id": "task828-6cd169ce65ff469297911878953c4996", "input": "I felt exhausted.\nI went to bed early.", "target": "effect"}
+{"id": "task828-1ea54aebbf9a4de5ba9f401203fb2e33", "input": "The college student wanted to meet other students on campus.\nHe joined a fraternity.", "target": "effect"}
+{"id": "task828-80758d731fea4f8b981e8cbd692966c1", "input": "The woman felt lonely.\nShe adopted a cat.", "target": "effect"}
+{"id": "task828-ab88a1e7df6f4257b5eb9926da4386db", "input": "The baby was wailing in his crib.\nThe mother picked up the baby.", "target": "effect"}
+{"id": "task828-4f8419e524b34a4a872b34396249e7d1", "input": "I was lost.\nI unfolded a map.", "target": "effect"}
+{"id": "task828-f912eb210481446ead7c718cfdde4255", "input": "The computer was expensive to fix.\nI bought a new one.", "target": "effect"}
+{"id": "task828-849b3f90f01649129a5cd38475a48954", "input": "Our group's conversation gradually lulled to silence.\nI felt awkward.", "target": "effect"}
+{"id": "task828-8b957919afe648fdb41e34e2fd395f93", "input": "The man needed coins to fill the parking meter.\nHe searched under his car seats for loose change.", "target": "effect"}
+{"id": "task828-6f547d7653634d32b680e8569bba247d", "input": "The country discovered new land.\nThe country colonized the land.", "target": "effect"}
+{"id": "task828-b630365ec4e64c26ad6dbdffccf10bea", "input": "The girl pushed herself off the top of the slide.\nShe glided down the slide.", "target": "effect"}
+{"id": "task828-b45617452b644c45875936f98310f6cc", "input": "The friends decided to share the hamburger.\nThey cut the hamburger in half.", "target": "effect"}
+{"id": "task828-e135f1d22c954f7e88382315e92893cc", "input": "The woman's date wanted to look like a gentleman.\nHe opened the door for her.", "target": "effect"}
+{"id": "task828-e03127f07a10476995adc009df44304a", "input": "I misplaced my wallet.\nI retraced my steps.", "target": "effect"}
+{"id": "task828-d12a00e2b3a941579f9ca49e72d0c761", "input": "The man woke up with a toothache.\nHe made an appointment with the dentist.", "target": "effect"}
+{"id": "task828-4751f760652d44b8a008799ac8064865", "input": "The man confessed his love for the woman.\nThe woman rejected him.", "target": "effect"}
+{"id": "task828-e5173143d9f54f878c504a7d6ccaefa0", "input": "The elevator doors opened.\nThe elevator arrived at the designated floor.", "target": "cause"}
+{"id": "task828-36e6b8df4dc7456384b618ba3a7f75c7", "input": "The jewelry thieves were caught.\nThe stolen jewelry was returned to its owners.", "target": "effect"}
+{"id": "task828-272a5c5d02064915a8be23cfeb2759c8", "input": "The player tackled his opponent.\nHis opponent hit the ground.", "target": "effect"}
+{"id": "task828-df6d780b9ccf4d76bbc91d82fc0632b0", "input": "The student graduated from the university.\nHe looked for a job.", "target": "effect"}
+{"id": "task828-efb6fd81750c4d8e92001e40b4a97676", "input": "The elderly woman suffered a stroke.\nThe woman's daughter moved in to take care of her.", "target": "effect"}
+{"id": "task828-b61b05790c554398835954bc538006e9", "input": "The papers were disorganized.\nI put them into alphabetical order.", "target": "effect"}
+{"id": "task828-b5fc03eab0854881a9573af7750fa478", "input": "The travelers reached the border.\nThe patrol agent checked their passports.", "target": "effect"}
+{"id": "task828-91806e2d504e467eae4e3c89d8a67c83", "input": "The child disobeyed her parents.\nHer parents punished her.", "target": "effect"}
+{"id": "task828-dd1018e7d6cf4833bd1b530e967123d6", "input": "The traveler walked on the shaky suspension bridge.\nHe felt terrified.", "target": "effect"}
+{"id": "task828-5d27681e3b2047d4a822e4e9208e0d1f", "input": "The police officer dropped the gun.\nThe gun went off.", "target": "effect"}
+{"id": "task828-ba4808adffa84f19837a96dc1eba796f", "input": "I opened my eyes.\nI woke up.", "target": "cause"}
+{"id": "task828-4c51d11836384568964a3cb37748a2d1", "input": "The woman was summoned for jury duty.\nShe cancelled her appointments.", "target": "effect"}
+{"id": "task828-4a2e77a7dd804483b2cdfdcb432cbd95", "input": "The girl desired her parent's approval.\nShe obeyed her parent's rules.", "target": "effect"}
+{"id": "task828-6f90c391acef47d783d7afffd020c9ab", "input": "The friends' dinnertime conversation turned to politics.\nA debate erupted.", "target": "effect"}
+{"id": "task828-79b2c81ceab24f9e96bec8668316d438", "input": "The button on my shirt fell off.\nI sewed the button back on.", "target": "effect"}
+{"id": "task828-367b1cfd1f3944fc96a881ebbe21fd80", "input": "The boy couldn't fall asleep.\nHe counted sheep.", "target": "effect"}
+{"id": "task828-e6e3fa61a4b1416fa71330e816220bdf", "input": "The patient was dehydrated.\nThe nurse gave him an IV.", "target": "effect"}
+{"id": "task828-4cd5cd2fc6e34f2e84c6da6d92b4b198", "input": "The girl joined the debate team.\nShe learned communication skills.", "target": "effect"}
+{"id": "task828-e69899085b094773964c7050976aed58", "input": "The pond froze over for the winter.\nPeople skated on the pond.", "target": "effect"}
+{"id": "task828-c13570f4563c46d2b74e19478d4148d8", "input": "The student tried to do the math in his head.\nHe got confused.", "target": "effect"}
+{"id": "task828-8ddaf81e9e2a464da9480e308e55d23c", "input": "The man lost his temper.\nHe threw a chair across the room.", "target": "effect"}
+{"id": "task828-c26dfec9deaa498aa0aa03bfa6ea32d3", "input": "The court upheld the controversial ruling.\nA riot broke loose in front of the courthouse.", "target": "effect"}
+{"id": "task828-8892fa6e2fe04b66b9944d4863b428b4", "input": "The student knew the answer to the question.\nHe raised his hand.", "target": "effect"}
+{"id": "task828-822361e8694b41c19af9511e8eb7b11b", "input": "I felt bored.\nI yawned.", "target": "effect"}
+{"id": "task828-c575b207d2b34c14a88d785fec349d5a", "input": "The woman was in a bad mood.\nShe told her friend to leave her alone.", "target": "effect"}
+{"id": "task828-ab401a565d3e4a8e80061aa2b3503da3", "input": "The man did a canon ball into the pool.\nThe man soaked the lifeguard.", "target": "effect"}
+{"id": "task828-5c5c099d35a9490082e54af65148b513", "input": "The speaker disarmed her debate opponent.\nThe speaker won the debate.", "target": "effect"}
+{"id": "task828-f52b2e04dba64631bf34a0f25b37267f", "input": "The engine of the airplane was faulty.\nThe airplane crashed.", "target": "effect"}
+{"id": "task828-45b5e08b873e4e269081bef6820bb4c2", "input": "I paid the tollbooth attendant.\nShe let me pass through the tollbooth.", "target": "effect"}
+{"id": "task828-8a5cf13aaa3f46d688d17234a07c3210", "input": "The vase broke.\nI glued it back together.", "target": "effect"}
+{"id": "task828-8162ecfbd5dc4d69af8e7232fca949b0", "input": "An unfamiliar car parked outside my house.\nI became suspicious.", "target": "effect"}
+{"id": "task828-f661654de6804c83b7371dde8e3913c7", "input": "The man hurt his back.\nHe stayed in bed for several days.", "target": "effect"}
+{"id": "task828-9a4c9a52ea2247eb8b60582dab6fa303", "input": "The book became a huge bestseller.\nIt was adapted into a movie.", "target": "effect"}
+{"id": "task828-fd74081fcd0f4113910b12f5480e2e93", "input": "The building adjacent to my office was under construction.\nMy office was noisy.", "target": "effect"}
+{"id": "task828-3908c3face9143fd991bd009d565a01a", "input": "The client approved the architect's plans for the building.\nThe architect constructed the building.", "target": "effect"}
+{"id": "task828-2635e5858235401caf3128ef6db79258", "input": "The archeologist dug up the site.\nShe excavated ancient artifacts.", "target": "effect"}
+{"id": "task828-89014f1dd73749f9a2b645ee0cb66633", "input": "The teacher caught the student chewing gum.\nThe student spit out the gum.", "target": "effect"}
+{"id": "task828-0193265bfece4ff4a8186c5a4dc0e124", "input": "The fish bit the line.\nThe fisherman reeled in the fish.", "target": "effect"}
+{"id": "task828-9b36db7e276c4d4a9400f46dd957b66e", "input": "My brother was released from the hospital.\nI welcomed him back home.", "target": "effect"}
+{"id": "task828-9e804104ba7d451e814265470df49b2b", "input": "The warring countries wanted peace.\nThey negotiated a treaty.", "target": "effect"}
+{"id": "task828-f7293d7ac5234dd0bb806a8a23a886fe", "input": "I pushed the door.\nThe door opened.", "target": "effect"}
+{"id": "task828-6aded9dadfcd4757a1163e5064a888bb", "input": "The woman felt compelled to help someone in need.\nShe donated blood.", "target": "effect"}
+{"id": "task828-8f0eb3f7c3854481995c7d48d172a945", "input": "The timer in the kitchen went off.\nThe man took the pizza out of the oven.", "target": "effect"}
+{"id": "task828-8a4f485281ff4098a24aebd5d8bf6260", "input": "The girl squeezed the tube of toothpaste.\nThe toothpaste squirted out of the tube.", "target": "effect"}
+{"id": "task828-772b6835515646cf9f100227fa442570", "input": "The traffic light turned yellow.\nThe driver pushed the brake.", "target": "effect"}
+{"id": "task828-c8d11ca01fef4e12a4cccdf82141a234", "input": "I saw a woman getting robbed on the street.\nI called 911.", "target": "effect"}
+{"id": "task828-9ae1121a8e564a36a90b3a403e59c2d9", "input": "I missed my girlfriend's phone call.\nI called her back.", "target": "effect"}
+{"id": "task828-2f85634c6df44f8b8eb0ea088ddef12c", "input": "I flipped the light switch up and down.\nThe light flickered.", "target": "effect"}
+{"id": "task828-70e9b960582c4019b35e7dbe6a862dea", "input": "The man gained weight.\nHe got his suit altered.", "target": "effect"}
+{"id": "task828-b62bf93742944f4591c4af787ff38aa5", "input": "The man started an argument with me.\nMy friend stood up for me.", "target": "effect"}
+{"id": "task828-b20d56689b064735966c61cc0ecabbae", "input": "The host of the trivia show called on the contestant for an answer.\nThe contestant rang the buzzer.", "target": "cause"}
+{"id": "task828-0f0cc34d9a6d49b0adc09c90d0b2cda0", "input": "My favorite song came on the radio.\nI sang along to it.", "target": "effect"}
+{"id": "task828-d26f20b946cf4cefaa489da391b103d5", "input": "The man removed his coat.\nHe entered the house.", "target": "cause"}
+{"id": "task828-ec2e4d41d9574b65a159ab16743dd395", "input": "The sun emerged from the clouds.\nThe woman took her sweater off.", "target": "effect"}
+{"id": "task828-4995e6a35cde4c1e9a221d56d2cedc2d", "input": "I put coins in the washing machine at the laundromat.\nThe machine powered on.", "target": "effect"}
+{"id": "task828-bd2d81bedb2647c4b950424ce7728d78", "input": "The student procrastinated on the paper.\nHe submitted the paper incomplete.", "target": "effect"}
+{"id": "task828-a33d2029cc3445eb98eda0764461f346", "input": "The woman was found guilty of a misdemeanor.\nShe was sentenced to perform community service.", "target": "effect"}
+{"id": "task828-597d8249690946d9b784229a4dbded9c", "input": "The bird flapped its wings.\nIt ascended upwards.", "target": "effect"}
+{"id": "task828-20d2880b7c574d4497be5d8f089b3373", "input": "We found empty seats in the theatre.\nWe sat down.", "target": "effect"}
+{"id": "task828-c9ecb6908cd24d17a71e8e0e4de2ee1b", "input": "The mother needed help looking after her children.\nShe sent the children to daycare.", "target": "effect"}
+{"id": "task828-8763af22407442949577a7218cac24d5", "input": "The hiker encountered a poisonous snake.\nShe panicked.", "target": "effect"}
+{"id": "task828-2a7b7f206712479f83eeeb517e773e0a", "input": "I doubted the salesman's pitch.\nI turned his offer down.", "target": "effect"}
+{"id": "task828-406dd40b88a545a0b92f088b696075e6", "input": "The mother suspected that her son was lying.\nHe avoided making eye contact with her.", "target": "cause"}
+{"id": "task828-dacdcdf5df6d4d819bef6e121ba9795a", "input": "The boy's forehead felt hot.\nHis mother took his temperature.", "target": "effect"}
+{"id": "task828-9348ccbc976e486f82927ca7f039ec4f", "input": "The woman sensed a pleasant smell.\nShe was reminded of her childhood.", "target": "effect"}
+{"id": "task828-3294352c12384009ac2532635e317c5e", "input": "A group of teenagers crashed the party.\nThe host of the party kicked them out.", "target": "effect"}
+{"id": "task828-cd16ece7206d4b1f8666cf9c99371d93", "input": "I made a resolution to eat a healthy diet.\nI bought fruits and vegetables.", "target": "effect"}
+{"id": "task828-01ac7627eefa41df8dfbf60fcfc784fb", "input": "The rain was pouring down.\nI dashed to get inside.", "target": "effect"}
+{"id": "task828-c4c2343eeeb44f4bb48b7e68c55408da", "input": "I tossed the ball upwards.\nThe ball hit the ceiling.", "target": "effect"}
+{"id": "task828-f9af6449397c4a63b20530337cb7e692", "input": "It began to rain.\nThe driver turned on the headlights.", "target": "effect"}
+{"id": "task828-867d70f1fe5b4b14b2d4f26f727bb549", "input": "The couple got engaged.\nThey planned a wedding.", "target": "effect"}
+{"id": "task828-b65d478e65c0412c81ae5a0d21d4b559", "input": "The speaker made politically incorrect comments.\nHe offended the audience.", "target": "effect"}
+{"id": "task828-273877a2657f4ce4a5e2e00f4b5a6e3d", "input": "The woman decided to run for public office.\nShe hired a campaign manager.", "target": "effect"}
+{"id": "task828-3ba9ad72062544b9a6fc17a80767f445", "input": "The judge pounded the gavel.\nThe courtroom broke into uproar.", "target": "cause"}
+{"id": "task828-d26822b44e384097b7211fec87d7f8d9", "input": "My office door was open.\nI overheard the conversation in the hall.", "target": "effect"}
+{"id": "task828-dbbb2391f0584ed18620c0c4b4e89aa4", "input": "The man swatted at the fly.\nThe fly buzzed away.", "target": "effect"}
+{"id": "task828-32ac54347b7c42f795f3b7032ec91b80", "input": "My friend pointed out that I had food stuck in my teeth.\nI felt embarrassed.", "target": "effect"}
+{"id": "task828-948f24d09cf24649ab7dba38fa25c0c9", "input": "The politician's argument was considered absurd.\nHe lost the support of voters.", "target": "effect"}
+{"id": "task828-206959684d8745bb9616f58ce4032bf3", "input": "It got dark outside.\nThe moon became visible in the sky.", "target": "effect"}
+{"id": "task828-e11d30921092465680348244b1454e2a", "input": "The surfer caught the wave.\nThe wave carried her to the shore.", "target": "effect"}
+{"id": "task828-b7087b360b8047138a3d716784f3ae4e", "input": "The immigrants were caught illegally residing in the country.\nThey were deported.", "target": "effect"}
+{"id": "task828-2b21cc22fd704a7b8dec0760be95368d", "input": "The stranger cried out to me in a foreign language.\nI stared blankly at him.", "target": "effect"}
+{"id": "task828-fa7d8458683c49e2ab4b0fb21ebbccb6", "input": "The man pressed down on the moist flap of the envelope.\nHe sealed the envelope shut.", "target": "effect"}
+{"id": "task828-a676559879384f998ce40126c1c6a80b", "input": "The roller coaster plunged down the steep drop.\nThe passengers screamed.", "target": "effect"}
+{"id": "task828-20529607fc1f44bd9ba58f4cb5222805", "input": "The phone rang.\nThe man picked up the phone.", "target": "effect"}
+{"id": "task828-368b5167d15842d19b7fad07f448ac47", "input": "Political violence broke out in the nation.\nMany citizens took refuge in other territories.", "target": "effect"}
+{"id": "task828-046e3135cf7d48e2abe98516ae00e95a", "input": "The man ate the ice cream in the sun.\nThe ice cream dripped from the cone.", "target": "effect"}
+{"id": "task828-b8d7aebf16694a4fb5887ca17c8fae3f", "input": "The curtain on the stage went up.\nThe opening scene of the play began.", "target": "effect"}
+{"id": "task828-738b2d73b4f34d33a4f24fc1ccaeccd3", "input": "The scientist conducted an experiment.\nShe validated her theory.", "target": "effect"}
+{"id": "task828-19958ab1657541b5b9c7b8490d96e723", "input": "The wasp flew towards the boy.\nThe boy ran away.", "target": "effect"}
+{"id": "task828-602a255343214066a026422b83319ced", "input": "The man took notice of the woman.\nHe caught a whiff of her perfume.", "target": "cause"}
+{"id": "task828-2e636ee8ebf74d72baf7352e84d55890", "input": "The electricity in the house shut off.\nI looked for a flashlight.", "target": "effect"}
+{"id": "task828-befe0b2b411e417d99caa85574357e0e", "input": "The photographer got the child to smile.\nThe photographer quickly snapped the child's photo.", "target": "effect"}
+{"id": "task828-39cdb004a6ab4388b64404e54895cfca", "input": "The girl felt dizzy.\nShe lost her balance.", "target": "effect"}
+{"id": "task828-5be421aa514641569b181fd7f35d3d2d", "input": "I deposited the letter in the mailbox.\nThe post office delivered the letter.", "target": "effect"}
+{"id": "task828-52f02cdfc456482080bcb08cd1b5967d", "input": "The girl threw a twig into the campfire.\nThe twig burned.", "target": "effect"}
+{"id": "task828-201a70386ee54d98b9721901d8b94c2a", "input": "The child let go of the balloon string.\nThe balloon rose into the air.", "target": "effect"}
+{"id": "task828-194f7014471c4e3c96888a66cb526a22", "input": "The boy threw a temper tantrum.\nHis brother took his toys from him.", "target": "cause"}
+{"id": "task828-01be541f388840a0bf01e45f888304fd", "input": "My friend paid for my ticket.\nI paid her back.", "target": "effect"}
+{"id": "task828-e9fec5222cf1465298d31d6584b7208a", "input": "The dog barked.\nA knock sounded at the door.", "target": "cause"}
+{"id": "task828-69f2f6c468f040c79cec7aae4f410c38", "input": "The woman's ring slipped off in the shower.\nThe ring went down the drain.", "target": "effect"}
+{"id": "task828-d75f740233904360a990b0b772db6972", "input": "The girl stared at herself in the mirror.\nShe felt self-conscious.", "target": "cause"}
+{"id": "task828-0a5dc83cecb3443cb752cc6ec5412b77", "input": "The ocean tide was dangerous.\nThe swimmers returned towards the shore.", "target": "effect"}
+{"id": "task828-be3d1bce9e3e48aca81396f030754ab9", "input": "The photo albums collected dust in the attic.\nThey remained untouched for years.", "target": "cause"}
+{"id": "task828-2da32a16368742f89bd6c3226101a4c7", "input": "I clenched the candy wrapper in my fist.\nThe wrapper crinkled.", "target": "effect"}
+{"id": "task828-b11833898a0c40deab2f690763280074", "input": "I changed the topic of conversation.\nThe conversation became tense.", "target": "cause"}
+{"id": "task828-85abe5411afb46ffa4e8c31c6a7239eb", "input": "The child complained that he had to go to the bathroom.\nHis father stopped the car at a gas station.", "target": "effect"}
+{"id": "task828-8623c862a3704b3181a0dfd16480a6b2", "input": "I pushed the wagon.\nThe wagon wheels spun forward.", "target": "effect"}
+{"id": "task828-4b70b02e9a06466b9b87f4d4216ad9c5", "input": "The car stopped at the crosswalk.\nThe pedestrian crossed the road.", "target": "effect"}
+{"id": "task828-9407a390cc0c48f3bcee5449a678528d", "input": "The cat chased the bird.\nThe bird flew away.", "target": "effect"}
+{"id": "task828-f033abd017744c028d1afe59f8233252", "input": "The man raised his eyebrows.\nHe was surprised.", "target": "cause"}
+{"id": "task828-a0e614a298dc43f7a8c3902b798aa743", "input": "I squeezed the lemon wedge.\nThe lemon squirted.", "target": "effect"}
+{"id": "task828-1df1ec06d8524dafacdf5db9179ae199", "input": "I clumsily bumped into the stranger.\nI apologized to him.", "target": "effect"}
+{"id": "task828-5d2881692e4a4ce2a2ad2b40743abac5", "input": "The man contemplated the painting.\nHe felt in awe.", "target": "effect"}
+{"id": "task828-71a8207b5cfe48da9fa485f00564af4d", "input": "I rubbed the soap between my hands.\nThe soap foamed.", "target": "effect"}
+{"id": "task828-ec6d37e85143425fbb5f79022f04e8d0", "input": "The country declared war on the neighboring territory.\nSoldiers were sent out to fight.", "target": "effect"}
+{"id": "task828-8cba9598415e490cbbe304221805f841", "input": "The chef hit the egg on the side of the bowl.\nThe egg cracked.", "target": "effect"}
+{"id": "task828-c9ad5de18f9c4f2582100ee4298a17e4", "input": "The woman felt ashamed of scar on her face.\nShe hid the scar with makeup.", "target": "effect"}
+{"id": "task828-99fe0e85e86b4974b86e36b9abb16782", "input": "The man begged for forgiveness.\nThe woman took pity on him.", "target": "effect"}
+{"id": "task828-f14cbdfee25f472eb0bbca5d941883a8", "input": "The woman upgraded her computer hardware.\nShe installed new software on the computer.", "target": "effect"}
+{"id": "task828-a6e2c19e6a7c49b49635eb7a3bc820c5", "input": "I held the door for the woman entering behind me.\nThe woman thanked me.", "target": "effect"}
+{"id": "task828-e4fd360ef3684454b292830eb500d6dd", "input": "The tenant misplaced his keys to his apartment.\nHis landlord unlocked the door.", "target": "effect"}
+{"id": "task828-9d17883ba4d842ff8b2679ef2d913eb4", "input": "The clock chimed.\nIt was the top of the hour.", "target": "cause"}
+{"id": "task828-1bc305ec88264f8c813ad6d7f8d49bec", "input": "The girl handed her money to the cashier.\nThe cashier gave the girl her change.", "target": "effect"}
+{"id": "task828-d4e4280f36aa4f91ada152a2d081c3a8", "input": "The trash bag was full.\nI took it to the dumpster.", "target": "effect"}
+{"id": "task828-0e0c2aa19fe44a8695c0cdec04fcf535", "input": "The boy pinched the girl's elbow.\nShe jerked her arm away from him.", "target": "effect"}
+{"id": "task828-8c31cef4f1664b99a2511108559540db", "input": "The girl pinched her nose.\nThe baby soiled her diaper.", "target": "cause"}
+{"id": "task828-782ecfaccdd0474dbe41f9bfd21a3f43", "input": "The researchers proved the theory.\nIndividuals accepted the theory.", "target": "effect"}
+{"id": "task828-1be17b8aeaac431fb2d28ac1e61c1a74", "input": "The student's answer on the exam was incorrect.\nThe teacher subtracted points off the student's grade.", "target": "effect"}
+{"id": "task828-ba60570cd37841bbb4cda7f904f2fcca", "input": "I put my hands under the running faucet.\nThe soap rinsed off my hands.", "target": "effect"}
+{"id": "task828-0b1853a8c44247118f2b40629f714283", "input": "The woman was interrupted in the midst of reading her book.\nShe bookmarked her page.", "target": "effect"}
+{"id": "task828-c27412ca663a4170b7c5b810d99ba0e8", "input": "The two children simultaneously reached down to retrieve the ball.\nTheir heads collided.", "target": "effect"}
+{"id": "task828-3cd827c2f2c94fea859a7671b8de497f", "input": "I became enthralled in the book.\nI lost track of time.", "target": "effect"}
+{"id": "task828-972eb14d793443a3966464d767efdb25", "input": "The product was heavily advertised.\nConsumers recognized the product.", "target": "effect"}
+{"id": "task828-540ffa8c1e0940d1ba590ad58ebbb3cf", "input": "The accountant mismanaged the company's funds.\nShe was fired from her position.", "target": "effect"}
+{"id": "task828-b3946589185747eaa294ceb6645a89eb", "input": "The man defied the authorities of the church.\nHe was excommunicated from the church.", "target": "effect"}
+{"id": "task828-176b2ed8d0e6419fbdc3c2d754a172c4", "input": "The investigators deemed the man's death a suicide.\nHe left a note.", "target": "cause"}
+{"id": "task828-31e2807dff064f7bbfe8b02b046fd3cc", "input": "The girl lost control of her bike.\nShe crashed into a fence.", "target": "effect"}
+{"id": "task828-bb8a1f7292074a62b44696a51bb8f329", "input": "I ran the ice cube under warm water.\nThe ice cube vanished.", "target": "effect"}
+{"id": "task828-557e2a92a00c4a4cb8f92fc1c452a44b", "input": "The man ate half of the entree.\nHe refrigerated the leftovers.", "target": "effect"}
+{"id": "task828-f5cceed2d34d4f629589d060f5917e71", "input": "The wealthy man died of old age.\nHis son inherited his fortune.", "target": "effect"}
+{"id": "task828-6bc69e8253e2445194579bc893101e9e", "input": "The photographer forgot to use the flash on the camera.\nThe photos turned out blurry.", "target": "effect"}
+{"id": "task828-f39ba2d4e2044b5a80877e713243d39a", "input": "The circus performer juggled while riding a unicycle.\nThe audience cheered in astonishment.", "target": "effect"}
+{"id": "task828-2cf33d4dcf2a44f896db3dad082568bd", "input": "I poured water on my sleeping friend.\nMy friend awoke.", "target": "effect"}
+{"id": "task828-fa3f662fb2394a8a966542485e711b23", "input": "The father caught his son lying.\nHis son confessed the truth.", "target": "effect"}
+{"id": "task828-fc05284925ed4fb3a7eb1b04462f79b0", "input": "The mercury in the thermometer rose.\nThe weather got warmer.", "target": "cause"}
+{"id": "task828-b5d6bbf57b214fd98d21b55bc3c4d913", "input": "The girl applied the scissors to the paper.\nThe paper sliced apart.", "target": "effect"}
+{"id": "task828-b87b4a94e6db488d8c5b6bcd973ea260", "input": "The man unlaced his shoes.\nThe shoes loosened.", "target": "effect"}
+{"id": "task828-df7e9aebadb94f3d8616750f0e146b9c", "input": "I squeezed the damp sponge.\nWater seeped out of it.", "target": "effect"}
+{"id": "task828-49e8e89329344108a556ef59d9733664", "input": "The team rigged the contest in their favor.\nThey won.", "target": "effect"}
+{"id": "task828-aa38c62b3a4d47be9b4cdeeb0c31dded", "input": "The child skinned his knee.\nHis mother put a bandage on the wound.", "target": "effect"}
+{"id": "task828-2541d5f52fda4215b2ca6de91fe161be", "input": "The woman became famous.\nPhotographers followed her.", "target": "effect"}
+{"id": "task828-cff8a33acd804ed196eaf1991491df86", "input": "The artist mixed yellow paint into blue paint.\nThe paint turned green.", "target": "effect"}
+{"id": "task828-af83dfece8004e7cb75c903c13c7b510", "input": "I knocked on my neighbor's door.\nMy neighbor invited me in.", "target": "effect"}
+{"id": "task828-c7178a8ce17a4bf295279ee3bb25319a", "input": "The truck crashed into the motorcycle on the bridge.\nThe motorcyclist died.", "target": "effect"}
+{"id": "task828-9f394c54bade426fa12ffacf52f01ea5", "input": "The putrid odor filled the room.\nI clamped my hand over my nose.", "target": "effect"}
+{"id": "task828-97a19866f58b47f2b03c1628544fb83d", "input": "The sick child coughed on his friend.\nHis friend got sick.", "target": "effect"}
+{"id": "task828-f705c741a4df49a49d359c55db18ac17", "input": "The boy stepped in mud.\nThe mud stuck to his shoes.", "target": "effect"}
+{"id": "task828-68eb57a01aa5419c822dc264a7104305", "input": "The police aimed their weapons at the fugitive.\nThe fugitive dropped his gun.", "target": "effect"}
+{"id": "task828-79d416ee3f7e4d49b804d56bb9ef9b6d", "input": "The man signed the document.\nThe transaction became official.", "target": "effect"}
+{"id": "task828-4658dfc2156c4fcc8efb3eb2db375f0e", "input": "The cook stirred the ingredients in the bowl.\nThe ingredients blended together.", "target": "effect"}
+{"id": "task828-b3dc946ae55c4fe2be150620c3268ceb", "input": "The offender violated parole.\nShe was sent back to jail.", "target": "effect"}
+{"id": "task828-601e06ff2d664f659adab4e23bd8fcc2", "input": "I folded the paper.\nThe paper creased.", "target": "effect"}
+{"id": "task828-a6b2960a9b8e411fab1014cec91bfeb1", "input": "The bananas ripened.\nWe ate them.", "target": "effect"}
+{"id": "task828-dc1e384b76b644448df21064d8c6a218", "input": "The boy studied all night.\nHe passed the exam.", "target": "effect"}
+{"id": "task828-7820d2cfa44b41d49a09e23b6d3510c9", "input": "A meteorite landed in the ocean.\nA tsunami occurred.", "target": "effect"}
+{"id": "task828-f3ffbc070142424cb669fa74ee925a61", "input": "The woman shivered as she got out the pool.\nShe wrapped herself in a towel.", "target": "effect"}
+{"id": "task828-cba9920bd1ff4239a361d0950531fcbe", "input": "The seasons changed from summer to autumn.\nLeaves fell from the trees.", "target": "effect"}
+{"id": "task828-eac40f7cd4054989b2bd78053a844745", "input": "I spilled wine on my shirt.\nI changed my shirt.", "target": "effect"}
+{"id": "task828-a7f5da274a3c4d39a08bd41e119ccf09", "input": "The man extended his hand to me.\nI shook his hand.", "target": "effect"}
+{"id": "task828-a05723902bd34414960f539cd27423f0", "input": "A drought occurred in the region.\nThe crops perished.", "target": "effect"}
+{"id": "task828-386fe7bfd9b348a3be623467c34425ba", "input": "I pushed the pendulum.\nIt swung back and forth.", "target": "effect"}
+{"id": "task828-078ea309304d420cbfd1685984f2d16c", "input": "The woman spotted her friend from across the room.\nThe woman waved.", "target": "cause"}
+{"id": "task828-926a3b6f6d3c46189a28396245a99c44", "input": "I stood on one foot.\nMy balance wavered.", "target": "effect"}
+{"id": "task828-4beba50674f84bb88146772e4dec4037", "input": "The man read the cartoon in the newspaper.\nHe chuckled.", "target": "effect"}
+{"id": "task828-c7bbabd446c34b01b709cf0543772095", "input": "I approached the man.\nHe looked familiar.", "target": "cause"}
+{"id": "task828-ec755f942f40466690b4b866702933f3", "input": "The woman had a religious awakening.\nShe began going to church.", "target": "effect"}
+{"id": "task828-9e2557df746d434db44b5f4fb6f93218", "input": "I pushed the gas pedal.\nThe car accelerated.", "target": "effect"}
+{"id": "task828-9ef989a1811840a8b2e5b7da3c7c68b1", "input": "I tipped the bottle.\nThe liquid in the bottle poured out.", "target": "effect"}
+{"id": "task828-c75733ba03fa4e8e8eeb43e494e7117c", "input": "The man quit smoking.\nHe began exercising more.", "target": "effect"}
+{"id": "task828-f826c6d2b4d04cb493df384220682ca0", "input": "The CEO of the company resigned.\nThe board of directors found his replacement.", "target": "effect"}
+{"id": "task828-e584da76cbe34bd1ade686d39533041f", "input": "The bodybuilder lifted weights.\nHer muscles became fatigued.", "target": "effect"}
+{"id": "task828-bddc15ef4e36412380acbd0eef29494b", "input": "The DJ turned the music on.\nPeople began to dance.", "target": "effect"}
+{"id": "task828-d8fdc10e581c48818f83b98f15e7888d", "input": "The girl flashed a smile.\nHer dimples showed.", "target": "effect"}
+{"id": "task828-80032f21730944d08f869259fe37178f", "input": "I burst into a fit of laughter.\nMy eyes welled up with tears.", "target": "effect"}
+{"id": "task828-90a9ca8f0f9a4f798c2052ae1dc196a3", "input": "My grandmother passed away.\nMy family held a funeral.", "target": "effect"}
+{"id": "task828-3b754d5943c74144b06f1f56bc7efb40", "input": "Several witnesses of the crime testified against the suspect.\nThe suspect was convicted.", "target": "effect"}
+{"id": "task828-8c07683904014df3a98bfe35ff26d687", "input": "The ring on my finger got stuck.\nMy finger swelled.", "target": "cause"}
+{"id": "task828-882fe37a7d2b4d79b77f88ca456d47a1", "input": "The woman retired.\nShe received her pension.", "target": "effect"}
+{"id": "task828-62ed555d14fe48a5973f1052e356dfc1", "input": "The dog eyed the juicy steak on the table.\nIt drooled.", "target": "effect"}
+{"id": "task828-9433723915ef4d19bd8425e0e0ad38ce", "input": "The man caught his shirtsleeve on the rungs of the fence.\nThe sleeve ripped.", "target": "effect"}
+{"id": "task828-d56c765da4a0478b8523131f2edf811d", "input": "The group overlooked the woman's faux pas.\nThe woman was relieved.", "target": "effect"}
+{"id": "task828-c8d6b5ff36be4a12ba141b4bf37698ef", "input": "The weightlifter grunted.\nHe lifted the bar over his head.", "target": "cause"}
+{"id": "task828-cbab5cf35b624cf7bcb4cb38a472b8e4", "input": "The ripe fruit lingered in the sun.\nIt shriveled up.", "target": "effect"}
+{"id": "task828-d9a21bec98ce42e8a2facf1fd413990a", "input": "The seamstress pushed the threaded needle into the fabric.\nThe thread went through the fabric.", "target": "effect"}
+{"id": "task828-03bc859a7a194942aa62a56b998cc264", "input": "The boy turned the lid on the jar.\nThe lid came off.", "target": "effect"}
+{"id": "task828-3ea741fdd6e74871bdb5e78047ac1129", "input": "The man closed the umbrella.\nHe approached the building.", "target": "cause"}
+{"id": "task828-c31985d7d7ac46119ec6dbcd9d7d14e1", "input": "The boaters set off a flare.\nTheir boat was rescued.", "target": "effect"}
+{"id": "task828-591d551f15c74f95a98a2682d03174f5", "input": "The child kicked the stack of blocks.\nThe blocks scattered all over the rug.", "target": "effect"}
+{"id": "task828-c89fcfea55a646119be058ca2668afd2", "input": "I worked out at the gym yesterday.\nI woke up today with sore muscles.", "target": "effect"}
+{"id": "task828-c1ca148230b942d2ac66ec4a8d86aea4", "input": "The fortune teller's revelations were convincing.\nShe received many returning customers.", "target": "effect"}
+{"id": "task828-68c3299d37e2474a8e0e1c8a8c5af3df", "input": "The child sprinkled fish food into the tank.\nThe fish swam towards the food.", "target": "effect"}
+{"id": "task828-6e2f3dc6cb644e1aa140d62ccd4f32c7", "input": "The woman claimed she saw a ghost.\nHer acquaintances expressed skepticism.", "target": "effect"}
+{"id": "task828-1fc4fb48a79e4e3d8e00115d00eb302b", "input": "The man obtained a degree.\nHe became qualified for the job he wanted.", "target": "effect"}
+{"id": "task828-81236bfdf80444d98ae27976be02d8cc", "input": "I pounded the nail with the hammer.\nThe nail sunk into the wood.", "target": "effect"}
+{"id": "task828-f40091a820514d3ebf47856cb87f5d00", "input": "The man stained his suit.\nHe got it dry-cleaned.", "target": "effect"}
+{"id": "task828-d274c90be7f14d7dbd63d1a6eb81bae5", "input": "The man dropped food on the floor.\nHis dog ran over to eat the food.", "target": "effect"}
+{"id": "task828-fe9fe97d3c3a49e8ba3325d95347f8be", "input": "The girl dropped the rubber ball.\nThe ball bounced.", "target": "effect"}
+{"id": "task828-47f2fcd420e8474790691f66f6203d26", "input": "The detective flashed his badge to the police officer.\nThe police officer let the detective enter the crime scene.", "target": "effect"}
+{"id": "task828-a9c081ed30264e6fb0bbeaf5bfa42b93", "input": "The terrorist set off the bomb.\nThe bomb exploded.", "target": "effect"}
+{"id": "task828-0cfc93bc9c6f4e9bba7ee8d69bb24966", "input": "The woman lingered in the bathtub.\nThe bathwater became lukewarm.", "target": "effect"}
+{"id": "task828-b704e6bb81364c80b15a0ebe27cc0091", "input": "The cowgirl threw her lasso towards the horse.\nThe lasso grabbed onto the horse.", "target": "effect"}
+{"id": "task828-a61c99b38c7945edb374c6f918e84070", "input": "The teacher assigned homework to the students.\nThe students groaned.", "target": "effect"}
+{"id": "task828-602ef10d39ed43c0a3f7520b40b7f09a", "input": "My friend's dog died.\nI gave him a hug.", "target": "effect"}
+{"id": "task828-9131e1e744e646dba6f603245bbb1a2b", "input": "The man and woman fell in love.\nThey got married.", "target": "effect"}
+{"id": "task828-b97e1ccb906643d1b9e00498bf2beda5", "input": "Steam rose off of the pot of water.\nThe water boiled.", "target": "cause"}
+{"id": "task828-d9ce363d0cdb42c1a215ba6de4699270", "input": "The secretary put the caller on hold.\nThe caller waited on the line.", "target": "effect"}
+{"id": "task828-f57dfb8c31a24c9c9ea180a773bd3b19", "input": "The man dressed in his best suit.\nHe scheduled a meeting with an important client.", "target": "cause"}
+{"id": "task828-5bd6dda0a2c84f1bb17ea3d7e36472a8", "input": "The passengers got off the train.\nThe train arrived at the station.", "target": "cause"}
+{"id": "task828-c2b611fb23e24e0487ba419cc1c2d274", "input": "I walked barefoot on the beach.\nSand stuck to my feet.", "target": "effect"}
+{"id": "task828-b92310f44d52449db843b3b1ad4e709a", "input": "I pressed my hand into the wet cement.\nMy handprint dried in the cement.", "target": "effect"}
+{"id": "task828-8ba3182116ff49639a97b46a5b96aba3", "input": "The criminal aimed the gun at his victim.\nThe victim put his hands up.", "target": "effect"}
+{"id": "task828-196f0772ea5c41b1beb9aa307738e3e5", "input": "A tornado came through the town.\nThe roof of the courthouse blew off.", "target": "effect"}
+{"id": "task828-e133d43005774e65a8d9f3e0c8d17e9e", "input": "I finished a page of the book.\nI turned to the next page.", "target": "effect"}
+{"id": "task828-c7fd0c3beb4d4251b36a2d1f7d1d7e42", "input": "The nation endured a natural disaster.\nLeaders of other countries sent emergency relief.", "target": "effect"}
+{"id": "task828-f07f35a664e14a558e5c1aad0409e242", "input": "The player hit the ball toward the hole.\nThe ball went in the hole.", "target": "effect"}
+{"id": "task828-a64b7b8ae1604644ad53933f0a508832", "input": "The man turned on the faucet.\nWater flowed from the spout.", "target": "effect"}
+{"id": "task828-7c72b9ae602c4ffbb9136feea354cf5f", "input": "I drank a cup of coffee.\nMy yawning ceased.", "target": "effect"}
+{"id": "task828-bcc22e814a5f407aa807f866dc25eee8", "input": "We ordered a pizza.\nThe pizza was delivered.", "target": "effect"}
+{"id": "task828-1626a5bca09a445482b2ad4192ecbd9d", "input": "The fugitive hid from the police.\nThe fugitive remained at large.", "target": "effect"}
+{"id": "task828-6944b84ca69f473f9113cffbc847fea6", "input": "The woman won the lottery.\nShe bought a yacht.", "target": "effect"}
+{"id": "task828-1134313698ca4474813a7b90dbe933e9", "input": "The woman and her boyfriend got into a fight.\nThey stopped seeing each other.", "target": "effect"}
+{"id": "task828-5c8b384558b041bc928b3c8ba4375444", "input": "The woman had a sore throat.\nHer voice sounded raspy.", "target": "effect"}
+{"id": "task828-c39771e75d6a424fb9970903d6bfc7be", "input": "I baked an apple pie.\nA warm aroma filled the kitchen.", "target": "effect"}
+{"id": "task828-8802d82599e8454fb499210a68ab9efa", "input": "The child learned how to read.\nHe began attending school.", "target": "cause"}
+{"id": "task828-a9605172054f4aa38dab80c165e8327d", "input": "The vacationers took a ferry to the resort.\nThe resort was on an island.", "target": "cause"}
+{"id": "task828-06fa02854a484994aa1bfaefadaa3a26", "input": "I breathed in the dust in the attic.\nI sneezed.", "target": "effect"}
+{"id": "task828-7172403aeb95446081851bc1953915ff", "input": "The woman betrayed her friend.\nHer friend cut off contact with her.", "target": "effect"}
+{"id": "task828-0682641bc621433dad1d251e64296bc0", "input": "The ship wrecked.\nThe crew drowned.", "target": "effect"}
+{"id": "task828-e080a69f3abe4d2f84bda5651c7c6ef3", "input": "I bit into the peach.\nJuice spilled out.", "target": "effect"}
+{"id": "task828-4986e563d1b14290aacbd93d5f3be40d", "input": "The woman's business succeeded.\nShe became wealthy.", "target": "effect"}
+{"id": "task828-9ab36d870eee409cb733def865859964", "input": "I stomped on the aluminum can.\nThe can got crushed.", "target": "effect"}
+{"id": "task828-080ee06d04cf4376a72c2521972571f9", "input": "The employee's shift ended.\nHe went home for the day.", "target": "effect"}
+{"id": "task828-4d0ea0039872419c92845986de8e8d55", "input": "I apologized to my friend.\nMy friend forgave me.", "target": "effect"}
+{"id": "task828-9e075b381c094f1c915c44914014f092", "input": "The cat purred.\nI petted it.", "target": "cause"}
+{"id": "task828-59bc250b585444d099e55f420935118f", "input": "I refilled my water bottle.\nI drank all the water in it.", "target": "cause"}
+{"id": "task828-13ef95d1d302403ba49ef917f376d85b", "input": "The grape juice fermented.\nThe juice turned to wine.", "target": "effect"}
+{"id": "task828-9a904266d8dc4453a338cef807cd68c4", "input": "The girl found a bug in her cereal.\nShe lost her appetite.", "target": "effect"}
+{"id": "task828-92761776461948c0869f1204f885b88b", "input": "The tree branch landed in the river.\nThe branch moved downstream.", "target": "effect"}
+{"id": "task828-c74ae6ca4ca84b06b34d708a80d2dd12", "input": "I looked into the sun.\nThe sun blinded me.", "target": "effect"}
+{"id": "task828-9f95c488b893472696e227be6f05c1ee", "input": "The boy wore braces.\nHis teeth became straight.", "target": "effect"}
+{"id": "task828-904a57c8d11f40ac89df61ba54fb80d9", "input": "I pricked myself with the pin.\nA drop of blood formed on my finger.", "target": "effect"}
+{"id": "task828-6e3e1cb543c14329aca75cb7a9db5539", "input": "The woman awakened.\nHer husband was snoring.", "target": "cause"}
+{"id": "task828-6e45405afcda4fc4afb38c853bd6640a", "input": "I asked my friend for advice.\nI valued his opinion.", "target": "cause"}
+{"id": "task828-caba33ecf31b4427b67ac0b75bc4e988", "input": "I scratched my skin.\nIt felt itchy.", "target": "cause"}
+{"id": "task828-1b3c899f1c324acc9be958f504c5115b", "input": "The train slowed down.\nIt was approaching the station.", "target": "cause"}
+{"id": "task828-835aeeec8872493092aadca5bbc5f754", "input": "The nation's economy declined.\nMany people faced unemployment.", "target": "effect"}
+{"id": "task828-efc2a95e0d6d4d4cb8c51667474f3e77", "input": "I stirred the sugar into the hot tea.\nThe sugar dissolved.", "target": "effect"}
+{"id": "task828-6b6d0fd5e25641a2b9833b325010f638", "input": "The woman felt envious of her sister.\nHer sister was happy.", "target": "cause"}
+{"id": "task828-39a09116880247dbab2dc361d0c22ebc", "input": "The man closed the book.\nHe finished reading it.", "target": "cause"}
+{"id": "task828-279755b112bf4f5e85e7c33756d979fd", "input": "I set the paper towel on the spill.\nThe towel absorbed the liquid.", "target": "effect"}
+{"id": "task828-c86d8e8826524c0295c35a773aea02b0", "input": "The girl poked fun at the boy.\nShe had a crush on him.", "target": "cause"}
+{"id": "task828-099b435be6194ee6be1a1b0c99e028a6", "input": "The prisoner starved.\nHe died.", "target": "effect"}
+{"id": "task828-8ba392c031d24840b6543c70d5dd52b0", "input": "The man hit his head.\nHe got a concussion.", "target": "effect"}
+{"id": "task828-20611fd7fafe4e068802f19acf13939f", "input": "The team lost the tournament.\nThey disappointed their fans.", "target": "effect"}
+{"id": "task828-a66e2c6f88ff407ca6bfdafb61d2f832", "input": "I thought carefully about the problem.\nI came up with a solution.", "target": "effect"}
+{"id": "task828-5ed3d0b478ca4c6a86566ad115683893", "input": "The surfers returned to the beach.\nThey saw a shark.", "target": "cause"}
+{"id": "task828-4abf0ff95f014913a3cc82f9953f183d", "input": "The boy filled the bucket with sand.\nHe was building a sand castle.", "target": "cause"}
+{"id": "task828-7f37848d6f64415bb29e674a99945570", "input": "Everyone in the class turned to stare at the student.\nThe student's phone rang.", "target": "cause"}
+{"id": "task828-d08e84f9e26a4963b45c66d13a2afa72", "input": "I nodded my head at my friend's statement.\nI agreed with him.", "target": "cause"}
+{"id": "task828-7bfcdebf7a6b4ea1856f840e1e9094a4", "input": "The girl made a wish.\nShe saw a shooting star.", "target": "cause"}
+{"id": "task828-0dc7c86ccc5f404f844ca1852cd245a3", "input": "A hole ripped in my jeans.\nI tripped on the pavement.", "target": "cause"}
+{"id": "task828-2735fa9884394a35ad661661e79b2412", "input": "I struck the match.\nThe match produced a flame.", "target": "effect"}
+{"id": "task828-63a175db013e49ddb5757cd60a95a047", "input": "I added sugar to the coffee.\nThe coffee tasted sweet.", "target": "effect"}
+{"id": "task828-c3302bcb5d61406cb23613046137ae50", "input": "My computer crashed.\nI lost all my data.", "target": "effect"}
+{"id": "task828-4f9aecdb2d3a460cb3e4d42fbbe829fe", "input": "I hung up the phone.\nThe caller said goodbye to me.", "target": "cause"}
+{"id": "task828-9e2e14968a4b4677aaecb52970547fb0", "input": "I turned on the fan.\nI felt cool air pass over me.", "target": "effect"}
+{"id": "task828-552a14b29d25425fb7d72358ce075e7f", "input": "The car ran out of gas.\nThe driver was stranded on the road.", "target": "effect"}
+{"id": "task828-2b806dddd5184c139e9b231ed1b57460", "input": "Books fell out of the bookcase.\nAn earthquake shook the bookcase.", "target": "cause"}
+{"id": "task828-c7bc7ceb7fe5441b97256ab8621d56a9", "input": "The swimmer won the race.\nShe received a gold medal.", "target": "effect"}
+{"id": "task828-3d3c8496fe544001ba2e97fe1c651aa7", "input": "A cold draft came in through the window.\nI shivered.", "target": "effect"}
+{"id": "task828-034a834dc3954fa0b3331aea15d9841f", "input": "The town received several inches of snow.\nSchools shut down.", "target": "effect"}
+{"id": "task828-3c222d478f2a49128f3406c64ecd1c85", "input": "I missed the bus.\nI was late to work.", "target": "effect"}
+{"id": "task828-0ec5dca7d6a64c7382c88a8ff7219c85", "input": "The doctor x-rayed the patient's arm.\nHe discovered that the patient's arm was broken.", "target": "effect"}
+{"id": "task828-879f13f08b60478cb5848ebf442541fc", "input": "The man drank heavily at the party.\nHe had a headache the next day.", "target": "effect"}
+{"id": "task828-25881971d33941eb9d5cef90069bd5a9", "input": "The competition ended.\nThe teams shook hands.", "target": "effect"}
+{"id": "task828-94bfcbccd8e0494fa8bd384bb241560e", "input": "I put ice cubes in the hot soup.\nThe soup cooled down.", "target": "effect"}
+{"id": "task828-b4d408778a24495fb27a9cb344814fd1", "input": "The girl performed in a dance recital.\nHer parents came to watch the recital.", "target": "effect"}
+{"id": "task828-74fecff8d56942938a412fa030c6d370", "input": "I twisted the cap off the soda bottle.\nThe soda fizzed.", "target": "effect"}
+{"id": "task828-5ad3215981d0485b989cff192cdccf3a", "input": "The magnet attracted the paperclip.\nThe paperclip stuck to the magnet.", "target": "effect"}
+{"id": "task828-3e52078133074e5a8c3a07f63c29c080", "input": "A tree fell on the power line.\nThe electricity in the neighborhood went out.", "target": "effect"}
+{"id": "task828-fce009d5fd2a4539800a3b68f1ada608", "input": "The navy bombed the ship.\nThe ship's debris sunk in the sea.", "target": "effect"}
+{"id": "task828-0d5a99bb3e5844019f657151c105fa16", "input": "The woman pressed down on the piano key.\nA sound played.", "target": "effect"}
+{"id": "task828-d5cfd11103404292bac06b2a2bcf8611", "input": "The woman was staring at me.\nI felt uncomfortable.", "target": "effect"}
+{"id": "task828-bef201ecf2fe418ebde8af3c9f55532a", "input": "I had to wait in line.\nI skimmed a magazine.", "target": "effect"}
+{"id": "task828-1cf123d5399749ff89979cb8c9b046cb", "input": "The man lost his balance on the ladder.\nHe fell off the ladder.", "target": "effect"}
+{"id": "task828-566b1571e4914513aea41b1eebd147c9", "input": "The teenager was embarrassed to go to school.\nShe got a pimple.", "target": "cause"}
+{"id": "task828-ccbfce48424847d6ba870be49117205f", "input": "I rubbed sandpaper on the wood.\nThe wood became smooth.", "target": "effect"}
+{"id": "task828-d4560e1382a14d28a14395172c00e7d0", "input": "The woman went into labor.\nThe baby was delivered.", "target": "effect"}
+{"id": "task828-6ecc0975cc0e40a8933522b039f15f2f", "input": "The couple was happy to see each other.\nThey kissed.", "target": "effect"}
+{"id": "task828-ccaa3a510f03488caea3f1908b386674", "input": "The woman stomped on the flames.\nThe flames went out.", "target": "effect"}
+{"id": "task828-225e8348923e471cbeaf9cde88e75c42", "input": "Termites invaded the house.\nThe termites ate through the wood in the house.", "target": "effect"}
+{"id": "task828-2955bef462564a0d93c6d1301d9e38da", "input": "The driver pulled over to the side of the road.\nHe noticed a stranded vehicle.", "target": "cause"}
+{"id": "task828-916543a8603a4f6c95871ddc61c0bbf2", "input": "I stayed up late.\nI was tired in the morning.", "target": "effect"}
+{"id": "task828-fbc91bfde71d474ead5160318ce7f244", "input": "A burglar broke into the house.\nThe security alarm went off.", "target": "effect"}
+{"id": "task828-e1a39191327e45448613057e3ea3fe07", "input": "The man looked at his watch.\nHe realized he was early.", "target": "effect"}
+{"id": "task828-6c25dee9e1e34f0594c54731ce324ae2", "input": "The boy tuned the radio.\nThe station was coming in with static.", "target": "cause"}
+{"id": "task828-d1eff48d24ca42e5bd12ee36dd9dbb16", "input": "The boy climbed the tree.\nA cat got stuck in the tree.", "target": "cause"}
+{"id": "task828-b8dbf48b5da546fea55831beaa01e3e2", "input": "The woman was deemed mentally ill.\nShe was sent to a psychiatric institution.", "target": "effect"}
+{"id": "task828-6dbc9a6cc57541669e68db7904ce351f", "input": "The benefactor requested to stay anonymous.\nHe wanted to maintain his privacy.", "target": "cause"}
+{"id": "task828-eabb606170f241949b43cb442b045833", "input": "The climbers reached the peak of the mountain.\nThey congratulated each other.", "target": "effect"}
+{"id": "task828-c1263f2266b04f65be882dce1b142bba", "input": "The woman presented her brother with a gift.\nHer brother unwrapped the gift.", "target": "effect"}
+{"id": "task828-5f07c312ae434e4a8e925d1782c59b6e", "input": "The security guard replayed the surveillance footage.\nHe noticed some suspicious activity.", "target": "cause"}
+{"id": "task828-75297ae9f9ef49e4a4d59a1368fb7baa", "input": "I moved to a new city.\nI found a better-paying job.", "target": "cause"}
+{"id": "task828-5aec8f61b8cf48d38d1fb82e0a40b03f", "input": "I took a sip of the scalding coffee.\nI burnt my tongue.", "target": "effect"}
+{"id": "task828-b35b178ea82c48b785cd8ecce053be5e", "input": "The public figure got out of the limousine.\nCameras flashed in his direction.", "target": "effect"}
+{"id": "task828-3c6bf7eb86704f60a70ba14618cf4d31", "input": "I chugged the pitcher of water.\nI ran five miles.", "target": "cause"}
+{"id": "task828-b2c67718a88e46c29b6476c35e8f5d4c", "input": "I slept through my alarm.\nI missed breakfast.", "target": "effect"}

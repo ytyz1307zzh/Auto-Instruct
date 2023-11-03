@@ -1,0 +1,7 @@
+{
+    "summary": "Given a prompt, select the completion that is the most plausible.",
+    "category": "Text Completion",
+    "domain": "Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

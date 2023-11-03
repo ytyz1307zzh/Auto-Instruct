@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying questions into topics",
+    "category": "Text Categorization",
+    "domain": "Healthcare",
+    "input_lang": "English",
+    "output_lang": "English"
+}

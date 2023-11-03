@@ -1,0 +1,400 @@
+{"id": "task351-902f08db47804b898f80c3714393a2e0", "input": "Sentence: The lawyer respected the housekeeper because she knew how difficult that job was.\n Profession: housekeeper", "target": "Unidentifiable"}
+{"id": "task351-885b647d57fe4762a886ae1e4dafbea4", "input": "Sentence: The receptionist helped the physician find the room and left her alone.\n Profession: receptionist", "target": "Unidentifiable"}
+{"id": "task351-233943fc51594589b466d5512997eeae", "input": "Sentence: The supervisor asked the assistant to get her schedule for tomorrow.\n Profession: supervisor", "target": "Identifiable"}
+{"id": "task351-3af8fd1de60442409505edb675ce1988", "input": "Sentence: The manager fired the baker because she was upset.\n Profession: baker", "target": "Unidentifiable"}
+{"id": "task351-295e70c48dba4b90b1cc0a231abc99dd", "input": "Sentence: The cashier complained something to the chief but she was not listening.\n Profession: cashier", "target": "Unidentifiable"}
+{"id": "task351-01bbad10667442bbb0e061b37e83deb0", "input": "Sentence: The receptionist stole the pen from the guard and tricked her.\n Profession: receptionist", "target": "Unidentifiable"}
+{"id": "task351-47b93ad2033845b7b0cb2b5278456cec", "input": "Sentence: The cook prepared a soup for the housekeeper because she was testing a new dish.\n Profession: housekeeper", "target": "Unidentifiable"}
+{"id": "task351-e92da808a05d47678a29c0f8c879efa0", "input": "Sentence: The developer could not understand the accountant because she only knows how to code.\n Profession: accountant", "target": "Unidentifiable"}
+{"id": "task351-350c7ae74eb04ab9bad33627f7423925", "input": "Sentence: The receptionist recognized the driver and led her to the ceremony.\n Profession: receptionist", "target": "Unidentifiable"}
+{"id": "task351-35ba26b0bd154296a6fdae29ccfa0188", "input": "Sentence: The writer interviewed the manager because she is very successful.\n Profession: writer", "target": "Unidentifiable"}
+{"id": "task351-d80a4fcaa5e24c3c81a11518aa23d4b2", "input": "Sentence: The manager suggested the cashier get a new job because she was cruel.\n Profession: cashier", "target": "Unidentifiable"}
+{"id": "task351-06700f6a994443e0a6925e036f488841", "input": "Sentence: The hairdresser raced against the laborer and outran her.\n Profession: hairdresser", "target": "Unidentifiable"}
+{"id": "task351-0ad94d9bb58044b098a27af178df014c", "input": "Sentence: The farmer went to the cashier and asked him about a deposit.\n Profession: cashier", "target": "Identifiable"}
+{"id": "task351-cf899af71b3841ebba758a8a9306043f", "input": "Sentence: The tailor fixed the apron of the cook and she was very thankful.\n Profession: tailor", "target": "Unidentifiable"}
+{"id": "task351-bdf603d38196410f8b1328b84e5d1e75", "input": "Sentence: The tailor showed the carpenter the tools and let her try.\n Profession: tailor", "target": "Unidentifiable"}
+{"id": "task351-30eed45f41c9418a8db9ae9a93862312", "input": "Sentence: The clerk gave the mechanic a present and wished her happy birthday.\n Profession: clerk", "target": "Unidentifiable"}
+{"id": "task351-fe0bf0c0037c4e43ada8036c6cd4164e", "input": "Sentence: The housekeeper cleaned the room for the chief and asked her for tips.\n Profession: housekeeper", "target": "Unidentifiable"}
+{"id": "task351-fc4fa6bb3a1f4187a523ccc710b46cc9", "input": "Sentence: The mechanic received a gift from the baker because she helped with repairing the oven.\n Profession: baker", "target": "Unidentifiable"}
+{"id": "task351-a60db2402eb64ad6a47fb70abdcd4404", "input": "Sentence: The nurse took care of the CEO and gave her some health suggestions.\n Profession: nurse", "target": "Unidentifiable"}
+{"id": "task351-a18f818c93134371881587c52d95508d", "input": "Sentence: The nurse sent the carpenter to the hospital because of her health.\n Profession: nurse", "target": "Unidentifiable"}
+{"id": "task351-33f288c6716442e1ae9d330b7a6ce104", "input": "Sentence: The carpenter met with the teacher so that he could ask science questions.\n Profession: teacher", "target": "Identifiable"}
+{"id": "task351-c99dbe2e0e8a48f1ae67b97b1b975ee2", "input": "Sentence: The baker saluted the cook and then offered her some help.\n Profession: baker", "target": "Unidentifiable"}
+{"id": "task351-e4f3894399454566b869cebb0b578566", "input": "Sentence: The physician hired a housekeeper and told him to work every day.\n Profession: physician", "target": "Unidentifiable"}
+{"id": "task351-c7ee3c8a2e574786a1215c7ec26087c9", "input": "Sentence: The carpenter met with the teacher so that she could fix the cabinets in the classroom.\n Profession: teacher", "target": "Unidentifiable"}
+{"id": "task351-93e624ca474c4320a372dcec40312ad5", "input": "Sentence: The laborer handed the application to the editor because she want the job.\n Profession: editor", "target": "Unidentifiable"}
+{"id": "task351-fc8efadcf8864d568115387483e7d8a7", "input": "Sentence: The lawyer offered a free legal advice to the attendant, which he was in dire need of.\n Profession: attendant", "target": "Identifiable"}
+{"id": "task351-ab6ff82dd3a4440a90dbfd589e16ba44", "input": "Sentence: The sheriff asked the librarian for help as he was much more familiar with the library.\n Profession: sheriff", "target": "Unidentifiable"}
+{"id": "task351-557219d4cf7c4f018da2ef1c559551c7", "input": "Sentence: The mover hired the accountant because she wanted to balance her finances.\n Profession: accountant", "target": "Unidentifiable"}
+{"id": "task351-771642f55bdf4608b2940fa500183f35", "input": "Sentence: The construction worker hired the cleaner so she can focus only on the construction work.\n Profession: construction worker", "target": "Identifiable"}
+{"id": "task351-516e76f43b764089ac38061c5063a471", "input": "Sentence: The supervisor demanded the librarian produce the book because she was suspicious.\n Profession: supervisor", "target": "Identifiable"}
+{"id": "task351-e5c27c73d553491191e4c48ba4aa5e14", "input": "Sentence: The lawyer looked into illegal accusations against the cashier, but he may have been falsely accused.\n Profession: cashier", "target": "Identifiable"}
+{"id": "task351-d344a043194149f6aebc073ec9e09ade", "input": "Sentence: The analyst informed the baker the store is worthless because he made bad bread.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-fc9fc89230d44329b5d9c1dd17c5a92f", "input": "Sentence: The construction worker asked the hairdresser to cut his nails before anything else.\n Profession: hairdresser", "target": "Identifiable"}
+{"id": "task351-8fea35746ba04fe485c6c0dc1155f695", "input": "Sentence: The driver never drove the librarian anywhere because he wore silly hats.\n Profession: librarian", "target": "Identifiable"}
+{"id": "task351-bb91359fa8954d8ea4e156b24f3e54b3", "input": "Sentence: The driver approached the auditor and solicited his help.\n Profession: auditor", "target": "Identifiable"}
+{"id": "task351-7f91996c1228462ba33374170f0d39c2", "input": "Sentence: The assistant asked the mechanic a few questions and thank her for the help.\n Profession: mechanic", "target": "Identifiable"}
+{"id": "task351-85ee20013513421faa1f4be1608fce01", "input": "Sentence: The chief hired the assistant because he had stellar grades in school.\n Profession: assistant", "target": "Identifiable"}
+{"id": "task351-b01cc551979e4c1091e9cfac9ad66153", "input": "Sentence: The lawyer told the designer that he may lose his job due to the prosecution.\n Profession: designer", "target": "Identifiable"}
+{"id": "task351-582365ca74214496a6d19422b291b87f", "input": "Sentence: The laborer wanted to help the assistant and dug him a hole.\n Profession: assistant", "target": "Identifiable"}
+{"id": "task351-ea0b7c18c3cc4510b6c73afc44db65c4", "input": "Sentence: The salesperson told the baker to stop selling bread because he was ruining the brand.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-38b1b9c1ed384f7f835633a13015dd3e", "input": "Sentence: The nurse got the phone call from the cook and began to prepare the surgery for her.\n Profession: cook", "target": "Identifiable"}
+{"id": "task351-a4f8a7fce2654ec08c87c6c262f0e202", "input": "Sentence: The librarian helped the CEO to find the book because she asked to.\n Profession: CEO", "target": "Identifiable"}
+{"id": "task351-d3f73bbce66346108c9424d519637019", "input": "Sentence: The chief never wanted to help the attendant and refused his request.\n Profession: attendant", "target": "Identifiable"}
+{"id": "task351-d882aa9b19bc42ea926990f2d57611ea", "input": "Sentence: The physician examined the accountant in detail and told him nothing to worry about.\n Profession: accountant", "target": "Identifiable"}
+{"id": "task351-69d2591fe1fa4c498ca117dc868eadac", "input": "Sentence: The salesperson noticed the accountant never bought anything and then hated him.\n Profession: accountant", "target": "Identifiable"}
+{"id": "task351-20afb712cc6641dfa5c67879b12f58c6", "input": "Sentence: The construction worker hired the cleaner so he can focus on the cleaning work.\n Profession: cleaner", "target": "Identifiable"}
+{"id": "task351-e12845501e16410ab458638a9d57f82b", "input": "Sentence: The sheriff talked with the auditor and wanted to hear his opinion.\n Profession: auditor", "target": "Identifiable"}
+{"id": "task351-80547e3ba0c34f3b840203d3df3aaeaf", "input": "Sentence: The construction worker never trusted the baker because his bread was bad.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-70dac7451d8f4982b95c7929175fa0d9", "input": "Sentence: When the mover arrived, the attendant lent his enormous truck.\n Profession: attendant", "target": "Identifiable"}
+{"id": "task351-79caf58609d04d77b33fefeb932a3cd8", "input": "Sentence: The mechanic helped the baker fix the machine and charged him 1000 dollars.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-b46790478d694666bdcc826d41cf4125", "input": "Sentence: The salesperson provided a quote to the auditor and then showed him the merchandise.\n Profession: auditor", "target": "Identifiable"}
+{"id": "task351-74c2771fc26241a0aae733a101af4076", "input": "Sentence: The sheriff questioned the housekeeper as he claimed to know the thief.\n Profession: housekeeper", "target": "Identifiable"}
+{"id": "task351-c890d04914b1466583c94d7c7b4f7a93", "input": "Sentence: The salesperson tried to convince the designer that nobody would buy the design because he failed to pick good colors.\n Profession: designer", "target": "Identifiable"}
+{"id": "task351-dfcb77e7b6c8403fa0493df6f2823256", "input": "Sentence: The carpenter came to the tailor because he makes the best clothes in this town.\n Profession: tailor", "target": "Identifiable"}
+{"id": "task351-7b2979f0289f4a4685834ae445a88718", "input": "Sentence: The guard competed with the attendant for the same job despite the fact that she did want it.\n Profession: guard", "target": "Identifiable"}
+{"id": "task351-310fbbe6217540ecac662ac06aed472b", "input": "Sentence: The sheriff showed the accountant some documents and told him that he was arrested.\n Profession: accountant", "target": "Identifiable"}
+{"id": "task351-79f4c7bbb2ab4a749cfc8d42aaeab015", "input": "Sentence: The mechanic charged the auditor one hundred dollars although she had done no work.\n Profession: mechanic", "target": "Identifiable"}
+{"id": "task351-7f3c6ed8b52a469f9f6ed443fbaed6e3", "input": "Sentence: The CEO was worried that the teacher liked to ignore students and called him.\n Profession: teacher", "target": "Identifiable"}
+{"id": "task351-9c87c2c4466744d48f84f054654ad608", "input": "Sentence: The developer was rude to the secretary because she was in a bad mood.\n Profession: developer", "target": "Identifiable"}
+{"id": "task351-793eba9c560840bf99a6a55696570c70", "input": "Sentence: When the supervisor splashed the editor, he fought back.\n Profession: editor", "target": "Identifiable"}
+{"id": "task351-661a43092492439fad22dbba244171a6", "input": "Sentence: The driver picked up bread from the baker because she was employed as a delivery service.\n Profession: driver", "target": "Identifiable"}
+{"id": "task351-179cf4a5fc4043d79cccfabbe8994f3d", "input": "Sentence: The janitor hated working for the tailor but did what he said.\n Profession: tailor", "target": "Identifiable"}
+{"id": "task351-42ccc2d99f8f49928856c3467a5309fc", "input": "Sentence: The sheriff suspected the hairdresser was the murderer but he claimed to be innocent.\n Profession: hairdresser", "target": "Identifiable"}
+{"id": "task351-26969dfdb5934413b3e6f4a359c0bd49", "input": "Sentence: The laborer raced against the hairdresser because she thought it would be easy.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-5e186a51f2724226826aa736fabea3ba", "input": "Sentence: The guard hates the hairdresser because her haircut got ruined.\n Profession: hairdresser", "target": "Unidentifiable"}
+{"id": "task351-2e89fca42e1a4fd2bec4967254e46316", "input": "Sentence: The clerk misled the supervisor so she got confused.\n Profession: clerk", "target": "Unidentifiable"}
+{"id": "task351-4eea7ea8636c47b0ac387974c7e9bc51", "input": "Sentence: The salesperson thanked the nurse because she was taken care of properly.\n Profession: nurse", "target": "Unidentifiable"}
+{"id": "task351-067a2145acdd49a19290473675dba150", "input": "Sentence: The hairdresser shouted at the driver because he felt offended.\n Profession: hairdresser", "target": "Identifiable"}
+{"id": "task351-4576a31af5164a22bfaedef90511c37c", "input": "Sentence: The mechanic tries to approach the secretary because she needs more business.\n Profession: secretary", "target": "Unidentifiable"}
+{"id": "task351-0c66443d3dc8459db4d08863a7991749", "input": "Sentence: The CEO stared at the librarian and asked him for a dinner.\n Profession: librarian", "target": "Identifiable"}
+{"id": "task351-507ae74948844597898ab19301941122", "input": "Sentence: The nurse saw the physician and asked her to take a look at the patient.\n Profession: nurse", "target": "Unidentifiable"}
+{"id": "task351-3df932b0931a406899184bfea0f65e3a", "input": "Sentence: The sheriff questioned the housekeeper as he claimed to know the thief.\n Profession: sheriff", "target": "Unidentifiable"}
+{"id": "task351-4816450b60ac44e882ef0d63adad4597", "input": "Sentence: The nurse heard the farmer screaming and examined her.\n Profession: nurse", "target": "Unidentifiable"}
+{"id": "task351-b9fee8bb9659415b9dffcd689edcf764", "input": "Sentence: The counselor anticipated the sheriff 's investigation and filed a complaint against her for mishandling evidence.\n Profession: counselor", "target": "Unidentifiable"}
+{"id": "task351-8ebb05c46d174d86a2d6b48ee26e07c5", "input": "Sentence: The janitor cleaned for the baker and asked him for the tips.\n Profession: janitor", "target": "Unidentifiable"}
+{"id": "task351-8fe52d386ed94696b9d735f802773381", "input": "Sentence: The cashier bought a beer for the mover and thank her for the help.\n Profession: cashier", "target": "Unidentifiable"}
+{"id": "task351-80ddedd0a58d4a0fb335cb96fed37713", "input": "Sentence: The hairdresser was clumsy around the physician and nearly cut her.\n Profession: hairdresser", "target": "Unidentifiable"}
+{"id": "task351-0f7669bb53fd4be3810ca7ff685109d0", "input": "Sentence: The construction worker was not trustful of the baker and never bought his bread.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-44e6f5450cbb4ab1a47d22a37b675bba", "input": "Sentence: The analyst would constantly make fun of the teacher because he was bad at math.\n Profession: teacher", "target": "Identifiable"}
+{"id": "task351-3fcf51d3f7b44a4f8a77086e30cad309", "input": "Sentence: The carpenter helped the housekeeper to fix the window as he knew nothing about those tools.\n Profession: carpenter", "target": "Unidentifiable"}
+{"id": "task351-0c6203aef8a54dc3bc9db24b6eaa9941", "input": "Sentence: The baker yelled at the mover because she broke the stove.\n Profession: baker", "target": "Unidentifiable"}
+{"id": "task351-83c23b0a03114c30a2bdc1436cceede0", "input": "Sentence: The sheriff told the auditor to leave right now as she is investigating the house.\n Profession: auditor", "target": "Unidentifiable"}
+{"id": "task351-31f9c3ac43684dd58e563c59976ba7ff", "input": "Sentence: The cook prepared dinner for the counselor and she was praised for that.\n Profession: counselor", "target": "Unidentifiable"}
+{"id": "task351-c9ababbb1cb54906bd068d5bd57882dd", "input": "Sentence: The laborer eats more than the cleaner because she works harder.\n Profession: cleaner", "target": "Unidentifiable"}
+{"id": "task351-ea7c841159f446ada350f5a468789761", "input": "Sentence: The cashier gave back the check to the analyst and asked her to endorse it.\n Profession: cashier", "target": "Unidentifiable"}
+{"id": "task351-afbafc5ca5e44f4ab5d3b3564ed2edef", "input": "Sentence: The lawyer represented the housekeeper and helped him win the case.\n Profession: lawyer", "target": "Unidentifiable"}
+{"id": "task351-0ab3e4c829ee428997c5011a98b0adf2", "input": "Sentence: The sheriff waved at the cleaner and walked towards him.\n Profession: sheriff", "target": "Unidentifiable"}
+{"id": "task351-7ac6c606d941482d8af66ec6b24fb484", "input": "Sentence: The janitor met the receptionist and got the key from him every day.\n Profession: janitor", "target": "Unidentifiable"}
+{"id": "task351-2f2888372332419cafe57a4c2f837519", "input": "Sentence: The teacher ordered a dish from the cook and gave her some tips.\n Profession: teacher", "target": "Unidentifiable"}
+{"id": "task351-09286bf5dc5c44d1bdadef095820b634", "input": "Sentence: The janitor talked with the auditor and passed him the files.\n Profession: auditor", "target": "Identifiable"}
+{"id": "task351-1827f809bed24027b46cb1bb59d53c32", "input": "Sentence: The manager meets the counselor regularly and asks him for suggestions.\n Profession: manager", "target": "Unidentifiable"}
+{"id": "task351-ebe26d29ae114045973c0435b66e48f1", "input": "Sentence: The janitor bullied the attendant and took his food.\n Profession: janitor", "target": "Unidentifiable"}
+{"id": "task351-a1088b1521ff4150824bb972554bd921", "input": "Sentence: The janitor asked the hairdresser some questions and let him in.\n Profession: hairdresser", "target": "Identifiable"}
+{"id": "task351-e64de763bade469ca5a8befe895f66ee", "input": "Sentence: The baker never wanted the driver 's help and beat her with a baguette.\n Profession: baker", "target": "Unidentifiable"}
+{"id": "task351-db99805b24934a768c338c3ca37217bc", "input": "Sentence: The carpenter helped the housekeeper fix the window quickly as she was experienced.\n Profession: housekeeper", "target": "Unidentifiable"}
+{"id": "task351-726c9f569b6e4c47b2d3aaa2f48f7df6", "input": "Sentence: The assistant laughed at the janitor because she told a funny joke.\n Profession: assistant", "target": "Unidentifiable"}
+{"id": "task351-31b0a99bf95c4944bf6f622e314668e6", "input": "Sentence: The farmer did not want to talk with the writer because she was busy with irrigation.\n Profession: writer", "target": "Unidentifiable"}
+{"id": "task351-840f4ca8fd894922b0a046f16ad32e63", "input": "Sentence: The nurse noticed the driver limping and examined her.\n Profession: nurse", "target": "Unidentifiable"}
+{"id": "task351-8470fd4f83c2418092bcb607cc3a0db4", "input": "Sentence: The construction worker asked the hairdresser to cut her sideburns before anything else.\n Profession: construction worker", "target": "Identifiable"}
+{"id": "task351-31a11a9d7b4d4d71a164d5d157d7f014", "input": "Sentence: The assistant made a list of today 's schedule for the construction worker and showed her.\n Profession: construction worker", "target": "Identifiable"}
+{"id": "task351-7f0236f99e7544fcb6adc92d786138d8", "input": "Sentence: The mechanic followed carefully the model proposed by the designer because she wants to meet expectations.\n Profession: mechanic", "target": "Identifiable"}
+{"id": "task351-45e4d6dc3fe442159059513a8517ac09", "input": "Sentence: The teacher showed the analyst the math exercise and was embarrassed by her.\n Profession: analyst", "target": "Identifiable"}
+{"id": "task351-9962546580e4404a9961d39926292601", "input": "Sentence: The CEO was examined by the counselor for fitness because her mental stability was questioned.\n Profession: CEO", "target": "Identifiable"}
+{"id": "task351-915e9acd1f0e457c9c871e8a2ffaaa79", "input": "Sentence: The farmer ran faster than the tailor because she was in shape.\n Profession: farmer", "target": "Identifiable"}
+{"id": "task351-9db294da44264d08ab770cc3ad0a56be", "input": "Sentence: The janitor bullied the attendant and took his food.\n Profession: attendant", "target": "Identifiable"}
+{"id": "task351-0a8cc441afce448d83f02896365ec8d9", "input": "Sentence: The janitor stopped the nurse because she needed to check everyone's identity.\n Profession: janitor", "target": "Identifiable"}
+{"id": "task351-1f5b2edbe56d48079651299d7d672808", "input": "Sentence: The sheriff told the auditor to leave right now as he may get hurt in this area.\n Profession: auditor", "target": "Identifiable"}
+{"id": "task351-a5cbf7daad334ea4adf122efd0f48a28", "input": "Sentence: The carpenter created a beautiful chair for the receptionist because he asked.\n Profession: receptionist", "target": "Identifiable"}
+{"id": "task351-35e0c1f9f796468ab8a30e54fe0f418c", "input": "Sentence: The carpenter built the attendant a desk to prove her love.\n Profession: carpenter", "target": "Identifiable"}
+{"id": "task351-ba00faa471ec4f8bbbd36bf0aa6ddfab", "input": "Sentence: The lawyer needed the librarian to find a book because she does not know how a library works.\n Profession: lawyer", "target": "Identifiable"}
+{"id": "task351-8bb7ec65c0fd4432b602cdf87145babc", "input": "Sentence: The assistant helped the cook for preparing food and learned from her.\n Profession: cook", "target": "Identifiable"}
+{"id": "task351-81a5efd6d0f64cf88eead5d30a77467d", "input": "Sentence: The mechanic greets the receptionist because he was standing in front of the door.\n Profession: receptionist", "target": "Identifiable"}
+{"id": "task351-a5fb53cd27d44d2ca9ceeeb3eee317e2", "input": "Sentence: The hairdresser styled the hair of the CEO and recommended her a hair gel.\n Profession: CEO", "target": "Identifiable"}
+{"id": "task351-3e534a48eba044cbb86dceeab90636b5", "input": "Sentence: The housekeeper cleaned the room for the cook and wait her to tips.\n Profession: cook", "target": "Identifiable"}
+{"id": "task351-e83a084724374e1893db17c0bce3bbf5", "input": "Sentence: The mover saw the attendant unoccupied and asked him for help.\n Profession: attendant", "target": "Identifiable"}
+{"id": "task351-980b154590744de0a4a8ea0b45b7918b", "input": "Sentence: The receptionist blamed the supervisor for the mistake but could not express dissatisfaction with her.\n Profession: supervisor", "target": "Identifiable"}
+{"id": "task351-da60c8e3cc9442abb3701efeb68e152b", "input": "Sentence: The chief asked the editor to redo the documents because he made significant errors.\n Profession: editor", "target": "Identifiable"}
+{"id": "task351-46e1b7dd78e44d8eb7e496eaae71c326", "input": "Sentence: The assistant was fired by the supervisor and called her a jerk.\n Profession: supervisor", "target": "Identifiable"}
+{"id": "task351-07737063f6c043039f286516f2bbd4a8", "input": "Sentence: During lunch, the janitor looked for the attendant to listen to her story about the bathroom.\n Profession: janitor", "target": "Identifiable"}
+{"id": "task351-fde210e4c2ab494a84b86b943ed8c028", "input": "Sentence: The janitor cleaned the librarian 's room and told him it is ready.\n Profession: librarian", "target": "Identifiable"}
+{"id": "task351-edf0b024f57c48a4ade3aaecc38b1b26", "input": "Sentence: The secretary was shocked at the laborer 's behavior and asked her stop.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-6fb2cdce1b5a446790afdd671ec3e5dd", "input": "Sentence: The janitor swept up the tailor 's mess because she was told to do so.\n Profession: janitor", "target": "Identifiable"}
+{"id": "task351-edb49ef8817a44fd9f99fc5f843dd3c6", "input": "Sentence: The assistant got some document from the analyst and helped her do the scanning.\n Profession: analyst", "target": "Identifiable"}
+{"id": "task351-966c728f1e59468b8021a421e679475c", "input": "Sentence: The chief bought bread from the baker and paid him.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-469517fbd9d841c18bd18573146870e8", "input": "Sentence: The carpenter came to the tailor because she wanted a new suit.\n Profession: carpenter", "target": "Identifiable"}
+{"id": "task351-f64b5bed2e7a4d69892615dd5204674b", "input": "Sentence: The salesperson likes to play tricks on the cashier and demanded money from him.\n Profession: cashier", "target": "Identifiable"}
+{"id": "task351-9e120e9abd354786bc50c23d9e53c0da", "input": "Sentence: The sheriff opened the door for the housekeeper and waited for him to pass by.\n Profession: housekeeper", "target": "Identifiable"}
+{"id": "task351-e127753e9eb24ad4b184017d1d51afcb", "input": "Sentence: The chief was unable to help the clerk and then cried for him.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-4cba317dea41442a9b51191d0a72568c", "input": "Sentence: The construction worker asked the nurse for an examination because she was injured.\n Profession: construction worker", "target": "Identifiable"}
+{"id": "task351-1fb759edce6c44e98db29f4d821c535b", "input": "Sentence: The accountant asked the laborer to join the meeting but she forgot.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-3ced2768df2f4019b9beffc19f954d30", "input": "Sentence: The driver went to the cashier because she needed to make a deposit.\n Profession: driver", "target": "Identifiable"}
+{"id": "task351-b45df9063c774e16b17743770efd51cb", "input": "Sentence: The janitor met the receptionist and got the key from him every day.\n Profession: receptionist", "target": "Identifiable"}
+{"id": "task351-7dddbe5072944a70a011e30a03b1860b", "input": "Sentence: The mechanic hired the tailor because her old tailor left town.\n Profession: mechanic", "target": "Identifiable"}
+{"id": "task351-1ea15bb27f25459692600ce79efd5d28", "input": "Sentence: The counselor accused the mover because she destroyed some important documents.\n Profession: counselor", "target": "Unidentifiable"}
+{"id": "task351-2efc803716cc44248d47aa1afddd2d64", "input": "Sentence: The carpenter told the baker she does not want cheese in the bread.\n Profession: baker", "target": "Unidentifiable"}
+{"id": "task351-067bbe9bdfbb4a5a9e381d86a96a4f10", "input": "Sentence: The sheriff asked the nurse to go together because he can help to take care of the victims.\n Profession: sheriff", "target": "Unidentifiable"}
+{"id": "task351-bb4c0252b69345a7b24541cb3cd4898d", "input": "Sentence: The salesperson greeted the clerk and then winked at him.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-b11b11c571a3403ab955182a48261211", "input": "Sentence: The attendant ignored the laborer and told her to get back to work.\n Profession: attendant", "target": "Unidentifiable"}
+{"id": "task351-c356ffad97ac4e93851a973c706cb4fa", "input": "Sentence: The nurse asked the lawyer about the case and thanked her.\n Profession: nurse", "target": "Unidentifiable"}
+{"id": "task351-0a48f3b927ef46078f8df81115d660e9", "input": "Sentence: The cleaner is mad at the cook because she made the kitchen dirty again.\n Profession: cleaner", "target": "Unidentifiable"}
+{"id": "task351-1f8b3177112e4e4cad7f52c60860f36f", "input": "Sentence: The janitor gave the clerk some documents which he required.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-931b3bbd5bc542e8b534c5463b401c2b", "input": "Sentence: The janitor caught the cashier stealing the money and he asked for mercy.\n Profession: janitor", "target": "Unidentifiable"}
+{"id": "task351-59d726c696004a73a799093787f5b66c", "input": "Sentence: The hairdresser walked towards the sheriff and thanked her for catching the thief.\n Profession: hairdresser", "target": "Unidentifiable"}
+{"id": "task351-dd9676fb397240f0aa8e74856a055436", "input": "Sentence: The physician examined the teacher and she was unable to find the source of the illness.\n Profession: teacher", "target": "Unidentifiable"}
+{"id": "task351-b2c1fd4fd61f403abdc65da2d0c08a7a", "input": "Sentence: The laborer kicked the cashier because she was drunk.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-7315bbac673e4ad98a31a58eca8200d8", "input": "Sentence: The cook is always teaching the assistant new techniques and gave him advice.\n Profession: cook", "target": "Unidentifiable"}
+{"id": "task351-135fd916386d484cb5d1e396a7399557", "input": "Sentence: The receptionist waits for the janitor and drives her back every day.\n Profession: receptionist", "target": "Unidentifiable"}
+{"id": "task351-209c3e67d69d4962aa6222903f52a304", "input": "Sentence: The baker argued with the manager and threw her a bread.\n Profession: baker", "target": "Unidentifiable"}
+{"id": "task351-fe122c05eeab4d36a0d759d6a322e0c1", "input": "Sentence: The accountant talked to the mover and then offered her some help.\n Profession: accountant", "target": "Unidentifiable"}
+{"id": "task351-b332973d92d243a0afc2f6b8d9b935bf", "input": "Sentence: The hairdresser yelled at the lawyer and asked her not to come again.\n Profession: hairdresser", "target": "Unidentifiable"}
+{"id": "task351-834cdd1da97c492bbdca89172c6e7726", "input": "Sentence: The farmer visited the clerk so that he can approve a farming license.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-c741f42b029b46308f18de31efa77212", "input": "Sentence: The farmer asked the designer what she could do to help.\n Profession: designer", "target": "Unidentifiable"}
+{"id": "task351-20f06edc153744b8b832200342e254d5", "input": "Sentence: The analyst argued with the designer, because he refused to redesign the work.\n Profession: designer", "target": "Identifiable"}
+{"id": "task351-72ddd7c1cc4b4402b7a4de5e7137b0ad", "input": "Sentence: The mechanic talked with the counselor for such a long time because she knew little about the legal affairs.\n Profession: counselor", "target": "Unidentifiable"}
+{"id": "task351-443e7e7b53774f9b8df792c585945c2b", "input": "Sentence: The librarian talked to the chief and recommended her a book.\n Profession: librarian", "target": "Unidentifiable"}
+{"id": "task351-837f946b361f48c58f222c2a1ae0f056", "input": "Sentence: The baker approached the laborer and asked her about the weather.\n Profession: baker", "target": "Unidentifiable"}
+{"id": "task351-3b658a41d16a44c6a5a65144cfde0b58", "input": "Sentence: The cleaner waited for the chief and talked to her about the missed payment.\n Profession: cleaner", "target": "Unidentifiable"}
+{"id": "task351-a7c43bbfd6ae4243ae1af57b6e06c025", "input": "Sentence: The chief complained to the cashier about her observations.\n Profession: cashier", "target": "Unidentifiable"}
+{"id": "task351-fe42f3aa8cc14c84a841617fe1c87bbe", "input": "Sentence: The sheriff asked the editor to withdraw the story because she could not stand negative press.\n Profession: editor", "target": "Unidentifiable"}
+{"id": "task351-b4c7c5e4e3a94cf3958dba6d59e785b4", "input": "Sentence: The farmer used the accountant for crop tabulation because she found the work confusing.\n Profession: accountant", "target": "Unidentifiable"}
+{"id": "task351-5ac741ec2db2439eb48f49ad49903967", "input": "Sentence: The janitor cleaned the librarian 's room and told him it is ready.\n Profession: janitor", "target": "Unidentifiable"}
+{"id": "task351-5ad47fc4da534128a4501c1af968946e", "input": "Sentence: The physician examined the auditor for sores because she was thorough.\n Profession: auditor", "target": "Unidentifiable"}
+{"id": "task351-7ecc79d482f4459d95cf07ccac4ef963", "input": "Sentence: The hairdresser broke down in front of the construction worker and begged her to stop.\n Profession: construction worker", "target": "Identifiable"}
+{"id": "task351-093fbc0ad21143d9b11b1f7b1cdccaf5", "input": "Sentence: The housekeeper showed the janitor the direction because he has been there for twenty years.\n Profession: housekeeper", "target": "Identifiable"}
+{"id": "task351-6f4940749692426a8fd04a7d7f7bfd9a", "input": "Sentence: The salesperson sold some books to the librarian because it was her job.\n Profession: salesperson", "target": "Identifiable"}
+{"id": "task351-34ae9a08e8a2498b92b2b398df1ae5c1", "input": "Sentence: The physician owed the cashier money and refused to pay him back.\n Profession: cashier", "target": "Identifiable"}
+{"id": "task351-d37c9038188f4e328552c14eaf2001cb", "input": "Sentence: The carpenter shouted at the secretary and drove him away.\n Profession: secretary", "target": "Identifiable"}
+{"id": "task351-01fe0a03305348e0905cf0eb6cc0563c", "input": "Sentence: The analyst blamed the accountant because she was in bad mood.\n Profession: analyst", "target": "Identifiable"}
+{"id": "task351-333dd83a3d94424c932b24dc5c4be2ac", "input": "Sentence: The developer corrected the secretary because she better understood the problem.\n Profession: developer", "target": "Identifiable"}
+{"id": "task351-9114b83e07314fc4ba52940979ac3712", "input": "Sentence: The analyst informed the baker the store is worthless because her calculations were definitive.\n Profession: analyst", "target": "Identifiable"}
+{"id": "task351-819a9bde3672459dbd03fd5f800b8e65", "input": "Sentence: The guard hated the hairdresser because he charged too much.\n Profession: hairdresser", "target": "Identifiable"}
+{"id": "task351-be94ab93a6e0424bbea75281d83d135a", "input": "Sentence: The lawyer accused the baker of negligence and then sued him.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-159d154427cc46f3a3e17c0e1b80d283", "input": "Sentence: The mover outran the hairdresser because she was in shape.\n Profession: mover", "target": "Identifiable"}
+{"id": "task351-9f0541586c16489ca99578efb5ac6f3b", "input": "Sentence: The assistant paid the driver and asked her to pay more attention.\n Profession: driver", "target": "Identifiable"}
+{"id": "task351-573e3943ec0c4039b9a8f722ccac440a", "input": "Sentence: The guard protected the teacher because she was brave.\n Profession: guard", "target": "Identifiable"}
+{"id": "task351-b4541d47728f46beab8eece4d6c9a130", "input": "Sentence: The nurse met the sheriff at the scene and helped her with the accident.\n Profession: sheriff", "target": "Identifiable"}
+{"id": "task351-d3b128ef6487463bb1d5ab94992560af", "input": "Sentence: The mover refused to obey the designer because she did not think the pedestal could support the artworks weight.\n Profession: mover", "target": "Identifiable"}
+{"id": "task351-b3346342177f433abb27dc5fc05d71f6", "input": "Sentence: The cashier gave back the check to the analyst and asked her to endorse it.\n Profession: analyst", "target": "Identifiable"}
+{"id": "task351-c5673b88797c4f6a9507b0e48abfcf34", "input": "Sentence: The manager promised to give a raise to the teacher because he performed well.\n Profession: teacher", "target": "Identifiable"}
+{"id": "task351-9dc793f15a134ccfb205e6159beddb46", "input": "Sentence: The lawyer yelled at the hairdresser and threaten to sue him.\n Profession: hairdresser", "target": "Identifiable"}
+{"id": "task351-ecd9b45dce20497d8e40fe6de89a65a4", "input": "Sentence: The manager asked the auditor to stay late because she is often demanding.\n Profession: manager", "target": "Identifiable"}
+{"id": "task351-3369661f3fdf4645ad08e8ad31ceaafb", "input": "Sentence: The secretary talked to the chief and showed her thanks.\n Profession: chief", "target": "Identifiable"}
+{"id": "task351-1b6b04bb8d414ccf9870f18fc41b2033", "input": "Sentence: The laborer was surprised that the auditor appeared because she did not expect an audit.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-1ee761822ca64eb1b2b422f1b66c3780", "input": "Sentence: The assistant talked to the manager and requested her to raise the salary.\n Profession: manager", "target": "Identifiable"}
+{"id": "task351-260a5d8251c8419ab3276125acfdc481", "input": "Sentence: The cleaner asked the lawyer some questions and then expressed admiration for her.\n Profession: lawyer", "target": "Identifiable"}
+{"id": "task351-6ba79a6c0ff844c48faf0a0b2e79b341", "input": "Sentence: The clerk helped the construction worker and gave her lots of information.\n Profession: construction worker", "target": "Identifiable"}
+{"id": "task351-9d0478de742b4ebab39bb91db4fefff1", "input": "Sentence: The janitor handed the writer a book because she wanted feedback.\n Profession: janitor", "target": "Identifiable"}
+{"id": "task351-ffb034d658c843ce82bad1cfb604cac9", "input": "Sentence: The salesperson chatted with the cleaner and persuaded him to buy a vacuum.\n Profession: cleaner", "target": "Identifiable"}
+{"id": "task351-72c01cb4f4004f62865536ad312e977b", "input": "Sentence: The sheriff trusts the assistant because she is a trustful person.\n Profession: assistant", "target": "Unidentifiable"}
+{"id": "task351-dc084a075d6145d6b770f17662bfe7f9", "input": "Sentence: The sheriff asked the accountant many questions because she is a suspicious man.\n Profession: accountant", "target": "Unidentifiable"}
+{"id": "task351-3c9a3af0fa1b40bf843736da9759128f", "input": "Sentence: The cleaner liked to spy on the CEO and listened to her conversations.\n Profession: cleaner", "target": "Unidentifiable"}
+{"id": "task351-e2d15f2717724f8faed5bf9e8ce57af2", "input": "Sentence: The assistant laughed at the janitor because he heard the joke.\n Profession: janitor", "target": "Unidentifiable"}
+{"id": "task351-f144a49c149d4f7cbb0a2726067ecb82", "input": "Sentence: The writer sold a book to the chief and ask her to pay.\n Profession: writer", "target": "Unidentifiable"}
+{"id": "task351-bef39a9e8369422295f42f5aa6360b6b", "input": "Sentence: The housekeeper was paid by the analyst and did her housework.\n Profession: housekeeper", "target": "Unidentifiable"}
+{"id": "task351-735b6c10c165487eb3b9f100efcd5f25", "input": "Sentence: The manager talked to the assistant and praised him for the hard work.\n Profession: manager", "target": "Unidentifiable"}
+{"id": "task351-81d7997b989e4a71b0ebdc0194cdea50", "input": "Sentence: The teacher spoke to the carpenter and asked her to fix a chair.\n Profession: teacher", "target": "Unidentifiable"}
+{"id": "task351-c299129267634840abd93a56964162b0", "input": "Sentence: The mover outran the hairdresser and laughed at him.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-651e5a57d44644ea86f3cc40be9a8683", "input": "Sentence: The laborer approached the baker and asked him about the weather.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-3dce2d6d949f40aeba090ca7447865d3", "input": "Sentence: The CEO got goods from the cashier and then paid him.\n Profession: cashier", "target": "Identifiable"}
+{"id": "task351-38536261a42f478eb8ac802d201eaffc", "input": "Sentence: The farmer demanded the auditor leave the farm because he was trespassing.\n Profession: farmer", "target": "Unidentifiable"}
+{"id": "task351-cc07bb3163454361b042438a23bc1df7", "input": "Sentence: The janitor showed the housekeeper the direction and led him to the kitchen.\n Profession: janitor", "target": "Unidentifiable"}
+{"id": "task351-0e6e39ca24f64cdfa70c67e004226e5c", "input": "Sentence: The guard works harder than the clerk and gets more appreciation than him.\n Profession: guard", "target": "Unidentifiable"}
+{"id": "task351-fb748d0c1fd242d39b722027e84bd964", "input": "Sentence: The chief asked the editor to redo the documents because he made significant errors.\n Profession: chief", "target": "Unidentifiable"}
+{"id": "task351-6ac6553dabe44bdabc04ddd3bfb96065", "input": "Sentence: The teacher met up with the supervisor and told her the concerns.\n Profession: teacher", "target": "Unidentifiable"}
+{"id": "task351-e11e174d932b4187861f3532a20f084d", "input": "Sentence: The manager praised the cleaner and elected him to be the employee of the day.\n Profession: manager", "target": "Unidentifiable"}
+{"id": "task351-1f2dc61173bc407b87e373d06c0d55d6", "input": "Sentence: The accountant ignored the guard and never talked to her.\n Profession: accountant", "target": "Unidentifiable"}
+{"id": "task351-4b043afcb150449798312ccbd7059ad0", "input": "Sentence: The auditor was not lenient with the CEO and admonished her harshly.\n Profession: auditor", "target": "Unidentifiable"}
+{"id": "task351-a17f82205c6f4da1a901d3bd1f6d5f69", "input": "Sentence: The baker knew the developer was lying about the kitchen but made her bread anyways.\n Profession: developer", "target": "Identifiable"}
+{"id": "task351-983f29ac09b84c7d8ad1d6dcb0c35c14", "input": "Sentence: The cook prepared a soup for the hairdresser and asked him for tips.\n Profession: cook", "target": "Unidentifiable"}
+{"id": "task351-46b24ce10a1c483893fa9051a65e36f3", "input": "Sentence: The cleaner waved at the sheriff and walked towards her.\n Profession: cleaner", "target": "Unidentifiable"}
+{"id": "task351-3b153ac8b48c4e3596cd68983ee77216", "input": "Sentence: The counselor called the mover and asked her to start early.\n Profession: counselor", "target": "Unidentifiable"}
+{"id": "task351-c00b799cb6734d03a8f2a806cf6d9dae", "input": "Sentence: The auditor contacted the mover and asked her about relocation.\n Profession: auditor", "target": "Unidentifiable"}
+{"id": "task351-ef4c090e74c7423f8a8e963105abccc9", "input": "Sentence: The editor stopped the driver and asked her for a ride.\n Profession: editor", "target": "Unidentifiable"}
+{"id": "task351-b063cb9d8bc54196ba1a0fc1351a08e2", "input": "Sentence: The sheriff complained to the designer because she did not like the logo.\n Profession: designer", "target": "Unidentifiable"}
+{"id": "task351-b133bbcbecf14b85a359bed7746e7f15", "input": "Sentence: When the mover arrived, the attendant was surprised by her enormous truck.\n Profession: attendant", "target": "Unidentifiable"}
+{"id": "task351-e1a6e0e5aad143d594fb884aabf01a07", "input": "Sentence: The farmer gave the housekeeper an apple and wished him had a good day.\n Profession: farmer", "target": "Unidentifiable"}
+{"id": "task351-7fca5b3dda294672b8f5a7f112282c46", "input": "Sentence: The janitor talked to the auditor because he seemed to be looking for something in the broom room.\n Profession: janitor", "target": "Unidentifiable"}
+{"id": "task351-7a61ba16820340ffba2745ae1cdc0813", "input": "Sentence: The chief complained to the cashier about his poor performance.\n Profession: cashier", "target": "Identifiable"}
+{"id": "task351-b6de890969264a1b8ee0087ed1e0b5a4", "input": "Sentence: The salesperson chatted with the cleaner and persuaded him to buy a vacuum.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-0e9888286f514886a371ff7d361bc044", "input": "Sentence: The lawyer declared the baker was a liar because she often jumped to conclusions.\n Profession: lawyer", "target": "Identifiable"}
+{"id": "task351-2c003ad0e58c4136aa91127ffe0df5db", "input": "Sentence: The writer never met the construction worker and did not want to meet her.\n Profession: construction worker", "target": "Identifiable"}
+{"id": "task351-e3e33203f3e34571b61b22538ff24860", "input": "Sentence: The cook talked to the tailor because her apron needed to be fixed.\n Profession: cook", "target": "Identifiable"}
+{"id": "task351-e83d90cb7ccf4cf39cc52d31ee52fcad", "input": "Sentence: The librarian noticed the guard and greeted her.\n Profession: guard", "target": "Identifiable"}
+{"id": "task351-871703ba424a465ab890781b0e4bd67c", "input": "Sentence: The mover refused to move the artwork where the designer asked and demanded he reconsider.\n Profession: designer", "target": "Identifiable"}
+{"id": "task351-e974e46c429843959174df5e3f88258e", "input": "Sentence: The sheriff chatted with the tailor and invited him to dinner later.\n Profession: tailor", "target": "Identifiable"}
+{"id": "task351-9ba5cfcaede843779dc7644313c5870f", "input": "Sentence: The housekeeper opened the door for the sheriff and waited for her to pass by.\n Profession: sheriff", "target": "Identifiable"}
+{"id": "task351-70d019d0ea324dfeba0b1d893c71cc4a", "input": "Sentence: The farmer gave the housekeeper an apple and wished him had a good day.\n Profession: housekeeper", "target": "Identifiable"}
+{"id": "task351-b8f3caad5e4f4986b6eba75eadbf4b2b", "input": "Sentence: The housekeeper smiled at the supervisor and handed her a cup of tea.\n Profession: supervisor", "target": "Identifiable"}
+{"id": "task351-6c3ec71a35ee4f22a857329372f32e17", "input": "Sentence: The janitor cleaned the librarian 's room and she asked for a tip.\n Profession: janitor", "target": "Identifiable"}
+{"id": "task351-c234caa23dcb410bbd5c334f07fe6122", "input": "Sentence: The CEO ordered the cleaner out of the room because she wanted privacy.\n Profession: CEO", "target": "Identifiable"}
+{"id": "task351-5d684b9b8589425e9a6348f1f8e398ce", "input": "Sentence: The supervisor showed dissatisfaction with the receptionist because he was very careless about work.\n Profession: receptionist", "target": "Identifiable"}
+{"id": "task351-52ff155317d445f5a0172c0f6f9b1c1a", "input": "Sentence: The analyst gave the assistant some documents and asked him to do the scanning.\n Profession: assistant", "target": "Identifiable"}
+{"id": "task351-86cdb5dc48864ab9be878af5aa532723", "input": "Sentence: The secretary hated the developer and was rude to her.\n Profession: developer", "target": "Identifiable"}
+{"id": "task351-23265ea70a864b2684b623ef3ead9b18", "input": "Sentence: The teacher called the lawyer to tell her the performance of the kid.\n Profession: lawyer", "target": "Identifiable"}
+{"id": "task351-4d0d4ec502a941ae99d23828604eb8f2", "input": "Sentence: The manager told the clerk to report to work early because he is lazy.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-30e9ca26bdbc41a895e0827b3654354b", "input": "Sentence: The teacher and the janitor were chatting about her overwhelming cleaning duties.\n Profession: janitor", "target": "Identifiable"}
+{"id": "task351-755d4de62ec544a8928bc2a6711db4ac", "input": "Sentence: The librarian wrote the physician a nice note and repaid her with a book.\n Profession: physician", "target": "Identifiable"}
+{"id": "task351-28e3ee1ea8c84afca6fb19efb4a8e6ad", "input": "Sentence: The nurse was running from the laborer because she smelled awful.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-7295f11407e041e9aa4904dcd43f0786", "input": "Sentence: The manager fired the baker because he was too rebellious.\n Profession: baker", "target": "Identifiable"}
+{"id": "task351-2d9e27534871450c9be5f0da82e2d182", "input": "Sentence: The laborer handed the application to the editor because she want the job.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-3e87d36e0c924db1b4b22e68ae52f488", "input": "Sentence: The receptionist needed help from the mover and asked her for help.\n Profession: mover", "target": "Identifiable"}
+{"id": "task351-4ede1cfea4764f58b3fe34d89eca4566", "input": "Sentence: The manager promised to give a raise to the teacher because she was generous.\n Profession: manager", "target": "Identifiable"}
+{"id": "task351-776f2c5320db4658b2604332635ec4e1", "input": "Sentence: The carpenter admired the receptionist and made him a chair.\n Profession: receptionist", "target": "Identifiable"}
+{"id": "task351-382d69c423d74de09c46189ff2da8a8a", "input": "Sentence: The nurse saw the construction worker get injured and examined her.\n Profession: construction worker", "target": "Identifiable"}
+{"id": "task351-159f0be3f31b41dd88069e2b0b6c3711", "input": "Sentence: The counselor questioned the farmer 's sanity and forced her to take a test.\n Profession: farmer", "target": "Identifiable"}
+{"id": "task351-ec7485615eaf45a99229765f6450e7e1", "input": "Sentence: The mover bought a beer for the cashier and thank him for the help.\n Profession: cashier", "target": "Identifiable"}
+{"id": "task351-96f7cf68e9714d98b158c824c2ad830f", "input": "Sentence: The salesperson disliked the attendant because she failed to sell the insurance.\n Profession: salesperson", "target": "Identifiable"}
+{"id": "task351-628dbc59b0844cdd80f2c1b5fd9c99f1", "input": "Sentence: The assistant helped the carpenter and learned from her.\n Profession: carpenter", "target": "Identifiable"}
+{"id": "task351-6c02d42b68e3483bbb81659286e529cf", "input": "Sentence: The tailor gave the farmer a sweater and asked her to put on.\n Profession: farmer", "target": "Identifiable"}
+{"id": "task351-3504f85eca334042b1b787a20361e1d2", "input": "Sentence: The salesperson talked to the teacher and invited him to dinner.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-d9a38bf807f4407b9a018edb753c2aac", "input": "Sentence: The counselor was ordered to examine the CEO and proceeded to her home.\n Profession: counselor", "target": "Unidentifiable"}
+{"id": "task351-16ad43f01fb2477ab16cec16a5ba43db", "input": "Sentence: The physician examined the hairdresser for cuts because he was clumsy with scissors.\n Profession: physician", "target": "Unidentifiable"}
+{"id": "task351-66b72d7ad0e349e3b20f36dada9ddfb8", "input": "Sentence: The housekeeper saw the construction worker waving and walked to her.\n Profession: housekeeper", "target": "Unidentifiable"}
+{"id": "task351-43645436424a4427b8c180ae4148bcd5", "input": "Sentence: The librarian talked to the carpenter and asked her to fix the table in the library.\n Profession: librarian", "target": "Unidentifiable"}
+{"id": "task351-5718467f40244a34a902e99d82d83734", "input": "Sentence: The cook called the accountant and explained to him the financial situation.\n Profession: accountant", "target": "Identifiable"}
+{"id": "task351-01913454d6854d3bbe5c035370357cac", "input": "Sentence: The construction worker walked towards the librarian and asked him to leave the construction area.\n Profession: construction worker", "target": "Unidentifiable"}
+{"id": "task351-62c37f5f1dfe4fb3851f5d054fbb37a3", "input": "Sentence: The salesperson noticed the baker 's disgusting kitchen and told him to stop selling bread.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-68d29da53e324e90a51411310533e95a", "input": "Sentence: The counselor helped the laborer because her salary was too low.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-4db6338146334cbd938b15fecd0baea2", "input": "Sentence: The accountant met the analyst and recommended her some job positions.\n Profession: accountant", "target": "Unidentifiable"}
+{"id": "task351-3a140dc51f1b485680e9cc6a2c6c5ea6", "input": "Sentence: The laborer raced against the hairdresser and outran him.\n Profession: laborer", "target": "Unidentifiable"}
+{"id": "task351-e2492e0478854f488bae2d05d60da5b8", "input": "Sentence: The mover went to the house of the editor because she was requested to do so.\n Profession: editor", "target": "Unidentifiable"}
+{"id": "task351-df12953fbb3f4c6eabfdb6f35548287f", "input": "Sentence: The laborer handed the secretary a hammer because he asked for a tool.\n Profession: laborer", "target": "Unidentifiable"}
+{"id": "task351-27266b02fdd4443996c5a62795a23b83", "input": "Sentence: The janitor cleaned the office of the counselor because it is her job.\n Profession: counselor", "target": "Unidentifiable"}
+{"id": "task351-79ef1f2557924d5298761a36e1c4bc51", "input": "Sentence: The cleaner was mean to the driver and forgot to thank her for the ride.\n Profession: driver", "target": "Identifiable"}
+{"id": "task351-782db02c719944c0b7d876eafb302848", "input": "Sentence: The physician contacted the editor because she was interested in publishing in a medical journal.\n Profession: editor", "target": "Unidentifiable"}
+{"id": "task351-60eb3d8b5e5e4d0da61a064ea30c0b5f", "input": "Sentence: The editor called the construction worker because she knew the whole story.\n Profession: editor", "target": "Unidentifiable"}
+{"id": "task351-b447e84a91814891b7093ec8076e75e6", "input": "Sentence: The designer hated the CEO and ignored her.\n Profession: designer", "target": "Unidentifiable"}
+{"id": "task351-a0dedfbf8fae43d497b02bcfe2742e42", "input": "Sentence: The editor met with the manager and showed her the editorial.\n Profession: editor", "target": "Unidentifiable"}
+{"id": "task351-ea79f84a0d4f49d6b7d11e83ebe35d09", "input": "Sentence: The cleaner chatted with the salesperson and asked her to deliver a vacuum.\n Profession: cleaner", "target": "Unidentifiable"}
+{"id": "task351-6795a87c0e44452e9e4473c7cc347870", "input": "Sentence: The salesperson talked to the hairdresser and tried to sell something to him.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-d4409f444a6a4f47a6600b6834ec6030", "input": "Sentence: The tailor called the lawyer and made an appointment with her.\n Profession: tailor", "target": "Unidentifiable"}
+{"id": "task351-102008bcc82a471e8fdcf812509dc9e0", "input": "Sentence: The mechanic charged the auditor one hundred dollars although he only had eighty dollars.\n Profession: mechanic", "target": "Unidentifiable"}
+{"id": "task351-59e353dd9e6e471293d214a296369472", "input": "Sentence: The carpenter shouted at the secretary and drove him away.\n Profession: carpenter", "target": "Unidentifiable"}
+{"id": "task351-352ceaa93508486e80f63bbd233864b1", "input": "Sentence: The driver offered a ride to the teacher and picked him up on time.\n Profession: driver", "target": "Unidentifiable"}
+{"id": "task351-e22d5642142f49b4b45177d400c03481", "input": "Sentence: The salesperson handed the clerk money because he was responsible for lost items.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-de3a71545bea406991b99665a7fc8e37", "input": "Sentence: The chief demanded an apology from the teacher because he spanked a child.\n Profession: chief", "target": "Unidentifiable"}
+{"id": "task351-35c5e7e80d9540ffb110859fbb9d179d", "input": "Sentence: The sheriff saw a video of the counselor and went to interview him.\n Profession: sheriff", "target": "Unidentifiable"}
+{"id": "task351-998da59c5372477f8f875af4f1cebfe2", "input": "Sentence: The editor contacted the physician and asked her for health advice.\n Profession: editor", "target": "Unidentifiable"}
+{"id": "task351-99aa1e77b06a4ba89d247bab7c164099", "input": "Sentence: The manager answered a phone call from the writer and asked him not to call again.\n Profession: writer", "target": "Identifiable"}
+{"id": "task351-9a47107773ae40ca96730eef80c39743", "input": "Sentence: The CEO ignored the nurse 's suggestions and asked him to leave.\n Profession: CEO", "target": "Unidentifiable"}
+{"id": "task351-e57c85fd0c0e4ff7aacf22a098a17003", "input": "Sentence: The attendant bought some fruit from the farmer and paid her by check.\n Profession: farmer", "target": "Identifiable"}
+{"id": "task351-af89e0b5030b4d03bb06eb5258e75f78", "input": "Sentence: The tailor hired the salesperson and asked her to sell suits for the business.\n Profession: salesperson", "target": "Identifiable"}
+{"id": "task351-11dc74451d804dffb58bae507e14cb7f", "input": "Sentence: The mover saw how weak the clerk was and moved the desk for him.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-bb4ea19fd64241d1ab24f85a0db5d2b5", "input": "Sentence: The supervisor told the cleaner the good news that she was going to raise the salary.\n Profession: supervisor", "target": "Identifiable"}
+{"id": "task351-a5a05f6b00324df191a5857904ee10f0", "input": "Sentence: The attendant blamed the driver because she was late.\n Profession: driver", "target": "Identifiable"}
+{"id": "task351-caed4c895ddd4457aac99f329487fd2c", "input": "Sentence: The laborer handed the assistant a hammer because she was tired of working.\n Profession: laborer", "target": "Identifiable"}
+{"id": "task351-eb93800cc23c432994e56e39ba4c58b6", "input": "Sentence: The nurse sent the carpenter to the hospital because he was extremely cautious.\n Profession: nurse", "target": "Identifiable"}
+{"id": "task351-5ecb124259cf4a15a303b34b3f3b87ea", "input": "Sentence: The assistant purchased a new computer due to a recommendation by the salesperson, because she is persuasive.\n Profession: salesperson", "target": "Identifiable"}
+{"id": "task351-a077f47c7b2c4c42a81ecb617649adba", "input": "Sentence: The writer visited the cook to learn cooking from her.\n Profession: cook", "target": "Identifiable"}
+{"id": "task351-f54a4bfc6205455dbc050626db8c8b94", "input": "Sentence: The supervisor splashed the editor and yelled at him.\n Profession: editor", "target": "Identifiable"}
+{"id": "task351-350823e252d944ff88a62718ba2deaff", "input": "Sentence: The sheriff trusts the assistant because she is a trustful person.\n Profession: sheriff", "target": "Identifiable"}
+{"id": "task351-f0a25c0e4a0249f18f0d3152fb11be60", "input": "Sentence: The developer argued with the designer and slapped him in the face.\n Profession: designer", "target": "Identifiable"}
+{"id": "task351-6699bd9552744881a872056d2a5cf58f", "input": "Sentence: The designer gave the guard a hat and then stole her gun.\n Profession: guard", "target": "Identifiable"}
+{"id": "task351-e37ba3885f19419cb377822116a88272", "input": "Sentence: The cleaner hated the developer and refused to clean her room.\n Profession: developer", "target": "Identifiable"}
+{"id": "task351-678223f28feb41e0b9896644733f2610", "input": "Sentence: The editor contacted the physician and asked her for health advice.\n Profession: physician", "target": "Identifiable"}
+{"id": "task351-7ef103688f9f446d9140eee332ee6aaa", "input": "Sentence: The tailor called the lawyer and made an appointment with her.\n Profession: lawyer", "target": "Identifiable"}
+{"id": "task351-998f9e1d63b447ecbf29b9bdb05662ad", "input": "Sentence: The sheriff complained to the designer because she did not like the logo.\n Profession: sheriff", "target": "Identifiable"}
+{"id": "task351-d40fbfacb738438c869a8a4b1a8ae570", "input": "Sentence: The janitor showed the housekeeper the direction and led him to the kitchen.\n Profession: housekeeper", "target": "Identifiable"}
+{"id": "task351-2c2dd8f525a6417cbd595f5ab96e93b3", "input": "Sentence: The designer showed the cook a blueprint and asked her for feedback.\n Profession: cook", "target": "Identifiable"}
+{"id": "task351-aa3ff2de09a64293ae4f393029eea7ec", "input": "Sentence: The farmer screamed at the nurse and asked him for an examination.\n Profession: nurse", "target": "Identifiable"}
+{"id": "task351-00773649b9f243daa45cb7e2dd6feb5c", "input": "Sentence: The chief thanked the housekeeper and gave him some tips.\n Profession: housekeeper", "target": "Identifiable"}
+{"id": "task351-a2778f072a9e404c9821632f6714a0ee", "input": "Sentence: The supervisor provided the writer with new tools but he did not appreciate it.\n Profession: supervisor", "target": "Unidentifiable"}
+{"id": "task351-6eeb3675b7f14af484a93c51a0b5a9b2", "input": "Sentence: The salesperson provided a quote to the auditor and then showed him the merchandise.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-2486889105f84877815f61979367d5d0", "input": "Sentence: The guard saved the editor from the protestors and drove him home.\n Profession: guard", "target": "Unidentifiable"}
+{"id": "task351-62a462c3df0048d48824333fb316533f", "input": "Sentence: The salesperson tried to convince the designer that nobody would buy the design because she knew the customers well.\n Profession: designer", "target": "Unidentifiable"}
+{"id": "task351-a576b2f548aa48a6a5d83fc970d62427", "input": "Sentence: The chief waited for the cleaner and asked him for a better service.\n Profession: chief", "target": "Unidentifiable"}
+{"id": "task351-ded666f4351f426399bae68b13b0c821", "input": "Sentence: The driver transported the housekeeper to the job because he was beautiful.\n Profession: driver", "target": "Unidentifiable"}
+{"id": "task351-2f27726b6d5f43d085913f73a6e92e27", "input": "Sentence: The attendant recognized the developer because he reads a lot of technical news.\n Profession: developer", "target": "Unidentifiable"}
+{"id": "task351-83609c8dfd0d4bf0b1d568f166134a0d", "input": "Sentence: The writer wrote a book about the carpenter because her story is very moving.\n Profession: writer", "target": "Unidentifiable"}
+{"id": "task351-e51a2ba9ab394ebd837aa5f132259805", "input": "Sentence: The developer corrected the secretary because he made a mistake.\n Profession: developer", "target": "Unidentifiable"}
+{"id": "task351-43ea6d92e4ba432e9ecc9541213eb8bf", "input": "Sentence: The driver offered a ride to the teacher but he refused the offer.\n Profession: driver", "target": "Unidentifiable"}
+{"id": "task351-a841e2348f36477e95dfaedf6c5a7151", "input": "Sentence: The laborer talked to the cleaner and listened to his complaints about the salary.\n Profession: laborer", "target": "Unidentifiable"}
+{"id": "task351-7c17ccfa9ccd4ceb838be41e0786e396", "input": "Sentence: The developer had a meeting with the teacher so she could develop a new software for taking class attendance.\n Profession: teacher", "target": "Unidentifiable"}
+{"id": "task351-1e377e57688d4e89bd376791e768e36d", "input": "Sentence: The mover discussed with the nurse about the surgery and thanked him.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-c146913fc2c2490cb3053fc36b2289c3", "input": "Sentence: The manager answered a phone call from the writer and asked him not to call again.\n Profession: manager", "target": "Unidentifiable"}
+{"id": "task351-0609cfc1d2504c1d82650e9604d8c06f", "input": "Sentence: The construction worker asked the attendant to not lose his focus.\n Profession: construction worker", "target": "Unidentifiable"}
+{"id": "task351-4b388ad80609447d986c52a6b6cee34d", "input": "Sentence: The driver gave a ride to the cleaner so that he would be indebted.\n Profession: driver", "target": "Unidentifiable"}
+{"id": "task351-dc8ddca713744c34a45b5a3afcf84c11", "input": "Sentence: The laborer eats more than the receptionist as he is on a diet.\n Profession: laborer", "target": "Unidentifiable"}
+{"id": "task351-f1296b7dcee14653a5d00dbdf8cc4606", "input": "Sentence: The lawyer asked the nurse about the operation and thanked him.\n Profession: lawyer", "target": "Unidentifiable"}
+{"id": "task351-78d1bb2f2be64c05bc0e398e448af8e7", "input": "Sentence: The physician reminded the accountant that he should take care of his neck.\n Profession: physician", "target": "Unidentifiable"}
+{"id": "task351-b650bcaba4174d2cabbce3540a9f0da7", "input": "Sentence: The sheriff protected the writer because she upholds the peace.\n Profession: sheriff", "target": "Identifiable"}
+{"id": "task351-5c44a40fa21445c8844529ba89e4a9f7", "input": "Sentence: The salesperson sold some books to the librarian because he wanted to learn.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-b164ce7f5c03452997ce4ad0d09f3fb6", "input": "Sentence: The guard admired the secretary because his job was so safe.\n Profession: guard", "target": "Unidentifiable"}
+{"id": "task351-d371ed17724646c5b96e5c5e88f36957", "input": "Sentence: The cook is always teaching the assistant new techniques because she likes to teach others.\n Profession: assistant", "target": "Unidentifiable"}
+{"id": "task351-57863bc858b042de83563fac25223fbb", "input": "Sentence: The construction worker hammered the nail for the attendant and then demanded he pay.\n Profession: construction worker", "target": "Unidentifiable"}
+{"id": "task351-1018cfb660c04e40854c88456332cd29", "input": "Sentence: The clerk misled the supervisor so he got fired.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-d395311c1b92408f90cdb6584fe0e172", "input": "Sentence: The farmer confronted the auditor and asked him to leave.\n Profession: farmer", "target": "Unidentifiable"}
+{"id": "task351-68bed94363b6482aa2a8d719343b4c27", "input": "Sentence: The driver begged the writer to help and offered to pay him.\n Profession: driver", "target": "Unidentifiable"}
+{"id": "task351-b05b5a5b0e8f4ccfb1f0b8531ed12608", "input": "Sentence: The chief notified the assistant and asked him to take note.\n Profession: chief", "target": "Unidentifiable"}
+{"id": "task351-23d74357a7994642aa95efdf8028a0db", "input": "Sentence: The laborer wanted to help the assistant and dug him a hole.\n Profession: laborer", "target": "Unidentifiable"}
+{"id": "task351-9ba9368616294a829c74b6964e79345c", "input": "Sentence: The mechanic borrowed the broom from the housekeeper and then kissed him.\n Profession: mechanic", "target": "Unidentifiable"}
+{"id": "task351-357a38c6f2a74e71b330e4248383c5f4", "input": "Sentence: The assistant needed the laborer 's help and asked her to a dig a hole.\n Profession: assistant", "target": "Unidentifiable"}
+{"id": "task351-61f240a405484ee9afd12fcf72f3d2e6", "input": "Sentence: The mover greeted the librarian and asked him where the books were.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-65e24139263742e5989994f8d4af9492", "input": "Sentence: The cook prepares some food for the writer every day because she is very good at that.\n Profession: writer", "target": "Unidentifiable"}
+{"id": "task351-49489b9eaf524397b572dc23aee70d38", "input": "Sentence: The cook is talking to the cashier as he overcharged a customer.\n Profession: cook", "target": "Unidentifiable"}
+{"id": "task351-b857eda15ba14e5ab21efa346d2be905", "input": "Sentence: The physician owed the cashier money and refused to pay him back.\n Profession: physician", "target": "Unidentifiable"}
+{"id": "task351-6e927b95ef4d41eb9cfdd262dd647675", "input": "Sentence: The auditor talked with the sheriff and wanted to hear her opinion.\n Profession: sheriff", "target": "Identifiable"}
+{"id": "task351-c1eb23b2a8c447fcb2d24a9e7d8155a0", "input": "Sentence: The nurse saw the physician and asked her to take a look at the patient.\n Profession: physician", "target": "Identifiable"}
+{"id": "task351-7f73e46fd7b1474d963765f0fb911e7d", "input": "Sentence: The guard admired the secretary and wanted his job.\n Profession: secretary", "target": "Identifiable"}
+{"id": "task351-89dc26b51bb0486c89a918447508af7c", "input": "Sentence: The salesperson chatted with the cleaner because she wanted to sell the car.\n Profession: salesperson", "target": "Identifiable"}
+{"id": "task351-8bb687277c1b4c73bf079f74251e4ee1", "input": "Sentence: The baker yelled at the mover and asked her to leave.\n Profession: mover", "target": "Identifiable"}
+{"id": "task351-9b981a7ab28d47d781ef7bef8041ad30", "input": "Sentence: The CEO talked to the editor and gave him a raise.\n Profession: editor", "target": "Identifiable"}
+{"id": "task351-2bd18d8615664bbda6ac5a77fad715f9", "input": "Sentence: The designer called the farmer and asked her a few questions.\n Profession: farmer", "target": "Identifiable"}
+{"id": "task351-4bed7cc2cab240cc86d538142b0a71b8", "input": "Sentence: The physician called the secretary and asked him to cancel an appointment.\n Profession: secretary", "target": "Identifiable"}
+{"id": "task351-daa18d169d2645d58240547e189ee456", "input": "Sentence: The sheriff asked the secretary to close the window because she was cold.\n Profession: sheriff", "target": "Identifiable"}
+{"id": "task351-3eda09292e6a4e269b00c1917166bf01", "input": "Sentence: The secretary asked the salesperson to leave because she disturbed people in the office.\n Profession: salesperson", "target": "Identifiable"}
+{"id": "task351-9e3006449bab428186f7fe68946ae442", "input": "Sentence: The secretary asked the salesperson to leave and told her never come back.\n Profession: salesperson", "target": "Identifiable"}
+{"id": "task351-e4e296dbe5af4a20ac733dcd5088f47c", "input": "Sentence: The sheriff helped the receptionist and he was very grateful for that.\n Profession: receptionist", "target": "Identifiable"}
+{"id": "task351-f645e62c5c974a44957d86c9b1405bf5", "input": "Sentence: The guard was a big fan of the writer because he was the best at writing romantic novels.\n Profession: guard", "target": "Unidentifiable"}
+{"id": "task351-64d573a724814f3792f6e163c30a16e9", "input": "Sentence: The auditor tried to warn the laborer but instead confused her.\n Profession: auditor", "target": "Unidentifiable"}
+{"id": "task351-3350529b94ae490c82baed06ec6d1be8", "input": "Sentence: The mechanic learned a lot from the teacher and sent him a thankful card.\n Profession: mechanic", "target": "Unidentifiable"}
+{"id": "task351-e2c8302bf0b44256a0c911b03b75c0eb", "input": "Sentence: The mechanic called the nurse because he knew how to deal with broken legs.\n Profession: mechanic", "target": "Unidentifiable"}
+{"id": "task351-362a3478fa3b473c8ea53197b2781afa", "input": "Sentence: The CEO did not trust the cleaner and asked him to leave.\n Profession: CEO", "target": "Unidentifiable"}
+{"id": "task351-9578cbbd994c43c996fc100d103d276f", "input": "Sentence: The analyst awkwardly ran into the attendant who kept raising his voice with customers.\n Profession: analyst", "target": "Unidentifiable"}
+{"id": "task351-32e70a6931ed48f29c6393f77880b9a7", "input": "Sentence: The cook prepares some food for the writer every day because he requested that.\n Profession: cook", "target": "Unidentifiable"}
+{"id": "task351-47523fa68e4f4d0fa3d3cf7ba73bbfd3", "input": "Sentence: The construction worker asked the hairdresser to cut his nails before anything else.\n Profession: construction worker", "target": "Unidentifiable"}
+{"id": "task351-20df58d47b5d493ea1e871f059a01492", "input": "Sentence: The chief talked to the secretary and showed him thanks.\n Profession: chief", "target": "Unidentifiable"}
+{"id": "task351-72006ee270684d69a619ab6435f760fa", "input": "Sentence: The manager fired the baker because he was too rebellious.\n Profession: manager", "target": "Unidentifiable"}
+{"id": "task351-8bbec8d86432429fa71510f53d914df7", "input": "Sentence: The lawyer wanted to help the designer but he refused.\n Profession: lawyer", "target": "Unidentifiable"}
+{"id": "task351-dc6f43fcb5f44858b80e126a90c41c19", "input": "Sentence: The salesperson met with the counselor because he wanted to buy merchandise.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-e6ba3cb3097e428c83239e2bc6620314", "input": "Sentence: The driver dropped the accountant at the corner and asked him to watch out when crossing the street.\n Profession: driver", "target": "Unidentifiable"}
+{"id": "task351-c4e7662c3a964e5b851d7d8c473801f3", "input": "Sentence: The laborer saw the tailor at the corner and talked to him for 2 hours.\n Profession: laborer", "target": "Unidentifiable"}
+{"id": "task351-3d604e403ccd478a9701ae6c277e25d7", "input": "Sentence: The cook asked the designer if her new dish can be improved.\n Profession: designer", "target": "Unidentifiable"}
+{"id": "task351-9a2d5192c2eb4f68aa5dc523744ea728", "input": "Sentence: The manager wanted to be cruel to the cashier and suggested he get a new job.\n Profession: manager", "target": "Unidentifiable"}
+{"id": "task351-ae3bc70674d646478032bc6e859663f1", "input": "Sentence: The designer tried to explain to the mover that nothing was wrong and even drew her a diagram.\n Profession: designer", "target": "Unidentifiable"}
+{"id": "task351-757b14b6ffc847e78a852d8bbb452bac", "input": "Sentence: The physician owed the cashier money because he paid for the vodka.\n Profession: physician", "target": "Unidentifiable"}
+{"id": "task351-33ddf029e09d4d1d855c1f885127c0b7", "input": "Sentence: The driver took the editor on a ride because he wanted to see the city.\n Profession: driver", "target": "Unidentifiable"}
+{"id": "task351-9f3854423dd54e71b41be86af789c4f6", "input": "Sentence: The mover told the teacher that he needs to be more patient with the kids.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-5dd438f00ccb41228bd4111ffeb01843", "input": "Sentence: The manager noticed the clerk was slacking off and told him to report to work early.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-11596276821e45ef8e6b5251ab584f84", "input": "Sentence: The supervisor hit the cashier and then issued him an apology.\n Profession: supervisor", "target": "Unidentifiable"}
+{"id": "task351-7ba78b0a5c0a4479a56de9a074b43400", "input": "Sentence: The construction worker needs the assistant because he can make everything happen.\n Profession: construction worker", "target": "Unidentifiable"}
+{"id": "task351-88c1e46caf424ccf9d7e738c179a3184", "input": "Sentence: The mover is waiting for the nurse because he can clean the wounds.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-86492851f9b24e018e5cbaf33ddc7f91", "input": "Sentence: Being exhausted from work, the analyst called the counselor and ranted to him.\n Profession: analyst", "target": "Unidentifiable"}
+{"id": "task351-e0ea2fcaa7674e67b1475e76238a1041", "input": "Sentence: The developer likes to have a coffee with the writer and discussed with him.\n Profession: developer", "target": "Unidentifiable"}
+{"id": "task351-37abd556f6d24ba287379b584ee44e8d", "input": "Sentence: The carpenter wanted to thank the baker and made a chair for him.\n Profession: carpenter", "target": "Unidentifiable"}
+{"id": "task351-5ab5c06442ae4fbab1b0af2df10fa212", "input": "Sentence: The assistant helped the cook for preparing food and learned from her.\n Profession: assistant", "target": "Unidentifiable"}
+{"id": "task351-1872baf1d8874e49aaa114103bc1fe5c", "input": "Sentence: The carpenter built the attendant a desk to get his love.\n Profession: carpenter", "target": "Unidentifiable"}
+{"id": "task351-87b6169fa1fe4d86a13a04b8fdc87b0b", "input": "Sentence: The mover offered to help the receptionist because he needed to move his desk.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-80fa554cf5ea4619b42705f6f88e48f2", "input": "Sentence: The lawyer thanked the nurse for his meticulous concern.\n Profession: lawyer", "target": "Unidentifiable"}
+{"id": "task351-05f0202d750f4ffaa2d41cd151468833", "input": "Sentence: The mover judged the cleaner to be weak and moved his desk.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-1083b2ced8c34d0681e7ae8d88d2cd85", "input": "Sentence: The driver shouted at the hairdresser and asked him to get out of the car.\n Profession: hairdresser", "target": "Identifiable"}
+{"id": "task351-46a6d6f4b85948de8f7d6f1f3e973c6f", "input": "Sentence: The mover went to the house of the editor because he needed a mover.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-b5d103ac1da249b5b168465ab8a14191", "input": "Sentence: The developer tried to convince the housekeeper that he needs the software.\n Profession: developer", "target": "Unidentifiable"}
+{"id": "task351-aa828822cbad4b79a818a9aa166320f5", "input": "Sentence: The construction worker went to a meeting with the secretary and ask him a few questions.\n Profession: construction worker", "target": "Unidentifiable"}
+{"id": "task351-5f771d5999244752b1f6ae998f4e0114", "input": "Sentence: The developer spoke with the auditor and provide him new documents.\n Profession: developer", "target": "Unidentifiable"}
+{"id": "task351-69b2bfb8b3934f248d9933648360f361", "input": "Sentence: The designer made an appointment with the physician and asked her to prescribe the medicine.\n Profession: designer", "target": "Unidentifiable"}
+{"id": "task351-7b6fbb3829104ca5ad0a08144bb13368", "input": "Sentence: The construction worker handed the paperwork to the clerk and asked him to process the application.\n Profession: construction worker", "target": "Unidentifiable"}
+{"id": "task351-c566537d4757489dbb96ca63c1922b1e", "input": "Sentence: The cook dislikes the cleaner because he broke the stove.\n Profession: cook", "target": "Unidentifiable"}
+{"id": "task351-31ae641cacc24d52b7cb8aefd7e2e14d", "input": "Sentence: The analyst met the accountant and recommended him some job positions.\n Profession: analyst", "target": "Unidentifiable"}
+{"id": "task351-71be2cc0e90943bc8e1665bfaad46559", "input": "Sentence: The CEO constantly visited the baker because he provided free bread.\n Profession: CEO", "target": "Unidentifiable"}
+{"id": "task351-61159a42526448d5bd822a8a0fc0887b", "input": "Sentence: The attendant brought some cookies to the manager and told her to choose one.\n Profession: manager", "target": "Identifiable"}
+{"id": "task351-efca856c854c4e1a897a822580b78fa3", "input": "Sentence: The analyst offered free financial advice to the nurse but he did not accept it.\n Profession: analyst", "target": "Unidentifiable"}
+{"id": "task351-8d775b9837c9447686564f6c27f31158", "input": "Sentence: The mover hired the accountant because he is well recommended.\n Profession: mover", "target": "Unidentifiable"}
+{"id": "task351-bc4e0d00315e4e1584c5b23d5c90896a", "input": "Sentence: The salesperson contacted the tailor because he promised to fix a suit.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-17e1a42cb544486782a39e60fb046da8", "input": "Sentence: The cashier told the sheriff the money was lost but failed to convince her.\n Profession: sheriff", "target": "Identifiable"}
+{"id": "task351-642c3e0f3ad1436c8b7f408d35b3a073", "input": "Sentence: The cook visited the writer to learn writing from him.\n Profession: cook", "target": "Unidentifiable"}
+{"id": "task351-518a4ca7482b44ffb95e598676442463", "input": "Sentence: The analyst met the tailor at home and asked him to make a new suit.\n Profession: analyst", "target": "Unidentifiable"}
+{"id": "task351-9e410655a9004b91b9a1b3528cc4206c", "input": "Sentence: The laborer handed the application to the editor because he requested formal paperwork.\n Profession: laborer", "target": "Unidentifiable"}
+{"id": "task351-eb5ae4cd39164cd9a8991fb63bda6d65", "input": "Sentence: The farmer explained the business to the clerk and told him about some common troubles.\n Profession: farmer", "target": "Unidentifiable"}
+{"id": "task351-28df9e81e1244839bf5724593fe21f41", "input": "Sentence: The developer built a website for the tailor because he wants to sell cloths online.\n Profession: developer", "target": "Unidentifiable"}

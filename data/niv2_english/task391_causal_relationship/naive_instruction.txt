@@ -1,0 +1,1 @@
+Given two sentences, decide whether the second sentence can be the result of the first one.

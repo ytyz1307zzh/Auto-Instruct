@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence your task is to generate possible numbers of simplified sentences.",
+    "category": "Text Simplification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

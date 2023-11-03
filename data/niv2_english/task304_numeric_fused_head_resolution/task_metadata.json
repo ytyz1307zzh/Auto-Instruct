@@ -1,0 +1,7 @@
+{
+    "summary": "Given a dialogue and a highlighted number, decide what does the number refer to",
+    "category": "Coreference Resolution",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

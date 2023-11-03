@@ -1,0 +1,3 @@
+{"id": "task1601-f3260d5844824893a3c2266e9f0cb169", "input": "concept: Helen Keller  question:  where did helen keller go to school?", "target": "['Radcliffe College', 'Perkins School for the Blind', 'Wright-Humason School for the Deaf', 'The Cambridge School of Weston', 'Horace Mann School for the Deaf and Hard of Hearing']"}
+{"id": "task1601-1263c693ef3e4c7c992f6383811955ce", "input": "concept: Mcfly  question:  what year did mcfly go to the future?", "target": "['6th March 2006']"}
+{"id": "task1601-590cbd4e0c0b4d6598de6591bd6815d9", "input": "concept: Houston Rockets  question:  when did the houston rockets win the championship?", "target": "['1994 NBA Finals', '1995 NBA Finals']"}

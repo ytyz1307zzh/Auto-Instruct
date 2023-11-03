@@ -1,0 +1,7 @@
+{
+    "summary": "Classification of labels correctly to show relation between two sentences (based on the sick dataset)",
+    "category": "Textual Entailment",
+    "domain": "Captions -> Video Captions, Captions -> Image Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

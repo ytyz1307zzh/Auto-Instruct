@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question and an answer, verify the answer.",
+    "category": "Answer Verification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

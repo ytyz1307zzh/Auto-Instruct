@@ -1,0 +1,7 @@
+{
+    "summary": "Classify the conversation sentences of input passage into the following outputs: formal and informal",
+    "category": "Dialogue Act Recognition",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

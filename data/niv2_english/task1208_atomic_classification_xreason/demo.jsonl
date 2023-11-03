@@ -1,0 +1,3 @@
+{"id": "task1208-95f5d7f897e7417aab653a7300f74402", "input": "Head: sneeze<sep>Tail: of cold", "target": "Yes"}
+{"id": "task1208-09c1fc1b4b374cae9d529bb3402c4cce", "input": "Head: PersonX accepts ___ in exchange<sep>Tail: compromising", "target": "No"}
+{"id": "task1208-c56ae54cc0294c52affc814b615ed477", "input": "Head: sleep<sep>Tail: working very hard makes tires", "target": "Yes"}

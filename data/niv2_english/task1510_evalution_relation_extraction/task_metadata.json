@@ -1,0 +1,7 @@
+{
+    "summary": "Given a phrase describing the relationship between two words, extract the words and the lexical relationship between them",
+    "category": "Information Extraction",
+    "domain": "Global Facts",
+    "input_lang": "English",
+    "output_lang": "English"
+}

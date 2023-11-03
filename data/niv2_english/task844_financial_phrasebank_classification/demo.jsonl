@@ -1,0 +1,3 @@
+{"id": "task844-6db41b7c69dd4fbeb7b08dbb0eb8ac51", "input": "news:`` We see that the market continues to be tight in magazine papers , and our target is to close the deals by the end of the year . ''\npolarity:negative", "target": "true"}
+{"id": "task844-3c296e9502c74cc08527742ed3de8af4", "input": "news:Operating profit decreased to nearly EUR 1.7 mn , however .\npolarity:neutral", "target": "false"}
+{"id": "task844-6358e688c39941d7999b45ab5d85076c", "input": "news:To our members and partners , the use of IT will mostly be apparent in the increased efficiency of the results service , '' observes Perttu Puro from Tradeka .\npolarity:positive", "target": "true"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generating questions (based on xquad en)",
+    "category": "Question Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

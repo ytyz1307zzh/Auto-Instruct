@@ -1,0 +1,7 @@
+{
+    "summary": "Generating summary for the text in xlsum",
+    "category": "Summarization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

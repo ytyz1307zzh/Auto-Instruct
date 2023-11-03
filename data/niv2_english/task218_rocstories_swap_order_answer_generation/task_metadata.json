@@ -1,0 +1,7 @@
+{
+    "summary": "Given a five sentence story and the title, determine which two sentences must be swapped so that the story makes complete sense.",
+    "category": "Sentence Ordering",
+    "domain": "Narrative, Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

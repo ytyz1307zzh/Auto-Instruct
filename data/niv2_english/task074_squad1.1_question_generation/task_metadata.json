@@ -1,0 +1,7 @@
+{
+    "summary": "Generate guestions based on SQuAD 1.1.",
+    "category": "Question Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

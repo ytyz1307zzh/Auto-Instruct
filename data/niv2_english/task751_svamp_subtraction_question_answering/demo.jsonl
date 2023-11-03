@@ -1,0 +1,3 @@
+{"id": "task751-ca9fadff54854c0f903ae87df3403c1b", "input": "Context: Last week Fred had 19 dollars and Jason had 16 dollars. They washed cars over the weekend and now Fred has 40 dollars and Jason has 69 dollars. \n\n Question: How much money did Fred earn over the weekend?", "target": "21"}
+{"id": "task751-409e20e3ae1c4af381fc5d762c5867f9", "input": "Context: In a school there are 362 boys and 257 girls. 403 more girls joined the school. \n\n Question: How many more girls than boys does the school have?", "target": "298"}
+{"id": "task751-2a9d2944849143e3a3afaa7955b978fd", "input": "Context: A book has 2 chapters. The first chapter is 60 pages long. If there are a total of 93 pages in the book \n\n Question: How many pages are in the second chapter?", "target": "33"}

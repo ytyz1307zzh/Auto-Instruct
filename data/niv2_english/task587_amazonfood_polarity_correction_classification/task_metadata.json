@@ -1,0 +1,7 @@
+{
+    "summary": "Given a review of amazon food products and it's polarity, you have to classify whether the polarity is correct or not.",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews -> Food",
+    "input_lang": "English",
+    "output_lang": "English"
+}

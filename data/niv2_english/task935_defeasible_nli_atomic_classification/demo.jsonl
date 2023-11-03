@@ -1,0 +1,3 @@
+{"id": "task935-fa715210ab8b4908a347fa86b16cef85", "input": "Premise: PersonX brings PersonY closer\nHypothesis: PersonX is seen as glad\nUpdate: They are hugging each other tight.", "target": "strengthener"}
+{"id": "task935-9a4e3d9ca37244f7a396d4f5974cdd0d", "input": "Premise: PersonX notices an ad\nHypothesis: Before, PersonX needed to buy a newspaper\nUpdate: PersonX turns toward the television.", "target": "weakener"}
+{"id": "task935-afba6f63ab144fb2a7dc75623b870b44", "input": "Premise: PersonX carries PersonY home\nHypothesis: Before, PersonX needed to offer to carry personY's things\nUpdate: PersonY carries an enormous handbag with them everywhere.", "target": "strengthener"}

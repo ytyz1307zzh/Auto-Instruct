@@ -1,0 +1,1 @@
+Given a passage, generate a fill-in-the-gap question based on it.

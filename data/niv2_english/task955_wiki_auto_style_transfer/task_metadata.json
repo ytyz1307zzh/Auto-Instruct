@@ -1,0 +1,7 @@
+{
+    "summary": "Elaborate wikipedia sentences.",
+    "category": "Sentence Expansion",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

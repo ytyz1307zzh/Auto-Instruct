@@ -1,0 +1,7 @@
+{
+    "summary": "Given a country, return it's currency",
+    "category": "Misc.",
+    "domain": "Countries",
+    "input_lang": "English",
+    "output_lang": "English"
+}

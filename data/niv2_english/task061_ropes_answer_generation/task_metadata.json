@@ -1,0 +1,7 @@
+{
+    "summary": "Answering questions regarding relations in the given paragraph.",
+    "category": "Question Answering",
+    "domain": "Wikipedia, Natural Science, School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generate question from the given passage",
+    "category": "Question Generation",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

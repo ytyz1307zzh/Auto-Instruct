@@ -1,0 +1,7 @@
+{
+    "summary": "Given an analogy that relates places/locations to the associated travel mode, give the appropriate travel mode for the given place",
+    "category": "Word Analogy",
+    "domain": "Commonsense, Public Places",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given an ambiguous question, return a question which clarifies the given question.

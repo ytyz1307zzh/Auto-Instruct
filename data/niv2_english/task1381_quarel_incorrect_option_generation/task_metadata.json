@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence and a question, choose the incorrect option number instead of exact answer based on the sentence.",
+    "category": "Wrong Candidate Generation",
+    "domain": "Story, Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Using given sentence and a verb,generating questions which can be answered from the sentence.

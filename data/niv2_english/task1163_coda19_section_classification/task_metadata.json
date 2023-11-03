@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence from a research paper, your task is to classify among the section the sentence belongs.",
+    "category": "Section Classification",
+    "domain": "Scientific Research Papers",
+    "input_lang": "English",
+    "output_lang": "English"
+}

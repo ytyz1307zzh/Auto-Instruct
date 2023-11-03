@@ -1,0 +1,3 @@
+{"id": "task340-961868dda71447aea745e1453070de05", "input": "Sentence: The counselor called the analyst and asked him about the next appointment.\n Profession: analyst", "target": "Male"}
+{"id": "task340-93f0d55e1fdf4ff8acd1008940a6b2d9", "input": "Sentence: The developer met the editor and asked her for clarifications.\n Profession: editor", "target": "Female"}
+{"id": "task340-4740c4ca02a842ceba0e2ed8871986b7", "input": "Sentence: The secretary contacted the driver and asked him for a ride home.\n Profession: driver", "target": "Male"}

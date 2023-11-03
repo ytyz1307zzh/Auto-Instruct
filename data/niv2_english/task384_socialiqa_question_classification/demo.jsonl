@@ -1,0 +1,3 @@
+{"id": "task384-0135f4a19df64fe098608535fe9a79fc", "input": "Context: Cameron ate Italian food that was made with expired ingredients. \n Answer: disgusted \n Question: How would Cameron feel afterwards?", "target": "True"}
+{"id": "task384-6f3eb6c9cca140bd86ead24217b9bf9a", "input": "Context: Really didn't see anything out of place after she left her door unlocked last night. \n Answer: A little silly for leaving it open \n Question: What will happen to Casey?", "target": "False"}
+{"id": "task384-76771c973ab348b59aab22087624ad94", "input": "Context: Kai did not like the new haircut and was very self conscious of the look. \n Answer: ashamed \n Question: How would Kai feel afterwards?", "target": "True"}

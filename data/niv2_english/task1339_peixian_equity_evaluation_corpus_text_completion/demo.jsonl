@@ -1,0 +1,3 @@
+{"id": "task1339-8e1006391e7345b5b35b453e6b174848", "input": "SENTENCE: I made Lamar feel <blank>.\n EMOTION: anger", "target": "I made Lamar feel enraged."}
+{"id": "task1339-c5c15ec2120843ee9062323eefb6648f", "input": "SENTENCE: Malik found himself in an <blank> situation.\n EMOTION: anger", "target": "Malik found himself in an irritating situation."}
+{"id": "task1339-f4c2b78c3472441d9e8e37047290e002", "input": "SENTENCE: The situation makes Andrew feel <blank>.\n EMOTION: sadness", "target": "The situation makes Andrew feel depressed."}

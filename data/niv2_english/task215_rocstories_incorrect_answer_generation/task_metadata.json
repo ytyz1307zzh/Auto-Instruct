@@ -1,0 +1,7 @@
+{
+    "summary": "Given the title and the first four sentences of a five sentence story, write an incorrect story ending.",
+    "category": "Text Completion",
+    "domain": "Narrative, Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

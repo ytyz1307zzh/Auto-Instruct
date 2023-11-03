@@ -1,0 +1,1 @@
+Choosing text that incorrectly completes a story based on given beginning and ending.

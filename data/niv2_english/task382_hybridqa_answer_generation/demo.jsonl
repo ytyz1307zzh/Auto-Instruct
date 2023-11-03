@@ -1,0 +1,3 @@
+{"id": "task382-8773af256d4545ec9ad56ba26572ae09", "input": "What is the part-of-speech tag of the word \"for\" in the following question: Which player plays for the team that qualified for their first playoff appearance in 1984 ?", "target": "IN"}
+{"id": "task382-6024c9b1a5564e029ebc378e25b11eb9", "input": "What is the part-of-speech tag of the word \"Usher\" in the following question: The earliest album that Usher is on the table for , how many albums had he had before it ?", "target": "NNP"}
+{"id": "task382-f6b551f6c3e14b7baba9b70feb39b3e1", "input": "What is the part-of-speech tag of the word \"the\" in the following question: What album is the tenth from the top selling tropical salsa artist of all time ?", "target": "DT"}

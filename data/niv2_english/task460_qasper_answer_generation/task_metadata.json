@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context and a question, answer the question based on the context.",
+    "category": "Question Answering",
+    "domain": "Scientific Research Papers",
+    "input_lang": "English",
+    "output_lang": "English"
+}

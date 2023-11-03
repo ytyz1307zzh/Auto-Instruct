@@ -1,0 +1,7 @@
+{
+    "summary": "Verifying if the text is about a person (dbpedia_14 dataset)",
+    "category": "Text Categorization",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

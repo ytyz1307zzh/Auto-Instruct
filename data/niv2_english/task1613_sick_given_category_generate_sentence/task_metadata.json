@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a sentence based  that meets the given criteria  (based on the sick dataset)",
+    "category": "Sentence Composition",
+    "domain": "Captions -> Video Captions, Captions -> Image Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

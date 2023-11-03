@@ -1,0 +1,7 @@
+{
+    "summary": "Given a statement, generate its context or previous statement",
+    "category": "Text Completion",
+    "domain": "Captions -> Video Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

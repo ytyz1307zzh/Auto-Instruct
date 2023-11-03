@@ -1,0 +1,1 @@
+Given two questions, decide whether the second one is a valid paraphrase of the first one

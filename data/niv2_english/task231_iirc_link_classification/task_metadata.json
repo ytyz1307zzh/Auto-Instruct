@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question, context passage, and terms from the passage for further information search, determine which term can be used to answer the question.",
+    "category": "Question Answering",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a command, classify the command in one of seven logic types.

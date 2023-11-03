@@ -1,0 +1,3 @@
+{"id": "task610-d0eddf36e8714895af4f7a56fa7e7440", "input": "SOCCER - BRAZILIAN CHAMPIONSHIP RESULTS / STANDINGS . ", "target": "SOCCER - BRAZILIAN <B-MISC> CHAMPIONSHIP RESULTS / STANDINGS . "}
+{"id": "task610-cc0f95b5185c4edea7742894898a63ac", "input": "Finnish April trade surplus 3.8 billion markka - NCB . ", "target": "Finnish <B-MISC> April trade surplus 3.8 billion markka - NCB <B-ORG> . "}
+{"id": "task610-336629221ee14cd3b4b2cd1197e8f6e0", "input": "\" Any diver knows that when a whale gets going you ca n't keep up , \" Harvey told the magazine . \" ", "target": "\" Any diver knows that when a whale gets going you ca n't keep up , \" Harvey <B-PER> told the magazine . \" "}

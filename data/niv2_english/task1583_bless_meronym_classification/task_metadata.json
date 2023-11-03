@@ -1,0 +1,7 @@
+{
+    "summary": "Given an object and a part, decide whether the object has that part",
+    "category": "Word Relation Classification",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

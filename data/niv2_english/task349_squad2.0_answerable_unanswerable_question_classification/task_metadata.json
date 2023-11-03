@@ -1,0 +1,7 @@
+{
+    "summary": "Given a passage and a question, classify whether or not the question is answerable from the passage.",
+    "category": "Answerability Classification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

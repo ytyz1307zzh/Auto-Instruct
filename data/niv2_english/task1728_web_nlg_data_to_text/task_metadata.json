@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a textual description of a set of data triples.",
+    "category": "Data to Text",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

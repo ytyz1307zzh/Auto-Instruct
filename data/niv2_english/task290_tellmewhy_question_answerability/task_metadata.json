@@ -1,0 +1,7 @@
+{
+    "summary": "Given a short story and a question, decide whether or not the question is answerable.",
+    "category": "Answerability Classification",
+    "domain": "Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

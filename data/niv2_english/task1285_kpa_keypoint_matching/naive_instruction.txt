@@ -1,0 +1,1 @@
+Given a depate topic, an argument on the topic and a keypoint, answer if the keypoint summarizes the argument

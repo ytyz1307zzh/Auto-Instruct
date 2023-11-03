@@ -1,0 +1,7 @@
+{
+    "summary": "Given a text from a trivia quiz, decide the category the question belongs to",
+    "category": "Text Categorization",
+    "domain": "Art, Literature, History, Sociology, Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

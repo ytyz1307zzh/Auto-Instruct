@@ -1,0 +1,1 @@
+Classifying if (news, polarity) is valid or not (based on financial_phrasebank)

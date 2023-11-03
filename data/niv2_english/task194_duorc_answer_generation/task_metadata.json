@@ -1,0 +1,7 @@
+{
+    "summary": "Given a plot and a question, answer the question based on the plot.",
+    "category": "Question Answering",
+    "domain": "Movies",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence from the BTC dataset, return the list of tokens that mentions of companies or organizations.",
+    "category": "Named Entity Recognition",
+    "domain": "Commonsense -> Concepts and Relations -> Social Commonsense, Professions, Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

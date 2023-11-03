@@ -1,0 +1,7 @@
+{
+    "summary": "Given a movie review, classify its sentiment into positive or negative.",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews -> Movies",
+    "input_lang": "English",
+    "output_lang": "English"
+}

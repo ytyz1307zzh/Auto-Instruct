@@ -1,0 +1,1 @@
+Given a tuple, ddetermine whether the Head is capable of the Tail or not.

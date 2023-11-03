@@ -1,0 +1,1 @@
+Given a five sentence story in shuffled order and the title, put the story in the correct order.

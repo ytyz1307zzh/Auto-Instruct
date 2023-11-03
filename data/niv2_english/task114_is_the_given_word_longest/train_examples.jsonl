@@ -1,0 +1,61 @@
+{"id": "task114-2176f0e88b4047a097b212357f886f63", "input": "Sentence: 'a kitchen with a stove a dih washer and a mcirowave'. Is 'stove' the longest word in the sentence?", "target": "No"}
+{"id": "task114-23d029655e194749a5831e289d0a9bdb", "input": "Sentence: 'a hipster sitting at a table with a pizza before him'. Is 'with' the longest word in the sentence?", "target": "No"}
+{"id": "task114-e34c2e32ea8c49f2ac90c6ff173feab3", "input": "Sentence: 'a woman sitting on a couch while wearing glasses'. Is 'while' the longest word in the sentence?", "target": "No"}
+{"id": "task114-bbaeb40a37364c09ac393b86444bf619", "input": "Sentence: 'a man riding skis down a snow covered slope'. Is 'man' the longest word in the sentence?", "target": "No"}
+{"id": "task114-49f483eefb13419da39422fcd08e6a01", "input": "Sentence: 'a cat walking near a street with a bird flying toward it'. Is 'with' the longest word in the sentence?", "target": "No"}
+{"id": "task114-a18ddd37aba44041b5332c463b3a8781", "input": "Sentence: 'two cows bent over eating green grass together'. Is 'bent' the longest word in the sentence?", "target": "No"}
+{"id": "task114-3a8127f797dd475a994cedb3ca71ac96", "input": "Sentence: 'a man standing under an umbrella holding a lit candle'. Is 'under' the longest word in the sentence?", "target": "No"}
+{"id": "task114-e2dcc89c73024abe9656a01da43ecf28", "input": "Sentence: 'a elephant walking through a pond with trees around it'. Is 'walking' the longest word in the sentence?", "target": "No"}
+{"id": "task114-a80567a5f4c54c26a312cfab432332e7", "input": "Sentence: 'a man with a suit and tie is standing outside'. Is 'suit' the longest word in the sentence?", "target": "No"}
+{"id": "task114-cd6c5c1c2dff4ed4a34630db7a95b952", "input": "Sentence: 'there is someone holding a small phone with a small screen'. Is 'someone' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-cd05a2e628964011b2fe1e59595c39a0", "input": "Sentence: 'a man with glasses is smiling and clapping'. Is 'man' the longest word in the sentence?", "target": "No"}
+{"id": "task114-a4444d8b4c414d538eed437bfc369962", "input": "Sentence: 'a ship is docked in a harbor in front of a bridge'. Is 'front' the longest word in the sentence?", "target": "No"}
+{"id": "task114-c213e3b935584864b06e03910d58687a", "input": "Sentence: 'an empty wooden bench in a sunny wood contains two small labels'. Is 'sunny' the longest word in the sentence?", "target": "No"}
+{"id": "task114-3f70a35e254e48c08fd860bc77925eff", "input": "Sentence: 'a large ornate clock tower sits behind a fence in a park'. Is 'park' the longest word in the sentence?", "target": "No"}
+{"id": "task114-4d54f9ffa27f473db06e0b1645967f28", "input": "Sentence: 'a herd of zebra and giraffe walking across a green forest'. Is 'green' the longest word in the sentence?", "target": "No"}
+{"id": "task114-a0ec4d076424406ea5a572292459e973", "input": "Sentence: 'a person is riding down a hill in the snow on skis'. Is 'person' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-c7b60cbb15694a4f84c9231f447aff0c", "input": "Sentence: 'a close up of tw pizzas on two pans'. Is 'on' the longest word in the sentence?", "target": "No"}
+{"id": "task114-3805f31500d04fc8995664f0f4219a38", "input": "Sentence: 'a person is trying unsuccessfully to catch a frisbee at a park'. Is 'person' the longest word in the sentence?", "target": "No"}
+{"id": "task114-dd8f004710f04b7b919929a72fd69c76", "input": "Sentence: 'thin crust pizza with cheese tomato and herbs'. Is 'cheese' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-c3689ef9b80a4bdca8c9c967f62a253e", "input": "Sentence: 'a smiling baby playing with a yellow and blue toy'. Is 'baby' the longest word in the sentence?", "target": "No"}
+{"id": "task114-9f0caf0ad8d948f1986923511bd191cf", "input": "Sentence: 'a pair of sheep stand at the top of a hill'. Is 'top' the longest word in the sentence?", "target": "No"}
+{"id": "task114-a7f4927339be4f358130985ba62104e1", "input": "Sentence: 'a white church with a steeple rests on a snowy hill'. Is 'hill' the longest word in the sentence?", "target": "No"}
+{"id": "task114-f3e375148de14a289c6b797832c4b5a6", "input": "Sentence: 'three cooked hot dogs in a pan'. Is 'hot' the longest word in the sentence?", "target": "No"}
+{"id": "task114-689b212cea234380b45ef27c0a4b740f", "input": "Sentence: 'a group of men playing a game of basketball on court'. Is 'game' the longest word in the sentence?", "target": "No"}
+{"id": "task114-8dc5472a2eca457c983e662929f56bc7", "input": "Sentence: 'the three snow skiers are being pulled along the path'. Is 'three' the longest word in the sentence?", "target": "No"}
+{"id": "task114-47125760889145ec9d9b61d3bfe3c7c3", "input": "Sentence: 'a black cat on a table behind small cactuss'. Is 'cat' the longest word in the sentence?", "target": "No"}
+{"id": "task114-643f99dd6aa9421c9fa626804ed3d6bb", "input": "Sentence: 'a large yellow passenger bus stopped by the side of the road'. Is 'side' the longest word in the sentence?", "target": "No"}
+{"id": "task114-520b1a55a73140d8ac545cc1db6823fe", "input": "Sentence: 'public bathroom with metallic dispensers over top of it'. Is 'over' the longest word in the sentence?", "target": "No"}
+{"id": "task114-177efd7889cd41b1a2d0b86df8d87279", "input": "Sentence: 'a male tennis player stands on a field holding a racket'. Is 'male' the longest word in the sentence?", "target": "No"}
+{"id": "task114-9d32ec995dd04fc1acd34b794da16d49", "input": "Sentence: 'a man holding a snowboard while bending in the snow'. Is 'man' the longest word in the sentence?", "target": "No"}
+{"id": "task114-e16dd195ea1b4df0b687e73b2720d609", "input": "Sentence: 'an older person holding a kite with a young child reaching up'. Is 'person' the longest word in the sentence?", "target": "No"}
+{"id": "task114-35fb1ffccac147eb8b07da4d75ce4df1", "input": "Sentence: 'a woman in a car taking a picture through an image in her rear view mirror'. Is 'car' the longest word in the sentence?", "target": "No"}
+{"id": "task114-339d41b7739046b4adee0c1760a718e8", "input": "Sentence: 'chocolate glazed doughnuts and pastries on a plate'. Is 'on' the longest word in the sentence?", "target": "No"}
+{"id": "task114-231eb76549e945f6a53738d0bd5b0a64", "input": "Sentence: 'a snow boarder in the air on a slope'. Is 'on' the longest word in the sentence?", "target": "No"}
+{"id": "task114-9bf2c6df416145ac959a9e5d80347207", "input": "Sentence: 'a blue and white bus next to various cars on the street'. Is 'on' the longest word in the sentence?", "target": "No"}
+{"id": "task114-56eaab816e0548f795752ab394bc397a", "input": "Sentence: 'a little baby with blue eyes looks up as he holds a teddy bear'. Is 'baby' the longest word in the sentence?", "target": "No"}
+{"id": "task114-956b8ae3519b42f78c4411eb93b0f04a", "input": "Sentence: 'a compouter mouse and laptop computer on table'. Is 'and' the longest word in the sentence?", "target": "No"}
+{"id": "task114-dd65daae04764f1b8e52b42cf3bb4d74", "input": "Sentence: 'a smiling boy wearing a tie with no shirt'. Is 'smiling' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-79af4723ff3242e8993b2a7665d86030", "input": "Sentence: 'a bowl on a stove with a numerous amount of broccoli and shrimp'. Is 'bowl' the longest word in the sentence?", "target": "No"}
+{"id": "task114-8005141315ea4e54aa46bbbfa885d36e", "input": "Sentence: 'a couple of red busses are parked on the street'. Is 'are' the longest word in the sentence?", "target": "No"}
+{"id": "task114-ae4e00ef2b254033875154ad1807fe1f", "input": "Sentence: 'a display of yellow flowers in several long glass vases on the wall'. Is 'display' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-09a7dd79135a47de87f3c7a19d9f167d", "input": "Sentence: 'a white pizza with cheese and a class of water nearby'. Is 'cheese' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-a327933e1e744edf946516f264fce6f9", "input": "Sentence: 'a scene of old cars possibly from the nineteen fifties and an old fire hydrant'. Is 'possibly' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-1e6805efd25e426187978f5a9f819e9d", "input": "Sentence: 'a display filled with glass vases sitting next to each other'. Is 'display' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-0c189aa6b51d4d1facc6d66d2f37bf9e", "input": "Sentence: 'a elephant walking by a lot of trees and bushes'. Is 'lot' the longest word in the sentence?", "target": "No"}
+{"id": "task114-ff32eccd9dcf434a8795322df63cd02e", "input": "Sentence: 'a big jumbo jet sits parked next to another plane'. Is 'another' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-e4ed3e414a694be291701c5e4390f92c", "input": "Sentence: 'a man and woman stand at a kitchen counter and prepare food'. Is 'man' the longest word in the sentence?", "target": "No"}
+{"id": "task114-c0d76a910950403ead3be6a6df94f103", "input": "Sentence: 'people on surfboards in the blue sea a woman lying down and a man paddling with an oar'. Is 'blue' the longest word in the sentence?", "target": "No"}
+{"id": "task114-f0ae0cbb80144603987b0817fdd19050", "input": "Sentence: 'large mirror over sink in a room with tiled floors and large window'. Is 'room' the longest word in the sentence?", "target": "No"}
+{"id": "task114-cf56a7c9fd6940a7bc79fe037a32ce0c", "input": "Sentence: 'a body of water filed with rocks and boats'. Is 'water' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-2cc670cfdd554839b7f23dfae02772dc", "input": "Sentence: 'a group of people skiing in a line down a trail'. Is 'people' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-a74f4b2c8ded436b890d051dece570d0", "input": "Sentence: 'a group picture of people on top of skis'. Is 'of' the longest word in the sentence?", "target": "No"}
+{"id": "task114-0337b18e4e4742df81cf9799cfad3dae", "input": "Sentence: 'a white toilet and tissue in a bathroom'. Is 'and' the longest word in the sentence?", "target": "No"}
+{"id": "task114-f60b25ac517a45fb851898701446277d", "input": "Sentence: 'the pink shirt black jacket and pink and blue tie are all hanging up'. Is 'are' the longest word in the sentence?", "target": "No"}
+{"id": "task114-4640be22808240fcbcf04c1386bf6545", "input": "Sentence: 'some animals are hanging out in the dirt'. Is 'are' the longest word in the sentence?", "target": "No"}
+{"id": "task114-a803386810c144309ce15a07effc0e18", "input": "Sentence: 'a few cupcakes designed like hats on a plate'. Is 'on' the longest word in the sentence?", "target": "No"}
+{"id": "task114-a86724b3f5f04775b6ac4fc0076ab3ca", "input": "Sentence: 'a very tall white clock tower with a clock on each of its sides'. Is 'each' the longest word in the sentence?", "target": "No"}
+{"id": "task114-ef5e28b9e28b43fcb03590b9087a4b6b", "input": "Sentence: 'the ducks with bands are on the ledge at the edge of the pool'. Is 'ledge' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-44682138211a4535a301d867b0a08dd1", "input": "Sentence: 'a giraffe that is looking at a city'. Is 'at' the longest word in the sentence?", "target": "No"}
+{"id": "task114-e047ff35270747c58fa6b57ed1d5c0ca", "input": "Sentence: 'a clock tower on the side of a building with a store name on it'. Is 'building' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-0c0326c025bd498c8158ee2dfc2082d3", "input": "Sentence: 'a colorful truck is driving on a wet road'. Is 'is' the longest word in the sentence?", "target": "No"}

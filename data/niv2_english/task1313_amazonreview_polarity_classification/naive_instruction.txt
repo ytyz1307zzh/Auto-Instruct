@@ -1,0 +1,1 @@
+You're given a review from Amazon and polarity of the review, classify whether review match the polarity.

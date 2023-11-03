@@ -1,0 +1,7 @@
+{
+    "summary": "Determine if A and B share a casual relationship",
+    "category": "Textual Entailment",
+    "domain": "Formal logic",
+    "input_lang": "English",
+    "output_lang": "English"
+}

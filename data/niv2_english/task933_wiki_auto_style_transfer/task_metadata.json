@@ -1,0 +1,7 @@
+{
+    "summary": "Rewrite wikipedia sentences in simple English.",
+    "category": "Text Simplification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence about a person, decide what is the impact of that sentence on the society's perception of that person.",
+    "category": "Text Categorization",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

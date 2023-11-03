@@ -1,0 +1,7 @@
+{
+    "summary": "Given hotel reviews and it's polarity, determine whether it's true or false",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,3 @@
+{"id": "task123-59f12f5119c3468d81022a9038845789", "input": "[{'first': -53, 'second': 58}, {'first': 76, 'second': -15}]", "target": "[{'first': -53, 'second': 58}, {'first': 76, 'second': -15}]"}
+{"id": "task123-32499fc6d57e4fe5b41dc7dfe8d8c804", "input": "[{'first': -3, 'second': 17}, {'first': 14, 'second': -92}, {'first': 83, 'second': 34}]", "target": "[{'first': -3, 'second': 17}, {'first': 14, 'second': -92}, {'first': 83, 'second': 34}]"}
+{"id": "task123-404e7d8132f349258503e631f7601178", "input": "[{'first': -59, 'second': 88}, {'first': 11, 'second': 61}, {'first': -13, 'second': -47}]", "target": "[{'first': -59, 'second': 88}, {'first': -13, 'second': -47}, {'first': 11, 'second': 61}]"}

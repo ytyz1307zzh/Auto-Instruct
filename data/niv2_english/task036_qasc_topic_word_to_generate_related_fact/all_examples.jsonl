@@ -1,0 +1,922 @@
+{"id": "task036-e44ff221ac044bceab4e173c98b74672", "input": "Fact: a light bulb converts electrical energy into light energy when it is turned on.", "target": "\"light bulb\" \"traffic signal\"."}
+{"id": "task036-c27ddfb397de439ab0f769676c957665", "input": "Fact: Carbon may be stored in sedimentary rock for millions of years.", "target": "Carbon sources."}
+{"id": "task036-e90a555bd9cb4d2bb81e4dfc64e1544e", "input": "Fact: a radio is used for communication.", "target": "communication is important during war."}
+{"id": "task036-2024b3e577e342aaa62a1a5dcdd5f1f0", "input": "Fact: Streams may start with runoff or water seeping out of a spring.", "target": "Stream water."}
+{"id": "task036-1a99d0eb13de4239acf70ce9e49dda1a", "input": "Fact: Stimuli are detected by sensory nerve cells.", "target": "Stimuli."}
+{"id": "task036-30ace56ac5f2472ea16d536266b328ee", "input": "Fact: carbon dioxide concentrations in the air have increased over the last decade dramatically.", "target": "carbon dioxide CO."}
+{"id": "task036-4179fc244a6b4b55a926cf5469446f55", "input": "Fact: waxy leaves are used for storing water by some plants.", "target": "plants storing water."}
+{"id": "task036-dc03e2b02c824ecaa2114d145e67c9a4", "input": "Fact: Coral reefs provide food and shelter to many ocean organisms.", "target": "Coral reef is."}
+{"id": "task036-9a56ac1ecbec43068014e9ef73a78db6", "input": "Fact: Experiments are often done in a lab.", "target": "experiment lab."}
+{"id": "task036-e253937d85ae41819981340364987412", "input": "Fact: Sponges are filter feeders.", "target": "Sponges."}
+{"id": "task036-bc78f3f6c35a484098a0eb4cd09d83b3", "input": "Fact: hitting an object causes the particles in that object to vibrate.", "target": "gong hit."}
+{"id": "task036-58a76504d6f04694b36c3be181de0e87", "input": "Fact: Some insects can use their antennae to detect sound.", "target": "antennae ants."}
+{"id": "task036-19ae379918304915b34d61f91aefa803", "input": "Fact: a gasoline lawn mower converts gasoline into motion.", "target": "gas lawn mower."}
+{"id": "task036-30f3442d5c6a431caf5bd3d8188fcd8c", "input": "Fact: when a metal rusts , that metal becomes orange on the surface.", "target": "metal iron."}
+{"id": "task036-2a445008f7184912952f30fde7f55e07", "input": "Fact: erosion of soil has a negative impact on the environment.", "target": "environment forest."}
+{"id": "task036-e879f1b251b647d2a31311933093344e", "input": "Fact: Wetlands are extremely important biomes.", "target": "biomes habitat."}
+{"id": "task036-ef9e41e88ae142dca9eb7e26bce68699", "input": "Fact: nuclear reactions in stars causes stars to produce light.", "target": "light contains photons."}
+{"id": "task036-686e3ec074dc47a98256fd8be4279f57", "input": "Fact: Most invertebrates have a nervous system.", "target": "invertebrate."}
+{"id": "task036-5209d78863f24daf9cffc5a0846f3698", "input": "Fact: Cynodonts became more mammal-like as they continued to evolve.", "target": "Cynodonts."}
+{"id": "task036-069e91d1c62e4d3c9a8323d7344c971e", "input": "Fact: Chordates have a complete digestive system and a closed circulatory system.", "target": "Chordates are."}
+{"id": "task036-93f5f18b81b448e4a1bf2989deedbbb2", "input": "Fact: Absorption of nutrients occurs mainly in the small intestine.", "target": "Absorption of nutrients."}
+{"id": "task036-eca1f1793d84499baa97f8c223e212c8", "input": "Fact: Bird eggs have hard, calcium carbonate shells.", "target": "Bird eggs have hard, calcium carbonate shells."}
+{"id": "task036-d8aac97302534787ae5eb74010effbae", "input": "Fact: Secondary growth forms secondary vascular tissues and bark.", "target": "Secondary growth tree."}
+{"id": "task036-086505be8bb3432fb4fe973f8f1a9c54", "input": "Fact: a rainbow is formed by refraction of light by separating light into all different colors.", "target": "Refraction."}
+{"id": "task036-68662e95c1c44f6fa8dd51e758fae6e7", "input": "Fact: Running water is better able to dissolve oxygen and nutrients than standing water.", "target": "nutrients minerals."}
+{"id": "task036-781d85d5877943788d37ca0c579c2edf", "input": "Fact: Gene flow occurs when individuals move into or out of a population.", "target": "Gene flow."}
+{"id": "task036-4c19375938ce4974a31f05a1f0a1caff", "input": "Fact: bacteria can cause people to become ill.", "target": "KILL BACTERIA."}
+{"id": "task036-6d0fa330fca34057854ab9dd55419137", "input": "Fact: soil erosion means soil loss through wind.", "target": "erosion soil quality."}
+{"id": "task036-28e63898b91f466ba5d0f33e0458d3de", "input": "Fact: using renewable resources to generate power reduces greenhouse gases.", "target": "greenhouse gas carbon."}
+{"id": "task036-6a3d7339e9c148a08f5f9d18f2262731", "input": "Fact: absorbing sunlight causes objects to heat.", "target": "absorb black sunlight."}
+{"id": "task036-34baf7a471374728a78bd9d0e69ceb79", "input": "Fact: Cell division is how organisms grow and repair themselves.", "target": "Cell division mitosis."}
+{"id": "task036-cab861b2de7943198617c177223579ac", "input": "Fact: creating wood-free paper does not require cutting down trees.", "target": "alternative paper wood."}
+{"id": "task036-02d5a6c574a94b33a347125c9156ec63", "input": "Fact: predicting weather requires studying weater.", "target": "meteorologists."}
+{"id": "task036-7a1eacafe8e74fed8f725a82f455e369", "input": "Fact: Plants are the major producers in terrestrial biomes.", "target": "grass plant."}
+{"id": "task036-6d1b100cdc5d4771a7e763987f31bae3", "input": "Fact: clouds are formed by water vapor rising into colder regions of the atmosphere and condensing.", "target": "clouds drop rain."}
+{"id": "task036-e72e22f14b4440ae8b12ba018f1718cf", "input": "Fact: a camera is used for recording images.", "target": "camera canon."}
+{"id": "task036-65c220d5fbf5415997c0d2d34140a14d", "input": "Fact: a light bulb requires electrical energy to produce light.", "target": "coal can be used to create electricity."}
+{"id": "task036-ce47034b63b147649d2e3a0304caf290", "input": "Fact: the mass of an object causes the gravitational force exerted by that object.", "target": "gravitational force is attraction."}
+{"id": "task036-e5254860c7474dad9de5c5a9d61cf4d7", "input": "Fact: smoking tobacco decreases stamina.", "target": "cigarettes tobacco."}
+{"id": "task036-76a3fc0e1de54550b8f9a6186d448e1c", "input": "Fact: a compass is used to navigate oceans.", "target": "a compass uses magnetism."}
+{"id": "task036-95e5a7a5d6134689879a2698bb45233c", "input": "Fact: Most mollusks have shells.", "target": "mollusks."}
+{"id": "task036-ad45f1f768bf428f963b112162e3384f", "input": "Fact: Many nucleotides bind together to form a chain called a polynucleotide.", "target": "nucleotides acid."}
+{"id": "task036-2cb43d7d90ec4ecca37229147b578e49", "input": "Fact: Aging is associated with the death of cells.", "target": "aging and cell death."}
+{"id": "task036-1d8ba8059fc74649a9ab8e40eccfb970", "input": "Fact: information in an organism 's chromosomes cause genetic traits to be passed down to that organism 's offspring.", "target": "Offspring are children."}
+{"id": "task036-7a3f083b4b994e2bbd9392962bbc0735", "input": "Fact: medicine is used for curing people when they are sick.", "target": "Medicine prescription."}
+{"id": "task036-ef0a861be2af451b8b74e35e2019872f", "input": "Fact: electrical current running through a wire causes that wire to heat up.", "target": "current electric heat."}
+{"id": "task036-0666bcdab8bb4ec781612f24e6903a82", "input": "Fact: Digestion is the process of breaking down food into components the body can absorb.", "target": "Digestion."}
+{"id": "task036-4aef0b3c27e24cb68b2e35c04dd77cd8", "input": "Fact: Ribosomes are small organelles where proteins are made.", "target": "Ribosomes."}
+{"id": "task036-a297a258e74e4a0bb6f8dd0d010ff599", "input": "Fact: eyes are used for seeing by animals by sensing light.", "target": "animal mammals."}
+{"id": "task036-39dff4c0c6d54a17aff31252c9450a8b", "input": "Fact: tectonic plates being pushed together causes earthquakes.", "target": "earthquake damage."}
+{"id": "task036-4a2c3683b8394d04bd0d933f9d632dc2", "input": "Fact: a watch is used for measuring time.", "target": "measuring time hours."}
+{"id": "task036-354dfeb2df624319ae0d2bf396e82b3e", "input": "Fact: Mammals generate heat mainly by keeping their metabolic rate high.", "target": "generate heat hum."}
+{"id": "task036-9740b85aaa86481e9d85c38c529e8dec", "input": "Fact: Fish have a centralized nervous system with a brain.", "target": "brain allows thinking."}
+{"id": "task036-020f818f453b4137b2756b8169fa5268", "input": "Fact: pesticides can cause pollution.", "target": "pesticides are."}
+{"id": "task036-1292bf1eea9b418aac2704a5167fda5c", "input": "Fact: water causes refraction of light.", "target": "refraction of light."}
+{"id": "task036-43c03d12f3b94e85809d07a6e8947a5b", "input": "Fact: Smog contains particulates.", "target": "particulates air."}
+{"id": "task036-dcf031664816449f9c13703224762441", "input": "Fact: force causes the speed of an object to increase.", "target": "force motion."}
+{"id": "task036-c02e5e44b9b6466da3e8537883af80a5", "input": "Fact: transportation technology is used for moving people.", "target": "moving people energy."}
+{"id": "task036-2f95f72007ad406ca87425485d33fe48", "input": "Fact: Adult tunicates are barrel-shaped.", "target": "adult tunicates."}
+{"id": "task036-33208cf1b0ff42559c04e40cb5ddbf26", "input": "Fact: bacteria cause food to spoil.", "target": "bacteria spoil."}
+{"id": "task036-ea6edbb4ff44486085aa1d975abbd344", "input": "Fact: Plants exhibit phototropism, or growing toward a light source.", "target": "electricity can produce light."}
+{"id": "task036-4af6afb3713441e3b78342d0438f09d7", "input": "Fact: crossing two living things with recessive traits causes their offspring to have that recessive trait.", "target": "blue eyes are recessive traits."}
+{"id": "task036-7ce1d6fce9df49629918e98c3ac61af5", "input": "Fact: damming a river can cause a lake to form.", "target": "beaver dam."}
+{"id": "task036-75d20d40fa8d40d8b789e1203a09e6c5", "input": "Fact: Adolescence is a time of significant mental, emotional, and social changes.", "target": "Adolescence."}
+{"id": "task036-d20c3bf77d664ff0917cddba2ed0ab2c", "input": "Fact: Viruses are not affected by antibiotics.", "target": "Viruses smallpox."}
+{"id": "task036-082462f3826b4c129f5185e2ccde2920", "input": "Fact: Tunicates reproduce sexually.", "target": "sexual reproduction requires two organisms."}
+{"id": "task036-fbbd4242b7334dd99ca593def9c29314", "input": "Fact: chemical splashing can cause harm to humans.", "target": "a chemical is."}
+{"id": "task036-1d4f9a7b9c704983a2d9ae206a933873", "input": "Fact: mountains are formed by earthquakes.", "target": "earthquake is."}
+{"id": "task036-9c88a05194d64ad8b88b5d9a0d7ecfc1", "input": "Fact: Cells are the basic units of the structure and function of living things.", "target": "cells require energy."}
+{"id": "task036-426dc81921a948cbb6605f68b3e94abe", "input": "Fact: Monotremes are mammals that reproduce by laying eggs.", "target": "hatch reproduction egg."}
+{"id": "task036-95fc8a516cc9479f8ac1cc31fc2800a0", "input": "Fact: Mutation creates new genetic variation in a gene pool.", "target": "gene pool."}
+{"id": "task036-6ba3d19058c24d988982aea8142f2aa8", "input": "Fact: some flowers become fruits.", "target": "cucumber flower."}
+{"id": "task036-82692c4bab964bd9b591d633b9d43af2", "input": "Fact: completing a circuit causes electricity to flow through that circuit.", "target": "circuit completed."}
+{"id": "task036-83c8c04d262849f79803942939cd2720", "input": "Fact: sharpening an object causes that object to change shape.", "target": "knife object."}
+{"id": "task036-fbbac007b17145d7ac8be4f1d7e95b75", "input": "Fact: Bivalves feed on plankton and nonliving organic matter.", "target": "Bivalve."}
+{"id": "task036-b036cde3a69042feba1c29b43819d958", "input": "Fact: Collar cells have tiny hairs that trap the particles.", "target": "Collar cells tiny hairs."}
+{"id": "task036-83a8cbcb74914b3081f0b7e329b71137", "input": "Fact: breaking apart rocks can cause debris.", "target": "a hammer can break rock."}
+{"id": "task036-c02b538d1b0a41368e6669c4e1eb7c5c", "input": "Fact: Most amphibians breathe with gills as larvae and with lungs as adults.", "target": "adult lungs."}
+{"id": "task036-3384ab7373564fc7a967602fb742aad7", "input": "Fact: using a gasoline engine requires burning gasoline.", "target": "burning consuming."}
+{"id": "task036-be2b25dbf6a54a3f888bef9cbb8f4546", "input": "Fact: Viruses are not cells at all, so they are neither prokaryotes nor eukaryotes.", "target": "Viruses."}
+{"id": "task036-f1250c23b0e84ba0a45add15416dc709", "input": "Fact: Fish have a circulatory system with a two-chambered heart.", "target": "fish aquatic animals."}
+{"id": "task036-49cfb93b4a3c4843baf0bd91701e1aa0", "input": "Fact: Some touch receptors sense differences in temperature or pain.", "target": "fingers contain touch receptors."}
+{"id": "task036-733b6485db704678b2ead06a5580030c", "input": "Fact: Sperm are deposited in the vagina during sexual intercourse.", "target": "male gametes sperm."}
+{"id": "task036-f44efbdd1d704fbeab1c74cd0ce6218b", "input": "Fact: a scale is used for measuring weight.", "target": "measuring pounds."}
+{"id": "task036-c048f818eb54415da54f70e3cf602a89", "input": "Fact: plant requires seed dispersal for reproduction.", "target": "plant reproduce."}
+{"id": "task036-6159fcdf675c471a8df6f264d27d8930", "input": "Fact: if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past.", "target": "fish water animal."}
+{"id": "task036-276ee2a3ee044c5db3d7b737ba09af42", "input": "Fact: Cancer cells divide more often than normal cells, and grow out of control.", "target": "Cancer cells."}
+{"id": "task036-fcf24cae0ab04c5e9fe52e3069534c14", "input": "Fact: if gas is heated then that gas will expand.", "target": "expand heat density gas."}
+{"id": "task036-3b272f04d22f46dc88736b79d0936327", "input": "Fact: Producers make food from inorganic molecules.", "target": "inorganic molecules."}
+{"id": "task036-8ce20cb1415b4a6b9de18493c0bd6dac", "input": "Fact: Biodiversity increases the productivity and stability of ecosystems.", "target": "Biodiversity."}
+{"id": "task036-fd156f43d7504b8d9b4d9bc1929902cf", "input": "Fact: if humans disturb animals in a location then those animals will move to a different location.", "target": "animal location."}
+{"id": "task036-a9acf7e4d1cd4fa3a0293fca75e720c1", "input": "Fact: a seismometer is used to measure the strength or magnitude of an earthquake.", "target": "earthquake cause."}
+{"id": "task036-d0869279682e4608a14eb3eb8e7f9d03", "input": "Fact: claws are used to catch prey by some predators.", "target": "claw paw."}
+{"id": "task036-ebfb92c4ce0d41a59157cda727160bb0", "input": "Fact: staying warm has a positive impact on an animal 's survival.", "target": "animal survival."}
+{"id": "task036-4236369d6657416faee2d3c07b885624", "input": "Fact: Cells cannot survive without oxygen.", "target": "cells blocks."}
+{"id": "task036-2bcf5e3e71f9474091dae4434d96058d", "input": "Fact: Steroid hormones are made of lipids, such as phospholipids and cholesterol.", "target": "fats lipids."}
+{"id": "task036-1e9da8291ad2488fa9f7496a9bc6fa47", "input": "Fact: x-rays are used in medical technology.", "target": "medical technology helps."}
+{"id": "task036-eedf3821e963484cadfd445ca5e48700", "input": "Fact: thick fur can be used for keeping warm.", "target": "bears fur."}
+{"id": "task036-d097ce3760b2422b96571cb0cf706a5d", "input": "Fact: Birds move their wings using muscles in the chest.", "target": "Birds move their wings using muscles in the chest."}
+{"id": "task036-051f96cb960f4e4c8c16ae2a3161d68b", "input": "Fact: glass cause refraction of light.", "target": "glass mirror."}
+{"id": "task036-8ae7eb449c5f4fb99e5eb8ccfcbb4b4e", "input": "Fact: sound can be used for communication by animals.", "target": "Sound is frequency."}
+{"id": "task036-81aa12eea535498ebada389b41acc7be", "input": "Fact: electricity is used as an energy source by electrical devices.", "target": "device phone."}
+{"id": "task036-8ae698be29154879b2a56db025043c6d", "input": "Fact: Migrants typically travel long distances.", "target": "long distances travel time."}
+{"id": "task036-109bdb56472e4131baed6195cd3a5c3e", "input": "Fact: Genes that are located on the same chromosome are called linked genes.", "target": "chromosome are DNA molecule."}
+{"id": "task036-0e1e06b7bdda4d20be68d5574738bc73", "input": "Fact: Competition may lead to aggressive behaviors or displays of aggression.", "target": "aggression is caused by adrenaline."}
+{"id": "task036-a404526d6e7541f7916ac35905a4de0e", "input": "Fact: Arthropods are the largest phylum of invertebrates.", "target": "arthropods are insects."}
+{"id": "task036-3a66a89bf94a41fd9c1e69c820076c3e", "input": "Fact: mechanical weathering is when rocks are broken down by mechanical means.", "target": "mechanical weathering."}
+{"id": "task036-97dfe432ce7c440281fb36bd1fcfb597", "input": "Fact: Osteoporosis is a disease in which osteoclasts are more active than osteoblasts.", "target": "dowager's hump."}
+{"id": "task036-c65a7d7246214e96aeeb0004b655f45e", "input": "Fact: electric devices require electrical energy to function.", "target": "devices phone."}
+{"id": "task036-c872798d87ae4d6b8e7a41260f4edb83", "input": "Fact: an automobile engine transforms chemical energy into mechanical energy.", "target": "automobile engine."}
+{"id": "task036-f052a1d437994e49a013e5f2b9b716b1", "input": "Fact: Butter is a fat that is a solid at room temperature.", "target": "butter fat refrigerate."}
+{"id": "task036-8f817e8734b74db0bd6b4dd17825f994", "input": "Fact: Sex hormones are chemical messengers that control sexual development and reproduction.", "target": "chemical messengers carry signals."}
+{"id": "task036-192d802ff620421fa46cbb95c4cf9052", "input": "Fact: intense heat has a negative impact on an organism.", "target": "animal organism."}
+{"id": "task036-39c9a9dc3ddc4eb5b5dce47515d8715d", "input": "Fact: Climate is generally described in terms of temperature and moisture.", "target": "Moisture in  air."}
+{"id": "task036-c2cb146248b443228535dcbdcbbe61b8", "input": "Fact: sonar is used to find the location of an object.", "target": "Location of an object."}
+{"id": "task036-e37f4f9730ff416594c959f939b203c9", "input": "Fact: phase changes do not change mass.", "target": "Phase changes."}
+{"id": "task036-5d76e2acc883466098f0f2d27f7868d8", "input": "Fact: Immunodeficiency occurs when the immune system is not working properly.", "target": "immune system keeps people healthy."}
+{"id": "task036-aafb86890140496791f0581ce8a92ae5", "input": "Fact: Ants communicate with chemicals called pheromones.", "target": "ant insect."}
+{"id": "task036-351e32768dd14c7896e8f7bfb47f40c6", "input": "Fact: Annelids are worms such as the familiar earthworm.", "target": "annelid."}
+{"id": "task036-fb632ca163a54b5eac8e3570b9b27284", "input": "Fact: Mollusks are invertebrates such as the common snail.", "target": "common snail garden shell."}
+{"id": "task036-c5a434f3e07c446f882ffc8aeb4e0120", "input": "Fact: cold fronts cause thunderstorms as they pass by.", "target": "cold front."}
+{"id": "task036-ab938078ce49465393681d537a811d3e", "input": "Fact: Mutations are essential for evolution to occur.", "target": "Evolution."}
+{"id": "task036-ccc81bc5c04749089475b144fd70f84b", "input": "Fact: Lung cancer is most often caused by exposure to tobacco smoke.", "target": "lung cancer also called."}
+{"id": "task036-7b9ddcd441c741ba8afad799c71ad89a", "input": "Fact: the mass of a planet causes the pull of gravity on that planet.", "target": "earth planet."}
+{"id": "task036-7869fbce79f746619b0015b0d1d323c1", "input": "Fact: a flashlight converts chemical energy into light energy.", "target": "battery chemical energy."}
+{"id": "task036-ae3993e73e4e4a1dac7ce95428f46113", "input": "Fact: cellular respiration is when a cell converts from oxygen and carbohydrates into carbon dioxide, water, and energy.", "target": "cellular respiration breathe."}
+{"id": "task036-34cc7c4f87f4464e968fad069a9d9382", "input": "Fact: a fire requires oxygen to burn.", "target": "a fire requires oxygen to burn."}
+{"id": "task036-a57dc40c976545c0b342b2d8a9456451", "input": "Fact: friction is used for stopping a vehicle by brakes.", "target": "braking cars can fishtail."}
+{"id": "task036-2b0a4e03c91c4ee388ec161fcc5604d3", "input": "Fact: a telescope is used for observing stars by astronomers.", "target": "astronomer study."}
+{"id": "task036-fe97229bd1cf4dbea38a245b0d0264bd", "input": "Fact: Cancer is a disease that occurs when the cell cycle is no longer regulated.", "target": "brain tumor cancer."}
+{"id": "task036-15e5525881224b23b756a916598e4de9", "input": "Fact: Pedigrees are useful tools for studying inheritance patterns.", "target": "inheritance animals."}
+{"id": "task036-f6f3e79a05b4400ea31ea7755ba21b58", "input": "Fact: stalactites are formed by deposition.", "target": "deposition sand limestone."}
+{"id": "task036-f6a9d71851d5459288462bb62562ba69", "input": "Fact: Producers are organisms that produce food for themselves and other organisms.", "target": "Producers plants."}
+{"id": "task036-15105ffea3054e31a94a4e344e9df615", "input": "Fact: Roundworms reproduce sexually.", "target": "reproduce their young."}
+{"id": "task036-721c272868504919a9dab2d79d691a3d", "input": "Fact: Viruses infect and live inside the cells of living organisms.", "target": "human organisms."}
+{"id": "task036-dc3c461f3baf4c009f693290b1cf42ea", "input": "Fact: a toaster converts electrical energy into heat energy for toasting.", "target": "bread toast."}
+{"id": "task036-1768319a318943e0ad4d1daef9320e91", "input": "Fact: Plants that shed their leaves seasonally each year are called deciduous plants.", "target": "Deciduous."}
+{"id": "task036-95203f760ace428fa6c0e97b53ce60a5", "input": "Fact: the vanes rotating in an electric fan causes air to move.", "target": "Electric fan."}
+{"id": "task036-3d76abfa9ca0416782a96e152dc9bbdc", "input": "Fact: Most salamanders use their sense of smell to find a mate.", "target": "Salamander."}
+{"id": "task036-caf0abc75721407bbf59763a1c517ad5", "input": "Fact: competition may cause animals to fight towards members of their own species.", "target": "competition animals food."}
+{"id": "task036-cb13a8dc38e845ea9f86cb66b2c2a21d", "input": "Fact: a long tail can be used to move through water by an animal.", "target": "long tail can be used to move through water."}
+{"id": "task036-5aa8a99889c44e0ba4d8a8338ac0638e", "input": "Fact: Energy is passed up a food chain or web from lower to higher trophic levels.", "target": "energy calories."}
+{"id": "task036-b8410d804bce43368ad49246c00329b2", "input": "Fact: hydropower requires damming a river.", "target": "damming river."}
+{"id": "task036-a5600794361244bab70fe50cffab9ef2", "input": "Fact: sunlight and rain can cause a rainbow.", "target": "a rainbow is a."}
+{"id": "task036-0d8941e0c28945df9dbfdbd0108df569", "input": "Fact: Most ecosystems get energy from sunlight.", "target": "ecosystem habitat."}
+{"id": "task036-98ca02e7555345cc8dfdd25bab0b302d", "input": "Fact: sand dunes are formed by the wind transporting and depositing sand.", "target": "sand dune formation desert."}
+{"id": "task036-13c9f1fab12247849b6e31e16965bbf6", "input": "Fact: when water freezes , that water expands.", "target": "freeze."}
+{"id": "task036-97c854f4276244b2aeb97f569b7e5e39", "input": "Fact: Annelids have the amazing capacity to regrow segments that break off.", "target": "Annelids."}
+{"id": "task036-a2d30d6fe3ba4a26b3eed4b44aac0063", "input": "Fact: Centrioles are organelles involved in cell division.", "target": "cell division mitosis."}
+{"id": "task036-845b512203804ce08a374ff36d403db8", "input": "Fact: Animals adapt to cold temperatures.", "target": "adapt."}
+{"id": "task036-500c3ef86cef48b9a34a23a362711e86", "input": "Fact: if an animal sweats then that animal 's bodily water decreases.", "target": "animal human."}
+{"id": "task036-26a2d7cf1195463b90b97cc791b19a77", "input": "Fact: Some parasites live on the surface of their host.", "target": "Surface parasite."}
+{"id": "task036-420b590176a64e03b77af2894b302a48", "input": "Fact: Slime molds are fungus-like protists commonly found on rotting logs and compost.", "target": "Slime molds."}
+{"id": "task036-e674d2ce6890496bb23a6a67873043c8", "input": "Fact: Nitrogen is found in proteins, nucleic acids, and chlorophyll.", "target": "chlorophyll chloroplasts."}
+{"id": "task036-2df1080d30484b458aaac528984a224c", "input": "Fact: the Himalayas were formed by rock folding.", "target": "Himalayas located."}
+{"id": "task036-8da27d871e3144668c517d55785ae766", "input": "Fact: changes in the pH of soil can cause plants to die.", "target": "change ph soil."}
+{"id": "task036-fb939ce80ea94352a898dfe9a16547c6", "input": "Fact: Brain cells die quickly if their oxygen supply is cut off.", "target": "brain cell die."}
+{"id": "task036-37927626521a46dd835b7808cc87a073", "input": "Fact: Scientists who find and study fossils are called paleontologists.", "target": "fossil dinosaur bones."}
+{"id": "task036-7bc49b6a65a7434db21bf07a161b4b42", "input": "Fact: Endospores are commonly found in soil and water.", "target": "Endospores."}
+{"id": "task036-d2f93bfd334947e4910c3e4fd8d80efb", "input": "Fact: melting is when solids are heated above their melting point.", "target": "melting dissolve."}
+{"id": "task036-0e948d5d46b94ceeb4a353db46e86f7a", "input": "Fact: Population density is the average number of individuals per unit of area or volume.", "target": "population density high."}
+{"id": "task036-b3bf965c339043c9b5a08dfa5ef709a9", "input": "Fact: Muscle contraction occurs when muscle fibers get shorter.", "target": "Muscle contraction."}
+{"id": "task036-3653783605d247eb8e45fad188cb261a", "input": "Fact: Viruses are not cells.", "target": "Viruses."}
+{"id": "task036-4e86ef56624b4cc0ad57c7984524618c", "input": "Fact: a greenhouse is used to protect plants by keeping them warm.", "target": "greenhouse plant."}
+{"id": "task036-5314f58e86d04f2dab097b5abe055313", "input": "Fact: the movement of tectonic plates causes volcanic eruptions.", "target": "Volcanic eruptions can cool the earth."}
+{"id": "task036-e3eeef2985e242ecaab34a02d3541a3b", "input": "Fact: Viruses cannot reproduce by themselves.", "target": "Viruses reproduce."}
+{"id": "task036-c1396508d0b848cfaf3c83a8725deeda", "input": "Fact: Water is essential for all life on Earth.", "target": "earth wildlife."}
+{"id": "task036-c7afc7482b9747589e70e4ac78780b28", "input": "Fact: photosynthesis means producers convert from carbon dioxide, water, and solar energy into carbohydrates for themselves.", "target": "Photosynthesis conversion."}
+{"id": "task036-ed2bc2499ecf4a1a913bcca810ed4a10", "input": "Fact: uneven heating of the Earth 's surface cause wind.", "target": "heating is warming."}
+{"id": "task036-862aa85642794908a2b38d7f0880e69b", "input": "Fact: Differentiation is the process by which unspecialized cells become specialized.", "target": "cell Differentiation."}
+{"id": "task036-67c47a4efa424e22bbf39420bb12b605", "input": "Fact: the looseness of soil increases the amount of oxygen in that soil.", "target": "increases the amount of oxygen in that soil."}
+{"id": "task036-cb83a224c15e4e2c8b72a5f1f13be60f", "input": "Fact: plucking a string can cause that string to vibrate.", "target": "guitars strings sound."}
+{"id": "task036-bfdccd594ad64321904d1a25d371e758", "input": "Fact: infection can cause bodily tissues to swell.", "target": "bacteria infection."}
+{"id": "task036-204c8b900edb46a0975ea4abf5096d3d", "input": "Fact: Cnidarians are invertebrates such as jellyfish and corals.", "target": "Cnidarians."}
+{"id": "task036-541675e4318646be995f983a74dbe510", "input": "Fact: a sifter is used for separating mixtures.", "target": "Sifter."}
+{"id": "task036-b6f213da865c4a78bfc0847411d520d5", "input": "Fact: Insects generally have two pairs of wings for flight.", "target": "dragonflies are insects."}
+{"id": "task036-1a725ada215040db860a64c1345fb0c7", "input": "Fact: Hair helps to insulate and protect the body.", "target": "body."}
+{"id": "task036-6efc9c7901ee49e7930c7cdb6c426d80", "input": "Fact: sedimentary rocks are formed by deposition.", "target": "What is sedimentary rocks."}
+{"id": "task036-9f3f56365505454eb42a3f5b0c9e4a1d", "input": "Fact: refracting sunlight causes sunlight to split into different colors.", "target": "prism refraction."}
+{"id": "task036-cab86eb9b3fa44018293a88975a8ab34", "input": "Fact: Vertebrate chordates have a backbone.", "target": "Vertebrate chordates bear."}
+{"id": "task036-48b57bc5ef844aee8ce69211f7d629bd", "input": "Fact: Menopause occurs when menstruation stops occurring, usually in middle adulthood.", "target": "Menopause."}
+{"id": "task036-946d386df22e41ad9074e02dfe2a6a29", "input": "Fact: ice wedging is when ice causes rocks to crack by expanding in openings.", "target": "ice expands."}
+{"id": "task036-0c6000eba9064bd6b1e4d9099125edb7", "input": "Fact: the sun causes water to evaporate more quickly by adding heat.", "target": "adding heat quickly evaporate sun."}
+{"id": "task036-5036806fa0f74d228ecd6a014a1f4347", "input": "Fact: a polar bear requires a cold environment.", "target": "cold arctic."}
+{"id": "task036-2d67489ce6e5486bbaf40eb62f3a4d40", "input": "Fact: Insects may live in large colonies and have complex social behaviors.", "target": "insect arthropod."}
+{"id": "task036-a962ccc7404447b0ba92d2a5583dac4e", "input": "Fact: pollutants have a negative impact on the environment.", "target": "environment health."}
+{"id": "task036-674d02554f474deab509491066f07880", "input": "Fact: a laser is used for producing light.", "target": "What  is Light."}
+{"id": "task036-0caeff8403bd4a25a559f479e0f0d7cf", "input": "Fact: if a neutral atom loses an electron then an atom with a negative charge will be formed.", "target": "atom electron."}
+{"id": "task036-cf853897cd3048d2858947406f0beff2", "input": "Fact: fanning a fire increases the oxygen near the fire.", "target": "fanning fire flames."}
+{"id": "task036-073d3004dd4f4e0189cdcf4258c31ebd", "input": "Fact: the moon revolving around the Earth causes the phases of the moon.", "target": "Earth world."}
+{"id": "task036-f2476674f80c432fb2fc8e8689f4e5e1", "input": "Fact: Scales protect fish from predators and parasites and reduce friction with the water.", "target": "Friction is the force resisting."}
+{"id": "task036-8e5984373292448f97ff2f3f24a0cfe6", "input": "Fact: if an animal lives under ground then that animal will be protected from a wild fire.", "target": "a wild fire can cause death."}
+{"id": "task036-26b801da1a444812a8b773746c59196e", "input": "Fact: if the amount of available food and water decreases in an environment then animals may leave that environment to find food and water.", "target": "animals bears."}
+{"id": "task036-4b13977db13d4a21aa42f2f63d1ab5cd", "input": "Fact: Negative feedback controls insulin secretion by the pancreas.", "target": "insulin sugar."}
+{"id": "task036-841a633be81648fd84014f00242ef26c", "input": "Fact: Most species go through larval stages after hatching.", "target": "larval stage."}
+{"id": "task036-9bc8caed6f44404d98318209245deefa", "input": "Fact: Yeast reproduce asexually by budding.", "target": "Yeast."}
+{"id": "task036-6f1afc293c4048bdb887ca35efd67ccd", "input": "Fact: when a river floods , that river deposits soil in flood plains.", "target": "flood cause."}
+{"id": "task036-7b67e1f25a814f51a7e399842d30c246", "input": "Fact: heat and pressure change the remains of prehistoric living things into natural gas.", "target": "dinosaurs prehistoric."}
+{"id": "task036-1e68e0604103479ab0fa429ce61a2be4", "input": "Fact: Balanced eating is a way of eating that promotes good health.", "target": "Good health."}
+{"id": "task036-fe999122f4144fc0a485521ad1569d27", "input": "Fact: chemical weathering causes iron in rock to oxidize.", "target": "chemical weathering."}
+{"id": "task036-09e9aadc49584fd2bfbf1cf238c5509c", "input": "Fact: Many nerve pathways link the cerebellum with motor neurons throughout the body.", "target": "Cerebellum."}
+{"id": "task036-b75926f1c582463493930b9fcfbfcb80", "input": "Fact: cables are used for support by suspension bridges.", "target": "cables are metal."}
+{"id": "task036-85aabc1cb2f14104a3a5ec1ee615aad4", "input": "Fact: Most reptiles have good eyesight and a keen sense of smell.", "target": "reptile eyesite."}
+{"id": "task036-0ed884ec8dc44645923ce1d8427453a8", "input": "Fact: Fungi lack chlorophyll, so they cannot make food by photosynthesis as plants can.", "target": "fungi clorophyll."}
+{"id": "task036-01a3cabb155d4c93989480e6e161d014", "input": "Fact: DNA replication is the process in which DNA is copied.", "target": "DNA acid."}
+{"id": "task036-952b8d7f9f154ea2b193e720fc9f34c3", "input": "Fact: a balance is used for measuring mass of an object.", "target": "a balance measure weight."}
+{"id": "task036-26893a2170c549bda4f1ab061e7a44fd", "input": "Fact: if an object in a fluid is more dense than that fluid then that object will sink in that fluid because of gravity.", "target": "coin sinks in water."}
+{"id": "task036-080cc75cb7b644a0ae3c7b65d02750b8", "input": "Fact: Bioterrorism is the intentional release or spread of agents of disease.", "target": "agents of disease."}
+{"id": "task036-c7a59601da8c44b4b0938befe83fff7c", "input": "Fact: Fungi are the only organisms that can decompose wood.", "target": "Fungi wood."}
+{"id": "task036-2673ddd32caa4c3fb5a38eea5f0c7cf1", "input": "Fact: cooking food requires adding heat energy.", "target": "cooking heat energy."}
+{"id": "task036-7a9e5b6686324ec4b7631cc2c47db792", "input": "Fact: if weather is stormy then there is a greater chance of rain.", "target": "hurricanes stormy."}
+{"id": "task036-0c6d9a57122346b894ace7e3195e94ed", "input": "Fact: if seeds stick to the fur of an animal then that seed will be transported by the animal.", "target": "animal fur seed."}
+{"id": "task036-e0de70a942324b3ab386f4a7c1dae9b1", "input": "Fact: if all members of a species cannot produce offspring then that species will likely become extinct.", "target": "extinct gone."}
+{"id": "task036-46cc31ed01f94beabf907937e9ee3fa4", "input": "Fact: hunting requires seeing prey.", "target": "an animal that is hunted and killed by another for food."}
+{"id": "task036-698b81aaee9b42c5b80ebacb8c5c99f0", "input": "Fact: boiling means change from a liquid into a gas by adding heat energy.", "target": "boiling change."}
+{"id": "task036-bb8424a6506b4e05b12ce939d667d64a", "input": "Fact: cutting down trees has a negative impact on an ecosystem.", "target": "cutting down trees."}
+{"id": "task036-0e40d9681b7d4590a84816e539f9a8de", "input": "Fact: tidal energy can be used to produce electricity.", "target": "electricity current."}
+{"id": "task036-392e5b0871e14eae945944b3fbd8a590", "input": "Fact: when sound reaches the ear , that sound can be heard.", "target": "hear sounds."}
+{"id": "task036-c638bbce3b8040029c5084af7e680a70", "input": "Fact: Most aquatic organisms do not have to deal with extremes of temperature or moisture.", "target": "aquatic marine."}
+{"id": "task036-084e220a5a29403e8289916052fb79e0", "input": "Fact: a delta is formed by deposition of sediment at the mouth of a river by water fanning out.", "target": "delta greek."}
+{"id": "task036-1783dd516af84b469dcd11f5a446e799", "input": "Fact: Ethologists usually study how animals behave in their natural environment.", "target": "Ethologists."}
+{"id": "task036-8dbcb509b31e40c09e1127f4c59c2096", "input": "Fact: beads of water are formed by water vapor condensing.", "target": "Water vapor."}
+{"id": "task036-57b151cf0ac64a6684b636cf942861e9", "input": "Fact: Some viruses live in a dormant state inside the body.", "target": "dormant inactive."}
+{"id": "task036-4c72a641c4c14b3c9b7462badf1b5040", "input": "Fact: Kidney failure may be treated with dialysis.", "target": "Kidney failure."}
+{"id": "task036-b68b4f4658e04d05b9ef18bd2a6e10c1", "input": "Fact: Echinoderms use pheromones to communicate with each other.", "target": "Echinoderms starfish."}
+{"id": "task036-967111545ab84199bde1fab0823809a7", "input": "Fact: a circle graph can be used to display percents.", "target": "Graphs are made of."}
+{"id": "task036-be4c3a4ac7974e5c82e578283e0a09ee", "input": "Fact: skin is used for breathing air by frogs.", "target": "air oxygen."}
+{"id": "task036-efcf3c7c2c6448879dc2756c5be6ab5d", "input": "Fact: if heat is conducted to an object then that object will become hot.", "target": "conducted heat."}
+{"id": "task036-8e58369a77594f83a95c80d766538875", "input": "Fact: Viruses contain DNA but not much else.", "target": "DNA."}
+{"id": "task036-7891f38ba3bb4374aee370c9f7942a70", "input": "Fact: the digestive system breaks food into nutrients for the body.", "target": "breaking food down."}
+{"id": "task036-0bb40c1ab8d64be9a742fd9c1813c893", "input": "Fact: crumple means change shape from smooth into compacted by physical force.", "target": "compacted density."}
+{"id": "task036-b48b84aa860d426495d665eb1e0470c5", "input": "Fact: Marine species live mainly in shallow coastal waters.", "target": "Marine means."}
+{"id": "task036-025e23af05c14f1f8405a7f67a8d216e", "input": "Fact: a generator converts kinetic energy into electrical energy.", "target": "battery."}
+{"id": "task036-f846e78a1e9245a88a535ba715656106", "input": "Fact: Veins generally carry deoxygenated blood.", "target": "blood."}
+{"id": "task036-6aeba1bf8f8a408eb846f0d38c8bf5d2", "input": "Fact: Mammals can also generate little bursts of heat by shivering.", "target": "human mammals."}
+{"id": "task036-63582820ef6e4e74b55292e347328930", "input": "Fact: Climate is the average weather in an area over a long period of time.", "target": "area is a place."}
+{"id": "task036-2485a8c96f2843aa9dab0edb5a5eb113", "input": "Fact: Molecules of tRNA bring amino acids to the ribosome in the correct sequence.", "target": "amino acids ribosome."}
+{"id": "task036-fbb15652759b44ad82e271a92f7f62c4", "input": "Fact: Passive immunity lasts only as long as the antibodies survive in body fluids.", "target": "antibodies protein."}
+{"id": "task036-de2e34e6df4e4057a6df8c430dd91211", "input": "Fact: better senses have a positive impact on an animal 's survival.", "target": "animal survival senses."}
+{"id": "task036-93cce2d1abc040c8bca5fea3cf2f2fa9", "input": "Fact: Skin color is another polygenic trait.", "target": "polygenic loci."}
+{"id": "task036-6b5544e0a1504f8b854dce75cf0c6c53", "input": "Fact: Most organisms consume--and are consumed by--more than one species.", "target": "consume eat."}
+{"id": "task036-cbc66f9e40b64dd5b0447c0c769ce011", "input": "Fact: TRH stimulates the pituitary gland to produce thyroid-stimulating hormone, or TSH.", "target": "TRH."}
+{"id": "task036-61a6c964d04b4d7eab454f2c9f229fb0", "input": "Fact: Glucose is used for energy by the cells of most organisms.", "target": "Glucose food."}
+{"id": "task036-0129a63f56784896a739899e79987fa9", "input": "Fact: scraping oneself on a contaminated object may cause infection.", "target": "infection bacteria."}
+{"id": "task036-fc38de1579c340b7a4269ecd82221945", "input": "Fact: Vesicle transport requires energy, so it is also a form of active transport.", "target": "Vesicle transport."}
+{"id": "task036-b22ac5f4ed264eed8b853d5e4afc9373", "input": "Fact: a measuring cup is used for measuring the volume of substances.", "target": "liquid volume."}
+{"id": "task036-033940c1077b4389bc72d673284ee72f", "input": "Fact: Precipitation falls on the windward side of the mountain range.", "target": "Precipitation is snow."}
+{"id": "task036-de0b8228862b476d910029419b597317", "input": "Fact: Marine biomes are found in the salt water of the ocean.", "target": "biomes Marine."}
+{"id": "task036-7f54b2d625e14bb7b4f1a28c0be79d06", "input": "Fact: Feathers help birds fly and provide insulation.", "target": "bird eagle."}
+{"id": "task036-38dac22f5c20421caf344551bdc02c9e", "input": "Fact: Viruses cause many human diseases.", "target": "Human Viruses."}
+{"id": "task036-f975e34004bb4feaa5f8842cd44fa5d2", "input": "Fact: volcanic ash in the atmosphere decreases the temperature by blocking the sun.", "target": "ash volcano."}
+{"id": "task036-863fed49d3ac46e6ae3a9d5de540b504", "input": "Fact: using cell phones can cause people to become distracted.", "target": "cell phone communicate."}
+{"id": "task036-f71fa8471f4a40bb808aae4e4b963471", "input": "Fact: Most plants continue to grow throughout their lives.", "target": "Plants continue growing."}
+{"id": "task036-5d217fd136bb4313800e885bd99e21f6", "input": "Fact: Playing is just one of many ways that mammals and other animals learn how to behave.", "target": "animal kitten."}
+{"id": "task036-092644eddf734d419763f1b6403f2833", "input": "Fact: Blood type is important for medical reasons.", "target": "blood type a b o."}
+{"id": "task036-7ed8bd39048d40a0a2b53f9d6d1f0f75", "input": "Fact: Plants have specialized reproductive organs.", "target": "Plants have specialized reproductive organs."}
+{"id": "task036-b668b8600ecb4c5e96760bb5120249eb", "input": "Fact: Vertebrates are animals that have a backbone.", "target": "backbone muscles move."}
+{"id": "task036-6d9925e4bcff40a8b0b657809bcf67fa", "input": "Fact: Smog also contains particulates.", "target": "Smog."}
+{"id": "task036-8183b84851514ffaab4ec708b1684ba7", "input": "Fact: Urine is the liquid waste product of the body that is excreted by the urinary system.", "target": "liquid waste."}
+{"id": "task036-2b2685f70d6f4cb7b25a0a9b9a49e564", "input": "Fact: Mammalian teeth are important for digestion.", "target": "Mammalian human."}
+{"id": "task036-3f60b9eb3d7747f8b2a980ecb2f7c382", "input": "Fact: vein deposits of gold and silver are formed by igneous intrusion.", "target": "gold and silver are valuable."}
+{"id": "task036-826ad9865bae466ca20a324d31dbc0cd", "input": "Fact: moss causes chemical weathering.", "target": "chemical weathering is."}
+{"id": "task036-d6d1e18130c54076a43282d3195bb0dc", "input": "Fact: Some parasites kill their host, but most do not.", "target": "Parasites are."}
+{"id": "task036-ffe0976c2696441cb67836e78082acd1", "input": "Fact: the Earth revolving around the Sun causes the seasons to change on its axis.", "target": "earth axis."}
+{"id": "task036-fcb1706f71934d34a8d3d82b29ae17f0", "input": "Fact: folding an object causes that object to change shape.", "target": "folding an object."}
+{"id": "task036-1bcb302bc8654f8aa7a76e28b0f1db27", "input": "Fact: a glacier causes mechanical weathering.", "target": "glac."}
+{"id": "task036-b8edf9fadb0c42c98705d6a0e6761ad5", "input": "Fact: Temperature falls from lower to higher altitudes.", "target": "altitude mountain."}
+{"id": "task036-97cd40011a564d2993a90c4e1546fd5e", "input": "Fact: the vomiting reflex is used to remove toxic material from the stomach before it is absorbed.", "target": "vomit toxic."}
+{"id": "task036-25a651ec2325465d9fe3dbfcdfc74f6f", "input": "Fact: recycling has a positive impact on the environment.", "target": "Recycling is converting."}
+{"id": "task036-0db75e1431414701b35ea8b4eb40110c", "input": "Fact: when electricity flows to a light bulb , the light bulb will turn on.", "target": "electricity electrons."}
+{"id": "task036-32555dc2e1f54606b89268a5a7a079c7", "input": "Fact: poisonous darts are used for defense by sea anemones.", "target": "anemone Actiniaria."}
+{"id": "task036-2b0606304215453381639b65704df351", "input": "Fact: Babies that are very large or very small at birth are less likely to survive.", "target": "babies premature small."}
+{"id": "task036-8c75f5829a874ff4b1df79c045ae1c11", "input": "Fact: poison causes harm to living things.", "target": "arsenic poison."}
+{"id": "task036-eaaf9fd37fb848a586268dc3662b1a67", "input": "Fact: Birth may be followed by a period of parental care of the offspring.", "target": "birth baby."}
+{"id": "task036-12aabb0f5e514938aca483fe746509fb", "input": "Fact: Female gametophytes produce eggs inside the ovaries of flowers.", "target": "Ovaries are."}
+{"id": "task036-9d377c8cbc9244b9a2730845d8be522e", "input": "Fact: Pneumonia may be caused by an infection or injury of the lungs.", "target": "Pneumonia."}
+{"id": "task036-a655e84ed4d74a23847bde965178fae0", "input": "Fact: Grasses supply most of the food consumed by people worldwide.", "target": "grasses are plants."}
+{"id": "task036-3e8aa28fc8ef465d9f588396789d12c7", "input": "Fact: Insects spread disease and destroy crops.", "target": "Crops."}
+{"id": "task036-b5e36e47bf25435c817b60ce48e2043c", "input": "Fact: knowledge of the stars can be used to navigate.", "target": "navigate stars north."}
+{"id": "task036-08c4850f8b60444e913ea8bdb9170e60", "input": "Fact: Reproduction is the process by which organisms give rise to offspring.", "target": "human organisms."}
+{"id": "task036-b2e94e11278f481a9c95ccddf8a534cc", "input": "Fact: Caffeine is an example of a psychoactive drug.", "target": "caffeine psychoactive."}
+{"id": "task036-0d21f0b44be343e5be54a7d02ba73898", "input": "Fact: a beak is used for catching prey by some birds.", "target": "beak bill."}
+{"id": "task036-519902dab80f484fb07c85eb364c321a", "input": "Fact: Chromosomes are the form of the genetic material of a cell during cell division.", "target": "cell division mitosis."}
+{"id": "task036-51d77148123647bd81bba6923a2a6af0", "input": "Fact: microbial fuel cells convert chemical energy into electrical energy.", "target": "electrical energy electrons."}
+{"id": "task036-5c20a35f505f49d2842f763f1793d175", "input": "Fact: a airplane is used for moving people across bodies of water.", "target": "Air travel airplane."}
+{"id": "task036-79c0e98f38a340df8a32d3a7e38be4aa", "input": "Fact: Fertilization takes place inside the female organism.", "target": "female woman."}
+{"id": "task036-0deecd764bbd46998f612117dfcae244", "input": "Fact: satellite technology is used for predicting the weather.", "target": "predict weather."}
+{"id": "task036-cedd70d1de694695a433ada8267850b0", "input": "Fact: Viruses are so small that they can be seen only with an electron microscope.", "target": "electron microscope lens."}
+{"id": "task036-313e9bc636c148eca297bc16f19ac08e", "input": "Fact: if two balanced forces act on an object in opposite directions then that object will remain stationary.", "target": "a stationary object not moving."}
+{"id": "task036-80d4db0f113445819ee0343c3d8d2b26", "input": "Fact: a calculator is used for adding.", "target": "adding finance."}
+{"id": "task036-3008d0c5503046a1aa37fe7318ef7608", "input": "Fact: Most invertebrates have a more complex nervous system.", "target": "Invertebrates."}
+{"id": "task036-916df9a7cb0145888f41a36ada13f4ef", "input": "Fact: Meiosis is the type of cell division that produces gametes.", "target": "example of gametes are."}
+{"id": "task036-34edafc2b9aa496596f5601fcddb14d4", "input": "Fact: heavy rains cause flooding.", "target": "flood rain."}
+{"id": "task036-8407d07cb87546d580d64c482f0d6356", "input": "Fact: Zooplankton are tiny animals that feed on phytoplankton.", "target": "Zooplankton."}
+{"id": "task036-5b09ddfe74754cab9aa27ccd32f6acdc", "input": "Fact: Mammals have a layer of fat under the skin to help insulate the body.", "target": "blubber fat."}
+{"id": "task036-85b7eee36f5a4ccdb0360cb7e7392b0e", "input": "Fact: Mammals took advantage of the extinction of the dinosaurs.", "target": "dinosaur extinction asteroid."}
+{"id": "task036-42c318755ed44be199c89db2f8f88179", "input": "Fact: Mollusks are a major food source for other organisms, including humans.", "target": "Mollusks."}
+{"id": "task036-8ee24f5e6cb2441a84099a23e1e84f21", "input": "Fact: Platypus females lay their eggs in a burrow.", "target": "burrow area."}
+{"id": "task036-1a6c83aa87654dfd9150cb5958a4094a", "input": "Fact: Most people can survive only a few days without water.", "target": "only the earth contains usable water."}
+{"id": "task036-2a40ed323e9748b8ae012aea98a3f6a3", "input": "Fact: Lancelet larvae are free-swimming.", "target": "Lancelet."}
+{"id": "task036-229647697bce47949e6414e7f6992061", "input": "Fact: braking can cause skidding.", "target": "braking friction."}
+{"id": "task036-cee3c0c88cb540daa03fc9da6df17758", "input": "Fact: Plants use cellulose for their cell walls.", "target": "cell walls."}
+{"id": "task036-94118e26fa5843b0b0a5ccd2c9bfb7f7", "input": "Fact: a vehicle is used for transportation.", "target": "boat is a vehicle."}
+{"id": "task036-6bfabac32ce24293b18a22bade0c302e", "input": "Fact: an electron microscope is used for seeing very small objects by making them appear bigger.", "target": "atoms are small."}
+{"id": "task036-dca00023ca664a9bb6851833ff286d61", "input": "Fact: All plants have a characteristic life cycle that includes alternation of generations.", "target": "alternation generations."}
+{"id": "task036-78d2cc6a817c48699c41e18ef9531386", "input": "Fact: boiling is when liquids are heated above their boiling point.", "target": "boiling can burn people."}
+{"id": "task036-9e4f4aa22a0a4ca48e70bf0f17414d63", "input": "Fact: a telephone is used for communication by humans over long distances.", "target": "communication convey."}
+{"id": "task036-bcf0fe97e5d644d182c724172d1e53f7", "input": "Fact: Testosterone stimulates the reproductive organs to develop into male organs.", "target": "male organ penis."}
+{"id": "task036-a7086c8b7772488a85b4a45db332b279", "input": "Fact: Sporangia produce spores that develop into tiny, heart-shaped gametophytes.", "target": "gametophytes."}
+{"id": "task036-77717efcca3d473f96ea705f1ca72bd3", "input": "Fact: Rivers are usually larger than streams.", "target": "larger water."}
+{"id": "task036-d67261b829564d15bc867b85730c731d", "input": "Fact: an egg requires warmth to survive.", "target": "egg sex cell."}
+{"id": "task036-3d62ed67ac604af6b99b40f6cfe50ad6", "input": "Fact: magnetism can cause objects to repel each other.", "target": "electricity causes magnet fields."}
+{"id": "task036-e089a791acaa47539fcc7e0411e1abc0", "input": "Fact: a speedometer is used for giving a driver feedback on the speed of their vehicle.", "target": "car speed measured."}
+{"id": "task036-9be363304eee4c4bade123446273aa07", "input": "Fact: Hagfish are noted for secreting large amounts of thick, slimy mucus.", "target": "hagfish ancient."}
+{"id": "task036-cd941d08be224df0a57a14285aaaccb7", "input": "Fact: Specialization occurs when competing species evolve different adaptations.", "target": "adaptations."}
+{"id": "task036-461d90a76ae8431a97c59c381f9c360a", "input": "Fact: Evolution occurs by a process called natural selection.", "target": "evolution changing."}
+{"id": "task036-f76d8169655443ddb8d1e2f5759cef1e", "input": "Fact: planting trees has a positive impact on an ecosystem.", "target": "an ecosystem."}
+{"id": "task036-1707264fb2b34a9b8094fddc13c5b71f", "input": "Fact: Roundworms may be free-living or parasitic.", "target": "Roundworms."}
+{"id": "task036-cf44ed726ee44e2db1706adc5c597b76", "input": "Fact: gills are used for breathing water by aquatic animals.", "target": "aquatic animals gills."}
+{"id": "task036-347f774d44b94349bf95cdb60e876bf1", "input": "Fact: carpooling decreases the amount of cars used to travel to a place.", "target": "carpool."}
+{"id": "task036-34e8b2237c404030b0aff618c861199a", "input": "Fact: Constriction occurs when the muscular walls of blood vessels contract.", "target": "blood vessel vein."}
+{"id": "task036-f7e6208717a540ec9313d385210c6a40", "input": "Fact: a nest is used for protecting young by birds.", "target": "bird nest."}
+{"id": "task036-858e68d7e25b493f86e160c3c32afdd9", "input": "Fact: Bottleneck effect occurs when a population suddenly gets much smaller.", "target": "Bottleneck effect."}
+{"id": "task036-cc29ee83045e4f538779ffcdd1a0416d", "input": "Fact: Echinoderms lack a centralized nervous system.", "target": "Echinoderms sand dollar."}
+{"id": "task036-673fdf46c9ad4420836cef9be39bc682", "input": "Fact: Thyroid hormones increase the rate of metabolism in cells throughout the body.", "target": "Thyroid hormones."}
+{"id": "task036-220be033c57e41d9ba18ac930f732fce", "input": "Fact: when a body of water receives more water than it can hold , a flood occurs.", "target": "body of water river."}
+{"id": "task036-8d96af70a77d45ab9466aea858a16e56", "input": "Fact: Antigens are molecules that the immune system recognizes as foreign to the body.", "target": "Antigens are."}
+{"id": "task036-180766ec82e14305862f978a7f44b099", "input": "Fact: a plant requires food for survival.", "target": "food contains nutrients."}
+{"id": "task036-50f338aa0d1f490cb15b4b2c4409b8dc", "input": "Fact: insect bites cause harm to living things.", "target": "PESTICIDES INSECTS."}
+{"id": "task036-473b1188a5084e04afeec5b592da5dee", "input": "Fact: Growth is faster during infancy than it is during puberty.", "target": "growth adulthood puberty."}
+{"id": "task036-a1d328aee8e94565824ed72b95b5d975", "input": "Fact: Cells have multiple repair mechanisms to fix mutations in DNA.", "target": "deoxyribonucleic acid."}
+{"id": "task036-68c98d3879844096bddcec56d3890b87", "input": "Fact: Hormones are chemical messengers that control many body functions.", "target": "body function."}
+{"id": "task036-a625e5ef011c448eab8cff5435b11537", "input": "Fact: smell is used for finding food by some animals.", "target": "animals need food to live."}
+{"id": "task036-664939537b5c41d585db1e341921de3e", "input": "Fact: a thermometer is used to measure temperature.", "target": "Temperature derermine weather."}
+{"id": "task036-471e8b744af14c87ad60bb0cdbf50274", "input": "Fact: webbed feet are used for moving faster through water by aquatic animals.", "target": "animals move quickly to catch prey."}
+{"id": "task036-b412f64cb9d24d97a5eddf41cc951a64", "input": "Fact: Courtship is behavior that is intended to attract a mate.", "target": "Courtship mate."}
+{"id": "task036-7bba4f2f25b14601bf2ca967a8981524", "input": "Fact: Sepals are usually green, which camouflages the bud from possible consumers.", "target": "bud consume."}
+{"id": "task036-5b38c25d174945e3822c1838259e3fbc", "input": "Fact: Fission takes place when an animal divides into two parts.", "target": "animal  mitosis."}
+{"id": "task036-bfb482952f3f41ba9db2b00da839a5ba", "input": "Fact: Bacteria are the most diverse and abundant group of organisms on Earth.", "target": "Bacteria names."}
+{"id": "task036-208bbdf37eda4e88a3d337c98976261f", "input": "Fact: a magnet moving in a coil of copper wire can cause an electric current.", "target": "coil wire solenoid."}
+{"id": "task036-53dd88203c59422c9cd995b972fcc32a", "input": "Fact: All chemical reactions require activation energy to get started.", "target": "activation energy enzyme."}
+{"id": "task036-57e9b65c9af84e85a1f72056ba455441", "input": "Fact: contact between rocks over long periods of time causes rocks to smooth.", "target": "Rocks are formed."}
+{"id": "task036-86011d763e294fb4b9030a0be2e71193", "input": "Fact: Dilation occurs when cell walls relax.", "target": "Dilation occurs when cell walls relax."}
+{"id": "task036-3f346b373e584fe3aa7536500b8fb174", "input": "Fact: global warming is when worldwide temperature increases.", "target": "carbon dioxide causes global warming."}
+{"id": "task036-0775d215d43a4d28afc6c661374b12cb", "input": "Fact: All cells share some of the same structures and basic functions.", "target": "basic functions simple process."}
+{"id": "task036-bee921049cb84f1099fbb7a7dfe6588c", "input": "Fact: tadpole changes into a frog.", "target": "frog."}
+{"id": "task036-cd4d89be3f424b3680f94dc74d03d563", "input": "Fact: Puberty is the period during which humans become sexually mature.", "target": "Puberty."}
+{"id": "task036-3880fe6e29e5451f801a5de26606ef8f", "input": "Fact: when metal conducts heat , that metal expands.", "target": "aluminum is a metal."}
+{"id": "task036-7f371dd0414c43dea22d03eca6c4367f", "input": "Fact: an organism requires energy for growth.", "target": "energy atp."}
+{"id": "task036-88f7dd5410834ca494996ef4bd227017", "input": "Fact: Mating is generally preceded by courtship.", "target": "animal courtship."}
+{"id": "task036-ea7050932f834d12b3a5a77f46d60304", "input": "Fact: Hermit crabs use the shells of dead snails for homes.", "target": "hermit crab homes."}
+{"id": "task036-9ca4e27305aa40179b2d59ff7cdd40b4", "input": "Fact: Organisms use lipids to store energy.", "target": "human organisms."}
+{"id": "task036-e1c2fe9562274300ad9f81f0152fcd11", "input": "Fact: a solution is formed by one substance being dissolved in another substance.", "target": "dissolved another substance."}
+{"id": "task036-d984b9f2c641498ea6ae189d9153113d", "input": "Fact: the type of material through which sound passes changes the speed at which sound travels.", "target": "material speed sound."}
+{"id": "task036-02df47c98f344d4eb057c295f6698773", "input": "Fact: Placental mammals give birth to relatively large and mature infants.", "target": "elephants large birth."}
+{"id": "task036-ccdc316f1e764ea4bc70ea154440e7f2", "input": "Fact: Condoms can break; Condoms can be used incorrectly.", "target": "condom birth control."}
+{"id": "task036-1e8c481f341244f8b5453813088728cf", "input": "Fact: Invertebrates are animals that lack a vertebral column, or backbone.", "target": "Invertebrate."}
+{"id": "task036-79a9971a50c44938a4d623cd6c66e8eb", "input": "Fact: looking at bright objects has a negative impact on the eyes.", "target": "A bright object is the Sun."}
+{"id": "task036-4f91f73f64974c479b5fbd6599321209", "input": "Fact: detailed observation of celestial objects requires a telescope.", "target": "celestial object star."}
+{"id": "task036-593a9cc76f1b44a380271c908bd8e980", "input": "Fact: skin is used for protecting the body from harmful substances.", "target": "skin harm."}
+{"id": "task036-ae1f7a3b4b9c476faac168f9de878dd9", "input": "Fact: breathing is when a gill converts from oxygen in water into oxygen in blood.", "target": "breathing respiration."}
+{"id": "task036-384fc21ff3bd4c0c8a8f55f2cae4692f", "input": "Fact: gravity causes objects that have mass to be pulled down on a planet.", "target": "gravity mass objects weight."}
+{"id": "task036-726bb202e1f24c759838cf98242acab7", "input": "Fact: a black hole is formed by a high-mass star collapses.", "target": "black hole."}
+{"id": "task036-062aac5963514b5c805084e3bdffbeb4", "input": "Fact: camouflage is used for protection by prey against predators.", "target": "camouflage animals."}
+{"id": "task036-d9f3c87444a14e4ea82296629b4ec6c1", "input": "Fact: air pollution can cause the pH of soil to decrease.", "target": "acidic  soil crops."}
+{"id": "task036-73fd470e64ee4f689bc95d4b47e1949a", "input": "Fact: a seismograph is used for measuring the size of an earthquake.", "target": "earthquakes can cause damage."}
+{"id": "task036-486d38d845754da4858c4a386b268121", "input": "Fact: condensing causes a liquid to form.", "target": "condensation form."}
+{"id": "task036-72860d1ccab14d80b1b2925da54ac99a", "input": "Fact: gases released during the use of fossil fuels causes global warming.", "target": "Fossil fuels."}
+{"id": "task036-9cc95c314d8d459b9eeb44a087f57a60", "input": "Fact: Populations of viruses do not grow through cell division because they are not cells.", "target": "cell division mitosis."}
+{"id": "task036-dc02c58f919c44b485b71eed07251d3c", "input": "Fact: condensation is when change from a gas into a liquid by reducing heat energy.", "target": "condensation gas liquid."}
+{"id": "task036-4f5eb4fa1de44b279fa315ad163cac60", "input": "Fact: Viruses are usually considered to be nonliving.", "target": "nonliving dead matter."}
+{"id": "task036-15559039fc24412aa98639d960b5401c", "input": "Fact: harming an animal species has a negative impact on the population size of that species.", "target": "animal dog."}
+{"id": "task036-a0378cc8ea1644eca16ae8a0a855e17e", "input": "Fact: natural magnetism is used for pointing north by a compass.", "target": "a compass is used for."}
+{"id": "task036-5cdcdaef1b784fc4b9e2817115a74d28", "input": "Fact: when a hemisphere is tilted towards the sun , that hemisphere receives more direct sunlight.", "target": "direct during sunlight summer."}
+{"id": "task036-74f2d9991370484883c668c0ac7ffac1", "input": "Fact: Cytokinesis is the final stage of cell division in eukaryotes as well as prokaryotes.", "target": "Cytokinesis."}
+{"id": "task036-687e284d3e044421872da49372717929", "input": "Fact: Nerve impulses are electrical in nature.", "target": "Nerve impulses are electrical in nature."}
+{"id": "task036-c206d20e0d694d9680492577395d9d32", "input": "Fact: Light enters the eye through an opening called the pupil.", "target": "eyes are used to see."}
+{"id": "task036-d3f676bd67e9461ea76e7eb95b6f3ae8", "input": "Fact: Food is easier to chew because it is moistened by saliva from the salivary glands.", "target": "bolus saliva."}
+{"id": "task036-581760d74f614c7399331e562ec4349c", "input": "Fact: threatening behavior by predators causes a porcupine to extend its quills.", "target": "a predator to a porcupine is a."}
+{"id": "task036-5bbf72a8cc8347c6a167fb957ef804c6", "input": "Fact: Female mammals have mammary glands.", "target": "female mammals."}
+{"id": "task036-f220cbed0c6d47b48347515904b74eb8", "input": "Fact: Adult worms go through a major transformation to develop reproductive organs.", "target": "genitals reproductive."}
+{"id": "task036-0e8d54a8293b4f23b5f8b493a2ff7817", "input": "Fact: Reptile parents provide little if any care to their young.", "target": "reptile crocodile."}
+{"id": "task036-232a3d95e5594cbcb6a9db2ef73dca68", "input": "Fact: if an object reflects light toward the eye then that object can be seen.", "target": "light beams."}
+{"id": "task036-b4a2869679a24a11be579e86936d9835", "input": "Fact: Caecilians can be found in moist soil near rivers and streams in tropical regions.", "target": "Caecilian snake."}
+{"id": "task036-84084bb023ce4fbe8a96af0817c5e471", "input": "Fact: a mirror is used for reflecting light.", "target": "light rays."}
+{"id": "task036-b780230c278144828826e7dc32c5c633", "input": "Fact: a spider web is used to capture food by spiders.", "target": "black widow web."}
+{"id": "task036-81d687bca2a341088a31b5a39ea5cf41", "input": "Fact: friction causes an object to lose energy.", "target": "Friction is."}
+{"id": "task036-f8bf9f1ff84b48b998b1ef8f377d06ec", "input": "Fact: Protozoa make humans sick when they become human parasites.", "target": "malaria parasite."}
+{"id": "task036-18e5748e7d7f4f9f913859c65d8da04f", "input": "Fact: sexual reproduction increases genetic diversity.", "target": "genetic diversity creates evolution."}
+{"id": "task036-0bb21c7eb098476c8ef59490ab9ccfc2", "input": "Fact: triceps contracting causes a person 's elbow to straighten.", "target": "Elbow joint."}
+{"id": "task036-cca0bfb8bdfb4e6eaa571ad878aa504e", "input": "Fact: Energy enters ecosystems in the form of sunlight or chemical compounds.", "target": "chemical compounds."}
+{"id": "task036-8f21e9a0b30c4f12b747e17bb8d1344a", "input": "Fact: Phytoplankton are bacteria and algae that use sunlight to make food.", "target": "Phytoplankton."}
+{"id": "task036-be679ce566fb422f8575765a5fccb1b1", "input": "Fact: hurricanes convert heat energy into mechanical energy.", "target": "hurricane is a."}
+{"id": "task036-6ed8e85fb9ce4c43af8b8fb569ef0009", "input": "Fact: astronauts require preserved food for extended flights.", "target": "Astronauts are."}
+{"id": "task036-1120b0ec14634f2bb7a50265ad861d2c", "input": "Fact: Animals can communicate with sounds, chemicals, or visual cues.", "target": "animal bat."}
+{"id": "task036-a04d4382dbb44701b78c4bd75420abfe", "input": "Fact: storms cause bodies of water to increase amount of water they contain.", "target": "bodies of water lakes."}
+{"id": "task036-7f656ef218f047df966a1f97d0c8a89a", "input": "Fact: Plants use unsaturated fatty acids to store energy.", "target": "energy comes from sunlight."}
+{"id": "task036-f3879f0c1df04cf3aa2b05cd6ddcb3e9", "input": "Fact: Cytoplasm refers to all of the cellular material inside the plasma membrane.", "target": "a membrane is."}
+{"id": "task036-bfe15c2b48d74be3a324ca917ca3103a", "input": "Fact: Humans have collected and grown mushrooms for food for thousands of years.", "target": "humans eat mushrooms."}
+{"id": "task036-d7c5b5a79b074479ba569ecc4dce5e16", "input": "Fact: Plants are multicellular eukaryotes with cell walls made of cellulose.", "target": "cell walls cellulose."}
+{"id": "task036-534b3ee87cba4cb7a9d5f8cc71310120", "input": "Fact: being distracted while driving can cause people to crash their car.", "target": "cellphone distraction."}
+{"id": "task036-1fc15c4192c34784b3e46285c4e0e262", "input": "Fact: Cells are organized into tissues, and tissues form organs.", "target": "cells tissue organs liver."}
+{"id": "task036-44bd5541d49448c480263f06cc538fd2", "input": "Fact: dehydrating food is used for preserving food.", "target": "beef jerky dehydrated."}
+{"id": "task036-a90dae38f7e547efb2794ca4d6ca937b", "input": "Fact: a warm front causes cloudy and rainy weather.", "target": "cloudy and rainy weather."}
+{"id": "task036-4b47a0de18e34f5eba7363457540f92f", "input": "Fact: the color of leaves on deciduous trees usually changes in the autumn season.", "target": "autumn season weather."}
+{"id": "task036-78597e2c3ac94db68e7ab94806a631a6", "input": "Fact: coal is used to produce electricity by burning in coal-fire power stations.", "target": "Electricity is energy."}
+{"id": "task036-f38be35513c540aba290f28da766aa2a", "input": "Fact: a stove is used for cooking by generating heat.", "target": "a stove is used to cook food."}
+{"id": "task036-e5bee294ed3543fa8be1f47e393a5061", "input": "Fact: Flowing water can slowly dissolve carbon in sedimentary rock.", "target": "flowing water fall force."}
+{"id": "task036-8015db6237744496880b1cbb40a59a47", "input": "Fact: Oxygen is essential for cellular respiration for all aerobic organisms.", "target": "aerobic organism."}
+{"id": "task036-7a6175f8bac6466090f4b92807a93789", "input": "Fact: Respiration begins with ventilation.", "target": "respiration process."}
+{"id": "task036-29f7af10dbf04fdb99989f52973da34a", "input": "Fact: the uterus is used in reproduction.", "target": "reproduction is having offspring."}
+{"id": "task036-1641ccbe3221488faedf77e620a8761a", "input": "Fact: Prokaryotes are single-celled organisms that lack a nucleus.", "target": "Prokaryotes."}
+{"id": "task036-68055b95a01a4fa2a247e2235cd0abe5", "input": "Fact: Adolescence is the last stage of life before adulthood.", "target": "Adolescence puberty."}
+{"id": "task036-8b7073d6a69443d49888f19acc509fa3", "input": "Fact: ink is used for hiding from predators by octopuses.", "target": "ink hiding predators."}
+{"id": "task036-aad065c341f14671898ce114b85dcdb2", "input": "Fact: Biodiversity generally increases from the poles to the equator.", "target": "Biodiversity equator."}
+{"id": "task036-e769d98f7c5a4ba1abf562cfbce5d347", "input": "Fact: Touch is the ability to sense pressure.", "target": "sense of touch."}
+{"id": "task036-6d5e1a0391c64e3c91e0588d85235980", "input": "Fact: pasteurization reduces the amount of bacteria in milk.", "target": "bacteria found in milk."}
+{"id": "task036-79f54512234a4e248537e95917cacc16", "input": "Fact: disease has a negative impact on an organism.", "target": "Disease is illness."}
+{"id": "task036-2b98cab49c9f48e69cc737c7f9e2805a", "input": "Fact: Sponges have specialized cells called collar cells.", "target": "collar cell."}
+{"id": "task036-91c9f34fa67a4dbcad5e71c7c40733cd", "input": "Fact: Bone is less flexible than cartilage but stronger.", "target": "bone cartilage."}
+{"id": "task036-ed7f2e43f9984addba2cddf23d6615d8", "input": "Fact: Echinoderms lack respiratory and excretory systems.", "target": "Echinoderms starfish."}
+{"id": "task036-00b0353e3a644b4296dbdcad7e907ff1", "input": "Fact: Plasma cells are activated B cells that secrete antibodies.", "target": "antibodies fight infection."}
+{"id": "task036-ab22f93f11e84dc79975b8f887f7af5f", "input": "Fact: nectar is used for attracting pollinators by plants.", "target": "a pollinator is a bee."}
+{"id": "task036-bdff2f056fd84812b5f34c9c26916353", "input": "Fact: absorbing energy causes objects to heat.", "target": "Absorbed sunlight pushes the Earth's temperature up."}
+{"id": "task036-54bf6eb1b7454fa5a7c424dc4ced47ba", "input": "Fact: Mollusks reproduce sexually.", "target": "Mollusks."}
+{"id": "task036-0db099664b374a5eaae1eb0cfe244f1c", "input": "Fact: a flashlight requires a source of electricity to produce light.", "target": "A flashlight is portable light."}
+{"id": "task036-71f104788db24ec2a0a3d8cebeea5ec7", "input": "Fact: faulting of rock in Earth 's crust causes earthquakes.", "target": "Earthquakes are shaking."}
+{"id": "task036-46adc2079a6447779408dc690abc9c25", "input": "Fact: rest has a positive impact on a health.", "target": "positive health impacts quality of life."}
+{"id": "task036-d9f02ed43c3041f9968c1a2d32eb763e", "input": "Fact: Organisms that live in marine biomes must be adapted to the salt in the water.", "target": "Marine biomes."}
+{"id": "task036-3e9f2a7badd046c0ac9b8bfbaf5e2b6a", "input": "Fact: when an electrical circuit is working properly , electrical current runs through that circuit.", "target": "Circuits are made of."}
+{"id": "task036-2b9936c428c5428aa2050ae4cc6f7a2c", "input": "Fact: Viruses often infect bacteria.", "target": "bacteria define."}
+{"id": "task036-643bb8c994294fa6af386705351339d1", "input": "Fact: hearing is used for sensing sound by animals.", "target": "animal dog."}
+{"id": "task036-e5b3f3b6b4e94cc2aa32bbb748d6611b", "input": "Fact: recycling reduces the resources needed to make something.", "target": "make something."}
+{"id": "task036-73e41a5f9d09432fb698ff0eabfc5eb0", "input": "Fact: Producers use energy and inorganic molecules to make food.", "target": "Producers plant."}
+{"id": "task036-f6b73858c977412490d1c0b3f89f473f", "input": "Fact: Sperm pass out of the body through the urethra.", "target": "Sperm ejaculate."}
+{"id": "task036-b27634e467d341029ebbd3edd284b1d0", "input": "Fact: Complex chemistry is needed to carry out all the functions of life.", "target": "Complex chemistry."}
+{"id": "task036-8bbb53e36bb54874abbdee86cec347a9", "input": "Fact: a doorbell converts electrical energy into sound.", "target": "batteries create electrical energy."}
+{"id": "task036-6d7d880cd0b04d71a5b44d23b4756b56", "input": "Fact: Characteristics that are encoded in DNA are called genetic traits.", "target": "DNA offspring."}
+{"id": "task036-faf46d9fcd7440b6bdefc714c4418d2f", "input": "Fact: a stopwatch is used to measure time.", "target": "Measuring time."}
+{"id": "task036-1f1ce0f36ada44d9a575453ebd3273d2", "input": "Fact: a planet rotating causes cycles of day and night on that planet.", "target": "day and night cycles sleep."}
+{"id": "task036-cb6c6985081d4c598559f767c3b43221", "input": "Fact: when a gas in an open container evaporates , that gas spreads out into the air.", "target": "air contamination."}
+{"id": "task036-1f0269d835be4acb82b1a108c2a6967b", "input": "Fact: Consumers take in food by eating producers or other living things.", "target": "Consumers food."}
+{"id": "task036-adea62a7f05945e58e644a629aa5c45e", "input": "Fact: Bryophytes depend on moisture to reproduce.", "target": "Bryophytes."}
+{"id": "task036-914843c94a2940ad8b784fe42775cee3", "input": "Fact: Most hormones are regulated by feedback mechanisms.", "target": "Hormones are chemical."}
+{"id": "task036-78d4d3743586422688c26c98dcb76380", "input": "Fact: adding salt to a liquid decreases the melting point of that liquid.", "target": "add salt density."}
+{"id": "task036-6ff3f7ff39864071bb193c1235bbf889", "input": "Fact: Antibiotics have no effect on viruses.", "target": "Antibiotics."}
+{"id": "task036-775cb37d7e0946cd9f45583bae0c3113", "input": "Fact: Caffeine is a central nervous system stimulant.", "target": "caffeine coffee."}
+{"id": "task036-5428b93eeffc44078aed7493a6c66457", "input": "Fact: Flowers produce spores that develop into gametophytes.", "target": "Flowers."}
+{"id": "task036-3659c5c25da8406281d874cb7deb318a", "input": "Fact: the Earth being tilted on its axis causes ones side of the Earth to receive less energy from the Sun than the other side.", "target": "earth side less energy cold weather."}
+{"id": "task036-78975102d699488b808f3c5a846f0e5d", "input": "Fact: navigation requires knowing direction.", "target": "Navigating is guiding."}
+{"id": "task036-722a2937663a4c86a3563dd7adb89234", "input": "Fact: Neurons transmit nerve impulses to other cells.", "target": "Transmit is sending."}
+{"id": "task036-bdc882f966024929baf7fcb9412e33d3", "input": "Fact: ultraviolet light causes sunburn.", "target": "sunburn can cause cancer."}
+{"id": "task036-d5ff12e911a94c489cfabbf1016b73b1", "input": "Fact: a ruler is used for measuring the length of an object.", "target": "Length of object."}
+{"id": "task036-420c2117a7634fedb8c74a4b64b143cc", "input": "Fact: Urine leaves the body through a sphincter in the process of urination.", "target": "liquid waste urine."}
+{"id": "task036-afc3f95002264221aa8afc14f314242b", "input": "Fact: if an object is in the sunlight then that object will absorb solar energy.", "target": "absorb solar energy."}
+{"id": "task036-b4f59637151341fba00fcb4902b14d39", "input": "Fact: Sponges are a source of food for many species of fish.", "target": "fish marine animals."}
+{"id": "task036-265296035912435b8c5b096d63d40674", "input": "Fact: if something is outside during the day then that something will receive sunlight.", "target": "outside located outdoors."}
+{"id": "task036-cd798c223bf247c58eba1d5e03a1c6b6", "input": "Fact: scales are used for protection by scaled animals.", "target": "fish are animals."}
+{"id": "task036-81f32f54670848fda7e90696eb6894f6", "input": "Fact: Amphibians have permeable skin that easily absorbs substances from the environment.", "target": "Amphibians skin."}
+{"id": "task036-a069fc42dfdb4cb49926d8ddfbb3d4d2", "input": "Fact: Secondary meristem is located within and around the vascular tissues.", "target": "Secondary meristem."}
+{"id": "task036-c46cbd68ca3c44f4a8b5fa4587cacacd", "input": "Fact: Ozone depletion results in higher levels of UV radiation reaching Earth.", "target": "Ozone depletion."}
+{"id": "task036-bad8a395a1c3427397f86085b32ffbf3", "input": "Fact: DNA contains genetic instructions for proteins, and RNA helps assemble the proteins.", "target": "DNA RNA."}
+{"id": "task036-36254371c15040969dbbf656ca9b1983", "input": "Fact: Birds are endothermic tetrapod vertebrates.", "target": "Birds."}
+{"id": "task036-85f63f9363f541efa8e701fde57038ee", "input": "Fact: Animals use saturated fatty acids to store energy.", "target": "animal dog."}
+{"id": "task036-f3527768fe48465ea3a9f6670332d7b5", "input": "Fact: Most modern gymnosperms are trees with woody trunks.", "target": "gymnosperm is a."}
+{"id": "task036-22c8d441736a4bf695479e201120d31c", "input": "Fact: high temperatures can cause an object to combust.", "target": "Combustion."}
+{"id": "task036-559d6558a1be4740a4435fb3ca481e8b", "input": "Fact: some light bulbs convert electricity into light and heat energy.", "target": "electricity is energy."}
+{"id": "task036-5f7afb46cbe84cf29703e7367bf2def8", "input": "Fact: if a habitat can no longer support animals then those animals will move to another area.", "target": "animal habitat migration."}
+{"id": "task036-092dd5b21035498397dd8d385a7d9066", "input": "Fact: Electron transport is the final stage of aerobic respiration.", "target": "aerobic respiration."}
+{"id": "task036-b74d38330e494de2bee335f83f72e3f0", "input": "Fact: a firecracker converts chemical energy into sound.", "target": "chemical energy."}
+{"id": "task036-9e66a1a4522b4d28bbd6b06424ed7338", "input": "Fact: Cartilage is a tough tissue that contains a protein called collagen.", "target": "cartilage shark."}
+{"id": "task036-56d7e37c4dfa4774b67ce0bf0e1c1458", "input": "Fact: wind is used for producing electricity.", "target": "electricity can power."}
+{"id": "task036-e5bac354e84a472ea36148fe6ec22dbd", "input": "Fact: Most bryophytes are small.", "target": "bryophytes plants."}
+{"id": "task036-3926996fa8414e77a481aa6264045d78", "input": "Fact: sugar causes food to taste sweet.", "target": "Sugar is raw cane."}
+{"id": "task036-f12f0dadd3e040938ec4859a9da42882", "input": "Fact: a plant requires water to grow.", "target": "flowers are plants."}
+{"id": "task036-e6720419090546c0b07bddf2ddfeb4e1", "input": "Fact: burning fossil fuels increases the carbon in the atmosphere.", "target": "carbon atmosphere."}
+{"id": "task036-6b75b1aa7f1b4a3482ad495169c90696", "input": "Fact: Excretion is the process of removing wastes and excess water from the body.", "target": "body waste."}
+{"id": "task036-bd1b21f69e1b42a89f9796b5eff7ba05", "input": "Fact: erosion causes a river to become deeper and wider.", "target": "erosion alters."}
+{"id": "task036-778fe804226e4cfaa15e51529916d2d3", "input": "Fact: if an object is kicked then force is exerted on that object.", "target": "exerting force requires energy."}
+{"id": "task036-ec990e466f304d2a8b6abec74e33a092", "input": "Fact: Hookworm larvae enter the host through the skin.", "target": "Hookworm host."}
+{"id": "task036-22e5bd79a55d4197a9f5bb6ee39cf516", "input": "Fact: Reptiles are a class of tetrapod vertebrates that produce amniotic eggs.", "target": "amniotic eggs."}
+{"id": "task036-293b8225f5b542f7a017b97fcc05b42a", "input": "Fact: microorganisms can cause infections.", "target": "infection."}
+{"id": "task036-025594bb3e5548a2aeb3be8bd863cf96", "input": "Fact: a flower 's purpose is to produce seeds.", "target": "animals seeds."}
+{"id": "task036-c01fc428d96e4ee9b2bb2ee88cfc34cc", "input": "Fact: a pan is used for cooking food by heating food in it on a stove.", "target": "Stoves are."}
+{"id": "task036-af1f03bb947a4f06bc7e03e54f3a02c8", "input": "Fact: extreme heat and pressure change rock into metamorphic rock.", "target": "earth's core creates extreme heat."}
+{"id": "task036-3b5ce00fff3f483da0390ad85942225c", "input": "Fact: Roots grow in length and width from primary and secondary meristem.", "target": "meristem plants."}
+{"id": "task036-82c41091e68747f89daca063eea8529c", "input": "Fact: All animals are heterotrophs.", "target": "All animals are heterotrophs."}
+{"id": "task036-b428ba8895ff4c388f81873e9e1c00c6", "input": "Fact: Algae play significant roles as producers in aquatic ecosystems.", "target": "Algae."}
+{"id": "task036-a3d178d901674030a9aefbe1f45e793e", "input": "Fact: Plastics are made from petroleum and produce toxic waste.", "target": "Plastic waste."}
+{"id": "task036-cd184e2317a14e2d957e83ff2231a893", "input": "Fact: seeing requires light.", "target": "eyes light see."}
+{"id": "task036-f756ec9b1c094e73a6ec8ecb8df3fe8c", "input": "Fact: Amphibians have a relatively complex circulatory system with a three-chambered heart.", "target": "amphibian frog."}
+{"id": "task036-d9b2cdf1cf0442daa2e8f5a50cd98228", "input": "Fact: Plants detect and respond to the daily cycle of light and darkness.", "target": "Plants."}
+{"id": "task036-701e4df1bc464cb09fbea6585b683c08", "input": "Fact: hibernation is used for conserving energy by some animals.", "target": "conserving energy helps animals survive."}
+{"id": "task036-c97b1a231d564fe3a33f40acfcba8408", "input": "Fact: Female monotremes lack a uterus and vagina.", "target": "female monotremes."}
+{"id": "task036-328b3a4265984d13a3d33f3b66b31a7e", "input": "Fact: Earth 's magnetic patterns are used for finding locations by animals that migrate.", "target": "animals migrate."}
+{"id": "task036-f305c7d6c0da408b91f814298d594f8f", "input": "Fact: Air pollution harms the respiratory and circulatory systems.", "target": "Air pollution caused by."}
+{"id": "task036-dc865fdb574449f1bc74a982e98dbac8", "input": "Fact: Earthworm burrows help aerate soil, which is also good for plants.", "target": "a burrow is."}
+{"id": "task036-13f559118f9f48a286b02d3cc7fc572d", "input": "Fact: fossil fuels are formed from dead organisms over time.", "target": "coal fossil fuel."}
+{"id": "task036-0b67299b0cf64a63939266ea10d903e6", "input": "Fact: a meter stick is used to measure distance.", "target": "\"meter stick\"."}
+{"id": "task036-31053f8c7d4a418cb4cceab8d31ea6cc", "input": "Fact: Some arthropods have special excretory structures.", "target": "arthropod clam."}
+{"id": "task036-1d8c094b65d74f8cbf6a861719bd6fb5", "input": "Fact: high pressure systems cause clear weather.", "target": "High pressure system weather is."}
+{"id": "task036-a7c484adf9804a149e770ae3464e0f3a", "input": "Fact: Fertilization occurs when a sperm and an egg fuse.", "target": "Sex Fertilization."}
+{"id": "task036-67ff65e894e34c89af159a0b4065dc93", "input": "Fact: electricity sometimes is used for heating buildings.", "target": "create electricity."}
+{"id": "task036-68c9ab17483245f5b31aa3fc919aa588", "input": "Fact: a cactus stem is used for storing water.", "target": "cactus desert plant."}
+{"id": "task036-0e6533a8353e411d99cecb2ea91b1dd3", "input": "Fact: Freshwater biomes have water that contains little or no salt.", "target": "freshwater biome."}
+{"id": "task036-9c036bd9a4b34659aa483fa71622dbaf", "input": "Fact: Earth 's tilt on its rotating axis causes seasons to change.", "target": "fall winter seasons."}
+{"id": "task036-56bfd03b33a14aa39e40e78def04f509", "input": "Fact: Vertebrates are all chordates that have a backbone.", "target": "backbone is a spinal."}
+{"id": "task036-5635e1cebfc247f791b50362eabf5f91", "input": "Fact: Trees have woody stems covered with bark.", "target": "bark insulates."}
+{"id": "task036-eca5637a3a6e435d9a01b2999c5daf46", "input": "Fact: Chemical digestion occurs mainly in the small intestine.", "target": "Chemical digestion."}
+{"id": "task036-14c613debadb4fb09e0d7d05694cfd90", "input": "Fact: a prism is used for refracting light.", "target": "a prism is used for refracting light."}
+{"id": "task036-34e01f7728ef492798843dc216cbdf78", "input": "Fact: Birds evolved from a group of bipedal dinosaurs called theropods.", "target": "Birds evolved."}
+{"id": "task036-457d5c262a3b4420833ead83bcbe71e5", "input": "Fact: Amphibians are the first true tetrapods, or vertebrates with four limbs.", "target": "Amphibians."}
+{"id": "task036-3a6187fe802f4bd585c9d103b610377b", "input": "Fact: rain causes erosion.", "target": "erosion can destroy buildings."}
+{"id": "task036-87443e613a154b168f9ffceb9d0154b2", "input": "Fact: Some species of reptiles can go several weeks between meals.", "target": "meal is a food."}
+{"id": "task036-cc3e22cec941426ca652fe8d49ea54e6", "input": "Fact: if a thermal conductor is exposed to a source of heat then that conductor may become hot.", "target": "heat sun."}
+{"id": "task036-edee6acb6d10432a9366536aee09f71c", "input": "Fact: the looseness of soil has a positive impact on a plant 's roots' growth in that soil.", "target": "Plant Roots are."}
+{"id": "task036-96d051f1996d4d9093e9d1731c6e832f", "input": "Fact: dropping an object into water causes vibrations in the water.", "target": "Vibration."}
+{"id": "task036-143f2982a514471181e96a3cd53ce25d", "input": "Fact: if a planet becomes too hot then that planet cannot sustain life.", "target": "climate change warmer planet."}
+{"id": "task036-bab2ce5aa0144ace86d149f4946895a2", "input": "Fact: Phylogeny is the evolutionary history of a group of related organisms.", "target": "evolutionary history."}
+{"id": "task036-471c09d36fd24c3e80a62dfc99c42935", "input": "Fact: a pesticide is used for protecting plants by killing insects.", "target": "a pesticide is."}
+{"id": "task036-edab9a84ad3c402d9f10b57f8eb61db0", "input": "Fact: erosion causes deposition.", "target": "deposition erosion soil."}
+{"id": "task036-b9da971b8937440fab73bd90fdfe3a23", "input": "Fact: the gravitational pull of the Moon on Earth 's oceans causes the tides.", "target": "earth ocean."}
+{"id": "task036-a9e89de6e8be41d5bbf346d791a641a5", "input": "Fact: fire converts chemical energy into light and heat energy.", "target": "burning wood creates fire."}
+{"id": "task036-d0e0c13e01c04992b772578de6b216e4", "input": "Fact: bad weather decreases visibility while driving.", "target": "decreased visibility and driving causes."}
+{"id": "task036-f2e14d0bdf924424ad79032c1eebfedb", "input": "Fact: Carbon monoxide is a gas produced by furnaces and other devices that burn fuel.", "target": "Carbon monoxide."}
+{"id": "task036-663e08ade1b3408d83a1746364f44c92", "input": "Fact: a light bulb is used for seeing in the dark.", "target": "Light bulb filament."}
+{"id": "task036-9044cf10886f4502ba2c780ad38871d9", "input": "Fact: Fungi have special structures for penetrating a host.", "target": "animals can be hosts for fungi."}
+{"id": "task036-274b43c4f4a74bcab1de8585dfa4a7dc", "input": "Fact: when a cooler object touches a warmer object , thermal conduction occurs.", "target": "conduction heat."}
+{"id": "task036-20da103848324ccfb822d5ec09526046", "input": "Fact: if a plant requires less water then that plant will survive in a drought.", "target": "cacti water."}
+{"id": "task036-02f03aafa92e4dbb8b3b73c64bd8830e", "input": "Fact: Algae have varied life cycles.", "target": "Algae plant."}
+{"id": "task036-b352b317e80c41d482c39c3c081c3d42", "input": "Fact: pushing on the pedals of a bike cause that bike to move.", "target": "bike bicycle."}
+{"id": "task036-6b5d263152f74e7a8efb9085716dd718", "input": "Fact: conserving resources has a positive impact on the environment.", "target": "conserving resources recy."}
+{"id": "task036-7a7fa3487b494c06805aab2044267d0b", "input": "Fact: Adult sponges are sessile.", "target": "sessile immobile."}
+{"id": "task036-645e3061ceed4787a8218da6cd2cbefa", "input": "Fact: plant reproduction requires pollination.", "target": "bee pollination."}
+{"id": "task036-5642337912a84303a9e28906c51e7cfa", "input": "Fact: adding salt to a solid decreases the freezing point of that solid.", "target": "adding salt solid freezing."}
+{"id": "task036-759c6fc13dec47849b0432adf1add640", "input": "Fact: an electrical insulator slows the transfer of electricity.", "target": "electrical insulator warm."}
+{"id": "task036-2b9da65c5bc34473a2118a07c3610d5a", "input": "Fact: microorganisms cause food to spoil.", "target": "bacteria microorganisms food."}
+{"id": "task036-18c09a6a328b49918912ed194e052ef7", "input": "Fact: Some precipitation that falls on land may soak into the ground, becoming groundwater.", "target": "groundwater falls."}
+{"id": "task036-63f178058a954ad88ad63b55a742e4ff", "input": "Fact: an animal usually requires a warm body temperature for survival.", "target": "animal warm temperature survival."}
+{"id": "task036-fb8ce31b3a81453fa1471dda9ae491d9", "input": "Fact: seat belts are used for preventing injuries to passengers in cars.", "target": "car accidents can cause death."}
+{"id": "task036-e071da21d2364a588c75cf90c357ca02", "input": "Fact: Organisms cluster around hydrothermal vents in the ocean floor.", "target": "bacteria vents."}
+{"id": "task036-42232f57d0e34382bba34adbbb59f0fc", "input": "Fact: when a hemisphere is tilted away from the sun , that hemisphere receives less direct sunlight.", "target": "a hemisphere is tilted away from the sun."}
+{"id": "task036-9537337cbc904886bbbf090ba167fea2", "input": "Fact: heating an egg causes a chemical reaction in the egg.", "target": "a chemical reaction is."}
+{"id": "task036-1c40b4948e8d4786ba0675ec88f529c4", "input": "Fact: Roundworms make up the phylum Nematoda.", "target": "Nematoda."}
+{"id": "task036-e04e465606bb4ed4ac8dc38109ed46fc", "input": "Fact: Bird beaks are generally adapted for the food they eat.", "target": "adaptations are inherited."}
+{"id": "task036-2b1c1aabd77346ac8061936f1d373e2e", "input": "Fact: a greenhouse is used to protect plants from the cold.", "target": "cold causes plants to die."}
+{"id": "task036-b39f4c57c7cf451d8e04ed41252e4585", "input": "Fact: Pressure receptors are found mainly in the skin.", "target": "Pressure receptors."}
+{"id": "task036-b5380d698b3d4d26a8cb735876e90649", "input": "Fact: Plants respond to daily and seasonal cycles and to disease.", "target": "plant flower."}
+{"id": "task036-f90eb4b7228e4bf19972b7a5940163f9", "input": "Fact: a wildfire changes an ecosystem drastically.", "target": "cigarettes can cause wildfires."}
+{"id": "task036-408292614a8242d79ea71fcbd6689eff", "input": "Fact: Ancestors of hagfish are thought to have been the earliest vertebrates.", "target": "Vertebrates."}
+{"id": "task036-213a1f9cf77a48ecb56c15cf57d53081", "input": "Fact: Antigens are found on cancer cells and the cells of transplanted organs.", "target": "antigen cancer."}
+{"id": "task036-43ec0b6d2529459199f10614ef93065a", "input": "Fact: harming an animal species causes that animal 's population to decrease.", "target": "animal fish."}
+{"id": "task036-2212e0795c93439faea27859066a7957", "input": "Fact: gravity pulls objects towards planets.", "target": "gravity objects planets."}
+{"id": "task036-baf148b651974137ae59e75cd11b4353", "input": "Fact: an anemometer is used to measure wind speed.", "target": "anemometer meteorologist."}
+{"id": "task036-c606c69f479547e09a66ce8adf018e63", "input": "Fact: a mutation in the sex cells of a parent can cause a new trait to appear in the parent 's offspring.", "target": "define offspring."}
+{"id": "task036-1e540b972dec43f98ba23ffa81f0fc4a", "input": "Fact: Loss of ozone has created an ozone hole over Antarctica.", "target": "OZONE ULTRAVIOLET."}
+{"id": "task036-0f9786b53d214dad8bd284147ccd4f73", "input": "Fact: Cells are the microscopic building blocks of organisms.", "target": "building blocks bricks."}
+{"id": "task036-d4f29ea9a9794326ad50e6d72cb4e02c", "input": "Fact: sweat is used for adjusting to hot temperatures by some animals.", "target": "animals sweat hot."}
+{"id": "task036-e176f50d2c574b5dae031fba2c4f1962", "input": "Fact: Insulin helps cells take up glucose from the blood.", "target": "glucose from blood sugar."}
+{"id": "task036-f5a5cdd4f6fc4865bf152308749483ab", "input": "Fact: whiskers are used for feeling by animals.", "target": "animal cat."}
+{"id": "task036-9cc4342e45a94ad0bc942d9d4196836e", "input": "Fact: when the seasons change from the summer to the fall , the amount of daylight will decrease.", "target": "Summer has hot weather."}
+{"id": "task036-6e1a78064cde4ef9b51655e88ec49eb3", "input": "Fact: Gene cloning is the process of isolating and making copies of a gene.", "target": "gene cloning mutation."}
+{"id": "task036-9d7ebdf44a9f4eee8d836335de879fe5", "input": "Fact: Plants that are adapted to very dry environments are called xerophytes.", "target": "Plants that are adapted to very dry environments are called xerophytes."}
+{"id": "task036-9dd9aa7be5bf4142967cc253a17bb0bf", "input": "Fact: Flatworms belong to the phylum Platyhelminthes.", "target": "Flatworms."}
+{"id": "task036-7c41e70219134820a35c2048d04bb70a", "input": "Fact: a tape measure is used to measure length.", "target": "Length."}
+{"id": "task036-0a23792de4ff498f9a6bdf341ff34483", "input": "Fact: optical tools are used for observing materials up close.", "target": "materials."}
+{"id": "task036-0d7bba78a60249d1b58072bb87e4056f", "input": "Fact: Fertilization occurs when a sperm and an egg fuse to form a diploid zygote.", "target": "diploid zygote."}
+{"id": "task036-705fd62458784e0298cb2f84b7b8f3a1", "input": "Fact: Corals form large colonies in shallow tropical water.", "target": "Corals."}
+{"id": "task036-7b684396d90a4e7cb0cd5e8b7746fa03", "input": "Fact: Any antigen that causes an allergy is called an allergen.", "target": "allergen."}
+{"id": "task036-38a9c1c7791d4faf969a3b4d1045fd17", "input": "Fact: preventing the transfer of heat from an organims 's body causes that organism to keep warm.", "target": "Keeping warm."}
+{"id": "task036-02d253f4a1f349de8bce4f259252cd62", "input": "Fact: gases from burning coal and oil dissolving in water in the atmosphere causes acid rain.", "target": "Acid is defined as."}
+{"id": "task036-47b293ff07464914adac715972dd6032", "input": "Fact: Pollination is the fertilization step in the sexual reproduction of plants.", "target": "Pollination."}
+{"id": "task036-388b359e33304a0990a967badceea7c7", "input": "Fact: Some viruses have an envelope of phospholipids and proteins.", "target": "envelope phospholipids and proteins."}
+{"id": "task036-d3916fee61674fb7802fbe7697012083", "input": "Fact: Neurons are the structural and functional units of the nervous system.", "target": "nervous system function."}
+{"id": "task036-d11b57496318439d907e3ed9b5e7b4ff", "input": "Fact: Chloroplasts are organelles that are found in the cells of plants and algae.", "target": "Chloroplasts photosynthesis."}
+{"id": "task036-cf5f8d7c1dca411fa3239bc80800e104", "input": "Fact: having no natural predators increases population size.", "target": "increase population more offspring."}
+{"id": "task036-fa31872247e0440caaab194c0cb3e865", "input": "Fact: darkness has a negative impact on photosynthesis.", "target": "darkness solar eclipse."}
+{"id": "task036-8e11ab34052f4d32bebf5f0a2e14c591", "input": "Fact: touch can be used for detecting texture.", "target": "nerve skin touch."}
+{"id": "task036-7515ce680f1a4adbbbde21804a8da272", "input": "Fact: plasma is formed by electrons separating from atoms in stars.", "target": "electrons separating create energy."}
+{"id": "task036-81b49bf4eac046b3bf21b326071adb29", "input": "Fact: biofuel is used to produce electricity by burning.", "target": "biofuel electricity."}
+{"id": "task036-67d97b4879714eb783826578f4762370", "input": "Fact: telephones are used for communication by two people by transmitting sound.", "target": "Sound is waves."}
+{"id": "task036-b93fe9a7d5b54ac680d3d7ca538e087e", "input": "Fact: a plant requires sunlight to grow.", "target": "grow photosynthesis."}
+{"id": "task036-db1d62e2381740c2b5dd0c0bbe95ed90", "input": "Fact: Mutations that lead to cancer usually occur in genes that control the cell cycle.", "target": "cancer leukemia."}
+{"id": "task036-a4b49aaea99a43308c0b973747bd80c4", "input": "Fact: Minerals are chemical elements that are essential for body processes.", "target": "body process."}
+{"id": "task036-0035588831464cf6871892fdc3d6569d", "input": "Fact: Nonmetal elements are far fewer in number.", "target": "elements."}
+{"id": "task036-7c45af2311fd4df0945e56a0a9a8dc43", "input": "Fact: Soil can be depleted of nutrients.", "target": "depleted means."}
+{"id": "task036-0e49bc01c0034557a40aeaf255191a5b", "input": "Fact: Bone provides protection for soft tissues and internal organs.", "target": "Body organs."}
+{"id": "task036-e9f38231971c41a7acff1c3bf792ec04", "input": "Fact: Communities consist of populations of different species.", "target": "communities work together."}
+{"id": "task036-ef0387c3de8242fe8073e95d6c2a7c5c", "input": "Fact: Translation reads the genetic code in mRNA and makes a protein.", "target": "Translation genetic code."}
+{"id": "task036-0df2ce9696d04645a7507f3835a1eb15", "input": "Fact: a barometer is used to measure air pressure.", "target": "air pressure headache."}
+{"id": "task036-018a28e72efc4dee8add6979b29889d5", "input": "Fact: increasing heat causes thermal expansion.", "target": "fire creates heat."}
+{"id": "task036-aad99414cb6142a681d4bf4340f2a470", "input": "Fact: if soil is permeable then water easily flows through that soil.", "target": "permeable septic."}
+{"id": "task036-0f4399d4ed7d4796b4eeffbac1a4c22a", "input": "Fact: dew is formed when water vapor condenses over night.", "target": "condense gas to liquid."}
+{"id": "task036-ca7b771401f04140920e1c524802b10f", "input": "Fact: Insulin is a hormone that helps cells absorb sugar from the blood.", "target": "insulin diabetes."}
+{"id": "task036-871ad54ccaf546e78d457a6656e3cbca", "input": "Fact: a vehicle is used for travel.", "target": "travel navigation."}
+{"id": "task036-a66bf4289f9c4b46bf745f764fff96cc", "input": "Fact: Behaviors can be learned through play.", "target": "Behaviors."}
+{"id": "task036-76869c89b9bd443f99efd13809cd5371", "input": "Fact: Petals attract pollinators to the flower.", "target": "bird pollinator."}
+{"id": "task036-59deb5f758a04677bd2c153de99212f7", "input": "Fact: Jaws make cartilaginous fish excellent predators.", "target": "Jaws make cartilaginous fish excellent predators."}
+{"id": "task036-f4738d19fe294eeda6a3de21deeb4bef", "input": "Fact: Bacteria may spread directly from one person to another.", "target": "Bacteria is."}
+{"id": "task036-baafe508b29f415a8614db2c608d02f0", "input": "Fact: Nephrons are the structural and functional units of the kidneys.", "target": "Nephrons cause."}
+{"id": "task036-8976b659fc154a3db4830224abcadd93", "input": "Fact: Chromosomes contain genes, which code for proteins.", "target": "chromosome protein."}
+{"id": "task036-45b00feb36d1405f96be24ce6855a569", "input": "Fact: Some herbivores have more than one stomach.", "target": "cows stomach."}
+{"id": "task036-ac99c624572545788b15696f2b0f0886", "input": "Fact: Animals may compete for territory, water, food, or mates.", "target": "animal competition."}
+{"id": "task036-0720365c2a8143eba9fee9f4bfed623c", "input": "Fact: when an animal moves , chemical energy is converted to mechanical energy.", "target": "animal fly."}
+{"id": "task036-c23a4f3f63c94f5280f5115b356f9b4d", "input": "Fact: Polyps usually reproduce asexually.", "target": "Coral polyp."}
+{"id": "task036-83dc3938fbb141218ca47778d1981126", "input": "Fact: if an object is made of a material then that object has the properties of that material.", "target": "Material is a substance."}
+{"id": "task036-2ed032f4eee5446c96d589ae32e63462", "input": "Fact: Some pelycosaurs gave rise to a group of animals called therapsids.", "target": "pelycosaurs."}
+{"id": "task036-471ba8285e914beea312a2b21e8585f5", "input": "Fact: the Earth being tilted on its rotating axis causes seasons.", "target": "Seasons are annual."}
+{"id": "task036-4c8e302d67a14102995fbce21ffe777a", "input": "Fact: All life relies on a relatively narrow range of pH, or acidity.", "target": "all life organisms."}
+{"id": "task036-30853c2e663245b5a3279039d23d713c", "input": "Fact: transpiration is when water vapor moves from plants into the atmosphere.", "target": "atmosphere air."}
+{"id": "task036-451ecb9f059b438e8b26ae1912cd58cd", "input": "Fact: a mold spore has a negative impact on the respiratory system.", "target": "mold spore spreads."}
+{"id": "task036-f892fa9ba3484c32b146ecf31fcc1dd2", "input": "Fact: Many plants respond to the days growing shorter in the fall by going dormant.", "target": "Dormant plants."}
+{"id": "task036-f2d130f62ca44b6e85290795870ae020", "input": "Fact: Organs of excretion make up the excretory system.", "target": "Organs of excretion kidney."}
+{"id": "task036-19510ad5a7064ce8a0fa72adf65cfbb1", "input": "Fact: a plant requires photosynthesis to grow.", "target": "bamboo plant."}
+{"id": "task036-2e54571cd62e480391689784c89aca5b", "input": "Fact: Pregnancy is the carrying of one or more offspring from fertilization until birth.", "target": "births are main cause."}
+{"id": "task036-fc4a4d6d5dc341f580882714e8eef9c9", "input": "Fact: DNA is found in chromosomes.", "target": "DNA chromosomes."}
+{"id": "task036-5fd6de0c207c4d1686ad722e97a836b5", "input": "Fact: a switch is used to start the flow of current in an electrical circuit.", "target": "Electrical circuits are."}
+{"id": "task036-0fea5a9aec2442ef9b9e290bddb3847b", "input": "Fact: Animals are a kingdom of multicellular eukaryotes.", "target": "Animals kingdom."}
+{"id": "task036-3fd430887a954a22bf0d376a52022cc0", "input": "Fact: friction causes the temperature of an object to increase.", "target": "friction movement."}
+{"id": "task036-976ab240c8f9463eb1b10cfbc1b3e061", "input": "Fact: acid rain has a negative impact on water quality.", "target": "Water is."}
+{"id": "task036-337d6e871ded457d90256b1c2656edcb", "input": "Fact: riding a bike does not cause pollution.", "target": "bicycle pollution."}
+{"id": "task036-e3985b63aa9342c2b5a64a8bcf4dbe52", "input": "Fact: creating paper requires cutting down trees.", "target": "cutting down trees causes harm to environment."}
+{"id": "task036-09b3660e74c34e589f4b54eb9c9e7078", "input": "Fact: decomposition increases amount of organic matter in soil.", "target": "decomposition bodies matter."}
+{"id": "task036-940228173385417393c89898b251bda2", "input": "Fact: landfills have a negative impact on the environment.", "target": "Environment."}
+{"id": "task036-7fc4ee1bf2814c83afe415c465ead47d", "input": "Fact: an animal requires warmth for survival.", "target": "animal cow."}
+{"id": "task036-b7017593862240daa571085063054dd2", "input": "Fact: Head hair is especially important in preventing heat loss from the body.", "target": "Head hair is especially important in preventing heat loss from the body."}
+{"id": "task036-0ee573144dce432d9bd18178e12bee43", "input": "Fact: Climate influences plant growth, biodiversity, and adaptations of land organisms.", "target": "biodiversity increases survival."}
+{"id": "task036-b378722e00d24ba4a8273974266f7c05", "input": "Fact: insulated material can be used for keeping warm.", "target": "insulate."}
+{"id": "task036-ac7759417f27454a80dc5cf8ce2c6947", "input": "Fact: weathering means breaking down rocks from larger whole into smaller pieces by weather.", "target": "freeze thaw weathering."}
+{"id": "task036-e35d1e4c7eb84d66901ebe97d0e985fa", "input": "Fact: condensing means changing from a gas into a liquid by reducing heat energy.", "target": "Heat energy."}
+{"id": "task036-51b25c27f6b74bf8bac349916720b53d", "input": "Fact: an earthquake causes the ground to shake.", "target": "earthquake cause."}
+{"id": "task036-4c90548ea9944f1fba0077c43f1b73e8", "input": "Fact: Ejaculation occurs when muscle contractions propel sperm from the epididymes.", "target": "ejaculation semen."}
+{"id": "task036-0a5f8de979b548e3817fa3e2aaa9a5a7", "input": "Fact: Flagella help prokaryotes move.", "target": "Flagella are."}
+{"id": "task036-4c24af1407374a30b6d608aac03286fd", "input": "Fact: Heterotrophs get food by eating other living things.", "target": "Heterotrophs."}
+{"id": "task036-601517c236b34742b2056e7266f384f2", "input": "Fact: seed dispersal has a positive impact on a plant.", "target": "humans eat plants to survive."}
+{"id": "task036-60d00ef10fe04d029db4fe2056e7cb3d", "input": "Fact: cell division often causes growth.", "target": "Cell division is."}
+{"id": "task036-9d009c983b9c44b89d3d768d085c7a9e", "input": "Fact: Aging occurs as cells lose their ability to divide.", "target": "Dividing cells."}
+{"id": "task036-bd756466930146c893cad7345875ef00", "input": "Fact: boulders are formed by glaciers melting sometimes.", "target": "boulders glaciers."}
+{"id": "task036-559d1fea4ea34e50b60153cb471af263", "input": "Fact: Evolution is a change in the characteristics of living things over time.", "target": "Evolution."}
+{"id": "task036-8c3766dd2d464691a82e01b579a47369", "input": "Fact: Infancy is the period of most rapid growth after birth.", "target": "Infancy."}
+{"id": "task036-ed5b8ff2094c41f588f63d6ebb769ae8", "input": "Fact: Ribosomes are structures in the cytoplasm where proteins are made.", "target": "cytoplasm."}
+{"id": "task036-d58a52b1e4cb4144b7b3e648c45732f8", "input": "Fact: Gametes then unite in fertilization and form a diploid zygote.", "target": "diploid zygote birth."}
+{"id": "task036-9524f334debf4338b54755dce84c6f58", "input": "Fact: Aggression is behavior that is intended to cause harm or pain.", "target": "Aggression."}
+{"id": "task036-3616c31495f64751a7ade6e143b5a885", "input": "Fact: high mountains with well-rounded peaks can be formed by collision of crustal plates.", "target": "crustal plates."}
+{"id": "task036-e0c0af0eb6b4461c97ee77afe9b44ffc", "input": "Fact: Flowers attract animal pollinators.", "target": "animal pollinator."}
+{"id": "task036-084825fba92c48cfa9a36035fa2706d3", "input": "Fact: Cells secrete acids and bases to maintain the proper pH for enzymes to work.", "target": "ACIDS AND BASES."}
+{"id": "task036-c77211eb7e864d5c9516341b256756b7", "input": "Fact: a rubber band snapping causes the particles in the rubber band to vibrate.", "target": "noise is caused by vibration."}
+{"id": "task036-7519d91a3b854243bd7a1af256dc9893", "input": "Fact: being exposed to wind can cause erosion of soil.", "target": "being exposed to wind can cause erosion of soil."}
+{"id": "task036-3eb5f7bda28f40e393e9b711ccd8ab4d", "input": "Fact: operating an automobile usually requires fossil fuels.", "target": "automobile car."}
+{"id": "task036-08ad141583d44c6f97b4a504d66ff4a3", "input": "Fact: Oxygen is just one substance transported by the blood.", "target": "Blood."}
+{"id": "task036-687064bdaf4a427ab8d88e06dc4ae0e7", "input": "Fact: Many corals secrete an exoskeleton that builds up to become a coral reef.", "target": "coral exoskeleton is made of carbonate."}
+{"id": "task036-891419e21c0247ec917cb774af930be0", "input": "Fact: water vapor condensing in clouds causes rain.", "target": "clouds vapor."}
+{"id": "task036-f7aabb37da6a4d86b11a596f442666b7", "input": "Fact: safety goggles are used for protecting the eyes during experiments.", "target": "experiments lab."}
+{"id": "task036-38a930c8595040aba4bd85813b1b9a23", "input": "Fact: Balance is the ability to sense and maintain body position.", "target": "balance ear."}
+{"id": "task036-59f299c2beb24c0991b7e4e8d186f163", "input": "Fact: an acid changes the color of litmus paper from blue to red.", "target": "acid changes color."}
+{"id": "task036-290dbba2a10346078bfadacf2e312ca8", "input": "Fact: Some mollusks are nearly microscopic.", "target": "microscopic eye."}
+{"id": "task036-d14779e76fd0424ab161ec4d3f8330d2", "input": "Fact: Antibodies are large, Y-shaped proteins that recognize and bind to antigens.", "target": "Antibodies."}
+{"id": "task036-155711fcc9f64ca7bba1426fc1e7749c", "input": "Fact: Milk is a nutritious fluid.", "target": "milk comes."}
+{"id": "task036-95fff02a23964a95903dbff8cd220ace", "input": "Fact: protein is used to repair cells by the human body.", "target": "cells die repair."}
+{"id": "task036-b8bab1bdd7714c43ad7da67e0e7d02a8", "input": "Fact: lack of moisture in the air causes low amounts of rainfall.", "target": "lack of rain kills crops."}
+{"id": "task036-ee37362f5dbf4581a32d4eadcc380c28", "input": "Fact: Muscles can only contract.", "target": "contract leg."}
+{"id": "task036-7eb8ec12746041df93a7a7dd0ac8f90b", "input": "Fact: Flowers attract pollinators, and fruits encourage animals to disperse the seeds.", "target": "flower poinsettia."}
+{"id": "task036-fea41a33ad4b47f5b022b2594d734872", "input": "Fact: the ovaries are used in reproduction.", "target": "humans reproduction."}
+{"id": "task036-a79abd9bbc624232a0cb0882baea5aa4", "input": "Fact: Migration is a type of movement that changes population size.", "target": "migration animals."}
+{"id": "task036-6be5c8eff91841acac823b5f5d52e3f4", "input": "Fact: stomata closing reduces water loss.", "target": "plants need water to live."}
+{"id": "task036-f4f4234ce26c4c2b8e303402a3da5073", "input": "Fact: Macroevolution is evolution over geologic time above the level of the species.", "target": "Macroevolution."}
+{"id": "task036-8724d30f17904778a607187099107d4d", "input": "Fact: seconds are used to measure time.", "target": "light year."}
+{"id": "task036-dcf4e34c5f56476692c5878743961186", "input": "Fact: fog is formed by water vapor condensing in the air.", "target": "fog is formed."}
+{"id": "task036-cf86f6039bab4c82be42c942dfc87969", "input": "Fact: wiring requires an electrical conductor.", "target": "Conductors are."}
+{"id": "task036-3fe47f4fd0ef4498aef0157a6c9a5d1b", "input": "Fact: Carbon cycles quickly between organisms and the atmosphere.", "target": "atmosphere air."}
+{"id": "task036-1a7ce97294b14312a3307dd8435e1bd2", "input": "Fact: Amphibians have sense organs to smell and taste chemicals.", "target": "amphibian type."}
+{"id": "task036-c4226b9a8d764a75add8beae1b5e572b", "input": "Fact: a battery converts chemical energy into electrical energy.", "target": "Electrical energy."}
+{"id": "task036-73dc88940d2247a2884ea4dfba8592da", "input": "Fact: Spores may be dispersed by moving water, wind, or other organisms.", "target": "Spores dispersed."}
+{"id": "task036-731280ab253d40b0851a84312bf4f0ed", "input": "Fact: Cells that divide uncontrollably may form a tumor, or abnormal mass of cells.", "target": "abnormal mass cells."}
+{"id": "task036-548cdf0622684ab88e9f2c6fb7c0290b", "input": "Fact: Bladder infections can be treated with antibiotics prescribed by a doctor.", "target": "antibiotics are made from."}
+{"id": "task036-9101dc65d1b24325b0e34ca3813d32a1", "input": "Fact: matter vibrating can cause sound.", "target": "cause sound."}
+{"id": "task036-24d4a1af43f54c3ebacb5761ce506efb", "input": "Fact: an incandescent light bulb converts electricity into light by sending electricity through a filament.", "target": "electricity batteries."}
+{"id": "task036-6ceb35cc80954bcda1d0041624cbdcdc", "input": "Fact: Evolution occurs in response to a change in the environment.", "target": "Evolution is Evolution is change in the heritable characteristics."}
+{"id": "task036-b2c7b29f785e4de5b16a02c3bce53d59", "input": "Fact: Temperature falls from the equator to the poles.", "target": "pole antarctica."}
+{"id": "task036-1468d172417b44b687c5fff402a2d947", "input": "Fact: erosion can cause a landslide.", "target": "erosion water flow."}
+{"id": "task036-f26debd249084761b62dbb0e26a4843b", "input": "Fact: exercise has a positive impact on a human 's health.", "target": "Exercise is movement."}
+{"id": "task036-ffedffd47e7041879036ec73edcac78e", "input": "Fact: Plants release oxygen during the day but not during the night.", "target": "oxygen during day."}
+{"id": "task036-11fb55b70f7a49dba0a1948c397af04b", "input": "Fact: thirst is used to make an animal realize that it needs to replenish its bodily water by the body.", "target": "animal chicken."}
+{"id": "task036-08c1e86e80d848ad9decf03d6da6b986", "input": "Fact: Chromosomes are coiled structures made of DNA and proteins.", "target": "Chromosomes."}
+{"id": "task036-2dfdd3bd25714b35b36331e025945097", "input": "Fact: heating a liquid can be used to identify that liquid 's boiling point.", "target": "Liquid boiling point."}
+{"id": "task036-76aa1dd370124dea85b68d23a8f581d1", "input": "Fact: Bile reduces the acidity of food entering from the highly acidic stomach.", "target": "acid reduction."}
+{"id": "task036-0ffaa8fd69cc4e458498f6910f4c5fce", "input": "Fact: a pulley is used for lifting objects.", "target": "how to make a pulley."}
+{"id": "task036-eef71cc8c7754241957b38b70c791fb0", "input": "Fact: Birds have a large brain relative to the size of their body.", "target": "bird brain body."}
+{"id": "task036-3d03ac3440ef45f0aeae8f12c345c761", "input": "Fact: eating food that contains pesticides can have a negative impact on humans.", "target": "pesticide example."}
+{"id": "task036-2f42bbefabe64b449e7443696bb139c4", "input": "Fact: a cavern is formed by carbonic acid in groundwater seeping through rock and dissolving limestone.", "target": "carbonic acid."}
+{"id": "task036-2ce37f5ab4cf492a83e9b1e6db064133", "input": "Fact: eating something that contains pollutants has a negative impact on an organism 's survival.", "target": "organic food pollutants."}
+{"id": "task036-1e21b8dd44ec4b42bcead256d0df368e", "input": "Fact: disease-causing microbes have a negative impact on the body.", "target": "Microbes are."}
+{"id": "task036-9d7ed628b37b435fa310b957f3ade306", "input": "Fact: Fingernails prevent injury by forming protective plates over the ends of the fingers.", "target": "Fingernail."}
+{"id": "task036-6b5ae70b2fca45199d9194516b3d4e64", "input": "Fact: microscope is used to see small things by biologists by making them appear bigger.", "target": "bacteria small."}
+{"id": "task036-bfbdfb24f0e141b1baa1d7fe3261c27a", "input": "Fact: cross-pollination increases genetic diversity.", "target": "cross-pollination."}
+{"id": "task036-fc2a98b040594a2d92ce9aca2f1f6de7", "input": "Fact: melting means changing from a solid into a liquid by adding heat energy.", "target": "fire heat energy."}
+{"id": "task036-e69df649e3434d7789023005535b3b59", "input": "Fact: nerves can be used to feel heat and pressure on the skin.", "target": "epidermis."}
+{"id": "task036-0d42562499b94058ab7dbd4eff73e9b9", "input": "Fact: a wheeled vehicle requires smooth surfaces.", "target": "asphalt is a smooth surface."}
+{"id": "task036-a61b2ef20bb54f33a0e39e4db12280b9", "input": "Fact: Cancer genes can be inherited.", "target": "breast cancer inherited."}
+{"id": "task036-ffa6db9d695d4fd6bb9d47ec3dcbe79b", "input": "Fact: when the body is hot , sweat is produced to cool the body.", "target": "body heating causes."}
+{"id": "task036-6d3c4bfd481c4def8da293e4f831d6db", "input": "Fact: blowing air into a whistle causes air to vibrate inside the whistle.", "target": "air vibrate inside."}
+{"id": "task036-cbb0153c5e1b4e9a90a2ef392c4b498e", "input": "Fact: Skin color is a polygenic trait.", "target": "Skin color."}
+{"id": "task036-663dfd2dfe9e4309b85da8c8eaf4b810", "input": "Fact: Chemical bonds form when substances react with one another.", "target": "baking chemical react."}
+{"id": "task036-5cdd720e65bf43c59a0a3e3e21d60499", "input": "Fact: the movement of an air mass over Earth 's surface causes local weather changes.", "target": "air mass front."}
+{"id": "task036-1b76411e0d764ab1b3db5871944faa32", "input": "Fact: Biomass is the total mass of organisms at a trophic level.", "target": "biomass organism."}
+{"id": "task036-1ec99655ad4e40e9a780bc0e9628a71f", "input": "Fact: Male dogs use pheromones in urine to mark their territory.", "target": "dog pheromone."}
+{"id": "task036-fbeb139ec7b84561a303de81be733251", "input": "Fact: lakes are formed by precipitation and runoff.", "target": "caspian sea lake."}
+{"id": "task036-7d0f9f8adbe445c2895726e73fd91488", "input": "Fact: a plants require water for survival.", "target": "bamboo plant."}
+{"id": "task036-2a7d08c9da2d4b87b214147c0f3150f3", "input": "Fact: animals require water for survival.", "target": "animal duck."}
+{"id": "task036-3f94a24ab9fe4df7a1d17ae0b1340985", "input": "Fact: the force of water against the seed coat causes a root to emerge from a seed.", "target": "a root to emerge from a seed."}
+{"id": "task036-ea0271aea98c45ed923b73d31dc85d19", "input": "Fact: Hair is a fiber that is found only in mammals.", "target": "hair auburn."}
+{"id": "task036-a396aecc19a944a4ac6a3dcc109f7f76", "input": "Fact: Adult echinoderms have radial symmetry.", "target": "echinoderm is starfish."}
+{"id": "task036-b7046a49ddc04a7a8adf5653851fd815", "input": "Fact: soil is formed by weathering.", "target": "soil dirt."}
+{"id": "task036-5975af8ab60243149afc1c8a65aea3a3", "input": "Fact: Insects can spread disease and destroy crops.", "target": "Crop destruction."}
+{"id": "task036-5db89fd20a994ef186eef15a3cf59f3a", "input": "Fact: Cells are programmed to divide only a set number of times.", "target": "Cells divide."}
+{"id": "task036-560502c0321f4125bf1993e1bfc425b7", "input": "Fact: a breathing mask is used for keeping harmful particles from entering the respiratory system.", "target": "air particles."}
+{"id": "task036-c09f2791010b4cb081dd216b560d6f8d", "input": "Fact: a car engine usually converts gasoline into motion and heat through combustion.", "target": "car engine combustion."}
+{"id": "task036-cd6a78c9853046508fb466212016bbc8", "input": "Fact: Heterotrophs are living things that cannot make their own food.", "target": "Heterotrophs."}
+{"id": "task036-2b0c81255be648bb89a0d4b0f4e77f0e", "input": "Fact: a plant requires sunlight for photosynthesis.", "target": "photosynthesis creates energy."}
+{"id": "task036-c24b9a9759554a108654d05aaf65fd97", "input": "Fact: Cancer is a disease in which cells divide out of control.", "target": "Cancer is cause of death."}
+{"id": "task036-1c1c58f7458c484f91ae46255b642aea", "input": "Fact: threatening behavior causes a fight-or-flight response in animals.", "target": "animal animalia members."}
+{"id": "task036-1552509091934c9d9cde47c76fb31071", "input": "Fact: lungs are used for breathing air by land animals.", "target": "breathing."}
+{"id": "task036-8db84d274d2a4649a706093511212743", "input": "Fact: travelling requires navigation.", "target": "Maps are very useful in navigating through challenging terrain."}
+{"id": "task036-33e3a1f6958b4d1b99ee9fa7da89d460", "input": "Fact: Most carcinogens cause cancer by producing mutations in DNA.", "target": "cancer can cause death."}
+{"id": "task036-874655414ddb436797278deba8c164fb", "input": "Fact: Ethanol is produced by alcoholic fermentation of the glucose in corn or other plants.", "target": "Ethanol drunk."}
+{"id": "task036-fbe7e570e0bd43e297927241876e92f3", "input": "Fact: Most protists have motility.", "target": "Amoeba proteus protists are."}
+{"id": "task036-2e61556a54be42fcb78961942a9390e7", "input": "Fact: Mammals that are viviparous are called therian mammals.", "target": "mammals."}
+{"id": "task036-15bfd755b2d647788086464f18987e29", "input": "Fact: being burried under soil and mud changes peat into coal through extreme heat and pressure in a swamp over a long period of time.", "target": "coal heat peat."}
+{"id": "task036-86faf604b2f74033876f72d77cacd4da", "input": "Fact: pathogens can cause disease.", "target": "disease affects."}
+{"id": "task036-569da415b6b94969b233555e3e00ef03", "input": "Fact: most canyons are formed by flowing rivers through erosion over long periods of time.", "target": "Erosion is."}
+{"id": "task036-95516fc7eb5f4634b2901248a441956d", "input": "Fact: natural disasters can cause animals to leave an environment.", "target": "animal mammal."}
+{"id": "task036-87a019fd6b51424ab9abb3e7e03788ab", "input": "Fact: energy is used for heating a building by a heating system.", "target": "building office."}
+{"id": "task036-397ca97dd80146bd9d1c1559567bf4ab", "input": "Fact: being burried under soil and mud changes vegetation into peat through extreme heat and pressure in a swamp over a long period of time.", "target": "buried under soil and mud."}
+{"id": "task036-88b3b74f2bdc4b65bac1ec7c879ae406", "input": "Fact: a freezer is used for cooling things.", "target": "cooling food helps it last longer."}
+{"id": "task036-536430b0e0df4692a5b3ca912abf91c5", "input": "Fact: when a hurricane moves over land , that hurricane will decrease in strength.", "target": "continents are land."}
+{"id": "task036-99bd2316b4174d81a02141c229a6d8ba", "input": "Fact: temperature changing can cause phase changes.", "target": ": temperature heat."}
+{"id": "task036-8a3d4f5ada3b472f8fce9196010fea4c", "input": "Fact: bacteria cause food poisoning.", "target": "bacteria coli."}
+{"id": "task036-13b1fad2bfb1440d95fbccf718f583eb", "input": "Fact: Wings are part of the exoskeleton and attached to the thorax.", "target": "exoskeleton."}
+{"id": "task036-9ab3edf20de54a17b9b414c0c852fd16", "input": "Fact: a drought can change the color of an environment from green to brown.", "target": "a drought."}
+{"id": "task036-9e1ab9e776864b32aa693caf4838f0fc", "input": "Fact: rocks interacting with wind over long periods of time causes weathering.", "target": "rock limestone."}
+{"id": "task036-4cd2c0ec47d54ba3b20a73d281adf96e", "input": "Fact: All cnidarians are aquatic.", "target": "all aquatic water."}
+{"id": "task036-63d4cd2a6dde4c2a9ecf7d658034d0ea", "input": "Fact: Evaporation of sweat uses energy, and the energy comes from body heat.", "target": "Evaporation of sweat."}
+{"id": "task036-a329e5a1accc4f35a37591848998a8b3", "input": "Fact: a windmill converts wind energy into electricity primarily by using mechanical energy.", "target": "computers use electricity."}
+{"id": "task036-3f79403903884868a9370bc679bfd0fa", "input": "Fact: Hormones control many cell activities, so they are very important for homeostasis.", "target": "Hormones cells."}
+{"id": "task036-2a8c003b657741249c7177407aaa98e1", "input": "Fact: if an object is black then that object absorbs all visible light.", "target": "Light is radiation."}
+{"id": "task036-4f3beebdd6414b6187c748c5ddd2da55", "input": "Fact: a refrigerator is used for keeping food fresh for a long period of time.", "target": "food chicken."}
+{"id": "task036-7fdf171131a343b095a278a1803f678b", "input": "Fact: a stem is used to store water by some plants.", "target": "a stem is."}
+{"id": "task036-e04a1862ca7943b5acd839048c014d8a", "input": "Fact: an animal requires nutrients to grow and heal.", "target": "animal nutrients."}
+{"id": "task036-602511db7ddd423ab524dbef13cdca6b", "input": "Fact: Frogs also have a larynx, or voice box, to make sounds.", "target": "Frog croak."}
+{"id": "task036-a67fe51cf320432fad1cd1d6ab9ece1e", "input": "Fact: friction causes the speed of an object to decrease.", "target": "causes friction."}
+{"id": "task036-34e2e73b8b094aba988a8371e49c6e2a", "input": "Fact: Mutations may change the structure of a chromosome or just change a single nucleotide.", "target": "Mutations cause."}
+{"id": "task036-2c25808ec7204d06a60b5cb0cdf4c8be", "input": "Fact: an electric stove transforms electrical energy to heat energy.", "target": "electric stove energy."}
+{"id": "task036-592ec31b0fb746b38c1ba150fd8be96e", "input": "Fact: pollination requires pollinators.", "target": "pollination."}
+{"id": "task036-0c7cd25cc66b404594f49855dc4e295f", "input": "Fact: Eggs are usually laid in a nest.", "target": "alligators lay eggs."}
+{"id": "task036-a31a62e1dac54798a3e7cafdb2193d51", "input": "Fact: sediment is formed by weathering.", "target": "causes weathering."}
+{"id": "task036-0fde4f693877448abe93e5c37457f718", "input": "Fact: when light enters the eye through the pupil , that light falls on the retina.", "target": "humans use retinas to see."}
+{"id": "task036-d2d08e96f38e48e0a324872899492de2", "input": "Fact: Most plants grow roots down into the soil to absorb water and minerals.", "target": "Roots plants."}
+{"id": "task036-025d19f76a934229a9535a0aec00d8bb", "input": "Fact: burning wood is used to produce heat.", "target": "burning wood trees."}
+{"id": "task036-7a37e8069bb84b889e1a15644525229d", "input": "Fact: Introns are regions that do not code for proteins.", "target": "introns DNA."}
+{"id": "task036-017d84a226384da7856a6e09d219cb15", "input": "Fact: Many consumers feed at more than one trophic level.", "target": "animal consumers."}
+{"id": "task036-575fdfb9e12943378bf832fb99916416", "input": "Fact: Bryophytes occupy niches in moist habitats.", "target": "bryophytes."}
+{"id": "task036-a355de39e26d419fbde86c2cd5bcf323", "input": "Fact: Autotrophs are also called producers.", "target": "Autotrophs."}
+{"id": "task036-1e2cd4958b3e4181834182c44d46e8fb", "input": "Fact: Endocrine hormones travel throughout the body in the blood.", "target": "Endocrine deficiency."}
+{"id": "task036-6c95b9c9f23242b98500f43d73822807", "input": "Fact: the volume of an object can be used to describe the size of that object.", "target": "crystal ball object."}
+{"id": "task036-586ff694ef3846b2b9af886d3da8296b", "input": "Fact: Adult sponges produce eggs and sperm.", "target": "adult mature."}
+{"id": "task036-f46f41b484b54366bfef918a34db76ab", "input": "Fact: Mammals conserve body heat with their hair or fur.", "target": "conserve body heat keep warm."}
+{"id": "task036-e88b15f7566c49778f036e84d566e3fb", "input": "Fact: satellites are used to take images from space.", "target": "images from space."}
+{"id": "task036-cf7d019f31154c07be04b3c9c6fc8143", "input": "Fact: Earth orbiting the Sun causes seasons to change.", "target": "earth seasons."}
+{"id": "task036-75a33fb15f5542b9a3491f5a07c45fb6", "input": "Fact: fluoride decreases tooth decay.", "target": "fluoride drinking water."}
+{"id": "task036-29ed15f6b5cc4358abc7a02c6523e911", "input": "Fact: Population size influences the chances of a species surviving.", "target": "migration Population size."}
+{"id": "task036-dfd12d51883d449385c3391a56b7a9c0", "input": "Fact: a human requires sleep to be healthy.", "target": "brainwaves during sleep."}
+{"id": "task036-2b2f994985d241428be945b71736eb02", "input": "Fact: vinegar can cause harm to the eyes.", "target": "components of vinegar."}
+{"id": "task036-61d94ba7fddc4f0e8bade8671d87d9c5", "input": "Fact: Lymphocytes are the key cells involved in the immune response.", "target": "Lymphocytes."}
+{"id": "task036-5cb9214a8744402eb81151b357a1c407", "input": "Fact: a compass is used for determining direction.", "target": "compass direction."}
+{"id": "task036-a15ccd76ea164493986031d198800453", "input": "Fact: shelter is used for protection by animals against weather.", "target": "Weather shelter."}
+{"id": "task036-dac1dbd6f8484298bfc2048e0e2a585b", "input": "Fact: Sperm had to swim from male to female reproductive organs for fertilization.", "target": "Reproductive organs are gonads."}
+{"id": "task036-fa5106e0c2334c38a6d498dd25653621", "input": "Fact: some animals' fur grows thicker for staying warm in the winter.", "target": "animals fur grows thicker."}
+{"id": "task036-3d75321ffd7b40259a6e1674a5a49d2e", "input": "Fact: Blood pH may become unbalanced if the rate of breathing is too fast or too slow.", "target": "blood ph breathing."}
+{"id": "task036-0215622fd7db41e4b920390ba21dad89", "input": "Fact: an animal requires air for survival.", "target": "air nitrogen oxygen."}
+{"id": "task036-120ba3bee1974b209e0f007fc49002e7", "input": "Fact: a valley is formed by a river flowing.", "target": "colorado river flow."}
+{"id": "task036-4695d51034d143508f71728782373ece", "input": "Fact: Birds have relatively large brains and a high level of intelligence.", "target": "Bird type."}
+{"id": "task036-f4af5cb148d34ab49c31bad04cfc72a1", "input": "Fact: using a car causes pollution.", "target": "car brand."}
+{"id": "task036-ddd8fda7eec44c6cbb226cc63707cacf", "input": "Fact: the emission of sulfur dioxide causes acid rain.", "target": "acid rain causes."}
+{"id": "task036-2df6b83e2b004625b6eef103cb0e10c2", "input": "Fact: Molecules of DNA are encoded with instructions that tell cells what to do.", "target": "DNA."}
+{"id": "task036-1b57b8c682344e5fb4a29aba650f5b46", "input": "Fact: condensation causes clouds to form.", "target": "clouds cause rain."}
+{"id": "task036-31114199aa1c4deaa3e09c84161bf592", "input": "Fact: Sight is the ability to sense light, and the eye is the organ that senses light.", "target": "ability to sense light."}
+{"id": "task036-7ab6b02f45db4ec290ac258dd77c06bd", "input": "Fact: living underground can be used for hiding from predators.", "target": "animals that live underground."}
+{"id": "task036-ba0eacb2f8f143ff8ee96d2dc459a2c8", "input": "Fact: Jaws also make cartilaginous fish excellent predators.", "target": "cartilaginous cartilage."}
+{"id": "task036-4b23b383a2bc4d159fcc71d5b3b4e78f", "input": "Fact: igneous rocks are formed from magma cooling.", "target": "basalt igneous."}
+{"id": "task036-13edef650c5549a5b0d38eccc884f85d", "input": "Fact: Most fungi get organic compounds from dead organisms.", "target": "dead organisms."}
+{"id": "task036-cb029f0f1f734e6185a58243967e0319", "input": "Fact: wind causes erosion.", "target": "erosion habitat."}
+{"id": "task036-38b9e0342f744baa8b256d0dca0f0107", "input": "Fact: if an organism becomes too hot then that organism may die.", "target": "die process."}
+{"id": "task036-38efe7070ba8452fa7b0120be0b7f9d8", "input": "Fact: Blood pressure is highest in arteries and lowest in veins.", "target": "Blood pressure is."}
+{"id": "task036-01bfd69982954f0193ae7b1f38ec0e8c", "input": "Fact: powering an electrical device with a battery requires a path for electricity to flow through a closed circuit.", "target": "battery small device."}
+{"id": "task036-e0acbc94936c4fe8abb688a3eb7c17f1", "input": "Fact: Most pituitary hormones control other endocrine glands.", "target": "Endocrine glands are."}
+{"id": "task036-cd1b5c32cf3b49a2840979098dd87212", "input": "Fact: loud noises can cause animals to startle.", "target": "animals mammal."}
+{"id": "task036-ee1ff16044bb4f4b92221e7e372ef17a", "input": "Fact: Any surface that has not been sterilized is likely to be covered with bacteria.", "target": "bacteria can make people sick."}
+{"id": "task036-55686fd4a78349b1840fa05ad23f78fa", "input": "Fact: Blood is a fluid connective tissue.", "target": "blood body."}
+{"id": "task036-f6c22cb4f4574508a5c13bcc7afbdecc", "input": "Fact: howling is used to warn other wolves by wolves.", "target": "canis lupus wolves."}
+{"id": "task036-545b6b37f2b44850ac027cd3da0f621d", "input": "Fact: Most genes contain the instructions for a single protein.", "target": "allele gene."}
+{"id": "task036-89ad710439ae4ceeb101641ebeb6cf1c", "input": "Fact: evaporation can be used for separating a solute from a solvent in a solution.", "target": "a solvent."}
+{"id": "task036-11be9c84aabd454b80712219a0ff4ed2", "input": "Fact: Placental mammals are the dominant land mammals.", "target": "Placental mammals."}
+{"id": "task036-eaf668a6ee6d42a8bc653aa244fd3c62", "input": "Fact: wind and rain cause erosion.", "target": "erosion creates mountains."}
+{"id": "task036-95f37033fa714f85a8fcba519db8dd3f", "input": "Fact: freezing means changing from a liquid into a solid by reducing heat energy.", "target": "freezing -freeze."}
+{"id": "task036-1a8d39f68fc6449481aa41aacdb5d70d", "input": "Fact: Many seeds can wait to germinate until conditions are favorable for growth.", "target": "germinate conditions."}
+{"id": "task036-f1d346f832404a11a76faae1eed89b0f", "input": "Fact: Flowers form on the dominant sporophyte plant.", "target": "Flowers are  reproductive parts."}
+{"id": "task036-cd60f76e954e4efb94544d014cf3c01a", "input": "Fact: Earthworms are important deposit feeders that help form and enrich soil.", "target": "deposit feeders."}
+{"id": "task036-a4ddccf9472947d3b554c130d00dfd17", "input": "Fact: oil is formed by layers of sediment pushing down on decomposing algae.", "target": "algae is."}
+{"id": "task036-cf8707727cf6425490c8f48631aaf004", "input": "Fact: Lions live in social groups called prides.", "target": "Lion."}
+{"id": "task036-05e05dde7e4046e8b00f74e1646a440b", "input": "Fact: Gymnosperms are vascular plants that produce seeds in cones.", "target": "Gymnosperms."}
+{"id": "task036-f52784d473944fe29191f4fbc9c33ab8", "input": "Fact: hiding can be used for avoiding predators.", "target": "avoiding staying away."}
+{"id": "task036-d4f2d4688646401ea9000a89f766bfc6", "input": "Fact: killing microorganisms in food can be used to extend the shelf life of that food.", "target": "freezing food killing microorganisms."}
+{"id": "task036-867d6305f9c3460cb1ed2897703066dd", "input": "Fact: fat is used to keep animals warm.", "target": "bears fat warm."}
+{"id": "task036-fda3d6508d9743498271a1ffdcbf6681", "input": "Fact: radioactive dating is used to determine the age of fossils.", "target": "age of fossils geologists."}
+{"id": "task036-109030bca9c54021a2499b78cf422446", "input": "Fact: coal is used for generating heat by burning.", "target": "burning coal pollution."}
+{"id": "task036-06a39c1b1f79453e88dbe836083221be", "input": "Fact: Reproduction is the process by which living things give rise to offspring.", "target": "offspring children."}
+{"id": "task036-22898f5a3bbf47949acab7bde66da740", "input": "Fact: Echinoderms have a unique water vascular system with tube feet.", "target": "echinoderm vascular."}
+{"id": "task036-898199550ce64e52bfff6269add4c529", "input": "Fact: Behaviors that improve fitness increase through natural selection.", "target": "animal fitness."}
+{"id": "task036-f529b33f00e04503b93a6439de8558d8", "input": "Fact: sandpaper is used to smooth wooden objects.", "target": "Wooden object."}
+{"id": "task036-ae8b19d218854615ac547da4231a0d87", "input": "Fact: keeping food cold is used for keeping food fresh.", "target": "food cold safety."}
+{"id": "task036-efcb5b7a3d7a4826a1a866da13488c45", "input": "Fact: Playing is one way mammals and other animals learn how to behave.", "target": "animal learn behave train."}
+{"id": "task036-12e603f9308947938918f2b6e9097ca5", "input": "Fact: Chromoplasts make and store pigments.", "target": "chromoplast pigments."}
+{"id": "task036-236b1df9f6fe48deb70075b491cc0452", "input": "Fact: Food consists of organic molecules that store energy in their chemical bonds.", "target": "beef food."}
+{"id": "task036-aea12524218440ef9dff73d759d1f518", "input": "Fact: decomposition increases the amount of nutrients in the soil.", "target": "decomposition animals plant."}
+{"id": "task036-28fdec61076148cd8f7f6bbcfc62771f", "input": "Fact: irradiating food can be used to kill existing microorganisms in the food.", "target": "e coli microorganism food."}
+{"id": "task036-3bcaea4f928e4800beead0908efea998", "input": "Fact: heat can change the state of matter.", "target": "Heat state of matter."}
+{"id": "task036-31be47f6976e406494aaa9f4df3d6dca", "input": "Fact: an image in a mirror is formed by reflecting light.", "target": "eyes see light."}
+{"id": "task036-e617e187777742878eb0408664334fd9", "input": "Fact: the fallopian tubes are used in reproduction.", "target": "Fallopian tubes."}
+{"id": "task036-d7961ffeb90144cea45c65365c01f4ea", "input": "Fact: the surface of a beach is formed by mechanical weathering.", "target": "beach erosion."}
+{"id": "task036-365b558540b54f348a7d58b30e2e5838", "input": "Fact: Lipids may consist of fatty acids alone, or they may contain other molecules as well.", "target": "fatty acid lipid."}
+{"id": "task036-702b1fd467e14e079b477d872747fc72", "input": "Fact: Cells vary in size as well as shape, but all cells are very small.", "target": "Cells are functional unit."}
+{"id": "task036-d577de7a49214420a1a8dc89e00cbcbb", "input": "Fact: zinc has a positive impact on the healing of wounds.", "target": "healing wounds."}
+{"id": "task036-f72d1efc916943a4874f2f18a3d6e56a", "input": "Fact: Pollen consists of tiny grains that are the male gametes of plants.", "target": "Pollen."}
+{"id": "task036-49cd538140184e9587f802144175667b", "input": "Fact: RNA is a small molecule that can squeeze through pores in the nuclear membrane.", "target": "RNA acid."}
+{"id": "task036-216ea9cd74834f218268544572d34cd3", "input": "Fact: Hydrogen bonds cause water to expand when it freezes.", "target": "freezes."}
+{"id": "task036-4ee57bed954c44809efb04bdb20b4fb2", "input": "Fact: bees convert nectar into honey.", "target": "Flower nectar."}
+{"id": "task036-8869547e7cce457683449b053f05f515", "input": "Fact: Fertilization occurs when sperm swim to an egg inside an archegonium.", "target": "Fertilization fuse."}
+{"id": "task036-125fcc794ae948f989b878121ab658f8", "input": "Fact: a plant requires nutrients to grow.", "target": "Plant nutrient."}
+{"id": "task036-73037479250949ef80403a51ae46bd65", "input": "Fact: Sweat wets the skin, and when it evaporates, it cools the body.", "target": "Human  Sweat."}
+{"id": "task036-9cfdd18801014ad781c40c42ed997086", "input": "Fact: unequal heating of Earth 's surface by the Sun causes global wind patterns.", "target": "earth our planet."}
+{"id": "task036-dba47f6c8f20454ea35586e4cae57558", "input": "Fact: Sperm are released into the surrounding water through the osculum.", "target": "Male gamete are sperm."}
+{"id": "task036-3bb255761d9d4e1d898f02c59d8db734", "input": "Fact: if fossils of an animal or plant are found in a place then that animal or plant used to live in that place.", "target": "fossil dinosaur."}
+{"id": "task036-7a538d16ad3048b89625f86f601fdafa", "input": "Fact: Precipitation increases moisture.", "target": "increased moisture."}
+{"id": "task036-e9361097ae7a42819a9d15c1e73f2183", "input": "Fact: seasons cause change to the environment.", "target": "environment animal habitat."}
+{"id": "task036-8a1320a228e94fc3b069d7e36519e5a2", "input": "Fact: producing thrust causes something to move.", "target": "engines produce thrust."}
+{"id": "task036-9cdcea89385d462d9c9a5daaf787714e", "input": "Fact: Lymph is a fluid that leaks out of capillaries into spaces between cells.", "target": "capillaries."}
+{"id": "task036-ccf23fd23dfa43e3b9281784b1b14197", "input": "Fact: Cell division is more complex in eukaryotes than prokaryotes.", "target": "Cell division is."}
+{"id": "task036-47cf6102d6be4abcafc1c66dba2b5ae1", "input": "Fact: living things all require energy for survival.", "target": "energy food."}
+{"id": "task036-7e79a6c1dd024650b6995d2dd137146b", "input": "Fact: Mutualism is a symbiotic relationship in which both species benefit.", "target": "mutualism bird."}
+{"id": "task036-be00bf1325464749a4541be5e3cec508", "input": "Fact: Some birds are pollinators that co-evolved with plants.", "target": "bird pollinator."}
+{"id": "task036-a35258b5bcda4c2796f9fc7dbc9b2917", "input": "Fact: treating water is used to remove harmful substances before drinking.", "target": "boiling water treat."}
+{"id": "task036-ba78762d1db64ba88e370780997d6cd3", "input": "Fact: Alternation of generations allows for both asexual and sexual reproduction.", "target": "alteration of generations."}
+{"id": "task036-3620b699b64d433ead5aa975762bb700", "input": "Fact: conserving water can be used for survival in a dry environment.", "target": "cacti stems water."}
+{"id": "task036-882916d6bf654c378c39e3b89923e59f", "input": "Fact: healing requires rest.", "target": "healing cells."}
+{"id": "task036-5c6d93c578904c7bb407150b6dd20e58", "input": "Fact: Fractures heal when osteoclasts form new bone.", "target": "bone is made of calcium."}
+{"id": "task036-5bc8f4832e834434897b9ab048b01ae7", "input": "Fact: Some viruses can cause cancer.", "target": "VACCINATION CERVICAL."}
+{"id": "task036-66348df1464a42ad88845291354ae9b2", "input": "Fact: when the season changes , the amount of daylight will change.", "target": "amount of daylight flower."}
+{"id": "task036-7addd6a3c66a4c55a08a832513726d1f", "input": "Fact: water vapor cooling causes that water vapor to condense.", "target": "fogged mirror condensation."}
+{"id": "task036-3be1557e095b4a549f2f2acbcb05f379", "input": "Fact: if food is not immediately used by the body for energy then that food will be stored for future use.", "target": "body food storage."}
+{"id": "task036-0678b9f4b184471386fcd139d78ebf8d", "input": "Fact: an aquatic animal requires great amounts of water to survive.", "target": "aquatic animal whale."}
+{"id": "task036-c9a36565764c41a1a47c81185524fbb3", "input": "Fact: if a tree falls then sunlight becomes available to the surrounding plants.", "target": "large shade trees."}
+{"id": "task036-276c2982505540489145ab44882961af", "input": "Fact: Plants live just about everywhere on Earth.", "target": "Plants producers."}
+{"id": "task036-ec29d48caf7640a0ad8769a1248ebc20", "input": "Fact: a sandbar is formed by water moving sediment downstream.", "target": "sandbar habitat."}
+{"id": "task036-71b4874fb18e407fadfb3eafbc2942cf", "input": "Fact: Shivering occurs when many muscles contract a little bit all at once.", "target": "Shivering occurs when many muscles contract a little bit all at once."}
+{"id": "task036-f900e32bc99549dabf5a60fc6ff4bfb8", "input": "Fact: cycles of freezing and thawing water cause ice wedging.", "target": "freezing thawing ice."}
+{"id": "task036-6df9f4374013429795815239a29861bf", "input": "Fact: Bioterrorism is another potential threat in the environment.", "target": "Bioterrorism."}
+{"id": "task036-28245aa30c7e482c99c815e263e6a609", "input": "Fact: drought is when amount of precipitation decreases.", "target": "deserts drought."}
+{"id": "task036-d8b8689bf33243b38ac12ace4e218de5", "input": "Fact: freezing causes a solid to form.", "target": "freeze molecules."}
+{"id": "task036-96226cb0f3cf4060afc3496fe4a9ca94", "input": "Fact: Scientists still know relatively little about Archaea.", "target": "Archaea."}
+{"id": "task036-ead1d3730dc74c039d151ea629c61037", "input": "Fact: Oncogenes promote the division of cells with damaged DNA.", "target": "DNA."}
+{"id": "task036-a9328252a30f49678e4e8ba2c4dbe750", "input": "Fact: Sweating reduces body heat.", "target": "\"body heat\" reduces sweating."}
+{"id": "task036-f2484e8bb2074ca19494c42420e4b948", "input": "Fact: chlorophyll is used for absorbing light energy by plants.", "target": "chlorophyll all green plants."}
+{"id": "task036-4315b3d99cd448078da45644812bb133", "input": "Fact: measuring the hardness of minerals requires scratching those materials.", "target": "hardness minerals."}
+{"id": "task036-b0edd5c641d64beebf1569e82c1e80fb", "input": "Fact: Fertilization of gametes produces a diploid zygote.", "target": "diploid zygote."}
+{"id": "task036-2b466b736ba54387b43ceedd2b609e84", "input": "Fact: Protozoa can be classified on the basis of how they move.", "target": "Protozoa."}
+{"id": "task036-45cc30cd0df744ac9202adc35cf863bf", "input": "Fact: Ground tissue makes up most of the interior of a plant.", "target": "dandelions plant."}
+{"id": "task036-66a7627096734f428384b833c9f8f6e6", "input": "Fact: if a living thing becomes too cold then that living thing will die.", "target": "animals living thing."}
+{"id": "task036-1d4f0d7074454440b9b4ec382e963748", "input": "Fact: Chloroplasts contain the green pigment chlorophyll.", "target": "Chloroplasts green."}
+{"id": "task036-bca3d737fb354203b04a94d1cf670598", "input": "Fact: a ship is used for moving people across bodies of water.", "target": "across bodies of water."}
+{"id": "task036-cf602b5d09a341eea454b4faa44f0c82", "input": "Fact: an animal needs to attract a mate to reproduce.", "target": "animal birth young."}
+{"id": "task036-313a85fc1f53440ab886171589f29264", "input": "Fact: fossils are formed when layers of sediment cover the remains of organisms over time.", "target": "fish organisms."}
+{"id": "task036-85abad345fec47b18e33f71c11490eb2", "input": "Fact: the number of rings in a tree trunk can be used to estimate the age of the tree.", "target": "age of tree forest ring."}
+{"id": "task036-1f06ee870e9343d484bbe49d0974094f", "input": "Fact: Lakes are generally bigger and deeper than ponds.", "target": "Lakes."}
+{"id": "task036-0dfbd08e3d92465e9b9f234493312d86", "input": "Fact: Arteries generally carry oxygen-rich blood.", "target": "Arteries generally carry oxygen-rich blood."}
+{"id": "task036-12a2df4eeefe48dbbfb72b70119d40ea", "input": "Fact: bacteria in soil convert atmospheric nitrogen into a form usable by plants.", "target": "bacteria  atmospheric nitrogen."}
+{"id": "task036-ec98a3ffa9364b8da0d9d7f8fb6a985e", "input": "Fact: exercise increases a body 's strength.", "target": "body strength keeps healthy."}
+{"id": "task036-ff724c011f074cb997ed3b563fc90c75", "input": "Fact: heating salt water causes the water to evaporate while the salt remains.", "target": "boiling water evaporate."}
+{"id": "task036-17fc842bf5bb4f01856d621a0a7597bc", "input": "Fact: a graduated cylinder is used to measure volume of a liquid.", "target": "a graduated cylinder is used to measure volume of a liquid."}
+{"id": "task036-0d8e988b7f954e698689f0ab26d8a94e", "input": "Fact: eating prey requires catching prey.", "target": "catching prey requires."}
+{"id": "task036-ae651a2077614c4eb384d30671e8eaad", "input": "Fact: Mollusks live in most terrestrial, freshwater, and marine habitats.", "target": "marine habitats biomes."}
+{"id": "task036-7384216c195f482f831603f91b2111f5", "input": "Fact: mineral graphite is used for making pencil lead.", "target": "Graphite."}
+{"id": "task036-4d162c61c12949f4a9ad63c354d09fba", "input": "Fact: an animal requires energy to move.", "target": "animal energy from."}
+{"id": "task036-984c62d2d0664c608389c512b24243d0", "input": "Fact: Active immunity results when an immune response to a pathogen produces memory cells.", "target": "Active immunity."}
+{"id": "task036-14f95b20c74a4f07b9685da49f085e59", "input": "Fact: Ice ages buried the planet in snow and ice for millions of years at a time.", "target": "ice age."}
+{"id": "task036-9032fdd1f704472faf3be2ebdf6b50b3", "input": "Fact: Ribosomes are sites where proteins are made.", "target": "Proteins are large biomolecules."}
+{"id": "task036-e9dc7c687b6c46159c17c06120b41b73", "input": "Fact: an animal requires nutrients for survival.", "target": "animal nutrients."}
+{"id": "task036-24a5c859c4354219b81be33e35432e3e", "input": "Fact: Bees are naturalized on every continent except Antarctica.", "target": "Antarctica."}
+{"id": "task036-0e777b95106f4a3089a743d651796524", "input": "Fact: Arthropods have a life cycle with sexual reproduction.", "target": "Arthropods."}
+{"id": "task036-eabe20efa70a46abb29184ff9f0b6ba4", "input": "Fact: Immunity results from immunization.", "target": "immunization vaccine."}
+{"id": "task036-3fb3816809b147d385cb4db4e6871806", "input": "Fact: Weather refers to the conditions of the atmosphere from day to day.", "target": "An atmosphere is a layer of gases surrounding a planet."}
+{"id": "task036-29bc608e0db74ad0bfa18aca1646d973", "input": "Fact: an animal requires stamina to succeed at physical activities.", "target": "animal bear."}
+{"id": "task036-5d4500da25ed4f6d9a2a2a71e36d9cd5", "input": "Fact: building housing developments usually requires replacing animal habitats.", "target": "animal habitats."}
+{"id": "task036-539a2260ac5343d7a915b19b4c0cae33", "input": "Fact: Fungi spores can develop into new haploid individuals without being fertilized.", "target": "asexual haploid without fertilized."}
+{"id": "task036-90b39858db9e4b0baad3e4a65c4b55f8", "input": "Fact: Cuticle helps prevent water loss, abrasions, infections, and damage from toxins.", "target": "cuticle is."}
+{"id": "task036-e662128566df49f89a8c9a137e9e1808", "input": "Fact: Transcription takes place in the nucleus.", "target": "cell transcription."}
+{"id": "task036-6519031a9c1d4050aef3825121bee2b5", "input": "Fact: propulsion is used for flying by a spacecraft.", "target": "propulsion spacecraft."}
+{"id": "task036-948ae762f064466a93658acd56a98900", "input": "Fact: HIV infects and destroys helper T cells.", "target": "HIV aids."}
+{"id": "task036-1a86c61055d347d9b254d3765ce15804", "input": "Fact: Macroevolution occurs over geologic time above the level of the species.", "target": "geologic time."}
+{"id": "task036-d95b7c3981ae4bba8c90f9f7593ae750", "input": "Fact: plant reproduction often requires pollen.", "target": "bees carry pollen."}
+{"id": "task036-b868a0d9c2414a85bd92400b7bb23065", "input": "Fact: electrocution causes harm to an organism.", "target": "electricity causes electrocution."}
+{"id": "task036-c1c72ca34e914d4ab5e43b390188e7d7", "input": "Fact: forming coal requires decaying vegetation.", "target": "are vegetables."}
+{"id": "task036-e1492c93780e482c90eaf7d7691aedc8", "input": "Fact: Roots have primary and secondary meristems for growth in length and width.", "target": "length width meters."}
+{"id": "task036-7bdac49b90114876bd2044558b84eced", "input": "Fact: Most arthropods are insects.", "target": "arthropod."}
+{"id": "task036-1338bc00ef56463483dd5105cda9084f", "input": "Fact: Mammals breathe with the help of a diaphragm.", "target": "diaphragm air."}
+{"id": "task036-4b172f026ce9440c822e76d6d50a873a", "input": "Fact: when a plant grows , the size of the leaves of that plant may increase.", "target": "ferns plant."}
+{"id": "task036-3cb333fede8540538efa675e326d10d3", "input": "Fact: sinkholes are formed by precipitation.", "target": "precipitation are formed by."}
+{"id": "task036-0a78051d564a4b4eb0c37a1bec685f9e", "input": "Fact: Placental mammals are therian mammals in which a placenta develops during pregnancy.", "target": "human placental."}
+{"id": "task036-87cb788ccdf64b0eba6cf9f74f036bdc", "input": "Fact: having food has a positive impact on an organism 's health.", "target": "food contains."}
+{"id": "task036-42584eab8b1f452387e533613b4482ae", "input": "Fact: Mollusks have a circulatory system with one or two hearts that pump blood.", "target": "Mollusks are snails."}
+{"id": "task036-36facb9ee41745e2a8568ce17190829d", "input": "Fact: a thermal insulator slows the transfer of heat.", "target": "heat transfer causes."}
+{"id": "task036-1ea106916e4f49aa94d06c9f56a71b78", "input": "Fact: Amphibians are also important predators.", "target": "amphibian predator."}
+{"id": "task036-2656ae684f4247b1b2315210b56eb8dc", "input": "Fact: smoking causes direct damage to the lungs.", "target": "cigarettes smoked."}

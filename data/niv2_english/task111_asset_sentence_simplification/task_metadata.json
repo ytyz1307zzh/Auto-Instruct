@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence, simplify it so it can be understood by non-native English speakers.",
+    "category": "Text Simplification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

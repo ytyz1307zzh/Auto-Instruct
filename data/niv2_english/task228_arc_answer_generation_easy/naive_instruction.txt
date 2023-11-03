@@ -1,0 +1,1 @@
+Given a easy science question, provide the answer based on scientific facts and reasoning.

@@ -1,0 +1,1 @@
+Given hotel reviews and it's polarity, determine whether it's true or false

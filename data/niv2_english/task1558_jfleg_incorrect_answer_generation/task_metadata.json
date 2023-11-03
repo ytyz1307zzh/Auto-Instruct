@@ -1,0 +1,7 @@
+{
+    "summary": "Generating incorrect answers (based on jfleg)",
+    "category": "Wrong Candidate Generation",
+    "domain": "English Exams, Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

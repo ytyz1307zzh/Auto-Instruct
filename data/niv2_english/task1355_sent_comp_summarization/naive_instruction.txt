@@ -1,0 +1,1 @@
+Given text generate summary about the text

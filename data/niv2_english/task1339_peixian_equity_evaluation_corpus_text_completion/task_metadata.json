@@ -1,0 +1,7 @@
+{
+    "summary": "Replacing blanks within text for an emption",
+    "category": "Fill in The Blank",
+    "domain": "Commonsense, Dialogue, Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,3 @@
+{"id": "task1207-11b76291cf184ef18d930012f7d41f5e", "input": "Head: barn<sep>Tail: field", "target": "Yes"}
+{"id": "task1207-a01e2c12c03f4a09bd683b74cdef9dad", "input": "Head: PersonX acknowledges with gratitude the ___<sep>Tail: implement suggestions", "target": "No"}
+{"id": "task1207-2f8fae45e3b1490cb03dfad1b853baee", "input": "Head: ferret<sep>Tail: hunting rabbits", "target": "Yes"}

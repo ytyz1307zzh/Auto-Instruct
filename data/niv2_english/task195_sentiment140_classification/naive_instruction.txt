@@ -1,0 +1,1 @@
+Given a tweet, classify its sentiment as either positive or negative.

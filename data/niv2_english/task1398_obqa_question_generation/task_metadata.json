@@ -1,0 +1,7 @@
+{
+    "summary": "Given a fact, generate a question that can be answered using the fact",
+    "category": "Question Generation",
+    "domain": "Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

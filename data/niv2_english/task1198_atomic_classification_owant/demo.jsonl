@@ -1,0 +1,3 @@
+{"id": "task1198-91c759a0e0a446149f0f64a129d31bc8", "input": "Head: PersonX gets behind PersonY<sep>Tail: to support him", "target": "Yes"}
+{"id": "task1198-d46862c4173a464baaa618e37e8053e8", "input": "Head: PersonX asks ___ if PersonY could have one<sep>Tail: to help", "target": "No"}
+{"id": "task1198-874c2f255bb048efa2f1704577a90b75", "input": "Head: PersonX carries PersonY into execution<sep>Tail: to live", "target": "Yes"}

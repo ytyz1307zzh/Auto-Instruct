@@ -1,0 +1,7 @@
+{
+    "summary": "Craft one question such that it requires commonsense to be answered.",
+    "category": "Question Generation",
+    "domain": "Personal Narratives",
+    "input_lang": "English",
+    "output_lang": "English"
+}

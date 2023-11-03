@@ -1,0 +1,7 @@
+{
+    "summary": "Classify tweets into hate speech, offensive or neither",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

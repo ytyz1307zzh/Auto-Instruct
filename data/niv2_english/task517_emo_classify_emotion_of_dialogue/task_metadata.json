@@ -1,0 +1,7 @@
+{
+    "summary": "Classify the emotion of a given dialogue",
+    "category": "Sentiment Analysis",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

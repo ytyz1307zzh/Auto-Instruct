@@ -1,0 +1,7 @@
+{
+    "summary": "Generate an incorrect solution to a goal regarding physical knowledge about the world.",
+    "category": "Wrong Candidate Generation",
+    "domain": "Commonsense -> Concepts and Relations -> Physical Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

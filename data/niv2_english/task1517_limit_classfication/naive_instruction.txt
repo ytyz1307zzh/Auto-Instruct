@@ -1,0 +1,1 @@
+Classifying sentence based on the condition that it contains a motion of a physical entity or not.

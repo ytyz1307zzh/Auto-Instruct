@@ -1,0 +1,7 @@
+{
+    "summary": "Classify SMS into spam or ham.",
+    "category": "Spam Classification",
+    "domain": "Social Media -> Text Message",
+    "input_lang": "English",
+    "output_lang": "English"
+}

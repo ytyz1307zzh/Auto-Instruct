@@ -1,0 +1,7 @@
+{
+    "summary": "Determine whether the post is intentionally offensive or not",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

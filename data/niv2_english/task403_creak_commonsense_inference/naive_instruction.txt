@@ -1,0 +1,1 @@
+Given a statement and a explanation, judge whether the statement is true based on the explanation

@@ -1,0 +1,400 @@
+{"id": "task097-6e0565a2f93a48bb919c5c8b1c2aafe9", "input": "[4, 1, 5, 7, 7, 0, 4, 6, 0, 1]", "target": "[5, 6]"}
+{"id": "task097-bed33935c04d4b33806c8badf6136894", "input": "[5, 0, 1, 3, 2, 2, 0, 1, 5, 0]", "target": "[3]"}
+{"id": "task097-0d64286f6b3b4345b431ab834ed04559", "input": "[7, 5, 6, 4, 4, 6, 4, 0, 5]", "target": "[7, 0]"}
+{"id": "task097-1f340e7a49ff43d69c9b0114be3f7ad6", "input": "[2, 1, 1, 4, 2]", "target": "[4]"}
+{"id": "task097-8df52d1e8c93487192ffb85707510abb", "input": "[5, 7, 7, 2, 5, 4, 1, 1]", "target": "[2, 4]"}
+{"id": "task097-1307e0eb030342c89cbffc6c24b1613a", "input": "[1, 0, 5, 3, 5, 2, 3, 2, 6]", "target": "[1, 0, 6]"}
+{"id": "task097-04dc507460024be6a091f049b4a75c9f", "input": "[4, 5, 4, 6, 6, 5, 5, 1, 7]", "target": "[1, 7]"}
+{"id": "task097-4cceab11b3ec4332a9df39c5257b20fb", "input": "[7, 2, 5, 1, 2, 7, 2, 2, 5, 4]", "target": "[1, 4]"}
+{"id": "task097-73692469c4514d43956886fab4cfa90d", "input": "[5, 7, 5, 6, 1, 7, 0, 1, 0]", "target": "[6]"}
+{"id": "task097-e36c1ea9b8dd47d5a26823231fccd380", "input": "[6, 3, 6, 1, 3, 0, 0, 0, 4, 1]", "target": "[4]"}
+{"id": "task097-885680803ea44dfab6a1090520fd9460", "input": "[2, 2, 0, 4, 0, 4, 7]", "target": "[7]"}
+{"id": "task097-4fe08b0f7881470f9207724d381bd8b2", "input": "[6, 4, 7, 0, 7, 6, 3, 6, 4, 4]", "target": "[0, 3]"}
+{"id": "task097-68910c6976f24565b1e50a21fd4990f1", "input": "[3, 7, 7, 1, 0, 0, 4, 0, 3, 1]", "target": "[4]"}
+{"id": "task097-0b3c59cd9a6f4a7981f57a37db6a3905", "input": "[1, 0, 3, 0, 1, 7, 3, 5]", "target": "[7, 5]"}
+{"id": "task097-44de86ffa5c34c6db8af505fd07e80de", "input": "[6, 7, 1, 1, 1, 5, 6]", "target": "[7, 5]"}
+{"id": "task097-6c40ac79b41a47258bd111f44301a45a", "input": "[7, 7, 0, 1, 1, 5, 5]", "target": "[0]"}
+{"id": "task097-83795ffb816d40db85ee480de0ae807a", "input": "[2, 6, 6, 2, 6, 2, 0]", "target": "[0]"}
+{"id": "task097-fe67393800234e2c86441d271d670cdf", "input": "[1, 2, 1, 5, 5]", "target": "[2]"}
+{"id": "task097-faa1750fec4e41d4a92fa55ab8290049", "input": "[0, 2, 4, 3, 6, 2, 1, 0, 7, 4]", "target": "[3, 6, 1, 7]"}
+{"id": "task097-e3bf2b2c21ea4a3296d7b33a33676b0f", "input": "[1, 5, 2, 4, 5, 4, 0, 7]", "target": "[1, 2, 0, 7]"}
+{"id": "task097-60817ed7db4e4a52abfeafb289b180af", "input": "[6, 7, 6, 5, 5]", "target": "[7]"}
+{"id": "task097-f4f6c829e8c84fb488b2c3704c9573b9", "input": "[2, 0, 0, 7, 6, 7, 2, 7, 0, 5]", "target": "[6, 5]"}
+{"id": "task097-cf115ed6b2c54b4899a856b3349725bc", "input": "[0, 6, 2, 7, 1, 7, 1]", "target": "[0, 6, 2]"}
+{"id": "task097-52705d6305d14e39976078599de0384a", "input": "[6, 3, 1, 6, 3, 4, 4, 6, 6]", "target": "[1]"}
+{"id": "task097-55dc2557013d418d8ee65fab9600e8f9", "input": "[3, 7, 3, 2, 6, 6, 2, 4]", "target": "[7, 4]"}
+{"id": "task097-934a186c05214adfa4f0227751b8b942", "input": "[4, 7, 7, 1, 0, 4, 5, 5, 0]", "target": "[1]"}
+{"id": "task097-5ef33ba770de4dd5a520c7355bff88ab", "input": "[6, 2, 1, 2, 7, 3, 1, 7, 7, 6]", "target": "[3]"}
+{"id": "task097-2b473dfa3723430c9631e0773302afe4", "input": "[7, 7, 2, 0, 0, 1, 2, 0, 1, 3]", "target": "[3]"}
+{"id": "task097-c5ed4da9462e4644b7187a2bcc49c76d", "input": "[2, 5, 0, 0, 2, 3]", "target": "[5, 3]"}
+{"id": "task097-dfcf224d1edf4f489691705b2ad84586", "input": "[2, 7, 0, 4, 0, 2, 1, 1, 6]", "target": "[7, 4, 6]"}
+{"id": "task097-9441c6156c9f41e49b791ad27f6ae43c", "input": "[2, 4, 3, 2, 4, 2, 1, 6, 1, 2]", "target": "[3, 6]"}
+{"id": "task097-77798b1a088843c4885927d3451e8122", "input": "[7, 4, 7, 5, 5, 3, 1, 4, 7, 1]", "target": "[3]"}
+{"id": "task097-2d661faccf034ba48f1b2587f5ade4ad", "input": "[0, 4, 7, 4, 2, 5, 3, 0, 7]", "target": "[2, 5, 3]"}
+{"id": "task097-ecae19cb37a0425986c775aa65d0413a", "input": "[4, 2, 3, 4, 5, 5, 6, 5, 7, 3]", "target": "[2, 6, 7]"}
+{"id": "task097-ae2d9f1db5804fba8938694c055a3ebb", "input": "[2, 7, 1, 0, 7, 0]", "target": "[2, 1]"}
+{"id": "task097-0ded5d7a381c4ff48a5439a52de5b21c", "input": "[7, 4, 2, 0, 7, 0, 7, 7, 0, 7]", "target": "[4, 2]"}
+{"id": "task097-d8a3949b6ef24532bd9c6c3ea342730f", "input": "[1, 1, 3, 3, 0, 2, 3, 3, 3]", "target": "[0, 2]"}
+{"id": "task097-c4ca46bc03e9428aa74e9d960564daf0", "input": "[1, 3, 3, 1, 3, 7, 3, 5]", "target": "[7, 5]"}
+{"id": "task097-ecc25fcb1cdc4ea6aa72af2ed6f22f0b", "input": "[0, 4, 4, 3, 4, 2, 0, 4, 6, 0]", "target": "[3, 2, 6]"}
+{"id": "task097-cf6fd47bd680479494f89e0ac797a142", "input": "[7, 2, 1, 2, 4, 7, 3, 7, 5]", "target": "[1, 4, 3, 5]"}
+{"id": "task097-c4f5295344dd4158a7cea8d90d7ff1a9", "input": "[6, 0, 2, 0, 2, 7, 7, 7, 7]", "target": "[6]"}
+{"id": "task097-80f2824661f6488bac64dd28c2d8bb34", "input": "[5, 5, 6, 4, 6]", "target": "[4]"}
+{"id": "task097-0c10af0f4c1d42a088857977c1d6c25b", "input": "[3, 6, 7, 4, 7, 4, 1, 1, 5, 0]", "target": "[3, 6, 5, 0]"}
+{"id": "task097-4683092a88a14f22bfc1b788eb5702e5", "input": "[5, 0, 4, 1, 4, 6, 1, 6, 2]", "target": "[5, 0, 2]"}
+{"id": "task097-613568a5e7c34f0691e651b6338b5a9b", "input": "[4, 4, 7, 1, 3, 1, 6, 4, 7, 0]", "target": "[3, 6, 0]"}
+{"id": "task097-fe43ecacba354a7b9cf76518486961bd", "input": "[5, 6, 3, 0, 6, 2, 5]", "target": "[3, 0, 2]"}
+{"id": "task097-dbe4ff6c56c4418788de06bef70e173f", "input": "[3, 5, 2, 2, 5, 2, 0, 7, 2]", "target": "[3, 0, 7]"}
+{"id": "task097-fedefebeb7ae4681a50f27f1d3fa71a4", "input": "[7, 1, 3, 1, 7, 1, 4]", "target": "[3, 4]"}
+{"id": "task097-c7139690409f4df491ce3e08e3ea5ae2", "input": "[1, 3, 3, 2, 2, 1, 0, 4]", "target": "[0, 4]"}
+{"id": "task097-677b70fbf12a4f15a674469bf5e2b701", "input": "[2, 6, 4, 2, 0, 7, 7, 4]", "target": "[6, 0]"}
+{"id": "task097-9e76a25746df4e5f90db1a3f97637664", "input": "[7, 4, 5, 2, 4, 2, 3, 5, 1, 0]", "target": "[7, 3, 1, 0]"}
+{"id": "task097-582b3542d6814a6ebc2d9289d515565f", "input": "[3, 6, 2, 7, 3, 2, 1, 7, 5]", "target": "[6, 1, 5]"}
+{"id": "task097-ce2e595753744710b7acd293bff6881e", "input": "[3, 5, 3, 2, 4, 2, 1, 4, 6]", "target": "[5, 1, 6]"}
+{"id": "task097-6f9c93020a9a4acc8e8229a032701dbd", "input": "[6, 5, 1, 2, 2, 0, 1, 6, 4]", "target": "[5, 0, 4]"}
+{"id": "task097-b548ecd2f7204eb5bdca7df69904d2ed", "input": "[0, 3, 6, 2, 2, 2, 3, 1, 5, 5]", "target": "[0, 6, 1]"}
+{"id": "task097-a8db17dff84641c5a9b3e858a58b9fe0", "input": "[4, 0, 3, 3, 7, 4]", "target": "[0, 7]"}
+{"id": "task097-2cc16d146c2649dbaffa9d0825d16817", "input": "[0, 1, 4, 5, 5, 0, 1, 5, 3, 2]", "target": "[4, 3, 2]"}
+{"id": "task097-627c79862df34f06bf1d25a8cc4ef510", "input": "[0, 2, 0, 7, 5, 5, 1, 7]", "target": "[2, 1]"}
+{"id": "task097-2bdcd1ff560d44639a8919bd81399b44", "input": "[5, 2, 7, 0, 7, 4, 0]", "target": "[5, 2, 4]"}
+{"id": "task097-6a33a08bbc0a4891b4fdbc8a60c4b051", "input": "[0, 5, 3, 7, 5, 0]", "target": "[3, 7]"}
+{"id": "task097-0f16898f93294e54ad32c92947bd2613", "input": "[3, 4, 0, 4, 3, 4, 7]", "target": "[0, 7]"}
+{"id": "task097-e6ae40f776bd4bfe9f55d2bd5547fd3c", "input": "[3, 7, 3, 4, 3, 5, 5, 4, 4, 6]", "target": "[7, 6]"}
+{"id": "task097-c17128f517334084b10e1fd38ee0808d", "input": "[3, 4, 2, 5, 7, 7]", "target": "[3, 4, 2, 5]"}
+{"id": "task097-929fb2407e9443c98fb36c139a65219b", "input": "[7, 1, 6, 3, 5, 5, 1, 0, 4, 6]", "target": "[7, 3, 0, 4]"}
+{"id": "task097-7fc74c02bca5478d99a250c56b619f41", "input": "[5, 7, 5, 2, 1, 7, 1]", "target": "[2]"}
+{"id": "task097-39f89c10f24f496392f0f0f512f1841a", "input": "[2, 2, 3, 1, 4, 4, 4]", "target": "[3, 1]"}
+{"id": "task097-2159fc1704754471883a7df276a08919", "input": "[5, 5, 4, 4, 2, 2, 2, 3, 7]", "target": "[3, 7]"}
+{"id": "task097-ff1241c2dc3e47f4bc8156098cd0f88b", "input": "[0, 3, 1, 7, 1, 0]", "target": "[3, 7]"}
+{"id": "task097-7879d343910e4481803e2198f269d5f3", "input": "[0, 3, 3, 0, 0, 5, 2]", "target": "[5, 2]"}
+{"id": "task097-9f9a8acb4277479cb500503da8c2a5c9", "input": "[6, 0, 5, 0, 4, 1, 6, 2, 2, 6]", "target": "[5, 4, 1]"}
+{"id": "task097-a71f8754306d42da9560836191c260b7", "input": "[2, 0, 5, 4, 5]", "target": "[2, 0, 4]"}
+{"id": "task097-3e88a81e082f424b9df3a09d407498c5", "input": "[5, 7, 0, 3, 4, 1, 0]", "target": "[5, 7, 3, 4, 1]"}
+{"id": "task097-e21325c92b3748e6869928cc6c0d3df2", "input": "[1, 4, 5, 0, 3, 2, 0]", "target": "[1, 4, 5, 3, 2]"}
+{"id": "task097-8db51f2450fb4226bc9727c635358092", "input": "[7, 2, 4, 1, 2, 4, 1, 3, 1]", "target": "[7, 3]"}
+{"id": "task097-d44f249c96574375bfd5ca081d42ae48", "input": "[2, 2, 6, 2, 3, 6, 5, 6, 1, 6]", "target": "[3, 5, 1]"}
+{"id": "task097-c27e1e3de0554dabbdc90c8186f1d2c7", "input": "[3, 1, 4, 1, 6, 7, 7, 4]", "target": "[3, 6]"}
+{"id": "task097-39ab7fb9aa884655942a8638c4b1a339", "input": "[5, 6, 2, 0, 3, 4, 6, 4, 0]", "target": "[5, 2, 3]"}
+{"id": "task097-a2475d6be90d4894b4a4ca7361aba712", "input": "[7, 5, 2, 5, 5, 5, 0, 0, 0, 7]", "target": "[2]"}
+{"id": "task097-9d20797971dd48639200ba3a1d223def", "input": "[3, 5, 7, 3, 6, 0, 1, 1]", "target": "[5, 7, 6, 0]"}
+{"id": "task097-654dfddfb1634935b134954e73e0318a", "input": "[4, 0, 6, 3, 1, 0]", "target": "[4, 6, 3, 1]"}
+{"id": "task097-70277f5c635f4743813afede168a2d66", "input": "[1, 5, 7, 4, 4, 7, 4, 2]", "target": "[1, 5, 2]"}
+{"id": "task097-4238709b923c46dc9b2b703770badbf4", "input": "[3, 0, 2, 4, 5]", "target": "[3, 0, 2, 4, 5]"}
+{"id": "task097-78e6f3e9c73d4911ba539dbef2650416", "input": "[3, 3, 2, 7, 2, 7, 2, 7, 0, 2]", "target": "[0]"}
+{"id": "task097-b0d92a8479e649bf8ce6247b099835b8", "input": "[3, 1, 2, 6, 1, 5, 0, 7, 1]", "target": "[3, 2, 6, 5, 0, 7]"}
+{"id": "task097-f3f0c3bcdc614d08882774ffd62dd2f0", "input": "[2, 5, 7, 6, 2, 1, 2, 3, 2, 3]", "target": "[5, 7, 6, 1]"}
+{"id": "task097-b2dde54f0ce54cc98cfaae3dba5e0f1f", "input": "[4, 0, 6, 6, 7, 5, 4, 1, 2, 0]", "target": "[7, 5, 1, 2]"}
+{"id": "task097-73fc26aea6604b149ae3690c19aa1dca", "input": "[7, 1, 1, 7, 5, 2]", "target": "[5, 2]"}
+{"id": "task097-c98255606b9e4487b44ee1527c680841", "input": "[5, 3, 5, 3, 0, 5]", "target": "[0]"}
+{"id": "task097-f7cbf9a73c6b4c4ebe038d34a2104bbb", "input": "[0, 2, 4, 5, 4, 1, 5, 1, 0, 4]", "target": "[2]"}
+{"id": "task097-b5b8c813c7d14307854375588663b96b", "input": "[3, 7, 1, 3, 1, 6, 6, 2, 5]", "target": "[7, 2, 5]"}
+{"id": "task097-e8e09fc53a3e461f9690f5133835b799", "input": "[4, 0, 5, 2, 1, 0, 0, 6, 4, 4]", "target": "[5, 2, 1, 6]"}
+{"id": "task097-732baf29141b4149859081eef9cf9933", "input": "[0, 2, 7, 2, 1]", "target": "[0, 7, 1]"}
+{"id": "task097-3c20c104dac9431c8ab235d9cd3cf030", "input": "[4, 4, 4, 7, 5, 2, 0, 5]", "target": "[7, 2, 0]"}
+{"id": "task097-d72a4a6e28554a08919c679611e07048", "input": "[0, 0, 3, 3, 4, 3, 7, 1]", "target": "[4, 7, 1]"}
+{"id": "task097-884b831f4e3d44839acf2079b4c140a5", "input": "[1, 0, 2, 4, 6, 4, 6, 7, 3, 4]", "target": "[1, 0, 2, 7, 3]"}
+{"id": "task097-8e9ecc8bbbb645f4af3ffc67d7083e3e", "input": "[3, 7, 6, 7, 7, 4, 0]", "target": "[3, 6, 4, 0]"}
+{"id": "task097-7a4786ca7d474a14944ceb886f0173b1", "input": "[2, 6, 6, 7, 1, 0, 2, 2]", "target": "[7, 1, 0]"}
+{"id": "task097-55315e8052884b529e45080fedc9f6d7", "input": "[3, 4, 2, 4, 0, 0, 6, 0]", "target": "[3, 2, 6]"}
+{"id": "task097-5b0c220d683d41c8863a5cf3f99d5cbd", "input": "[4, 7, 4, 4, 6, 2, 6]", "target": "[7, 2]"}
+{"id": "task097-ad21ad3a437844ec9b93a371aae232ec", "input": "[6, 1, 2, 6, 5, 0, 1, 2]", "target": "[5, 0]"}
+{"id": "task097-c85706ad8a14483c940653b072121a3e", "input": "[7, 2, 0, 6, 6, 3, 7, 3, 5, 5]", "target": "[2, 0]"}
+{"id": "task097-250ac1d24ee44ed58fb915ee2157e503", "input": "[3, 7, 6, 0, 5, 4, 0, 0, 6]", "target": "[3, 7, 5, 4]"}
+{"id": "task097-2b8383e003b74658b6b2195e6c26aaa8", "input": "[4, 7, 4, 1, 1, 7, 0, 6]", "target": "[0, 6]"}
+{"id": "task097-08b0bda1aded4ae29c3ee43fc9ba50db", "input": "[1, 1, 3, 3, 0, 0, 3, 4, 0]", "target": "[4]"}
+{"id": "task097-e4f844ab20f343afa77be7e213803f27", "input": "[6, 5, 7, 5, 2, 6]", "target": "[7, 2]"}
+{"id": "task097-b4eb49ac6fa64361ab733d8714560fa7", "input": "[0, 5, 5, 1, 5, 0, 4]", "target": "[1, 4]"}
+{"id": "task097-9dfc780f80bf49fc838e3d5c19c14831", "input": "[2, 2, 4, 2, 3, 4, 0, 3]", "target": "[0]"}
+{"id": "task097-874f87d26c714987a1d094973a30b384", "input": "[6, 3, 3, 7, 2, 2, 5]", "target": "[6, 7, 5]"}
+{"id": "task097-4bd483eb535a4e5a88850d7fd682f275", "input": "[7, 7, 2, 2, 0, 3, 4]", "target": "[0, 3, 4]"}
+{"id": "task097-a6edc27cfd7047e099366826f2356323", "input": "[4, 7, 7, 3, 2, 5, 4, 5, 0]", "target": "[3, 2, 0]"}
+{"id": "task097-ecfa34501ff34f11a3e43405e6175675", "input": "[4, 5, 2, 0, 4, 3, 2, 5, 2, 4]", "target": "[0, 3]"}
+{"id": "task097-e20dd07629ff47a282d42400b8337db9", "input": "[2, 2, 4, 0, 6, 7, 1, 4]", "target": "[0, 6, 7, 1]"}
+{"id": "task097-e86e129b9ac04606982f0d5ed4563fbb", "input": "[0, 3, 6, 3, 0, 5, 6, 7, 4]", "target": "[5, 7, 4]"}
+{"id": "task097-c62cf852bd644ccda70440161d272737", "input": "[7, 3, 0, 5, 2, 7, 6, 3]", "target": "[0, 5, 2, 6]"}
+{"id": "task097-bb1fde736a3543c69219f541ed7b33c1", "input": "[6, 7, 3, 6, 5, 4, 3, 1]", "target": "[7, 5, 4, 1]"}
+{"id": "task097-8d7f1914a4be481c8eb420fc25c4bcea", "input": "[0, 0, 3, 6, 5, 2, 4, 2]", "target": "[3, 6, 5, 4]"}
+{"id": "task097-76b4cd7074e44ec6875b15f4a0f199db", "input": "[0, 3, 2, 5, 4, 4, 2, 1, 0, 6]", "target": "[3, 5, 1, 6]"}
+{"id": "task097-4ffc9e90b0784117b0e15381c987a4e2", "input": "[4, 7, 3, 7, 0]", "target": "[4, 3, 0]"}
+{"id": "task097-296067d7f7934fb6af52c254c97a1ea5", "input": "[1, 6, 5, 6, 2]", "target": "[1, 5, 2]"}
+{"id": "task097-8e6f90082d8f412ebde00fc6a00a7508", "input": "[3, 4, 2, 7, 0, 2, 4, 3, 3]", "target": "[7, 0]"}
+{"id": "task097-9fa5ff3080ef47fba2e4c84674a60584", "input": "[4, 2, 0, 0, 5, 5, 0, 0, 5]", "target": "[4, 2]"}
+{"id": "task097-187842cd1fbe43279e60b7846367e0ca", "input": "[1, 6, 4, 1, 2]", "target": "[6, 4, 2]"}
+{"id": "task097-2968b4b1b5dc48dbab1ca3d19728add5", "input": "[5, 5, 3, 7, 3, 0, 1]", "target": "[7, 0, 1]"}
+{"id": "task097-d0c8fd8a38ea40c4a6fa38c39d351e0f", "input": "[0, 1, 6, 1, 2]", "target": "[0, 6, 2]"}
+{"id": "task097-ebfab4b5d177453db8c00d23843c16fe", "input": "[3, 2, 7, 6, 2, 3, 1, 2, 2]", "target": "[7, 6, 1]"}
+{"id": "task097-63cd0799d6cf47f6b87501637e042c9b", "input": "[6, 2, 3, 7, 4, 6]", "target": "[2, 3, 7, 4]"}
+{"id": "task097-c3eafd7137104c81a3aee6429dc67235", "input": "[6, 7, 2, 0, 5, 3, 6, 3, 3, 6]", "target": "[7, 2, 0, 5]"}
+{"id": "task097-25c0fcef385346e3b83e69293c81c1eb", "input": "[5, 1, 6, 4, 6, 6, 2, 1, 0, 6]", "target": "[5, 4, 2, 0]"}
+{"id": "task097-994216ea530b4603a6a0349662255c5f", "input": "[6, 3, 1, 1, 7, 6, 7, 4, 0, 5]", "target": "[3, 4, 0, 5]"}
+{"id": "task097-05333c9698e94236bb557d0a8c5e003b", "input": "[4, 3, 6, 6, 7, 4, 2]", "target": "[3, 7, 2]"}
+{"id": "task097-bd7015e17b9c4ffcb3f2f593849dc33d", "input": "[5, 6, 1, 2, 6, 4, 1, 7, 2]", "target": "[5, 4, 7]"}
+{"id": "task097-65bd6c4a6c094b23a2ef650a9fdd937b", "input": "[5, 1, 7, 4, 5, 3, 3, 6, 0, 0]", "target": "[1, 7, 4, 6]"}
+{"id": "task097-1da12a687d294746a3ae452d84e7dbb1", "input": "[7, 4, 2, 7, 3, 4, 2, 2, 5]", "target": "[3, 5]"}
+{"id": "task097-7226f3abd98e438780fa44737d0943f5", "input": "[4, 7, 6, 1, 7, 2, 2]", "target": "[4, 6, 1]"}
+{"id": "task097-3722262acaef4ad1a9a8c0dbeb1de795", "input": "[4, 5, 3, 0, 2, 1, 5, 1, 6, 5]", "target": "[4, 3, 0, 2, 6]"}
+{"id": "task097-971c617b954f4e5ab52e12bb6d6ffbf3", "input": "[6, 5, 6, 3, 0, 5]", "target": "[3, 0]"}
+{"id": "task097-e9373eb6aac6476eb9eea1ce03b44284", "input": "[2, 5, 4, 3, 1, 7, 2, 6]", "target": "[5, 4, 3, 1, 7, 6]"}
+{"id": "task097-36e6499af85a498f88ac02c89c3658a0", "input": "[2, 0, 3, 3, 0]", "target": "[2]"}
+{"id": "task097-67bfdb0ead08477685616477389b82e0", "input": "[0, 5, 1, 4, 0, 5, 3, 6]", "target": "[1, 4, 3, 6]"}
+{"id": "task097-0902fd74ebe540dd99051b5f9aa10c5a", "input": "[0, 3, 1, 2, 2, 4, 7, 4, 2]", "target": "[0, 3, 1, 7]"}
+{"id": "task097-a2c09bbdab004e41a213999a02fe14aa", "input": "[6, 7, 0, 2, 6, 4, 4, 3]", "target": "[7, 0, 2, 3]"}
+{"id": "task097-dc1eefa6dda2442d8f76d0338a344267", "input": "[0, 2, 7, 6, 4, 0]", "target": "[2, 7, 6, 4]"}
+{"id": "task097-d1270d61074a4bdf93e079da271aec5f", "input": "[2, 1, 2, 1, 0, 5, 1, 6, 7]", "target": "[0, 5, 6, 7]"}
+{"id": "task097-5b8ad4c8106645b099a829f0261e8e25", "input": "[5, 6, 7, 1, 0, 7, 2, 2, 0]", "target": "[5, 6, 1]"}
+{"id": "task097-ba9beadf71eb4854a87fb9bc906d24ff", "input": "[3, 7, 0, 0, 5, 3, 0, 5]", "target": "[7]"}
+{"id": "task097-0fa750c551bf4ee59dc2d64e51ad7de2", "input": "[6, 5, 7, 0, 5, 3]", "target": "[6, 7, 0, 3]"}
+{"id": "task097-4459b6c16c454e96b5b6f02b29c5a6c8", "input": "[3, 3, 5, 6, 4, 0]", "target": "[5, 6, 4, 0]"}
+{"id": "task097-c93e133ca4f94e9a90ef4c70e4c48274", "input": "[0, 5, 2, 6, 1]", "target": "[0, 5, 2, 6, 1]"}
+{"id": "task097-d03760fcd6ed4f2cb976e691ec7ed56b", "input": "[3, 3, 6, 3, 0, 0]", "target": "[6]"}
+{"id": "task097-f5b27125f31d41078d7aa8b2a7869db8", "input": "[3, 0, 3, 2, 0]", "target": "[2]"}
+{"id": "task097-e4b897839b74445a8240506132ab31a4", "input": "[6, 0, 7, 7, 0, 7, 7]", "target": "[6]"}
+{"id": "task097-7a7660b59d444642824103c66ed58b47", "input": "[5, 6, 7, 6, 4, 1, 1, 7, 0]", "target": "[5, 4, 0]"}
+{"id": "task097-c71836716ade40398af0aef5e5833960", "input": "[6, 2, 2, 4, 3]", "target": "[6, 4, 3]"}
+{"id": "task097-50e2ed4c8bdb4b189f5b78237cae4f69", "input": "[2, 2, 0, 2, 0, 5, 4, 4, 7]", "target": "[5, 7]"}
+{"id": "task097-77450dd9f17e4cc6922d5ad70131334d", "input": "[6, 2, 4, 3, 4]", "target": "[6, 2, 3]"}
+{"id": "task097-2518435e643e4a95b8d023ae0e88b01b", "input": "[6, 3, 7, 0, 7, 3]", "target": "[6, 0]"}
+{"id": "task097-d4c7ed0afc1f4ea98ed46dfbea95f069", "input": "[0, 3, 0, 2, 2]", "target": "[3]"}
+{"id": "task097-e0a32d3568974c369515c05d043d1942", "input": "[3, 6, 1, 2, 3, 7]", "target": "[6, 1, 2, 7]"}
+{"id": "task097-d8bb90ecbdfe40cb9c3dda10530b1ca7", "input": "[7, 2, 4, 7, 3, 5]", "target": "[2, 4, 3, 5]"}
+{"id": "task097-edbcf47ae33448b5b80ed34c8894d823", "input": "[5, 2, 4, 0, 6]", "target": "[5, 2, 4, 0, 6]"}
+{"id": "task097-b6556cd0761549a7ad5414ff8daa5c62", "input": "[5, 2, 4, 0, 7]", "target": "[5, 2, 4, 0, 7]"}
+{"id": "task097-ccf2cd1bb6c54667a3ae93095e9008ef", "input": "[1, 4, 0, 6, 2]", "target": "[1, 4, 0, 6, 2]"}
+{"id": "task097-1f4fc0ce1f8f45e98593ddbfc1cd5530", "input": "[1, 3, 1, 4, 5]", "target": "[3, 4, 5]"}
+{"id": "task097-d9fbbda944b24b74b5d0c31cc0061b71", "input": "[4, 0, 1, 0, 2]", "target": "[4, 1, 2]"}
+{"id": "task097-3c6f182f740e4f918c0aa79c433efa70", "input": "[4, 4, 0, 3, 6]", "target": "[0, 3, 6]"}
+{"id": "task097-2efc38be214e49eeb9f850cffea890f7", "input": "[0, 4, 7, 7, 5]", "target": "[0, 4, 5]"}
+{"id": "task097-e08e2c0099194096bee2d469fdb0fc49", "input": "[2, 2, 4, 6, 7]", "target": "[4, 6, 7]"}
+{"id": "task097-00aa2042b89546a1896571775fb15f4d", "input": "[5, 3, 1, 6, 1, 3, 7]", "target": "[5, 6, 7]"}
+{"id": "task097-ef2fd1aa2aa24dedacf5d21ea1a2669d", "input": "[1, 0, 1, 2, 7, 1]", "target": "[0, 2, 7]"}
+{"id": "task097-590f40cd923d47afb1ae8ef30fbbc81d", "input": "[0, 1, 4, 5, 2, 7, 7]", "target": "[0, 1, 4, 5, 2]"}
+{"id": "task097-5197e219eec049dbbcf805d2a118573d", "input": "[4, 2, 0, 1, 7, 3]", "target": "[4, 2, 0, 1, 7, 3]"}
+{"id": "task097-201ef2c17a0a4f54920453a3d219e287", "input": "[5, 5, 5, 2, 2, 2, 4, 2]", "target": "[4]"}
+{"id": "task097-cea3fb8380b84e48b510a5e59865a2db", "input": "[6, 6, 5, 7, 6, 5, 2]", "target": "[7, 2]"}
+{"id": "task097-dcbca7f2077f40acb53ed463d3baef51", "input": "[7, 1, 7, 1, 0, 7, 1, 3]", "target": "[0, 3]"}
+{"id": "task097-d32ed850c671482d953fdd11efc637d4", "input": "[6, 6, 6, 0, 7, 6]", "target": "[0, 7]"}
+{"id": "task097-1e51ef418cef4a2cbd6e8080c4ca5462", "input": "[6, 6, 4, 5, 5, 0, 6]", "target": "[4, 0]"}
+{"id": "task097-9897972bff4446c8ad4c8c3a505ae70a", "input": "[6, 7, 6, 0, 3, 7, 6]", "target": "[0, 3]"}
+{"id": "task097-7c62b4bcc3f3473585a45ab44273c197", "input": "[7, 5, 6, 7, 7]", "target": "[5, 6]"}
+{"id": "task097-a7883c3a7428413786699c8a4e060224", "input": "[4, 7, 3, 4, 3, 5, 5]", "target": "[7]"}
+{"id": "task097-144d57ddc4da4802a7f4a57425d3b1f4", "input": "[2, 7, 1, 6, 0]", "target": "[2, 7, 1, 6, 0]"}
+{"id": "task097-0fade59268754b848aa5cc5f8d4b0099", "input": "[6, 1, 2, 6, 6, 3, 3, 0]", "target": "[1, 2, 0]"}
+{"id": "task097-6e9847e097ac4810bc4ccd3d304b1723", "input": "[5, 6, 3, 2, 5, 0, 5, 3, 0, 5]", "target": "[6, 2]"}
+{"id": "task097-02895f3b389241aeb7faa0868d293059", "input": "[6, 0, 3, 2, 0, 2, 2, 5]", "target": "[6, 3, 5]"}
+{"id": "task097-5c75a49b14d547c684c95ff43aa1d0cd", "input": "[1, 5, 3, 6, 5, 5, 5, 5, 0, 1]", "target": "[3, 6, 0]"}
+{"id": "task097-715d4b46f87e4efcaf7a01812ac306f5", "input": "[3, 3, 6, 5, 2]", "target": "[6, 5, 2]"}
+{"id": "task097-ff0aa1edad38435481eab9f1588b11e4", "input": "[1, 1, 2, 6, 3, 5, 6, 3]", "target": "[2, 5]"}
+{"id": "task097-12e0a514cd74410bac76a0db6dc47e5f", "input": "[0, 1, 2, 1, 6, 1, 4]", "target": "[0, 2, 6, 4]"}
+{"id": "task097-367dce4b6bb148a4ba54b8ca058bf979", "input": "[7, 4, 3, 6, 1, 0, 0, 7, 7]", "target": "[4, 3, 6, 1]"}
+{"id": "task097-314518cffd334c5186779a52c66fed5d", "input": "[4, 0, 0, 4, 4, 7, 7, 3, 6]", "target": "[3, 6]"}
+{"id": "task097-11ba3b35b3be4899855d32b62a8b46c8", "input": "[1, 7, 2, 4, 5, 2, 3]", "target": "[1, 7, 4, 5, 3]"}
+{"id": "task097-b8469583fd33469e93d7d253c33d83ac", "input": "[7, 6, 4, 4, 0, 1, 4, 1]", "target": "[7, 6, 0]"}
+{"id": "task097-39dea3d39ca44860864a65232cbdf5b5", "input": "[3, 3, 6, 3, 0, 7, 5, 5, 7, 2]", "target": "[6, 0, 2]"}
+{"id": "task097-515c5ed57bfd453caf71db506ad46147", "input": "[3, 2, 6, 6, 1, 2, 7, 6]", "target": "[3, 1, 7]"}
+{"id": "task097-d18bafd5240e43eb8b638b918b3482b7", "input": "[6, 4, 4, 0, 5, 1, 7, 1, 3, 1]", "target": "[6, 0, 5, 7, 3]"}
+{"id": "task097-e75947d205fb4082950e26fd887af29c", "input": "[3, 4, 6, 2, 4, 7, 4, 5, 0]", "target": "[3, 6, 2, 7, 5, 0]"}
+{"id": "task097-756d618e4d454969904e12cdcb8b1dba", "input": "[7, 5, 4, 7, 2, 3, 1, 1, 0]", "target": "[5, 4, 2, 3, 0]"}
+{"id": "task097-2e3e12b3414a410ea49abd3e6c9de4e3", "input": "[7, 5, 6, 3, 4]", "target": "[7, 5, 6, 3, 4]"}
+{"id": "task097-cc898bbbe3a54a5eba9b167a652ef129", "input": "[7, 5, 6, 3, 4, 0]", "target": "[7, 5, 6, 3, 4, 0]"}
+{"id": "task097-ebb9a4e9247648409338bb4ad875aa81", "input": "[6, 3, 0, 4, 3, 7, 0, 0, 3]", "target": "[6, 4, 7]"}
+{"id": "task097-b16bd2c4d02647698fe8c1b5a80cde9b", "input": "[7, 4, 7, 1, 0, 0, 2]", "target": "[4, 1, 2]"}
+{"id": "task097-607516f15b0a403db4837477affd1c71", "input": "[6, 6, 1, 4, 3, 7, 0, 3, 7, 0]", "target": "[1, 4]"}
+{"id": "task097-82dd239e6e244aeda7cb158554e5a81e", "input": "[7, 1, 3, 0, 0, 5, 5, 1, 6]", "target": "[7, 3, 6]"}
+{"id": "task097-271022c2346144afbf0ce86f0c84d9c4", "input": "[2, 5, 3, 1, 7, 6, 4, 5]", "target": "[2, 3, 1, 7, 6, 4]"}
+{"id": "task097-cdef7a708d2f42b984e87398b527654f", "input": "[1, 6, 2, 0, 3, 7, 5, 3, 6]", "target": "[1, 2, 0, 7, 5]"}
+{"id": "task097-1d45b90529b34143865ecc64cec3f461", "input": "[0, 6, 2, 7, 6, 1, 5, 4, 3, 1]", "target": "[0, 2, 7, 5, 4, 3]"}
+{"id": "task097-05ed3be9a00e484a9cb6911ac18063c2", "input": "[6, 7, 0, 5, 6, 1, 3, 4, 4]", "target": "[7, 0, 5, 1, 3]"}
+{"id": "task097-cdfd11f430ab493c872816f5b5b4414d", "input": "[2, 4, 7, 0, 7, 1, 5, 0, 6, 0]", "target": "[2, 4, 1, 5, 6]"}
+{"id": "task097-74f9d01c394143f6bb24b017342a291e", "input": "[6, 7, 7, 1, 7, 4, 6, 0, 0]", "target": "[1, 4]"}
+{"id": "task097-1458f7955c0842e69659e78d44e2f93e", "input": "[2, 3, 0, 6, 0, 6]", "target": "[2, 3]"}
+{"id": "task097-38542d8657e242139d57150f2877b9ef", "input": "[6, 0, 6, 3, 7, 0, 0, 7, 5, 7]", "target": "[3, 5]"}
+{"id": "task097-d287c815c879461ab93f479a8186f0da", "input": "[2, 5, 1, 3, 7, 7, 1]", "target": "[2, 5, 3]"}
+{"id": "task097-efdbefd44d4545c28cbf35208e0bfc65", "input": "[3, 3, 1, 0, 2, 1, 1]", "target": "[0, 2]"}
+{"id": "task097-8aefec9cff5340dd84d704d3f254baa8", "input": "[7, 0, 2, 7, 3, 7, 1, 7, 3]", "target": "[0, 2, 1]"}
+{"id": "task097-ff764e9f1fd8473c951394f8c9aad4f3", "input": "[5, 5, 7, 0, 3, 2, 2, 3]", "target": "[7, 0]"}
+{"id": "task097-3ddec51a66c3466c849690d47b60eef2", "input": "[5, 5, 5, 4, 3, 4, 6, 2]", "target": "[3, 6, 2]"}
+{"id": "task097-35a1d89b57df4bf09ad5c065b2c1fa88", "input": "[6, 1, 7, 4, 1, 7, 3, 6, 0, 7]", "target": "[4, 3, 0]"}
+{"id": "task097-2c9eec70d5b84cf3a2aaff81566aec7b", "input": "[5, 2, 4, 6, 7, 0, 2, 3, 4, 1]", "target": "[5, 6, 7, 0, 3, 1]"}
+{"id": "task097-efc4e59cebc245e2b52eaf6ec3cd5890", "input": "[0, 6, 6, 7, 7, 1, 6, 7, 1]", "target": "[0]"}
+{"id": "task097-76d6207cb1b04548b5e9f4b68690e081", "input": "[1, 7, 6, 6, 1, 4, 1, 6, 4]", "target": "[7]"}
+{"id": "task097-129e7b74d3ec4155aedc1fcd7b51b90b", "input": "[6, 7, 0, 0, 3, 3, 5]", "target": "[6, 7, 5]"}
+{"id": "task097-8d841a5cfbc84f91ad3fa97dfbcb419c", "input": "[0, 4, 4, 1, 6, 1, 7]", "target": "[0, 6, 7]"}
+{"id": "task097-7fabf446f06e4a5081f4c5bafd82af25", "input": "[1, 1, 4, 7, 0, 4]", "target": "[7, 0]"}
+{"id": "task097-442b161f7c1c4a6dabb18cd99ffeefd7", "input": "[1, 2, 3, 4, 6, 2, 4, 1]", "target": "[3, 6]"}
+{"id": "task097-4ad1ff45bfe14d259613145afa29676b", "input": "[4, 4, 3, 0, 1, 2, 5, 7]", "target": "[3, 0, 1, 2, 5, 7]"}
+{"id": "task097-26088e9e50fb4f8b8c53337adfddf126", "input": "[3, 3, 0, 2, 0, 4, 3]", "target": "[2, 4]"}
+{"id": "task097-307ff8953b0042fe91c7d0286e837e76", "input": "[3, 7, 0, 0, 3, 7, 7, 4]", "target": "[4]"}
+{"id": "task097-a3df7484d4a144a983914a76036e66c6", "input": "[1, 0, 4, 3, 5, 0]", "target": "[1, 4, 3, 5]"}
+{"id": "task097-fa259213bb274fb0adb7c6df7db01ebc", "input": "[7, 7, 6, 1, 7, 1, 6, 3, 2]", "target": "[3, 2]"}
+{"id": "task097-4609f65f3eaa4f74b9ebe4bfcf2a52d6", "input": "[5, 7, 2, 4, 1, 6, 2, 0, 1, 0]", "target": "[5, 7, 4, 6]"}
+{"id": "task097-8f5ceda557a84e99a93787aeccd72d74", "input": "[6, 1, 7, 2, 7, 0, 6]", "target": "[1, 2, 0]"}
+{"id": "task097-67c6d1dfeeb34f788e5c740d4b0022a3", "input": "[6, 7, 3, 2, 7, 0, 2]", "target": "[6, 3, 0]"}
+{"id": "task097-08eae2e53e5743018374802e515c944e", "input": "[3, 7, 2, 5, 6, 7, 6]", "target": "[3, 2, 5]"}
+{"id": "task097-b616c7d49ace445780b774fed9f0b4ab", "input": "[3, 6, 2, 4, 5, 2, 4, 1, 3]", "target": "[6, 5, 1]"}
+{"id": "task097-1e4cd275abd643d0b7144dbd50835105", "input": "[7, 3, 4, 4, 7]", "target": "[3]"}
+{"id": "task097-5841650c022745468cf76ebfb5b79ad5", "input": "[3, 1, 0, 0, 1, 2, 7, 5, 2, 0]", "target": "[3, 7, 5]"}
+{"id": "task097-67174ea791584b36b67ed5cced2f8e75", "input": "[2, 4, 4, 0, 3, 6, 5, 3]", "target": "[2, 0, 6, 5]"}
+{"id": "task097-fcbd40e6d7bb4c9a860df9df3fa27d4b", "input": "[1, 2, 1, 6, 6, 6, 7, 2]", "target": "[7]"}
+{"id": "task097-afb333181e414fd2bf8c1bb254d7ba4a", "input": "[0, 2, 2, 2, 3, 2, 0, 5]", "target": "[3, 5]"}
+{"id": "task097-8b4784bbc66c437b948565cd2ae9c379", "input": "[4, 0, 0, 6, 2, 3, 6]", "target": "[4, 2, 3]"}
+{"id": "task097-f0d86a0b7a3d4debb725adfcf10bf626", "input": "[1, 3, 6, 7, 6]", "target": "[1, 3, 7]"}
+{"id": "task097-bdb8ca647a9b4bfd94e89e736ac81317", "input": "[7, 0, 1, 4, 4]", "target": "[7, 0, 1]"}
+{"id": "task097-27582fd639bc482891c19e61858f3f03", "input": "[3, 1, 0, 6, 3]", "target": "[1, 0, 6]"}
+{"id": "task097-54fd206682db4a08944d3af566abc60f", "input": "[7, 6, 5, 5, 3, 3, 2, 3, 5]", "target": "[7, 6, 2]"}
+{"id": "task097-2992bd93399644dfa9c97e236261367c", "input": "[4, 5, 7, 3, 3, 6, 7, 7, 0]", "target": "[4, 5, 6, 0]"}
+{"id": "task097-9d658df1e83c46d6b1d0d42aec54c100", "input": "[2, 5, 4, 3, 3, 6, 5, 3, 0, 7]", "target": "[2, 4, 6, 0, 7]"}
+{"id": "task097-e41408d4abcc4680adb7f9897162601b", "input": "[6, 5, 1, 2, 4, 5, 3]", "target": "[6, 1, 2, 4, 3]"}
+{"id": "task097-f86098d4b2ee4887a8b58eca5d76bca6", "input": "[1, 0, 5, 3, 0, 7, 6, 4]", "target": "[1, 5, 3, 7, 6, 4]"}
+{"id": "task097-daed205462074e5da5b8d1a947b2a19b", "input": "[0, 7, 5, 5, 6, 2, 4, 1]", "target": "[0, 7, 6, 2, 4, 1]"}
+{"id": "task097-33025b5460b94b92a136e69fef1e6c9a", "input": "[3, 7, 5, 0, 4, 5]", "target": "[3, 7, 0, 4]"}
+{"id": "task097-fbc8a5bd572845708c30a83992653a7d", "input": "[5, 4, 3, 0, 6, 2, 6, 6, 1]", "target": "[5, 4, 3, 0, 2, 1]"}
+{"id": "task097-631eedb5f0a241ecab709b289f3aa306", "input": "[4, 6, 3, 4, 1, 3, 0, 2]", "target": "[6, 1, 0, 2]"}
+{"id": "task097-8149cb8f58bb41aa90f12258040eac66", "input": "[7, 5, 4, 5, 7]", "target": "[4]"}
+{"id": "task097-808031c8119c4ebba2b7f49978287ec8", "input": "[0, 6, 6, 6, 5, 2, 4]", "target": "[0, 5, 2, 4]"}
+{"id": "task097-c8b57cfcec7c414c8fa6902e63709726", "input": "[7, 2, 5, 4, 1]", "target": "[7, 2, 5, 4, 1]"}
+{"id": "task097-2cf2386da5c148e4b215cd15e32775ad", "input": "[2, 0, 6, 7, 1, 7]", "target": "[2, 0, 6, 1]"}
+{"id": "task097-e8f8d1e94f3a49baa904ac91c0325fe6", "input": "[4, 0, 1, 7, 4, 5]", "target": "[0, 1, 7, 5]"}
+{"id": "task097-d736bb92884a4598b6777d220158f8ec", "input": "[7, 1, 0, 6, 4]", "target": "[7, 1, 0, 6, 4]"}
+{"id": "task097-4215763818ce41beb9c174a5810d593f", "input": "[4, 4, 2, 5, 6, 0]", "target": "[2, 5, 6, 0]"}
+{"id": "task097-b34cd4da87b44fee98704e3d2402d848", "input": "[0, 6, 1, 6, 7]", "target": "[0, 1, 7]"}
+{"id": "task097-2f3eef9eaf8842d5876765c6eada7640", "input": "[2, 7, 3, 0, 6, 7, 7, 7]", "target": "[2, 3, 0, 6]"}
+{"id": "task097-521eb8ec18804745ae4f567696def7ee", "input": "[2, 1, 3, 5, 7, 0, 4, 6, 6, 1]", "target": "[2, 3, 5, 7, 0, 4]"}
+{"id": "task097-f814b3798067429eba2c1b16848a4af4", "input": "[7, 2, 0, 1, 5]", "target": "[7, 2, 0, 1, 5]"}
+{"id": "task097-5a17e4d1106b44c3947b19858ee590e5", "input": "[1, 5, 2, 6, 5, 4, 2, 3]", "target": "[1, 6, 4, 3]"}
+{"id": "task097-86fc14c1edd34f70a9900b8d3521a5d5", "input": "[5, 0, 3, 2, 4, 6]", "target": "[5, 0, 3, 2, 4, 6]"}
+{"id": "task097-4d5ba96cb0984c5798cabfec5e7faf97", "input": "[3, 3, 6, 2, 2]", "target": "[6]"}
+{"id": "task097-d1ae56af0ee748efb12eab7cc8061148", "input": "[0, 3, 4, 6, 1, 7]", "target": "[0, 3, 4, 6, 1, 7]"}
+{"id": "task097-0693ed98b4e44cf8978d5e9094490ced", "input": "[4, 2, 3, 0, 4, 1]", "target": "[2, 3, 0, 1]"}
+{"id": "task097-49504adb4b70407385f3625f04b6d339", "input": "[3, 4, 2, 3, 3, 7, 0]", "target": "[4, 2, 7, 0]"}
+{"id": "task097-35c0e0001c884338a9aa591479468483", "input": "[5, 7, 5, 3, 0, 5]", "target": "[7, 3, 0]"}
+{"id": "task097-8d7f8cf516754418afd4763556d163bd", "input": "[3, 3, 3, 2, 0, 0, 0, 3]", "target": "[2]"}
+{"id": "task097-8f6c3538166141488b821d12e51728af", "input": "[3, 4, 7, 2, 6]", "target": "[3, 4, 7, 2, 6]"}
+{"id": "task097-639a5251f4124fbaba0aa25f4b531942", "input": "[3, 6, 1, 7, 2]", "target": "[3, 6, 1, 7, 2]"}
+{"id": "task097-c2b8b16b53a641edb8c8e5a5a5002bc1", "input": "[6, 5, 5, 1, 5, 3, 2]", "target": "[6, 1, 3, 2]"}
+{"id": "task097-bfdd5db9a86b4cd8befcb909c489d49c", "input": "[0, 4, 2, 0, 6, 2]", "target": "[4, 6]"}
+{"id": "task097-8adf32bd473f4515915f1329875c9831", "input": "[7, 3, 6, 1, 2]", "target": "[7, 3, 6, 1, 2]"}
+{"id": "task097-dba4ff1a92c54a099622ca70ba49c23a", "input": "[4, 3, 6, 2, 1, 0]", "target": "[4, 3, 6, 2, 1, 0]"}
+{"id": "task097-816bf0cd62d8404e949cf2e7af922353", "input": "[5, 0, 1, 7, 3, 2]", "target": "[5, 0, 1, 7, 3, 2]"}
+{"id": "task097-da454e852ee3474db05f7c9318a4a0f9", "input": "[2, 6, 2, 7, 3, 2, 2]", "target": "[6, 7, 3]"}
+{"id": "task097-b54286915baa42b694f8de490a9caef0", "input": "[1, 5, 1, 5, 1, 4]", "target": "[4]"}
+{"id": "task097-f44fa037156349a5997ebc4657cc928e", "input": "[6, 0, 4, 0, 6]", "target": "[4]"}
+{"id": "task097-5fcb31e6ce0d465098fa76bc678238b9", "input": "[3, 3, 3, 5, 6, 6, 0]", "target": "[5, 0]"}
+{"id": "task097-2562159caeda4a1f9542baca060d7e1f", "input": "[4, 2, 4, 3, 4]", "target": "[2, 3]"}
+{"id": "task097-2a4a44b1c60f4f11a121b7ed520adda7", "input": "[1, 5, 2, 5, 5]", "target": "[1, 2]"}
+{"id": "task097-b30e26cad3214a78a060c26d0c2d2242", "input": "[5, 6, 0, 2, 5, 6]", "target": "[0, 2]"}
+{"id": "task097-53c6ff16318b48bb9eb0fc44448d738b", "input": "[1, 7, 1, 0, 1]", "target": "[7, 0]"}
+{"id": "task097-a3741d18b0ea473d9aebf7706996ec1d", "input": "[7, 3, 4, 4, 4]", "target": "[7, 3]"}
+{"id": "task097-81e61e302e404aab87b1ce1116cbb1a5", "input": "[5, 0, 2, 0, 2]", "target": "[5]"}
+{"id": "task097-1ddf667ae67a454794d094a21ad8b427", "input": "[4, 1, 7, 4, 2]", "target": "[1, 7, 2]"}
+{"id": "task097-f2b873bbdefe473fae3eaf2616e877f0", "input": "[7, 3, 6, 4, 3]", "target": "[7, 6, 4]"}
+{"id": "task097-fde9189ff71749a18acc2a777c2f3dc0", "input": "[0, 7, 7, 2, 3]", "target": "[0, 2, 3]"}
+{"id": "task097-d17f9d2cdbed4d4eb3ff91f50affc3c6", "input": "[1, 0, 6, 1, 5]", "target": "[0, 6, 5]"}
+{"id": "task097-8cb08294181549c19a87ae8bbc25a3ed", "input": "[0, 3, 7, 6, 3]", "target": "[0, 7, 6]"}
+{"id": "task097-511390fab15b436fad0357d30dbb3197", "input": "[0, 0, 4, 5, 1]", "target": "[4, 5, 1]"}
+{"id": "task097-ce95f60944c146c8a06cea63299f719e", "input": "[2, 7, 7, 3, 1]", "target": "[2, 3, 1]"}
+{"id": "task097-4157f80aeefd4ca6b8bb043bb75c2e89", "input": "[1, 5, 2, 0, 1]", "target": "[5, 2, 0]"}
+{"id": "task097-e444e39626304acba35a6fcfdae3a401", "input": "[4, 4, 3, 4, 1, 5]", "target": "[3, 1, 5]"}
+{"id": "task097-283b2db1f7d84c179afe8c82276046f1", "input": "[0, 3, 2, 6, 0]", "target": "[3, 2, 6]"}
+{"id": "task097-2b18c3df52dc4d4a8a805d1d54328505", "input": "[5, 4, 0, 7, 0]", "target": "[5, 4, 7]"}
+{"id": "task097-2fdeebd68c4344729a3eac824af48ef7", "input": "[3, 6, 5, 5, 4, 1]", "target": "[3, 6, 4, 1]"}
+{"id": "task097-78f8c626671d42bf9f74157c02346291", "input": "[0, 6, 1, 5, 0, 7]", "target": "[6, 1, 5, 7]"}
+{"id": "task097-08398ab8807d47cf960e3e07cfe267df", "input": "[2, 6, 0, 5, 1, 5, 4]", "target": "[2, 6, 0, 1, 4]"}
+{"id": "task097-88b920c5d9c24d8aba26e453f958f9d3", "input": "[2, 3, 1, 7, 5]", "target": "[2, 3, 1, 7, 5]"}
+{"id": "task097-e5fda309555a4c528c651d449c3b3208", "input": "[1, 2, 6, 5, 0]", "target": "[1, 2, 6, 5, 0]"}
+{"id": "task097-e8fd52db07e24eeb8ba56d1494a2f548", "input": "[4, 7, 7, 1, 6, 3, 5]", "target": "[4, 1, 6, 3, 5]"}
+{"id": "task097-1a6fc1447000464fb3a82584dcb167ba", "input": "[5, 6, 4, 0, 2, 7, 6, 1]", "target": "[5, 4, 0, 2, 7, 1]"}
+{"id": "task097-614e36e44195409c9f90120f5aa4af72", "input": "[3, 2, 3, 4, 7]", "target": "[2, 4, 7]"}
+{"id": "task097-80a6222944734ed5add2654ee214884d", "input": "[1, 6, 4, 4, 3]", "target": "[1, 6, 3]"}
+{"id": "task097-1e4642d40f224f5da100f5537cdb7d32", "input": "[0, 2, 1, 0, 7]", "target": "[2, 1, 7]"}
+{"id": "task097-eb220ee6e8a84b939f2e96d905324aa6", "input": "[4, 1, 5, 1, 2]", "target": "[4, 5, 2]"}
+{"id": "task097-6a08a5e2746d4e3a9c8221d0b8beafbc", "input": "[0, 1, 2, 5, 4, 4, 0, 5]", "target": "[1, 2]"}
+{"id": "task097-0cfd5c0d4c064c1299e282609831162e", "input": "[6, 0, 2, 4, 3, 3]", "target": "[6, 0, 2, 4]"}
+{"id": "task097-086202fc66c54d7a8b64abc75c807abc", "input": "[5, 7, 2, 4, 2, 2, 6]", "target": "[5, 7, 4, 6]"}
+{"id": "task097-ebd5ff2543d64c1db9f98552f15e35d8", "input": "[3, 3, 5, 1, 5, 5]", "target": "[1]"}
+{"id": "task097-72565cbc500245a6b7bfe1a99b44c34d", "input": "[1, 7, 4, 7, 4, 4, 5, 7]", "target": "[1, 5]"}
+{"id": "task097-d466605ae22d49da96a19e7d4877c3d9", "input": "[2, 4, 2, 5, 2]", "target": "[4, 5]"}
+{"id": "task097-5427006c2848414bb9973aa71def2546", "input": "[4, 6, 5, 1, 7, 0, 6, 6]", "target": "[4, 5, 1, 7, 0]"}
+{"id": "task097-5f611258aa0e4095af7a403c2f03fa0a", "input": "[3, 3, 1, 1, 3, 3, 4, 3, 1, 6]", "target": "[4, 6]"}
+{"id": "task097-17ee87f022c14434909e9828b48e265b", "input": "[3, 6, 5, 1, 1, 3, 7, 5]", "target": "[6, 7]"}
+{"id": "task097-099d253926cf4e4bb8fa3ef3f2fbbb96", "input": "[6, 7, 3, 3, 2, 3, 3, 4, 4]", "target": "[6, 7, 2]"}
+{"id": "task097-159c1f0717084ae4b18946a449e73687", "input": "[4, 6, 2, 3, 7, 3, 4, 5]", "target": "[6, 2, 7, 5]"}
+{"id": "task097-d52675b9749e4668af808cfe7e48bc8b", "input": "[2, 1, 0, 6, 2, 2, 5]", "target": "[1, 0, 6, 5]"}
+{"id": "task097-840f5b4985384621a49c0faae859bb3d", "input": "[1, 1, 4, 1, 5, 6, 4]", "target": "[5, 6]"}
+{"id": "task097-8b2ad133d76043b5bcc0fb35d0535f44", "input": "[0, 2, 3, 4, 0, 4, 6, 4, 3, 0]", "target": "[2, 6]"}
+{"id": "task097-4f69d91e619f4be7975845eb5bb3e4cf", "input": "[0, 3, 1, 6, 3, 4, 4, 5, 7, 6]", "target": "[0, 1, 5, 7]"}
+{"id": "task097-4ca67388e88c4157bca34b4b4daa37cd", "input": "[5, 5, 1, 4, 7, 2, 7, 2]", "target": "[1, 4]"}
+{"id": "task097-4921a1e0cc264a7db31f6472f7f0f67a", "input": "[3, 2, 1, 4, 3, 3, 1, 5, 7, 2]", "target": "[4, 5, 7]"}
+{"id": "task097-f8c6940880a94e07bfc25f34d21c4a38", "input": "[6, 3, 1, 4, 1, 2, 3, 1, 5, 4]", "target": "[6, 2, 5]"}
+{"id": "task097-c08c7294498f4ee585889b0cadea232a", "input": "[7, 4, 1, 5, 5]", "target": "[7, 4, 1]"}
+{"id": "task097-7348a4f55acd45ec8e197acd67a1ab6d", "input": "[6, 6, 6, 6, 5, 0, 6, 3, 1, 6]", "target": "[5, 0, 3, 1]"}
+{"id": "task097-ea92f95794ce46ce819d8d9ed5792876", "input": "[1, 1, 3, 5, 7, 2, 2, 1, 6]", "target": "[3, 5, 7, 6]"}
+{"id": "task097-8e011c7d92a04d159f70ad57f607e7fd", "input": "[5, 4, 5, 2, 4, 5, 6, 7, 0, 4]", "target": "[2, 6, 7, 0]"}
+{"id": "task097-1d2a805082a94b2ba53d44077eacc3d3", "input": "[5, 1, 4, 6, 0, 4, 3, 5]", "target": "[1, 6, 0, 3]"}
+{"id": "task097-8acc03d5d1184e4fb14da7588c9ed026", "input": "[1, 3, 4, 6, 1, 2, 2, 0, 0]", "target": "[3, 4, 6]"}
+{"id": "task097-e61e4dae0bcf4586b2824e0ebf6dc36a", "input": "[6, 7, 7, 2, 2, 2]", "target": "[6]"}
+{"id": "task097-1a376aebe97947c0bf74b68026969533", "input": "[2, 7, 2, 0, 1, 7, 4, 7, 0]", "target": "[1, 4]"}
+{"id": "task097-422ae391d96b426fad73574040b4448f", "input": "[7, 4, 1, 0, 6, 4, 3, 6, 0, 4]", "target": "[7, 1, 3]"}
+{"id": "task097-a7ae482df28b4738b3a27e927e893f51", "input": "[3, 6, 3, 7, 0, 0, 1]", "target": "[6, 7, 1]"}
+{"id": "task097-869b3b84d96d46cc83f972d44df8bc9b", "input": "[4, 4, 3, 2, 6, 0, 5, 7, 4, 6]", "target": "[3, 2, 0, 5, 7]"}
+{"id": "task097-5afe50f86c6d418c8692979b3aad84fe", "input": "[0, 6, 4, 5, 6, 0, 7, 2, 2, 3]", "target": "[4, 5, 7, 3]"}
+{"id": "task097-819b88981ca4427284f9146f9c2d8fbe", "input": "[7, 4, 4, 6, 0, 2, 1, 5, 7, 0]", "target": "[6, 2, 1, 5]"}
+{"id": "task097-9960d09dcc1b4ac790846c44ab86181e", "input": "[6, 3, 2, 5, 3, 7, 0, 0, 0]", "target": "[6, 2, 5, 7]"}
+{"id": "task097-5dde3987541545a3b9c7e28c3c26167e", "input": "[1, 7, 3, 7, 1, 0, 1]", "target": "[3, 0]"}
+{"id": "task097-c9dca3b914c74b4aa6ff140e0d7d5c3b", "input": "[2, 1, 1, 6, 1, 2, 7, 5]", "target": "[6, 7, 5]"}
+{"id": "task097-fd4a46b3c40343ccb379feb00cadc1a3", "input": "[0, 7, 0, 3, 6, 4, 2]", "target": "[7, 3, 6, 4, 2]"}
+{"id": "task097-61018e4cd969478fa28e6e606b32e7e7", "input": "[2, 3, 4, 1, 0, 3, 5]", "target": "[2, 4, 1, 0, 5]"}
+{"id": "task097-c02b65f09f7145f3a1c1fb4250ac13b9", "input": "[2, 5, 2, 7, 0, 0, 6, 5, 4, 5]", "target": "[7, 6, 4]"}
+{"id": "task097-9e5b75d392ba4af096678441c7adea2d", "input": "[2, 0, 5, 1, 1]", "target": "[2, 0, 5]"}
+{"id": "task097-56bdbb888f504960abe12b6a2f303f65", "input": "[1, 0, 7, 7, 1]", "target": "[0]"}
+{"id": "task097-65d5566af3564fa7b5b238a44d8dc586", "input": "[5, 6, 0, 3, 2, 0, 6, 0, 5, 7]", "target": "[3, 2, 7]"}
+{"id": "task097-7b40a04ae5c549aea32ff404ded69c93", "input": "[3, 4, 4, 0, 2, 4, 3]", "target": "[0, 2]"}
+{"id": "task097-7619a213cd224200939c3deebeb9b9ae", "input": "[2, 7, 0, 6, 6, 4, 4, 5, 4]", "target": "[2, 7, 0, 5]"}
+{"id": "task097-5a2f9d43f68a44539011468a77da4700", "input": "[4, 1, 5, 1, 5, 0]", "target": "[4, 0]"}
+{"id": "task097-7134a7af38ab4f698721290a71a4e9ac", "input": "[2, 3, 2, 5, 6, 5]", "target": "[3, 6]"}
+{"id": "task097-70a25c26c5f1420b92038025e119956c", "input": "[5, 7, 5, 2, 4, 5, 0]", "target": "[7, 2, 4, 0]"}
+{"id": "task097-a9e74eb8c5c3422c9b0c4c3d30a1979c", "input": "[2, 3, 1, 1, 4, 6, 7, 2, 5]", "target": "[3, 4, 6, 7, 5]"}
+{"id": "task097-aa178aac67d249649478fa356acc8f51", "input": "[7, 6, 3, 2, 4, 0, 4]", "target": "[7, 6, 3, 2, 0]"}
+{"id": "task097-f10757d4cdea4b959a2f080d4a689683", "input": "[2, 0, 0, 4, 0, 7, 0, 1, 6, 7]", "target": "[2, 4, 1, 6]"}
+{"id": "task097-9636d18518ef44768d38d2f2e6e51c78", "input": "[2, 5, 4, 0, 0, 6, 3]", "target": "[2, 5, 4, 6, 3]"}
+{"id": "task097-0793f1cbd7e54e26a961d39dba46f721", "input": "[4, 5, 1, 6, 4, 3, 2, 5, 4]", "target": "[1, 6, 3, 2]"}
+{"id": "task097-fcad4647129345d9bd09b5a0bca036ce", "input": "[5, 5, 3, 5, 7, 7, 5, 2, 0]", "target": "[3, 2, 0]"}
+{"id": "task097-fa261ea93bc24e0da5a26fd0dadb23fb", "input": "[7, 6, 4, 1, 0, 3, 0]", "target": "[7, 6, 4, 1, 3]"}
+{"id": "task097-eb3bf6268e4a4cc298a8f38d0fd21478", "input": "[1, 3, 6, 5, 2, 4, 1, 0]", "target": "[3, 6, 5, 2, 4, 0]"}
+{"id": "task097-30d6b3dcfedd47df870a7061639aa406", "input": "[3, 6, 5, 6, 1, 6, 7, 4]", "target": "[3, 5, 1, 7, 4]"}
+{"id": "task097-bc9a79cd1f174946aff0006a02b71d2c", "input": "[6, 5, 1, 1, 0, 0, 1, 7, 7, 1]", "target": "[6, 5]"}
+{"id": "task097-e76c6fd7f4b44a06876aac2067d7dd32", "input": "[6, 0, 7, 3, 1]", "target": "[6, 0, 7, 3, 1]"}
+{"id": "task097-94b1e9876af44c06920b64bbd8ace64a", "input": "[7, 7, 3, 0, 7, 4, 7, 7, 2, 2]", "target": "[3, 0, 4]"}
+{"id": "task097-3f08530cd6b34e619e296d760370b047", "input": "[4, 5, 5, 4, 2]", "target": "[2]"}
+{"id": "task097-779b8ac2ef474f5a95e79303cd97fc77", "input": "[7, 5, 2, 2, 1, 7, 1, 6]", "target": "[5, 6]"}
+{"id": "task097-4597dcf8326143268a67df7e37570704", "input": "[5, 5, 0, 3, 6, 1]", "target": "[0, 3, 6, 1]"}
+{"id": "task097-960262178f944b8daca04dd7ea3a2bb9", "input": "[6, 4, 0, 7, 7, 2, 7]", "target": "[6, 4, 0, 2]"}
+{"id": "task097-ec5406070f0a42e4b7a961498c5460d0", "input": "[3, 4, 0, 3, 6, 6, 7, 7]", "target": "[4, 0]"}
+{"id": "task097-2665e9a268154e53a8ad2a02d6b3efa0", "input": "[6, 0, 5, 5, 4]", "target": "[6, 0, 4]"}
+{"id": "task097-43ab91f0411049d89fd5e15ffafe62ca", "input": "[7, 4, 4, 2, 3, 1, 4, 7]", "target": "[2, 3, 1]"}
+{"id": "task097-617adaea7ad74000bc6695b1dee891de", "input": "[4, 1, 2, 2, 0, 5, 7, 3, 6, 7]", "target": "[4, 1, 0, 5, 3, 6]"}
+{"id": "task097-246718426557422a95bb24666388383e", "input": "[4, 0, 4, 1, 4, 0, 0]", "target": "[1]"}
+{"id": "task097-f6d44d0f4cb9440cbf58f3a1ced45473", "input": "[1, 0, 6, 2, 4, 7, 4]", "target": "[1, 0, 6, 2, 7]"}
+{"id": "task097-73a4d2846a6440d3bafafefd969ae37a", "input": "[0, 7, 3, 3, 7, 3]", "target": "[0]"}
+{"id": "task097-d2df61fcb1a94f06ae5a86dfc42f2ed6", "input": "[5, 4, 7, 3, 2]", "target": "[5, 4, 7, 3, 2]"}
+{"id": "task097-00c45c3295b04b65aa28decfb53f71bc", "input": "[6, 7, 4, 7, 3, 6, 1]", "target": "[4, 3, 1]"}
+{"id": "task097-1a1fa344d58142e6aa07ebbe34b807e3", "input": "[5, 0, 7, 2, 4, 5, 6, 3, 1, 7]", "target": "[0, 2, 4, 6, 3, 1]"}
+{"id": "task097-397528b680f3444490b1a9f57c212a8e", "input": "[7, 1, 0, 7, 7, 2, 7, 4]", "target": "[1, 0, 2, 4]"}
+{"id": "task097-92ce569fea28498a8c537a7343b130a2", "input": "[0, 3, 2, 3, 6]", "target": "[0, 2, 6]"}
+{"id": "task097-4330c66000824529a0a36a447fc070a6", "input": "[3, 5, 4, 4, 4]", "target": "[3, 5]"}
+{"id": "task097-ae52bc6e9d4c48028dc15ca47845da48", "input": "[7, 1, 5, 2, 0, 0, 5, 5, 3, 6]", "target": "[7, 1, 2, 3, 6]"}
+{"id": "task097-7aea42a7205e402cbc78a4c47c23c82c", "input": "[4, 3, 7, 3, 0, 3, 6]", "target": "[4, 7, 0, 6]"}
+{"id": "task097-090f09a0e2a0483bbcbc9ebf44609852", "input": "[5, 5, 6, 4, 5, 3, 5, 7, 5]", "target": "[6, 4, 3, 7]"}
+{"id": "task097-f184b6449e824e29becd25e7f89b8e2b", "input": "[1, 3, 2, 4, 7]", "target": "[1, 3, 2, 4, 7]"}
+{"id": "task097-1902434ba7044928b6fc561b197adf60", "input": "[0, 2, 6, 3, 2, 5, 0, 5, 4]", "target": "[6, 3, 4]"}
+{"id": "task097-5ec2aa5b55934404bef9eb66c3e93513", "input": "[7, 1, 1, 4, 0, 1, 0, 3, 1, 2]", "target": "[7, 4, 3, 2]"}
+{"id": "task097-7dd0ccde30ad4d82afda8259ad06aa35", "input": "[7, 6, 0, 3, 1, 7, 5, 4]", "target": "[6, 0, 3, 1, 5, 4]"}
+{"id": "task097-517153bed87b441ea416db6d158cd552", "input": "[7, 0, 4, 6, 2, 3, 6, 1, 5, 7]", "target": "[0, 4, 2, 3, 1, 5]"}
+{"id": "task097-6a915ae6ae8a4e4f8f10e121ddeaaab2", "input": "[2, 5, 5, 6, 6, 1]", "target": "[2, 1]"}
+{"id": "task097-7022a34096a443df84532f3ed4238b2a", "input": "[3, 7, 2, 5, 4]", "target": "[3, 7, 2, 5, 4]"}
+{"id": "task097-d8193cfac2a044d0b34138029f3e1849", "input": "[7, 6, 4, 0, 4, 4, 3]", "target": "[7, 6, 0, 3]"}
+{"id": "task097-083edfcd234c4dd7b165e865ccf2c57f", "input": "[3, 5, 4, 1, 2, 4]", "target": "[3, 5, 1, 2]"}
+{"id": "task097-426ecd38c2c44168a9c2a93a5f376951", "input": "[0, 3, 1, 1, 0, 5, 6]", "target": "[3, 5, 6]"}
+{"id": "task097-c77ee90043e746018e46315c37f099b7", "input": "[6, 0, 5, 5, 7, 6, 4, 5, 1, 4]", "target": "[0, 7, 1]"}
+{"id": "task097-a5548b98fc4e41af9fb0c7add27b209c", "input": "[7, 7, 7, 4, 2]", "target": "[4, 2]"}
+{"id": "task097-c4c8f7e0741f48f78c735fa1e1f406df", "input": "[7, 0, 6, 6, 7, 1, 6, 4, 2, 7]", "target": "[0, 1, 4, 2]"}
+{"id": "task097-ae31f0f84d30438f8ac02a187d736409", "input": "[2, 6, 4, 4, 4, 7, 2, 7]", "target": "[6]"}

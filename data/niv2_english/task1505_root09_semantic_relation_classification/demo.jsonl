@@ -1,0 +1,3 @@
+{"id": "task1505-a15f55d14b3b4949a368f77382daccae", "input": "X: spear, Y: receipt", "target": "RANDOM"}
+{"id": "task1505-7a104d31baf842738e2eedebc10167d6", "input": "X: rat, Y: tiger", "target": "COORD"}
+{"id": "task1505-27fe83ca459f45368c93b0c80b026971", "input": "X: desk, Y: furniture", "target": "HYPER"}

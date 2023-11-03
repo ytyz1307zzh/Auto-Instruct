@@ -1,0 +1,3 @@
+{"id": "task114-d40549c916c6469ebfd573054deea490", "input": "Sentence: 'woman talking on cell phone next to wall with graffiti'. Is 'with' the longest word in the sentence?", "target": "No"}
+{"id": "task114-447caad820a74a0fbfb169f4e9758f4d", "input": "Sentence: 'two women sitting at a table looking at another person with a shocked look'. Is 'sitting' the longest word in the sentence?", "target": "Yes"}
+{"id": "task114-02d48e4232b540a29594f4fdaf1d0e9e", "input": "Sentence: 'a birthday cake for a 6 year old with a picture of a plane on the cake'. Is 'with' the longest word in the sentence?", "target": "No"}

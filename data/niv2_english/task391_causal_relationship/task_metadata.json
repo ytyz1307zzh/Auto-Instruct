@@ -1,0 +1,7 @@
+{
+    "summary": "Given two sentences, decide whether the second sentence can be the result of the first one.",
+    "category": "Cause Effect Classification",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

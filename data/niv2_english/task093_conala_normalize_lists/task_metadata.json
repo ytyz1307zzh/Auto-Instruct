@@ -1,0 +1,7 @@
+{
+    "summary": "Given a list of numbers, normalize the list such that the result adds to 1.",
+    "category": "Program Execution",
+    "domain": "Code -> Repo -> Stack Overflow",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,3 @@
+{"id": "task924-14686438cddf469abcb340d6fd92bb09", "input": "Event:PersonX plays monopoly. Intent: 1) to harass persony. XEmotion: 1) vindictive", "target": "closer as a family"}
+{"id": "task924-52c01b09426f420c92613080bfe48807", "input": "Event:PersonX discusses in PersonY chapter. Intent: 1) to buy something nice or pay off bills. XEmotion: 1) happy 2) fulfilled", "target": "informed"}
+{"id": "task924-396cea967c334587ac133bf12cdaabd1", "input": "Event:It times to perform. Intent: 1) to share a story. XEmotion: 1) ok", "target": "excited"}

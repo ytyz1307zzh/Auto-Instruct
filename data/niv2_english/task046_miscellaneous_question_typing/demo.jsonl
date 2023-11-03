@@ -1,0 +1,3 @@
+{"id": "task046-963264cb3a4f41c9b039c7ec4b9a8887", "input": "Question: How many weeks did To Kill a Mockingbird remain on the bestsellers list when it won the Pulitzer Prize? (Answer: 41).", "target": "Quantity."}
+{"id": "task046-62982f30c6f44953b0a5277f123c19a0", "input": "Question: What songs did Kanye dedicate to his late mother as his performance at The O2 in London? (Answer: \"Hey Mama\", as well as a cover of Journey's \"Don't Stop Believin'\").", "target": "Event."}
+{"id": "task046-af26dac93ee74f549eef61489306551f", "input": "Question: Which character helps Link get Ganondorf off of his horse? (Answer: Zelda).", "target": "Humans."}

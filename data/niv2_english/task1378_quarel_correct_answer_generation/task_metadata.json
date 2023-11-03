@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence and a question, write the correct answer based on the sentence.",
+    "category": "Question Answering",
+    "domain": "Story, Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

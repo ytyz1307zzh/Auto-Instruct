@@ -1,0 +1,1 @@
+Given a text containing an ambiguous pronoun and a pronoun, write the name that the pronoun refers to

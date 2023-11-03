@@ -1,0 +1,3 @@
+{"id": "task1613-c72417e07e2d411790b6f9fb2c1c302b", "input": "sentence_A: Children are playing in a fountain that is spraying water from the ground. category: entailment", "target": "Children are playing in ground fountains"}
+{"id": "task1613-d2e2e6c084d64e6094a3d918a442ab52", "input": "sentence_A: There is no man eating some food. category: contradiction", "target": "A man is eating some food"}
+{"id": "task1613-dda43d0492ba4f0a909085fa2026e8b2", "input": "sentence_A: Two men are fighting in a cow pasture. category: contradiction", "target": "Nobody is fighting in a cow pasture"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given an adjective, generate its antonym",
+    "category": "Word Semantics",
+    "domain": "Global Facts",
+    "input_lang": "English",
+    "output_lang": "English"
+}

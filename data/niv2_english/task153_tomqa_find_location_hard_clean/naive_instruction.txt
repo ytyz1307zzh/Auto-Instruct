@@ -1,0 +1,1 @@
+Given a hard story, answer the question regarding the location of an object.

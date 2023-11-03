@@ -1,0 +1,7 @@
+{
+    "summary": "Classification based on yahoo_answers_topics",
+    "category": "Text Categorization",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

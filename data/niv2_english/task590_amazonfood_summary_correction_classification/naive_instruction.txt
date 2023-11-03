@@ -1,0 +1,1 @@
+Given a review of amazon's food product and its summary, you have to classify whether the summary is correct or not.

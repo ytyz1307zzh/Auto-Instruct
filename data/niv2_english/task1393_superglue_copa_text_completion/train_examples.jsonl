@@ -1,0 +1,71 @@
+{"id": "task1393-89c6b07f51e74932a23f1b58b8776331", "input": "The cup of tea was scalding hot. (A) I blew on it. (B) I poured it out., Question: effect", "target": "A"}
+{"id": "task1393-5801f4a9e5c74506acf3355d487af7ed", "input": "The man needed coins to fill the parking meter. (A) He searched under his car seats for loose change. (B) He begged people on the street for loose change., Question: effect", "target": "A"}
+{"id": "task1393-1a874b0e435d48f4b3eda4c5bbfb18f3", "input": "The skydiver glided safely to the ground. (A) She opened her parachute. (B) She jumped out of the plane., Question: cause", "target": "A"}
+{"id": "task1393-7a38b45afc514db0b959d67da9aa3ebb", "input": "I burst into a fit of laughter. (A) My teeth began to chatter. (B) My eyes welled up with tears., Question: effect", "target": "B"}
+{"id": "task1393-a1a26a19729840fb8da0ff5b32d7fa0a", "input": "The button on my shirt fell off. (A) I sewed the button back on. (B) I glued the button back on., Question: effect", "target": "A"}
+{"id": "task1393-4e31b434285d4cd59938a0cb832f1302", "input": "My flight got delayed. (A) Tornadoes were sighted in the area. (B) I was held up at airport security., Question: cause", "target": "A"}
+{"id": "task1393-923f4ae6d02945c28144627b13c53165", "input": "I put my hands under the running faucet. (A) The soap rinsed off my hands. (B) The water splashed in my face., Question: effect", "target": "A"}
+{"id": "task1393-723a238d34b649f994e6ff4226d6dea8", "input": "The man took a shower. (A) He was sweaty from working out. (B) He opened a new bar of soap., Question: cause", "target": "A"}
+{"id": "task1393-25d8156938bb49f58d0132994042dc34", "input": "The father shut off the children's television. (A) It was bedtime for the children. (B) The children were watching cartoons., Question: cause", "target": "A"}
+{"id": "task1393-d2c28970af934864867e3345272e1c9e", "input": "The hunter ran out of ammunition. (A) He reloaded the gun. (B) He aimed at the deer., Question: effect", "target": "A"}
+{"id": "task1393-a47cb4c05b024b729bb53e9d7ac72e8c", "input": "The police officer pulled over the celebrity. (A) The celebrity offered the officer a bribe. (B) The celebrity sued the police officer., Question: effect", "target": "A"}
+{"id": "task1393-b2ffbb44dc6847c8b36479f204ecfa92", "input": "The boy was afraid to go to bed. (A) He turned on his nightlight. (B) He watched a horror movie., Question: cause", "target": "B"}
+{"id": "task1393-fc1d9c332d624f6ab07c2606c1ed1f4f", "input": "The driver honked her horn. (A) Another car swerved into her lane. (B) She made a right turn at the light., Question: cause", "target": "A"}
+{"id": "task1393-55cdfb4fc94e4c5faf875d4488df8749", "input": "The man took notice of the woman. (A) He caught a whiff of her perfume. (B) He had his back turned to her., Question: cause", "target": "A"}
+{"id": "task1393-f8b0e5a89a314ec98d04f1ac8ab32aa2", "input": "I botched the job interview. (A) The interviewer asked difficult questions. (B) I anticipated the interviewer's questions., Question: cause", "target": "A"}
+{"id": "task1393-b45ea7f3c9a348b08c7a1dc0b644c642", "input": "The dust came off the desk. (A) I wiped the desk with a cloth. (B) I removed the books from the desk., Question: cause", "target": "A"}
+{"id": "task1393-ff7465c1103a4b9cb5e3cd3a4ebccd1a", "input": "The benefactor requested to stay anonymous. (A) He wanted to maintain his privacy. (B) He supported the cause behind his donation., Question: cause", "target": "A"}
+{"id": "task1393-b2c2dd15a96d4deeb1aa22479a3bbb21", "input": "The man removed his coat. (A) He entered the house. (B) He loosened his tie., Question: cause", "target": "A"}
+{"id": "task1393-78af4d5093bf455aaa8bbbf392924c31", "input": "My foot went numb. (A) I put my shoes on. (B) I shook my foot., Question: effect", "target": "B"}
+{"id": "task1393-1e359cede49b4a209b94832fadf5e1ad", "input": "The judge pounded the gavel. (A) The courtroom broke into uproar. (B) The jury announced its verdict., Question: cause", "target": "A"}
+{"id": "task1393-4469dba3ee8e4cb58f531b0ee6c0807b", "input": "I put shoes on. (A) The floor contained broken glass. (B) The paint on the walls was wet., Question: cause", "target": "A"}
+{"id": "task1393-3f7c3210d8b741ab861be15b560f4f3f", "input": "The mother scolded her daughter. (A) Her daughter burped at the kitchen table. (B) Her daughter set the kitchen table., Question: cause", "target": "A"}
+{"id": "task1393-ce74ed9e13aa46fab0a2f6b875f91f06", "input": "The flame on the candle went out. (A) I blew on the wick. (B) I put a match to the wick., Question: cause", "target": "A"}
+{"id": "task1393-4824104c88164092b2efa292e5998bc5", "input": "The woman ran her finger under cold water. (A) She burned her finger on the toaster. (B) She put a diamond ring on her finger., Question: cause", "target": "A"}
+{"id": "task1393-8b4a5baba1884d348cf18e8c1dabfd2b", "input": "The vase broke. (A) I stenciled it. (B) I glued it back together., Question: effect", "target": "B"}
+{"id": "task1393-af360dc199db4fd0a8ec416b3b63d302", "input": "The woman tolerated her friend's difficult behavior. (A) The woman knew her friend was going through a hard time. (B) The woman felt that her friend took advantage of her kindness., Question: cause", "target": "A"}
+{"id": "task1393-c3e0dd067e474196995b1156346e1dd5", "input": "The man woke up with a toothache. (A) He missed an appointment with the dentist. (B) He made an appointment with the dentist., Question: effect", "target": "B"}
+{"id": "task1393-dcbe390dd398435b87bce51bc31c2449", "input": "I hung up the phone. (A) The caller said goodbye to me. (B) The caller identified himself to me., Question: cause", "target": "A"}
+{"id": "task1393-bad924a129c8426ca98d32131684203b", "input": "The mirror in the bathroom fogged up. (A) The girl turned on the fan. (B) The girl applied her makeup., Question: effect", "target": "A"}
+{"id": "task1393-602860c4e425440fa07229a125205826", "input": "The woman hit a midlife crisis. (A) She retired. (B) She went sky diving., Question: effect", "target": "B"}
+{"id": "task1393-6f62065b2c9c4aaa97c5da304dbdbc04", "input": "The host served dinner to his guests. (A) His guests were gracious. (B) His guests went hungry., Question: effect", "target": "A"}
+{"id": "task1393-1a7012996c8041c89116aa019d178e69", "input": "The spy discovered the enemy's location. (A) The spy bugged the enemy's phone. (B) The spy was hired by the government., Question: cause", "target": "A"}
+{"id": "task1393-5086bbffa8fa4d8fbdccd7bd8c0c3eed", "input": "The customer thought the souvenir was overpriced. (A) The vender sold it to him. (B) He bargained with the vendor., Question: effect", "target": "B"}
+{"id": "task1393-fe01ca3804e44e8e973fb84e8b1c94ec", "input": "I was confused by the professor's lecture. (A) I paid attention to the professor. (B) I asked the professor questions., Question: effect", "target": "B"}
+{"id": "task1393-7f5e008f3a404efd91b46824b2cf54c0", "input": "The car stopped at the crosswalk. (A) The pedestrian crossed the road. (B) The pedestrian waited on the sidewalk., Question: effect", "target": "A"}
+{"id": "task1393-aaeaee5b0c544c9493a8b9af53d7f28f", "input": "The woman deleted the email. (A) The sender tried to solicit money from her. (B) The sender requested a response from her., Question: cause", "target": "A"}
+{"id": "task1393-84b3a1da9fd0470fa64bfa19f2b5a200", "input": "The scientist gained recognition. (A) She discovered a new species. (B) She received tenure at the university., Question: cause", "target": "A"}
+{"id": "task1393-4dc7a55438924a94ba17e2610838d79a", "input": "The man felt thankful to be alive. (A) He was cured of cancer. (B) His wife was diagnosed with cancer., Question: cause", "target": "A"}
+{"id": "task1393-b1d3dbfa00f949f59cd8731aac01efec", "input": "The doctor x-rayed the patient's arm. (A) He discovered that the patient's arm was broken. (B) He put the patient's arm in a cast., Question: effect", "target": "A"}
+{"id": "task1393-6c5fab2989804596b2279758e09aa19c", "input": "The boy's hands were shaking. (A) He planned to ask the girl out. (B) His palms were cold and sweaty., Question: cause", "target": "A"}
+{"id": "task1393-3eb26139bf764e73aaa51a210b581ac1", "input": "Everyone in the class turned to stare at the student. (A) The student's phone rang. (B) The student took notes., Question: cause", "target": "A"}
+{"id": "task1393-7f87eea8fd3a48f981421fea56142631", "input": "The woman became famous. (A) Photographers followed her. (B) Her family avoided her., Question: effect", "target": "A"}
+{"id": "task1393-3cca794a25da4a4e81c1f6c99138b45b", "input": "The politician lost the election. (A) He ran negative campaign ads. (B) No one voted for him., Question: cause", "target": "B"}
+{"id": "task1393-f26d9413aabf4df891840cee0fdd4407", "input": "The truck crashed into the motorcycle on the bridge. (A) The motorcyclist died. (B) The bridge collapsed., Question: effect", "target": "A"}
+{"id": "task1393-f931281fba6d4b85b72fa3b463961a9b", "input": "The woman repaired her faucet. (A) The faucet was leaky. (B) The faucet was turned off., Question: cause", "target": "A"}
+{"id": "task1393-410b1df9115f455c9d08880dd0364b16", "input": "The girl went down the hill on her bike. (A) Her bike swerved. (B) Her bike sped up., Question: effect", "target": "B"}
+{"id": "task1393-5c530773298549948c3f042245d146d7", "input": "The boy pushed his sister. (A) His sister tattled on him. (B) They played hide and seek., Question: effect", "target": "A"}
+{"id": "task1393-0bebce4c2ac34a4d995f64a5a8c789fa", "input": "The pond froze over for the winter. (A) People skated on the pond. (B) People brought boats to the pond., Question: effect", "target": "A"}
+{"id": "task1393-9f034aefe7bb4c9e9cb64f14a0932ba5", "input": "I chugged the pitcher of water. (A) I walked upstairs. (B) I ran five miles., Question: cause", "target": "B"}
+{"id": "task1393-9398fde708a54dd7a01d1bf20c78e98f", "input": "The police aimed their weapons at the fugitive. (A) The fugitive fell to the ground. (B) The fugitive dropped his gun., Question: effect", "target": "B"}
+{"id": "task1393-5f64f0f980354d3da4a2ecbfe9a26e27", "input": "The police closed the investigation. (A) They apprehended the suspect. (B) The victim recovered., Question: cause", "target": "A"}
+{"id": "task1393-8437e71d4092434283924c57d6175275", "input": "The boy tuned the radio. (A) The station was playing rock music. (B) The station was coming in with static., Question: cause", "target": "B"}
+{"id": "task1393-91039602050c44d68361435e601d9bca", "input": "The photographer got the child to smile. (A) The photographer quickly snapped the child's photo. (B) The photographer quickly changed the child's pose., Question: effect", "target": "A"}
+{"id": "task1393-0d650ac302974722bd9b99fccbe72bba", "input": "A fistfight broke out in the hall of the school. (A) The principal suspended the students involved. (B) The principal called off classes for the day., Question: effect", "target": "A"}
+{"id": "task1393-d099e69c5a7644a8a57cc73841c1017e", "input": "The shopper wondered about the cost of the item. (A) He checked its price tag. (B) He decided to buy it., Question: effect", "target": "A"}
+{"id": "task1393-cc5c05e187ca4f5392fcd5749038df14", "input": "The skunk sprayed the dog. (A) The dog emitted a foul smell. (B) The skunk roamed the woods., Question: effect", "target": "A"}
+{"id": "task1393-89d1613f9ed043d9971c244b8bbf75b6", "input": "The crowd gave the band a standing ovation. (A) The band signed autographs. (B) The band reappeared on the stage., Question: effect", "target": "B"}
+{"id": "task1393-0d445250c46b457b9661837712fab3bc", "input": "We ordered a pizza. (A) The pizza was delivered. (B) The pizza got cold., Question: effect", "target": "A"}
+{"id": "task1393-c924935d4ac149c296c678cb490f51c2", "input": "I jumped instinctively in fright. (A) I sensed someone approaching me from behind. (B) I heard people chuckling in the adjacent room., Question: cause", "target": "A"}
+{"id": "task1393-9f068a240251498f9b3e10c359b44a7a", "input": "The girl stared at herself in the mirror. (A) She felt self-conscious. (B) The mirror was smudged., Question: cause", "target": "A"}
+{"id": "task1393-8fe29d7ea2f64a79bab13a093b33b6db", "input": "The rain subsided. (A) I went for a walk. (B) I browsed the internet., Question: effect", "target": "A"}
+{"id": "task1393-4448ad423b294b7b8a516e0410d5aef9", "input": "The student misspelled the word. (A) The teacher corrected her. (B) The teacher dismissed her., Question: effect", "target": "A"}
+{"id": "task1393-43bd4a3478a845058dc4706da91de847", "input": "The rider fell to the ground. (A) The bull bucked the rider. (B) The bull chased the rider., Question: cause", "target": "A"}
+{"id": "task1393-21926391bcc044b8acece4bc63d8e5f6", "input": "The clock stopped ticking. (A) I took extra time to get ready. (B) The clock showed the wrong time., Question: effect", "target": "B"}
+{"id": "task1393-c0518b31aec14fb8b6212f6433a5eeaf", "input": "The girl wanted to make her mother happy. (A) The girl ate the cookies her mother baked. (B) The girl picked a flower for her mother., Question: effect", "target": "B"}
+{"id": "task1393-0c0652999de54b39a0d4465a490a4e0c", "input": "The man's eye became infected. (A) He went blind. (B) He put on glasses., Question: effect", "target": "A"}
+{"id": "task1393-14037cfb8b044f988c0e5b82013f103b", "input": "The woman retired. (A) She received her pension. (B) She paid off her mortgage., Question: effect", "target": "A"}
+{"id": "task1393-4043bdc8d0ed4e948a2e27697043b9b6", "input": "The girl gasped. (A) Her friend stuck an ice cube down her back. (B) Her friend gave her a pat on the back., Question: cause", "target": "A"}
+{"id": "task1393-516c708197054d63a9f81a2013be1c71", "input": "The woman covered her ears. (A) The fire alarm blared. (B) The woman smelled smoke., Question: cause", "target": "A"}
+{"id": "task1393-7df139f9724348bcb1d0a207cf445996", "input": "I approached the man. (A) He looked busy. (B) He looked familiar., Question: cause", "target": "B"}
+{"id": "task1393-90ac4adbebe14a6099fcf4a1cdefc974", "input": "The woman asked the man to leave. (A) He insulted her. (B) He thanked her., Question: cause", "target": "A"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given the text of an article and its title, decide whether the title is appropriate for the article.",
+    "category": "Text Matching",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

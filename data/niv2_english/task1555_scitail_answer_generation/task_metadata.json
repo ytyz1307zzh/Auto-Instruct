@@ -1,0 +1,7 @@
+{
+    "summary": "Generating answers to SciTail Sentence-Questions",
+    "category": "Question Answering",
+    "domain": "Web, Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

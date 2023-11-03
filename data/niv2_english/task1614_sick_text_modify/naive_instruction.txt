@@ -1,0 +1,1 @@
+Derive a sentence from the given sentence (based on the sick dataset)

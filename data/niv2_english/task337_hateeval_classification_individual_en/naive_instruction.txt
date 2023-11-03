@@ -1,0 +1,1 @@
+Given a hateful post in English, classify the target being harassed into individual or generic

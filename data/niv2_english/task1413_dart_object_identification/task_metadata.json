@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence (from DART), identify the object of the sentence",
+    "category": "Information Extraction",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

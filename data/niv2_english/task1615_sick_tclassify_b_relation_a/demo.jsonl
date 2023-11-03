@@ -1,0 +1,3 @@
+{"id": "task1615-e56369bda39e4ef2bd3884e54d2d44e3", "input": "sentence_A: A dog is looking around. sentence_B: There is no dog looking around", "target": "B_contradicts_A"}
+{"id": "task1615-85bbcfdfd5bd49dbb7a4597d2d900aa7", "input": "sentence_A: A woman is playing a guitar. sentence_B: A guitar is being played by a woman", "target": "B_entails_A"}
+{"id": "task1615-b6eee6c6c4264ddfb5bcbaa5fd898b44", "input": "sentence_A: A big potato is knocking a green ball. sentence_B: A big green ball is knocking a potato", "target": "B_neutral_A"}

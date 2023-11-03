@@ -1,0 +1,7 @@
+{
+    "summary": "Given two task sentences, detect the domains of the task",
+    "category": "Dialogue Act Recognition",
+    "domain": "Dialogue, Commonsense -> Concepts and Relations -> Social Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

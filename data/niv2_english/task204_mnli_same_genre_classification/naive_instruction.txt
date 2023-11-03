@@ -1,0 +1,1 @@
+Given two sentences and the genre they should belong to, determine if they belong to the same genre or not.

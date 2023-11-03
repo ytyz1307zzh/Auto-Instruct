@@ -1,0 +1,1 @@
+Given a tweet Classify the kind of irony it has.

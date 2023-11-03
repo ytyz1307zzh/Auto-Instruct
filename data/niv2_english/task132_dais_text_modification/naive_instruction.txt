@@ -1,0 +1,1 @@
+Given a sentence, generate a sentence with same meaning and different grammatical structure.

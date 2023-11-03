@@ -1,0 +1,7 @@
+{
+    "summary": "Given a real-life anecdote of a complex ethical situation, generate a title that describes the main event/root cause of the situation",
+    "category": "Title Generation",
+    "domain": "Story, Narrative",
+    "input_lang": "English",
+    "output_lang": "English"
+}

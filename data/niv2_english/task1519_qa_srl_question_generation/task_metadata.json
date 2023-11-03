@@ -1,0 +1,7 @@
+{
+    "summary": "Using given sentence and a verb,generating questions which can be answered from the sentence.",
+    "category": "Question Generation",
+    "domain": "News, Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence judge whether two clausal conjoints have been inverted.",
+    "category": "Linguistic Probing",
+    "domain": "Narrative, Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

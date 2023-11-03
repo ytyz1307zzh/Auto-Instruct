@@ -1,0 +1,1 @@
+Given an ambiguous question, provide one clarifying question and answer for the generated question.

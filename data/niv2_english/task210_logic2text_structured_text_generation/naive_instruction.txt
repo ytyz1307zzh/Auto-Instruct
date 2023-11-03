@@ -1,0 +1,1 @@
+Given a natural language interpretation, generate a command using logical operations.

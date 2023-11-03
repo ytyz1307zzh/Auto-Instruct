@@ -1,0 +1,7 @@
+{
+    "summary": "Generate the type of information used by website, mentioned in privacy policy texts from OPP-115 Dataset",
+    "category": "Information Extraction",
+    "domain": "Law",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a sentence from a movie review, classify the sentence to positive or negative sentiment.

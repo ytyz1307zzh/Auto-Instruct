@@ -1,0 +1,1 @@
+Given a sentence (from DART), identify the object of the sentence

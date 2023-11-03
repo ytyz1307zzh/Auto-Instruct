@@ -1,0 +1,3 @@
+{"id": "task1347-12b2c841921e4a5ba0b09c3527b43ad6", "input": "Sentence 1: A cat is watching a TV. Sentence 2: A man is slicing a leave.", "target": "0"}
+{"id": "task1347-d63b09a7da4e4ab7a2558ed08989f06c", "input": "Sentence 1: The red train and the yellow train on on the tracks. Sentence 2: Two trains are traveling on the track.", "target": "3"}
+{"id": "task1347-448944a639b44bb88e9353c95bd6e483", "input": "Sentence 1: South African icon Nelson Mandela hospitalized Sentence 2: South Africa's Nelson Mandela Hospitalized", "target": "5"}

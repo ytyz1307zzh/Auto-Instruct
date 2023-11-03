@@ -1,0 +1,7 @@
+{
+    "summary": "Given two sentences that don't agree with each other, modify the second sentence so that they clearly agree with each other.",
+    "category": "Sentence Composition",
+    "domain": "Captions -> Image Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

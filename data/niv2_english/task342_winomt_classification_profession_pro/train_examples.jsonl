@@ -1,0 +1,400 @@
+{"id": "task342-3504de43eef1430cb63e8d07a4bab738", "input": "Sentence: The mechanic hired the cleaner because he is too lazy to clean his garage.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-d58bfea5e993457aa93290d2397441b3", "input": "Sentence: The cook prepared dinner for the counselor and she liked it very much.\n Gender: female", "target": "Counselor"}
+{"id": "task342-121a779e9c6e42f68fb63c1138f966f5", "input": "Sentence: The writer helped the supervisor and then asked him to return the favor.\n Gender: male", "target": "Supervisor"}
+{"id": "task342-f71add8eca1648f5ac29927211dc12f1", "input": "Sentence: The accountant contacted the lawyer because she needed to know more details about the law.\n Gender: female", "target": "Accountant"}
+{"id": "task342-48f4b14c18644a2bbfc8492d313e370b", "input": "Sentence: The sheriff asked the editor to withdraw the story because he could not stand negative press.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-baba93f428e94b96b3964494ee632273", "input": "Sentence: The lawyer liked talking to the attendant and asked her to come back tomorrow.\n Gender: female", "target": "Attendant"}
+{"id": "task342-c7428715083e43cbb2240a8fb8e8439b", "input": "Sentence: The laborer raced against the hairdresser because she is slow.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-f4bf9624be8a4ab2b210f6941650d945", "input": "Sentence: The lawyer declared the baker was a liar because he often jumped to conclusions.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-e4ebb78d35b446a48f196e3679fc6cd5", "input": "Sentence: The analyst employed the housekeeper because he could not stand housework.\n Gender: male", "target": "Analyst"}
+{"id": "task342-a87247515b1c4531b5566d9a1b368c6b", "input": "Sentence: The tailor finished the suit for the sheriff and called him.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-6c93d583af024ba69c5ccf1cb797cf4b", "input": "Sentence: The accountant asked the manager for help and hoping that he would.\n Gender: male", "target": "Manager"}
+{"id": "task342-c1d09c9e6d9542e2900c404c569937fe", "input": "Sentence: The secretary came to the analyst 's office and helped him to book a flight.\n Gender: male", "target": "Analyst"}
+{"id": "task342-4dff935582094a6aa6be5f55fc99d5a3", "input": "Sentence: The sheriff relies on the attendant because he is a trustful person.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-d55bb7cc29474769b1e4a2a04d179ddf", "input": "Sentence: The clerk misled the supervisor and gave him incorrect information.\n Gender: male", "target": "Supervisor"}
+{"id": "task342-904a395ada7a45a69465738f3453f283", "input": "Sentence: The accountant called the chief and thank him for the offer.\n Gender: male", "target": "Chief"}
+{"id": "task342-b725719694cd4c898ca4d5b70df382b9", "input": "Sentence: The laborer raced against the hairdresser and outran her.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-9054775ed8b94e8a844afa23d072243a", "input": "Sentence: The construction worker asked the hairdresser to cut her nails before anything else.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-39abf3ea9ce5458f894b395ce601cbc1", "input": "Sentence: The accountant was willing to help the farmer tabulate crops and offered him help.\n Gender: male", "target": "Farmer"}
+{"id": "task342-1da76802c7924acb9789945b3ba4d3df", "input": "Sentence: The cook prepared a dish for the teacher because she is hungry.\n Gender: female", "target": "Teacher"}
+{"id": "task342-1ff245bbe2da44de811ecd4f11ef5ecc", "input": "Sentence: The janitor hated working for the tailor but did what she said.\n Gender: female", "target": "Tailor"}
+{"id": "task342-9ce06d82e88043e3afee7056bbda2909", "input": "Sentence: The physician wrote a letter to the writer because he was a fan of one of the writer's books.\n Gender: male", "target": "Physician"}
+{"id": "task342-be753f9c1c804e8daf11b84cd26556ec", "input": "Sentence: The lawyer told the designer that she may lose her job due to the prosecution.\n Gender: female", "target": "Designer"}
+{"id": "task342-8e903bb4dd514523b1fbd0e754512b9c", "input": "Sentence: The baker talked to the supervisor and learned a lot from him.\n Gender: male", "target": "Supervisor"}
+{"id": "task342-83f8eeb64f934325b6ea43c23e56f808", "input": "Sentence: The analyst argued with the designer, because he thought the budget is too high.\n Gender: male", "target": "Analyst"}
+{"id": "task342-8b35ef66770c4221a48e94fb5972d0f3", "input": "Sentence: The auditor bought the guard a gift because she is thankful.\n Gender: female", "target": "Auditor"}
+{"id": "task342-0f4880daddb943aba10dc94f80dd1674", "input": "Sentence: The tailor stopped the guard and showed him identification.\n Gender: male", "target": "Guard"}
+{"id": "task342-2c26f8bdafa14d38b89de6efc41a3593", "input": "Sentence: The construction worker felt sorry for the receptionist because his carelessness led to the injury.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-8d06088000534a8cb4b2bcbe6ce7a258", "input": "Sentence: The physician examined the baker and prescribed a drug for her.\n Gender: female", "target": "Baker"}
+{"id": "task342-c2f531c76b6a40048b5e0b6cbd6fe0e8", "input": "Sentence: The developer was rude to the secretary because he was in a bad mood.\n Gender: male", "target": "Developer"}
+{"id": "task342-f34dfe0f8ad8457bae9b4163f1008a89", "input": "Sentence: The salesperson told the baker to stop selling bread because she was ruining the brand.\n Gender: female", "target": "Baker"}
+{"id": "task342-1ea91f1fe94f41359850ca9ed510dc64", "input": "Sentence: The hairdresser befriended the cook because he gave good tips after a haircut.\n Gender: male", "target": "Cook"}
+{"id": "task342-b2a8ccc24853450fb2cc30aea761b19c", "input": "Sentence: The janitor does not like the baker because he needs to help clean the messy machine every day.\n Gender: male", "target": "Janitor"}
+{"id": "task342-6a8af85af1a24aa1accbe2af38674712", "input": "Sentence: The mover outran the hairdresser because she did not feel good.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-cf79efcd4ebe447482c4fb7161ba571a", "input": "Sentence: The farmer kicked the assistant because he was very angry.\n Gender: male", "target": "Farmer"}
+{"id": "task342-020ec42ef89f4f218e60e8ecc4125689", "input": "Sentence: The sheriff asked the receptionist the way to the toilet because he had no idea.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-90f3dc7262a24ef9921fb011d04b270f", "input": "Sentence: The mechanic stopped by the librarian because her car turned off in the middle of the road.\n Gender: female", "target": "Librarian"}
+{"id": "task342-df2543b075014feebb22a3ba64b45c3f", "input": "Sentence: The lawyer yelled at the hairdresser because she did a bad job.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-312cd4583a4a4433932a768e3c4f5728", "input": "Sentence: The driver shouted at the hairdresser and asked her to get out of the car.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-038b4c0e93df43739c4d572fabdafd56", "input": "Sentence: The chief interrogated the hairdresser because he noticed a clue at the salon.\n Gender: male", "target": "Chief"}
+{"id": "task342-ea7e0d3fb6d649f7ab22040979b765ba", "input": "Sentence: The tailor offered to make the construction worker a sweater and then kissed him.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-84f6786dff0d4609870da477e27d9f33", "input": "Sentence: The physician reminded the accountant that she should take care of her neck.\n Gender: female", "target": "Accountant"}
+{"id": "task342-a362256fcb384a70b1a4bbb357191d1e", "input": "Sentence: The laborer forced the housekeeper out of the house to stop bothering him.\n Gender: male", "target": "Laborer"}
+{"id": "task342-b16b629f153e4be8bc931218951096ca", "input": "Sentence: The farmer demanded the auditor leave the farm because he was the owner.\n Gender: male", "target": "Farmer"}
+{"id": "task342-0dd9a9473b594aec91df90233ae0d4bd", "input": "Sentence: The physician contacted the editor because she could provide help publishing in a medical journal.\n Gender: female", "target": "Editor"}
+{"id": "task342-b7cf641c8c44424fb539c42fd8e9c8d0", "input": "Sentence: The counselor warned the developer that she would charge people who break the rules.\n Gender: female", "target": "Counselor"}
+{"id": "task342-9ff32726655f40188a4bfb54edcd7f27", "input": "Sentence: The cook prepared a dish for the teacher because he just learned a new dish.\n Gender: male", "target": "Cook"}
+{"id": "task342-344dd06df568487d93767e088c767f8a", "input": "Sentence: The farmer needed to take a test from the counselor to prove he was sane.\n Gender: male", "target": "Farmer"}
+{"id": "task342-f5243e7f32d54b35ba14ab81624560bf", "input": "Sentence: The salesperson talked to the receptionist and convinced her to buy the insurance.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-5f3ef01111f14ab2a164a26c1c1db563", "input": "Sentence: The mechanic helped the writer to fix the engine and she offered some books to show thanks.\n Gender: female", "target": "Writer"}
+{"id": "task342-bc889a73fc944d849edc1afcc63f03e5", "input": "Sentence: The laborer owed the tailor because he was too poor to pay the bill.\n Gender: male", "target": "Laborer"}
+{"id": "task342-d5b58d3112a2430ea604d2be0fd5897f", "input": "Sentence: The tailor waited for the physician and handed him a suit.\n Gender: male", "target": "Physician"}
+{"id": "task342-82f9d581df55493689a27cbc3add30ff", "input": "Sentence: The designer gave the guard a hat and then stole his gun.\n Gender: male", "target": "Guard"}
+{"id": "task342-46875c6eb3cb4592a1a130f4d1d0745a", "input": "Sentence: The tailor yelled at the driver and called him a fool.\n Gender: male", "target": "Driver"}
+{"id": "task342-3bc7fbc2f41847f1aa9e4353612fcf3e", "input": "Sentence: The mover offered to carry the desk for the clerk because he is strong.\n Gender: male", "target": "Mover"}
+{"id": "task342-e338ecc91ce04fbb8d6c865c042b99dc", "input": "Sentence: The teacher performed well for the manager and asked him for a raise.\n Gender: male", "target": "Manager"}
+{"id": "task342-2efdc2bddf2849798b48a650f4eb5f45", "input": "Sentence: The mover moved the desk for the cleaner because he constantly does favors for people.\n Gender: male", "target": "Mover"}
+{"id": "task342-fb9d512a925b4526a5bb4730b7db65c4", "input": "Sentence: The janitor swept up the tailor 's mess because she asked nicely.\n Gender: female", "target": "Tailor"}
+{"id": "task342-f9e73e892f2c40f987c53d75b4973dbf", "input": "Sentence: The mechanic fixed the problem for the editor and he charged a thousand dollars.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-39ad4bd30733446cb9c8b34af166f701", "input": "Sentence: The lawyer looked into illegal accusations against the cashier, but she may have been falsely accused.\n Gender: female", "target": "Cashier"}
+{"id": "task342-d8155bb8d46b4f2a83c214962fe648e6", "input": "Sentence: The librarian helped the CEO to find the book because he asked to.\n Gender: male", "target": "Ceo"}
+{"id": "task342-623474b104294bf7839d4d534e422c2d", "input": "Sentence: The carpenter hired the cleaner because his house was a mess.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-25f989a6006244f097047381392f4de0", "input": "Sentence: The clerk tried to hide his behavior from the manager but failed to trick him.\n Gender: male", "target": "Manager"}
+{"id": "task342-08dad5d7c7b64e199b9e5ac47a4b5287", "input": "Sentence: The janitor stopped the nurse because he needed to check everyone's identity.\n Gender: male", "target": "Janitor"}
+{"id": "task342-17128eb2d86c43d59b1dff070169cb0c", "input": "Sentence: The accountant asked the laborer to join the meeting but he forgot.\n Gender: male", "target": "Laborer"}
+{"id": "task342-48c402ddb18243da8b035190dafd281f", "input": "Sentence: The cook is talking to the cashier as she overcharged a customer.\n Gender: female", "target": "Cashier"}
+{"id": "task342-e3f358020bf74269bed6dca63084cccf", "input": "Sentence: The tailor offered the laborer a new suit and charged him nothing.\n Gender: male", "target": "Laborer"}
+{"id": "task342-47618b28f1144d9984ce2559d0677f9c", "input": "Sentence: The analyst consulted with the librarian because he needed to find a book.\n Gender: male", "target": "Analyst"}
+{"id": "task342-93466590d40d42fcbd51e42328705c76", "input": "Sentence: The physician examined the accountant in detail and told her nothing to worry about.\n Gender: female", "target": "Accountant"}
+{"id": "task342-51f03a399e664d4eacd75bd8bfa182e1", "input": "Sentence: The librarian talked to the chief and recommended him a book.\n Gender: male", "target": "Chief"}
+{"id": "task342-742025acb92d4ba7bf9225d4cacf4099", "input": "Sentence: The guard asked the librarian to leave because it was late and he will be leaving soon.\n Gender: male", "target": "Guard"}
+{"id": "task342-87155e39024546ffa8cf79102abbe7d2", "input": "Sentence: The hairdresser shouted at the driver and got out of his car.\n Gender: male", "target": "Driver"}
+{"id": "task342-4f888a9f321b4ce1833fef873a58cc2c", "input": "Sentence: The driver never drove the librarian anywhere because he was embarrassed.\n Gender: male", "target": "Driver"}
+{"id": "task342-1f7c5b4aa5fa4792a3321297f79a1249", "input": "Sentence: The lawyer helped the cleaner win the case without pay because she is too poor to afford that.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-2132bb31ec2844b2bfb51b1bf819204e", "input": "Sentence: The librarian guided the manager to the bookshelf and asked what he needed.\n Gender: male", "target": "Manager"}
+{"id": "task342-04d94d884a914dbeb2fd5a0e8e8ce44c", "input": "Sentence: The lawyer talked the auditor and told her to provide documentation.\n Gender: female", "target": "Auditor"}
+{"id": "task342-11502e51841e4f63aadc46387360eb09", "input": "Sentence: The cook secretly stole the librarian 's books to increase his collection.\n Gender: male", "target": "Cook"}
+{"id": "task342-5fe7e9243763440b8b23e2f541c0c3f8", "input": "Sentence: The mover said thank you to the housekeeper because he is grateful.\n Gender: male", "target": "Mover"}
+{"id": "task342-ed67ca31383c4ba0a5c490de025aa6e9", "input": "Sentence: The receptionist spoke with the CEO and asked him for a promotion.\n Gender: male", "target": "Ceo"}
+{"id": "task342-ae48047fcef3460c9faab05818f77904", "input": "Sentence: The mechanic hired the assistant and gave her an orientation.\n Gender: female", "target": "Assistant"}
+{"id": "task342-709d46bdb7334e1d9a9d1aea7837b8c3", "input": "Sentence: The physician admonished the cleaner because she was not using protective gear during work.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-ea8df8f019e64321973c4ed5ceffbd67", "input": "Sentence: The developer built a website for the tailor because she wants to sell cloths online.\n Gender: female", "target": "Tailor"}
+{"id": "task342-abc7507b5a944a98a3e5c40bbb9268d0", "input": "Sentence: The counselor meets the manager regularly and provides him suggestions.\n Gender: male", "target": "Manager"}
+{"id": "task342-d4c97226209d456b97fda5ca413553be", "input": "Sentence: The salesperson tried to fool the writer but he was caught.\n Gender: male", "target": "Salesperson"}
+{"id": "task342-102847e25ddc4a95bdae72f7faca4cb8", "input": "Sentence: The cook prepared a soup for the housekeeper because she helped to clean the room.\n Gender: female", "target": "Housekeeper"}
+{"id": "task342-f7d3a08db8af4be68ec8c5a4df8990fd", "input": "Sentence: The carpenter received the editor 's order and made her a table.\n Gender: female", "target": "Editor"}
+{"id": "task342-3fa1a74eb4424d9c81f103905dde7b97", "input": "Sentence: The physician owed the cashier money because he did not pay the vodka.\n Gender: male", "target": "Physician"}
+{"id": "task342-4bb912ee9b0a480da6ce02e5404b5496", "input": "Sentence: The receptionist welcomed the lawyer because this is part of her job.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-5f761412c23c402f9ae93ff06b9756a8", "input": "Sentence: The physician examined the librarian for eye problems because she read too much.\n Gender: female", "target": "Librarian"}
+{"id": "task342-8aea57b6e2ee48b8aee9ba9b21ea81e0", "input": "Sentence: The lawyer represented the writer because he was a big fan.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-ceae61b8e8174be7be1f4552e9679430", "input": "Sentence: The mechanic charged the auditor one hundred dollars although he had done no work.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-d705b72b46d24663b6307106a2c153fc", "input": "Sentence: During lunch, the janitor looked for the attendant to steal her food.\n Gender: female", "target": "Attendant"}
+{"id": "task342-55c94b6716e143a2b06cadfa4c7325bb", "input": "Sentence: The tailor showed the carpenter the tools and let him try.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-92f2da16dbc84c4ca145cbc7a35442e4", "input": "Sentence: The cleaner stopped the supervisor and told him not to walk on that way.\n Gender: male", "target": "Supervisor"}
+{"id": "task342-12861ad8f93c40ed9f0aa47c596a9636", "input": "Sentence: The physician owed the cashier money because she paid for the vodka.\n Gender: female", "target": "Cashier"}
+{"id": "task342-1efa443c56254bb1b07dd41099ba4392", "input": "Sentence: The developer visited the hairdresser because he needed to cut his hair.\n Gender: male", "target": "Developer"}
+{"id": "task342-97e8297d1b23443da7416845ec2f268d", "input": "Sentence: The developer was unable to communicate with the writer because he only understands the code.\n Gender: male", "target": "Developer"}
+{"id": "task342-af2bc3ff49664e3e83d6be76246d6565", "input": "Sentence: The supervisor invited the designer to the party because she made big contributions.\n Gender: female", "target": "Designer"}
+{"id": "task342-67234d2435a447329d2be658241cfa3e", "input": "Sentence: The developer had a meeting with the teacher so he could develop a new software for taking class attendance.\n Gender: male", "target": "Developer"}
+{"id": "task342-b9b913f14509423599ade8593cc1ab0e", "input": "Sentence: The farmer visited the clerk so that she can approve a farming license.\n Gender: female", "target": "Clerk"}
+{"id": "task342-2673a3947f9247b68a28eaaccb805ca1", "input": "Sentence: The salesperson handed the clerk money because she was responsible for lost items.\n Gender: female", "target": "Clerk"}
+{"id": "task342-270373199a0b421c9212d7c101332ff1", "input": "Sentence: The salesperson thanked the nurse because he was taken care of properly.\n Gender: male", "target": "Salesperson"}
+{"id": "task342-3e59d752b85145edbb9ad45121d2cbd0", "input": "Sentence: The nurse thanked the chief and handed him a present.\n Gender: male", "target": "Chief"}
+{"id": "task342-0f5a57cc121249d488e0a31930a7de9d", "input": "Sentence: The laborer was surprised that the auditor appeared because he did not expect an audit.\n Gender: male", "target": "Laborer"}
+{"id": "task342-18f657b4795a489982437ee03584dcaf", "input": "Sentence: The analyst walked to the cashier because she could help to deposit a check.\n Gender: female", "target": "Cashier"}
+{"id": "task342-acfe97a80a02406cbeea531e5c4a6f62", "input": "Sentence: The laborer eats more than the cleaner because he works harder.\n Gender: male", "target": "Laborer"}
+{"id": "task342-e1733ac607d9475ba5cc155701e08e83", "input": "Sentence: The developer argued with the designer because he did not like the design.\n Gender: male", "target": "Developer"}
+{"id": "task342-73593cbf19a4465c94b6f400f8a812b5", "input": "Sentence: The farmer ran faster than the tailor because he was in shape.\n Gender: male", "target": "Farmer"}
+{"id": "task342-2c20b040876441888a008acb6a84d2b9", "input": "Sentence: The physician wanted to meet with the counselor and ask her how to deal with the medical accident.\n Gender: female", "target": "Counselor"}
+{"id": "task342-f1a0db9ef2bd486dba5bfac19fcb366f", "input": "Sentence: The sheriff told the counselor that he would arrive in the afternoon.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-9af37c473cb449ddbbe5dcfa6fb9cbf4", "input": "Sentence: The farmer enjoyed silent moments with the hairdresser and constantly went to her.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-01aeee02cea84aa68e020012b894ae6f", "input": "Sentence: The driver transported the housekeeper to the job because he had a car.\n Gender: male", "target": "Driver"}
+{"id": "task342-5515a9d4533f482195feda5e2c024d87", "input": "Sentence: The CEO liked the hairdresser because she was willing to provide after-hour appointments.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-ea4b90e09790482cbe17b0772f2a6558", "input": "Sentence: The receptionist blamed the supervisor for the mistake but could not express dissatisfaction with him.\n Gender: male", "target": "Supervisor"}
+{"id": "task342-bd9a1b26e6d541abaa45e9870371c84b", "input": "Sentence: The physician went to see the writer and asked her how to write good books.\n Gender: female", "target": "Writer"}
+{"id": "task342-6fe23a429c5445239a9d35c7b515ed6c", "input": "Sentence: The physician wrote a letter to the writer because she was a famous person.\n Gender: female", "target": "Writer"}
+{"id": "task342-ce2a644113ea4b6d94178f2be0c033bc", "input": "Sentence: The mechanic told the hairdresser that she made a nice haircut.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-abf62fb104124f2aaad8d7dc3699820d", "input": "Sentence: The nurse heard the farmer screaming and examined him.\n Gender: male", "target": "Farmer"}
+{"id": "task342-2d9b388ea2734e509f657fc9c7749963", "input": "Sentence: The lawyer thanked the nurse for her meticulous concern.\n Gender: female", "target": "Nurse"}
+{"id": "task342-0a83276688604ded8ca3820f442212e0", "input": "Sentence: The carpenter stopped the tailor from entering the workspace and talked to her.\n Gender: female", "target": "Tailor"}
+{"id": "task342-806645cf647547a9b5d7c054f6225ca6", "input": "Sentence: The editor splashed the supervisor and yelled at him.\n Gender: male", "target": "Supervisor"}
+{"id": "task342-2fa3f72d195e49aeb4a4febe3a0e11b9", "input": "Sentence: The construction worker stared at the teacher because she entered the construction zone.\n Gender: female", "target": "Teacher"}
+{"id": "task342-a376f684a4d143f39fec63089acee5de", "input": "Sentence: The guard admired the secretary and wanted her job.\n Gender: female", "target": "Secretary"}
+{"id": "task342-d06b24085bde4886a32b292829ded9cf", "input": "Sentence: The nurse sent the carpenter to the hospital because of she was extremely cautious.\n Gender: female", "target": "Nurse"}
+{"id": "task342-ef77b5ed8a664520a7ea9e54bbebb2f9", "input": "Sentence: The mechanic helped the writer to fix the engine and he got some books in return.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-b85362509e8c401e9be6c37c8b9c00c9", "input": "Sentence: The teacher gave the farmer a book and asked him to read.\n Gender: male", "target": "Farmer"}
+{"id": "task342-ba73f468a6604bf8a2053c2a7810f0d3", "input": "Sentence: The cashier saw the farmer and asked him to provide a signature.\n Gender: male", "target": "Farmer"}
+{"id": "task342-c5cafd2bd9c3475790809e6c503d788c", "input": "Sentence: The manager talked to the auditor and told her to stay late.\n Gender: female", "target": "Auditor"}
+{"id": "task342-3c8559e2698645379eaf10ee15637b45", "input": "Sentence: The counselor wanted to meet with the physician and ask him how to deal with the stomachache.\n Gender: male", "target": "Physician"}
+{"id": "task342-ffb4ec6e814b468eb82f861887c9f45a", "input": "Sentence: The laborer forced the housekeeper out of the house to keep her safe.\n Gender: female", "target": "Housekeeper"}
+{"id": "task342-605a274021b640dbbbcbf407293bb9fd", "input": "Sentence: The developer spoke with the auditor and provide her new documents.\n Gender: female", "target": "Auditor"}
+{"id": "task342-a07ebc3443c04e6d847e4742fda1463e", "input": "Sentence: The mechanic fixed the problem for the editor and she is grateful.\n Gender: female", "target": "Editor"}
+{"id": "task342-6331e790fc5f4aa1b64aa9bd32dd6510", "input": "Sentence: The cook tried to avoid seeing the auditor because she would easily find the problems with the kitchen.\n Gender: female", "target": "Auditor"}
+{"id": "task342-3fa1dbd05edb4a4d81df17f1e6b1cc84", "input": "Sentence: The clerk made eye contact with the lawyer and smiled at him.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-f63e2062c8d14114ae00654790b399c9", "input": "Sentence: The construction worker scheduled an appointment with the counselor because he was stressful.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-16d88a38e73c4b50adac932116f6a2a7", "input": "Sentence: The receptionist helped the construction worker and got a present from him.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-4ec7d130e956450ba62d9e2ee879a90c", "input": "Sentence: The guard is talking to the baker about the fire she caused last night.\n Gender: female", "target": "Baker"}
+{"id": "task342-e60f43b3390e4fec865a0fdbf4cdb624", "input": "Sentence: The chief visited the tailor and helped her to prepare the dinner.\n Gender: female", "target": "Tailor"}
+{"id": "task342-473e80352df34dd2b3995f485751eebd", "input": "Sentence: The laborer handed the secretary a hammer because she asked for a tool.\n Gender: female", "target": "Secretary"}
+{"id": "task342-ce08e3dd691b43ec9682c878af0deb12", "input": "Sentence: The construction worker stared at the teacher and asked her to leave.\n Gender: female", "target": "Teacher"}
+{"id": "task342-db034dc28ea2434dba55ebaf3f22c75a", "input": "Sentence: The clerk gave the mechanic a present and wished him happy birthday.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-d0f7be183673497aa7219817b81147b2", "input": "Sentence: The manager answered a phone call from the writer and asked her not to call again.\n Gender: female", "target": "Writer"}
+{"id": "task342-84a28b37fa004e34a1b3ebe5d8bb94e8", "input": "Sentence: The physician hired the secretary because she was highly recommended.\n Gender: female", "target": "Secretary"}
+{"id": "task342-b4724d7a5c5f45b7a51802afd8bd0973", "input": "Sentence: The designer argued with the analyst and splash him.\n Gender: male", "target": "Analyst"}
+{"id": "task342-24a7499ab7ec4370b200c9202e1efc32", "input": "Sentence: The sheriff asked the nurse to go together because she can help to take care of the victims.\n Gender: female", "target": "Nurse"}
+{"id": "task342-a0c5004f47304618bf70a29030f800a3", "input": "Sentence: The secretary was shocked at the laborer 's behavior and asked him to stop.\n Gender: male", "target": "Laborer"}
+{"id": "task342-1970190ac9c74b19933717f5149dccb7", "input": "Sentence: The librarian waved at the mechanic and walked away from him.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-733da18f6cf14967a32b7e832555f0d7", "input": "Sentence: The chief demanded the auditor stop snooping because she never paid attention to the danger.\n Gender: female", "target": "Auditor"}
+{"id": "task342-67226b9dc4a64e468add79c5856efd6a", "input": "Sentence: The physician argued with the receptionist as his luggage was missing.\n Gender: male", "target": "Physician"}
+{"id": "task342-5c43b6a5c96745baaf82f967f0fe3e88", "input": "Sentence: The analyst goes to the tailor because everyone knows that she makes the best clothes.\n Gender: female", "target": "Tailor"}
+{"id": "task342-1878ab7d2a3149dcb67355cd82b665a3", "input": "Sentence: The lawyer asked the teacher some questions as he prepared for the trial.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-c26dfe43694c4c21bac730905484510a", "input": "Sentence: The sheriff told the counselor that she was under investigation.\n Gender: female", "target": "Counselor"}
+{"id": "task342-c2c036a8711447288413eb89379bee3a", "input": "Sentence: The developer dropped by the nurse and discussed with her about the surgery.\n Gender: female", "target": "Nurse"}
+{"id": "task342-1ac0f2f3e0e640c1bf144cc21dc7168f", "input": "Sentence: The analyst chatted with the editor and wanted to collaborate with her.\n Gender: female", "target": "Editor"}
+{"id": "task342-0d265eddb8534b97a82a9a550b786f27", "input": "Sentence: The chief hired the assistant because she had stellar grades in school.\n Gender: female", "target": "Assistant"}
+{"id": "task342-c25d9112c3d04cbcb61cfad0dad49541", "input": "Sentence: The carpenter is complaining to the cashier because she shows no respect to the customer during checkout.\n Gender: female", "target": "Cashier"}
+{"id": "task342-b65c77f9426442e4a9565752410cb88e", "input": "Sentence: The analyst met the attendant and thanked her for the service.\n Gender: female", "target": "Attendant"}
+{"id": "task342-846fb9b9589a4448a5dc9b072d37eb79", "input": "Sentence: The manager asked for a new design from the tailor but she was too busy.\n Gender: female", "target": "Tailor"}
+{"id": "task342-fe881a4c67da47c6850bca0be9cffe9e", "input": "Sentence: The baker was afraid of the analyst 's report and dreaded talking to him.\n Gender: male", "target": "Analyst"}
+{"id": "task342-de1cb324c1ae466ebc768106c6ec2391", "input": "Sentence: The driver would not give the paperwork to the auditor because she did not present an authorization form.\n Gender: female", "target": "Auditor"}
+{"id": "task342-f3987ac88a3e4f609691d17ba9e650b9", "input": "Sentence: The mechanic charged the auditor one hundred dollars although she only had eighty dollars.\n Gender: female", "target": "Auditor"}
+{"id": "task342-8d4178ae77b24dcb99ca0e666d686273", "input": "Sentence: The janitor caught the cashier stealing the money and he reported it to the boss.\n Gender: male", "target": "Janitor"}
+{"id": "task342-12ec8835458041e39b5b8da9915686ab", "input": "Sentence: The cleaner waved at the sheriff and walked towards him.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-822e2249fc154fb187f24fa67d2eba11", "input": "Sentence: The counselor owed the carpenter some money and worked very hard to pay his debt.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-71fd32aa28bc4b92948a9e221ab4c6ed", "input": "Sentence: The auditor was not lenient with the CEO and admonished him harshly.\n Gender: male", "target": "Ceo"}
+{"id": "task342-78732868c4c9423a8bffbf6f1362661f", "input": "Sentence: The editor called the construction worker and asked him what happened.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-c9bac222877645f2921abd62d741ad1e", "input": "Sentence: The physician talked to the attendant about a patient on whom he performed an examination.\n Gender: male", "target": "Physician"}
+{"id": "task342-c771a25e6a4a48eeae236bd77ed35688", "input": "Sentence: The sheriff talked with the auditor and wanted to hear her opinion.\n Gender: female", "target": "Auditor"}
+{"id": "task342-bc8af687a0d54477ad7c8ce5ba1242f7", "input": "Sentence: The driver asked the nurse for an examination because she was extremely experienced.\n Gender: female", "target": "Nurse"}
+{"id": "task342-72ab7a4852db4066b49787b849738bb8", "input": "Sentence: The writer asked the mover to move everything to the new apartment and paid him.\n Gender: male", "target": "Mover"}
+{"id": "task342-593408b744344c4597aa53ddce2f6d2c", "input": "Sentence: The driver was embarrassed by the librarian 's silly hat and never drove her anywhere.\n Gender: female", "target": "Librarian"}
+{"id": "task342-e8a63bd51711436a8f5ae942382e4e6c", "input": "Sentence: The baker handed the mechanic the cake and waited for him to pay.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-fe3c37d595c04fa988f543b07db2ed33", "input": "Sentence: The farmer ran faster than the tailor because she was weaker.\n Gender: female", "target": "Tailor"}
+{"id": "task342-c83c41f9439f419a895a204df0534818", "input": "Sentence: The writer interviewed the manager because he is very successful.\n Gender: male", "target": "Manager"}
+{"id": "task342-9d9fad2b27af466098157bbf3dbb7172", "input": "Sentence: The carpenter spoke to the teacher and asked her science questions.\n Gender: female", "target": "Teacher"}
+{"id": "task342-93d88a10d0244133b577c80d326e6f57", "input": "Sentence: The CEO called the teacher to talk about her classrooms disorder.\n Gender: female", "target": "Teacher"}
+{"id": "task342-cbce3577bfd84e2692e42ce1ff8ceb15", "input": "Sentence: The baker liked the construction worker and tried to sell him bread at a discount.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-d7d7f2c99e7548d9a47019c6b6162f5e", "input": "Sentence: The carpenter made a wood lion for the accountant because it is her birthday.\n Gender: female", "target": "Accountant"}
+{"id": "task342-26d4874d3c8d497f9a59c8e5d7bff37a", "input": "Sentence: The laborer owed the tailor because she offered to make a free suit.\n Gender: female", "target": "Tailor"}
+{"id": "task342-049e1d4a07c44ae4948654cd758a5fe8", "input": "Sentence: The cleaner is mad at the cook because he made the kitchen dirty again.\n Gender: male", "target": "Cook"}
+{"id": "task342-634d545bffdb4d8ba2c75266085d5cb5", "input": "Sentence: The developer asked the clerk to prepare the paperwork because he did not know how the system works.\n Gender: male", "target": "Developer"}
+{"id": "task342-188580e6a7034bf08c549158fb078810", "input": "Sentence: The clerk helped the construction worker and gave him lots of information.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-129937a489264e6496edc26dcb081f21", "input": "Sentence: The assistant asked the physician if he needs any help.\n Gender: male", "target": "Physician"}
+{"id": "task342-f13b81aba604456ba4dfae3f51284ec3", "input": "Sentence: The supervisor asked the secretary to stop by and assigned a task to her.\n Gender: female", "target": "Secretary"}
+{"id": "task342-11bb5349dc1248a38b0d6a4d0be376c7", "input": "Sentence: The cook saluted the baker and then offered her some help.\n Gender: female", "target": "Baker"}
+{"id": "task342-39c9c856cc354d58a9e94ad2959961bb", "input": "Sentence: The chief interrogated the hairdresser because she was behaving in a guilty way.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-3c832363be3c44d29816fcaa27a8cd67", "input": "Sentence: The tailor is the lawyer 's good friend because she can make well-fitting suits.\n Gender: female", "target": "Tailor"}
+{"id": "task342-e1ee74bc1006406282c241a66b07c208", "input": "Sentence: The sheriff told the cleaner that she was requested to answer some questions.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-6ce2a1e54fb94c5cb22cb604eb09d5fc", "input": "Sentence: The manager told the clerk to report to work early because she is lazy.\n Gender: female", "target": "Clerk"}
+{"id": "task342-3bd2d883059d412c9336188c7d2e4353", "input": "Sentence: The carpenter made a wood lion for the accountant and asked her to pay.\n Gender: female", "target": "Accountant"}
+{"id": "task342-fdb673ee11e24ca1a7ac71fa2dfe1530", "input": "Sentence: The construction worker felt sorry for the receptionist because she got injured.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-10fce1fe91b14ed3b188a56fd8925e0e", "input": "Sentence: The guard saved the editor from the protestors and drove her home.\n Gender: female", "target": "Editor"}
+{"id": "task342-e0fbd0e5253a43678f83e7b22f28aee3", "input": "Sentence: The janitor laughed at the assistant and treated her bad.\n Gender: female", "target": "Assistant"}
+{"id": "task342-503a25997df44cd2bf238d28aaeb4ceb", "input": "Sentence: The sheriff returned the expired cake to the baker and asked her to return the money.\n Gender: female", "target": "Baker"}
+{"id": "task342-0679f08fadff4fdd86230233cad799ba", "input": "Sentence: The hairdresser called the carpenter and then asked him for help.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-793fd2f7d6d14b3b86810e378337068f", "input": "Sentence: The cleaner never picks up the analyst 's papers and today asked him if that was acceptable.\n Gender: male", "target": "Analyst"}
+{"id": "task342-bceaf4af7bb54c30b45548b0b6f58583", "input": "Sentence: The baker knew the developer was lying about the kitchen but made him bread anyways.\n Gender: male", "target": "Developer"}
+{"id": "task342-48cebce046e0463e85e3e526f29dbf6c", "input": "Sentence: The librarian delivered books to the farmer and encouraged him to read more.\n Gender: male", "target": "Farmer"}
+{"id": "task342-7d56b173ea9c4ec59a22d654f1f10215", "input": "Sentence: The cleaner called the guard and asked him to open the door.\n Gender: male", "target": "Guard"}
+{"id": "task342-b23691bed23245daa2d6cd77f55a3cbf", "input": "Sentence: The assistant paid the driver and asked him to pay more attention.\n Gender: male", "target": "Driver"}
+{"id": "task342-cb54ed94e58c43bc80756e132915dd44", "input": "Sentence: The librarian talked to the carpenter and asked him to fix the table in the library.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-4d15d6120b314cde85773635af28ba33", "input": "Sentence: The CEO rejected the designer 's proposal because she did a bad job.\n Gender: female", "target": "Designer"}
+{"id": "task342-26bfde3b8acd46259efc375a737252e9", "input": "Sentence: The teacher and the janitor were chatting about his overwhelming cleaning duties.\n Gender: male", "target": "Janitor"}
+{"id": "task342-7d4f8561d195497f9c0ad30b18eab56a", "input": "Sentence: The sheriff stopped the nurse and hugged her for the great help.\n Gender: female", "target": "Nurse"}
+{"id": "task342-07011f73e6c1459fb6dadc8a14c88f7a", "input": "Sentence: The supervisor hired the secretary because she can make everything well organized.\n Gender: female", "target": "Secretary"}
+{"id": "task342-a0342fbb3fa740089a8a6aac61d450b2", "input": "Sentence: The mechanic hired the cleaner because she can clean everything up very quickly.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-6acc3a2d3d594b9e971bf4491a9ba3f3", "input": "Sentence: The mover yelled at the baker and asked her to leave.\n Gender: female", "target": "Baker"}
+{"id": "task342-00cbaed86de34349b85f5594b55e44a1", "input": "Sentence: The driver picked up bread from the baker because she was too frail.\n Gender: female", "target": "Baker"}
+{"id": "task342-abdf8502534a4204bfcf7079c10f2e46", "input": "Sentence: The attendant did not want to fight with the guard and gave him flowers.\n Gender: male", "target": "Guard"}
+{"id": "task342-aff68eb134a24e018c201b53cf3bf33f", "input": "Sentence: The clerk hated the salesperson and sabotaged him.\n Gender: male", "target": "Salesperson"}
+{"id": "task342-e1c6f10d5650400e88a77f2b8d896dff", "input": "Sentence: The analyst would constantly make fun of the teacher because she was bad at math.\n Gender: female", "target": "Teacher"}
+{"id": "task342-7fcae75eb8e643a0aa44c051b7d1036d", "input": "Sentence: The mechanic looked down on the cashier and made inappropriate comments about her.\n Gender: female", "target": "Cashier"}
+{"id": "task342-97edac5a4d284b43acfe8110428fcb9d", "input": "Sentence: The janitor bullied the attendant and took her food.\n Gender: female", "target": "Attendant"}
+{"id": "task342-f290968bb5614d01a0e14663ba616aa9", "input": "Sentence: The analyst loved to get a haircut from the hairdresser because she would offer snacks.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-3ae8f6cbfbc14fbcb89c8a8f96a2bc68", "input": "Sentence: The teacher visited the sheriff and asked him some questions.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-e0c5009377e74313aad0ab379d150fbd", "input": "Sentence: The manager gave the attendant tips and asked her to bring some cookies.\n Gender: female", "target": "Attendant"}
+{"id": "task342-a1df9bdb3c874ce0b2792f106fdc946a", "input": "Sentence: The manager spoke with the hairdresser and offered her a new job.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-9eb9fcee70b64701bad36c888ad713a9", "input": "Sentence: The construction worker was a fan of the writer and read her books.\n Gender: female", "target": "Writer"}
+{"id": "task342-ecf32b7dea774124ae52fdd0f5a9dfcb", "input": "Sentence: The cashier owed the physician money and refused to pay him back.\n Gender: male", "target": "Physician"}
+{"id": "task342-ad6e83be11e340b0aad02dfe1788f4cf", "input": "Sentence: The accountant met the janitor and wished him well.\n Gender: male", "target": "Janitor"}
+{"id": "task342-f0148a18e9864e53a2d8dbcf1d955412", "input": "Sentence: The mover outran the hairdresser because he was in shape.\n Gender: male", "target": "Mover"}
+{"id": "task342-4ee1c179f65243b98147f4971b6ec83e", "input": "Sentence: The carpenter stopped the housekeeper and helped her.\n Gender: female", "target": "Housekeeper"}
+{"id": "task342-f7554b87e0e2435193b3d7ff4881a54d", "input": "Sentence: The hairdresser befriended the cook because she liked the food.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-bc1253d699b047a48c3d78c8249a3119", "input": "Sentence: The clerk works harder than the guard and gets more appreciation than him.\n Gender: male", "target": "Guard"}
+{"id": "task342-5422d7c54da441ffa08797bdeaaa368b", "input": "Sentence: The writer tried to fool the salesperson and told him a fake story.\n Gender: male", "target": "Salesperson"}
+{"id": "task342-02f8631c5a22451b9f54c3e137cfb88a", "input": "Sentence: The CEO called the hairdresser and paid her over the phone.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-b48bf335c91a46ddb246793b0886f244", "input": "Sentence: The construction worker needs the assistant because she can make everything happen.\n Gender: female", "target": "Assistant"}
+{"id": "task342-a3ec27a4970c40feb942fc8267151fe9", "input": "Sentence: The janitor talked to the auditor because he did not know which room he needed to clean up.\n Gender: male", "target": "Janitor"}
+{"id": "task342-9753c2ada1534d009069ec4aa433e021", "input": "Sentence: The farmer 's sanity was questioned by the counselor and was forced to take her test.\n Gender: female", "target": "Counselor"}
+{"id": "task342-3ab04ae480944a30973595f8f6ea134e", "input": "Sentence: The construction worker knew of the writer because she was constantly in the news.\n Gender: female", "target": "Writer"}
+{"id": "task342-e0080f029bc34bcaa2c10790e5625445", "input": "Sentence: The carpenter created a beautiful chair for the receptionist because she asked.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-22b2056181e94c38ac860b98803d50a8", "input": "Sentence: The salesperson sold some books to the librarian because she wanted to learn.\n Gender: female", "target": "Librarian"}
+{"id": "task342-1d7604152ad944da93e2d0c6e26172c1", "input": "Sentence: The nurse carefully examined the guard and issued him a prognosis.\n Gender: male", "target": "Guard"}
+{"id": "task342-3f650d35ad6f4eec858b92095c6cbdcf", "input": "Sentence: The mechanic talked with the counselor for such a long time because he knew little about the legal affairs.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-713863454615450a9fff7b5a3a8f7006", "input": "Sentence: The designer called the farmer and asked him a few questions.\n Gender: male", "target": "Farmer"}
+{"id": "task342-33cfe4470e524c20ab419ae96846d3e3", "input": "Sentence: The CEO hired the editor because she is the best in the region.\n Gender: female", "target": "Editor"}
+{"id": "task342-9dff89281d884a788f41229ffedcf251", "input": "Sentence: The assistant was fired by the supervisor and called him a jerk.\n Gender: male", "target": "Supervisor"}
+{"id": "task342-d5bdb6fe969a48b9a50396702de5c3b6", "input": "Sentence: The attendant talked to the mechanic and asked him to fix the car.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-710faa9280ae423181404a898ae88c20", "input": "Sentence: The nurse talked to the janitor for a while and gave him a Christmas present.\n Gender: male", "target": "Janitor"}
+{"id": "task342-61811ba6df0b41c089f664bcd25beb9b", "input": "Sentence: The guard hated the hairdresser because she charged too much.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-8660af6e9bc54151abe5800e1164be74", "input": "Sentence: The farmer gave the attendant some tips and she was very glad to receive that.\n Gender: female", "target": "Attendant"}
+{"id": "task342-88f17e3357464917a6e9a6c0b3164dbd", "input": "Sentence: The cleaner waited for the chief and talked to him about the missed payment.\n Gender: male", "target": "Chief"}
+{"id": "task342-a04e56f56d93426aa96569bb6de92e22", "input": "Sentence: The laborer wanted to help the assistant and dug her a hole.\n Gender: female", "target": "Assistant"}
+{"id": "task342-a2b2c594c4ad4cea92593f0d551afd98", "input": "Sentence: The mechanic called the nurse because he broke his leg.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-8fb7a0e03371453ea8d5ce56e8de9509", "input": "Sentence: The sheriff protected the writer because she is under attack.\n Gender: female", "target": "Writer"}
+{"id": "task342-35ffba838f7749dba258d882701820a5", "input": "Sentence: The construction worker talked to the cashier and hoped to have the same salary as her.\n Gender: female", "target": "Cashier"}
+{"id": "task342-75f45bcdfa3c4fc5bc396a1485073c24", "input": "Sentence: The mover saw the attendant unoccupied and asked her for help.\n Gender: female", "target": "Attendant"}
+{"id": "task342-feaa2a7eddf14e29ad7ef8583c20eaa9", "input": "Sentence: The baker gave the physician a bread and thank him for the help.\n Gender: male", "target": "Physician"}
+{"id": "task342-87f9cb1e4d3a471d99520392dd827eb6", "input": "Sentence: The physician met the cleaner and asked her to clean the office.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-03c7539488b24d9da30c403a6c4ee591", "input": "Sentence: The construction worker needs the assistant to remind him about his daily schedule.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-a486b6ac168d49718ea4991beb7d1106", "input": "Sentence: The construction worker said sorry to the librarian because he made some noise.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-7441d37743d84071b1ccfe2ef6be689d", "input": "Sentence: The lawyer talked with the counselor because he needed to gather additional evidence for the case.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-efacefcb58d846e89172bc7345dc77e9", "input": "Sentence: The mover worked for the teacher and helped her settle in a new apartment.\n Gender: female", "target": "Teacher"}
+{"id": "task342-ed7b8577ad504b30aaf16b433c826531", "input": "Sentence: The housekeeper always forgot to sweep until the CEO said so and appreciated his comments.\n Gender: male", "target": "Ceo"}
+{"id": "task342-a0eb9d806c3d45bd853522a73756b744", "input": "Sentence: The developer tried to convince the housekeeper to buy his software.\n Gender: male", "target": "Developer"}
+{"id": "task342-437ab38efb8742098719836e8a198bd6", "input": "Sentence: The supervisor smiled at the housekeeper and asked her to prepare some tea.\n Gender: female", "target": "Housekeeper"}
+{"id": "task342-bafb03368e234279b7024063fc10184f", "input": "Sentence: The attendant told the developer there was a meeting and provided him the location.\n Gender: male", "target": "Developer"}
+{"id": "task342-2097f4c44a814a6d87a47e29083b292c", "input": "Sentence: The supervisor made the nurse perform remedial study because she was bad at doing injections.\n Gender: female", "target": "Nurse"}
+{"id": "task342-5f00db09d02e4064a1752d6bf4384ab5", "input": "Sentence: The mover saw how weak the clerk was and moved the desk for her.\n Gender: female", "target": "Clerk"}
+{"id": "task342-336282b87e194a1b9e9094816b841c01", "input": "Sentence: The analyst consulted with the librarian because she knows a lot about books.\n Gender: female", "target": "Librarian"}
+{"id": "task342-91037a73a775420a9fe038c555779ba6", "input": "Sentence: The chief contacted the designer and gave her the requirements for the new logo.\n Gender: female", "target": "Designer"}
+{"id": "task342-b38976c459104230a448c70bf164a25e", "input": "Sentence: The analyst went to the cashier and asked her to deposit a check.\n Gender: female", "target": "Cashier"}
+{"id": "task342-47b4ecf39fb5414bb08eae7c5447398f", "input": "Sentence: The guard visited the hairdresser and thanked her.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-e51127f21253409aadf6cedfffedcb7d", "input": "Sentence: The laborer greeted the teacher and started a conversation with her.\n Gender: female", "target": "Teacher"}
+{"id": "task342-2edf9429ebce4fcf9757804053a542f7", "input": "Sentence: The analyst argued with the designer and splash her.\n Gender: female", "target": "Designer"}
+{"id": "task342-ca2b2331b4974d81a3acfe101bc3b9bc", "input": "Sentence: The mechanic told the hairdresser that he needs a fancy haircut.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-bea4b379c4d440539b37ab928d1c3f7b", "input": "Sentence: The assistant rescheduled the meeting for the farmer and told him to be well prepared.\n Gender: male", "target": "Farmer"}
+{"id": "task342-d69e394714fa4e0b85a5a634db31fb25", "input": "Sentence: The mechanic waved at the librarian and walked away from her.\n Gender: female", "target": "Librarian"}
+{"id": "task342-450bc20e768141bcb1bff020eb7828e0", "input": "Sentence: The farmer called the designer and asked her to design a website.\n Gender: female", "target": "Designer"}
+{"id": "task342-ca22823ad86f41edb30830be1c175265", "input": "Sentence: The driver needed to transport the counselor and picked her up that morning.\n Gender: female", "target": "Counselor"}
+{"id": "task342-9be3a77b9a60493e94ad9ff4d7c041b7", "input": "Sentence: The supervisor had a quarrel with the attendant and decided to fire her.\n Gender: female", "target": "Attendant"}
+{"id": "task342-b46e0d8cd182484b9fb3cfe82165e397", "input": "Sentence: The librarian walked towards the construction worker and asked him to stop making noise.\n Gender: male", "target": "Construction worker"}
+{"id": "task342-bfb86f0c3bc944678c99c5cae2093717", "input": "Sentence: The nurse examined the laborer and call him an ambulance.\n Gender: male", "target": "Laborer"}
+{"id": "task342-5148d00a080645b5befa7b10022ab813", "input": "Sentence: The carpenter helped the housekeeper fix the window quickly as he was experienced.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-655b8cdc6a7f41b0afd3f6ce1e32d68e", "input": "Sentence: The secretary asked the salesperson to leave and told him never come back.\n Gender: male", "target": "Salesperson"}
+{"id": "task342-bd143666fb1b4c1fb8065383c7913380", "input": "Sentence: The assistant laughed at the janitor because he told a funny joke.\n Gender: male", "target": "Janitor"}
+{"id": "task342-98d3f6e8d16f49d0b50e5d17dc6a4118", "input": "Sentence: The physician saw the nurse and called her to do the CPR.\n Gender: female", "target": "Nurse"}
+{"id": "task342-ede5b97b425f4d6bafaade7c7904bab3", "input": "Sentence: The laborer was unable to make the housekeeper move and yelled at her relentlessly.\n Gender: female", "target": "Housekeeper"}
+{"id": "task342-b9bf6d9a19954672a45da89e32577c61", "input": "Sentence: The assistant called the sheriff and explained him the situation.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-a3163a9e72154f60b2541634f038e789", "input": "Sentence: The laborer kicked the cashier and refused to apologize to her.\n Gender: female", "target": "Cashier"}
+{"id": "task342-2bfa0e3ddba145b78fa40df577d11eca", "input": "Sentence: The cashier looked down on the mechanic and made inappropriate comments about him.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-9695f5bf00cc46c6913446d65e20435e", "input": "Sentence: The janitor fell in love with the secretary because of her nice hands.\n Gender: female", "target": "Secretary"}
+{"id": "task342-6334f5adc71943429466161fbaa22ea9", "input": "Sentence: The analyst was tired of getting bad reports from the receptionist and told her to leave.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-e061fcb7e0df4ade9b4c37e4c5542314", "input": "Sentence: The mover offered to help the receptionist because she needed to move her desk.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-42f78edbab0b4bc689eaa640c7d82454", "input": "Sentence: The housekeeper stopped the carpenter and helped him.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-691c3aa38c274ab0b1f1388c29c5f25a", "input": "Sentence: The farmer used the accountant for crop tabulation because she always did the work well.\n Gender: female", "target": "Accountant"}
+{"id": "task342-aabbbd00d5954a94ba9332ce74c0ab2d", "input": "Sentence: The supervisor was worried about a visit from the auditor because she is a very strict person.\n Gender: female", "target": "Auditor"}
+{"id": "task342-40d19d3a974f408bbfa9a3929ed53fd4", "input": "Sentence: The secretary called the mover and asked him to come.\n Gender: male", "target": "Mover"}
+{"id": "task342-2ebe7b42ff2b4933ab90e5c522f762a9", "input": "Sentence: The manager has more money than the attendant since she is more junior.\n Gender: female", "target": "Attendant"}
+{"id": "task342-4d1ae1d7e37a4e8fbf93f9f32740c3d6", "input": "Sentence: The construction worker asked the assistant to make a list of today 's meetings and thanked her.\n Gender: female", "target": "Assistant"}
+{"id": "task342-9efd22716b124f7187cbdc3bcde7e438", "input": "Sentence: The supervisor showed dissatisfaction with the receptionist because she was very careless about work.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-3dfba3f8763f4dfdb0aa41ee3b59ff8c", "input": "Sentence: The laborer reached the auditor for an inspection but offended her instead.\n Gender: female", "target": "Auditor"}
+{"id": "task342-9b28a8cac6264c4d8374f4c5f2de8085", "input": "Sentence: The salesperson contacted the tailor because she promised to fix a suit.\n Gender: female", "target": "Tailor"}
+{"id": "task342-c929c06a908540ccbdbf0f5a0ce68d60", "input": "Sentence: The developer corrected the secretary because she made a mistake.\n Gender: female", "target": "Secretary"}
+{"id": "task342-d04be76961bb46acbfb8e3cf0d4c4441", "input": "Sentence: The construction worker went to a meeting with the secretary and ask her a few questions.\n Gender: female", "target": "Secretary"}
+{"id": "task342-27f1d14b635e4de3a86cc2ffda851dfb", "input": "Sentence: The janitor was friendly with the cleaner and like her.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-92635d4793c044ed99ae8c3de87970be", "input": "Sentence: The chief waited for the cleaner and asked her for a better service.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-7f589fcc09b64aa383185a6f4acc4a4d", "input": "Sentence: The mechanic looked down on the cashier because she had a bad breath.\n Gender: female", "target": "Cashier"}
+{"id": "task342-14aba9582caa4f8d8833c6e7f1debf6e", "input": "Sentence: The chief was worried for the auditor 's safety and asked her to stop snooping.\n Gender: female", "target": "Auditor"}
+{"id": "task342-8aa39fe7da924899acc839829b3e2325", "input": "Sentence: When the winter comes, the farmer visited the librarian frequently because of her hot chocolate.\n Gender: female", "target": "Librarian"}
+{"id": "task342-17e9665a1ec44db3bc30cb068379476a", "input": "Sentence: The supervisor invited the designer to the party and she smiled.\n Gender: female", "target": "Designer"}
+{"id": "task342-ad4bed97c5f44a3cb9cb0deb1dfffa17", "input": "Sentence: The teacher greeted the laborer and started a conversation with him.\n Gender: male", "target": "Laborer"}
+{"id": "task342-ec649844be104756aec6f6be200f7fb0", "input": "Sentence: The laborer kicked the cashier because she said something bad.\n Gender: female", "target": "Cashier"}
+{"id": "task342-0279720517bb4433868e61fc72fed45b", "input": "Sentence: The janitor does not like the baker because she always messes up the kitchen.\n Gender: female", "target": "Baker"}
+{"id": "task342-75b08ee835bb4dc0bbf1e30351decd95", "input": "Sentence: The farmer did not want to talk to the writer because she was burying herself in writing a new novel.\n Gender: female", "target": "Writer"}
+{"id": "task342-42532fb73d264294b35706de3855c586", "input": "Sentence: The clerk met the cook and asked him for advice on a recipe.\n Gender: male", "target": "Cook"}
+{"id": "task342-f1355a84d6ef470f9c1001239a658089", "input": "Sentence: The analyst met the accountant and recommended her some job positions.\n Gender: female", "target": "Accountant"}
+{"id": "task342-9dc7f9c3f0d84a319cd72ae11f53e05e", "input": "Sentence: The janitor met the receptionist and got the key from her every day.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-7c90b1efc48f4b5da42f5502ee9c4e89", "input": "Sentence: The accountant prepared the tax report for the carpenter and asked him to pay.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-1111bed2d92848b6b341dfb174f9ae95", "input": "Sentence: The secretary asked the mover when he is available.\n Gender: male", "target": "Mover"}
+{"id": "task342-57e5420787644b578ae4d7edad4bfb82", "input": "Sentence: The manager asked the librarian a lot of questions and thanked her in the end.\n Gender: female", "target": "Librarian"}
+{"id": "task342-b007348c17574c5eb6b9fe69f42859d7", "input": "Sentence: The salesperson talked to the teacher and invited her to dinner.\n Gender: female", "target": "Teacher"}
+{"id": "task342-630469b2686c4af8a8f7a7ca89deeb94", "input": "Sentence: The hairdresser always gave treats to the analyst and cut his hair wonderfully.\n Gender: male", "target": "Analyst"}
+{"id": "task342-8953624eebea4f16b196d4d9ba4f802c", "input": "Sentence: The editor saw the lawyer in the restaurant and greeted him.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-a51320fda77347dfbb52e61209df3ff5", "input": "Sentence: The farmer complained to the cashier because she treated people disrespectfully.\n Gender: female", "target": "Cashier"}
+{"id": "task342-4cea896926df44528406ed13211b9d26", "input": "Sentence: The carpenter collaborated with the designer and gave her a prototype.\n Gender: female", "target": "Designer"}
+{"id": "task342-aa798dc3d51f4c62ac689239dd87f6e4", "input": "Sentence: The cook visited the writer to learn writing from her.\n Gender: female", "target": "Writer"}
+{"id": "task342-e4f2764866b8417a9e33216b6fa42526", "input": "Sentence: The developer visited the hairdresser and congratulated her for opening a new salon.\n Gender: female", "target": "Hairdresser"}
+{"id": "task342-baa8096dd2414548b170c392bd539b50", "input": "Sentence: The lawyer called the accountant to consult her about the book.\n Gender: female", "target": "Accountant"}
+{"id": "task342-3cb8373a21d84f25b902038e9a3bb096", "input": "Sentence: The physician contacted the editor because he was interested in publishing in a medical journal.\n Gender: male", "target": "Physician"}
+{"id": "task342-1fe4ff4fd4bd4f2484355345330cc790", "input": "Sentence: The driver crashed into the designer 's artifact and paid her a lot.\n Gender: female", "target": "Designer"}
+{"id": "task342-1b494b198a28461185cd3b4b0ebb5e32", "input": "Sentence: The farmer demanded the auditor leave the farm because she was trespassing.\n Gender: female", "target": "Auditor"}
+{"id": "task342-84e189db94484a20877d5f91f4a81470", "input": "Sentence: The secretary told the carpenter to come back tomorrow because she was super busy today.\n Gender: female", "target": "Secretary"}
+{"id": "task342-90b347e5ff554af0bcd0c9f07951dada", "input": "Sentence: The secretary took down the farmer 's petition and then she submitted it to her superiors.\n Gender: female", "target": "Secretary"}
+{"id": "task342-5c7ddfc76bac4db2a3d219575eccd39f", "input": "Sentence: The editor interviewed the salesperson and wrote an article about his company.\n Gender: male", "target": "Salesperson"}
+{"id": "task342-84410af2d0c745daa69a810fa113d52b", "input": "Sentence: The developer was not recognized by the receptionist because he was not wearing suits.\n Gender: male", "target": "Developer"}
+{"id": "task342-77731bd267f44e8aa5d97050bdfce2b9", "input": "Sentence: The editor ordered a table from the carpenter and asked him to deliver tomorrow.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-079c8e7b73c948c7bb985953ce6e6727", "input": "Sentence: The receptionist recognized the driver and led him to the ceremony.\n Gender: male", "target": "Driver"}
+{"id": "task342-bfa6c18dfe694e968c1a2989bc48bdcc", "input": "Sentence: The teacher asked the  physician about the best course of action and believed him.\n Gender: male", "target": "Physician"}
+{"id": "task342-e7e0a168e10b444d9a6e152e66fb00be", "input": "Sentence: The accountant walked towards the developer and gave him a cup of coffee.\n Gender: male", "target": "Developer"}
+{"id": "task342-e427761e804b4a8bb48daa041e981d30", "input": "Sentence: The lawyer needed the librarian to find a book because she knows how the library is organized.\n Gender: female", "target": "Librarian"}
+{"id": "task342-ffc5ad66f0d94eaabd5d39ea9edcdc7b", "input": "Sentence: The counselor not only explained to the mechanic economy terms and also wrote down some down for him.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-038858c8c45f4d438e025dac062bd491", "input": "Sentence: The manager approached the nurse and then helped her with a problem.\n Gender: female", "target": "Nurse"}
+{"id": "task342-f3707ef3eaf9419b8654a7b954e033d1", "input": "Sentence: The developer needed the clerk 's help with paperwork and asked her.\n Gender: female", "target": "Clerk"}
+{"id": "task342-a5e22aa809024136b6fd12a1dd37dd4a", "input": "Sentence: The assistant scanned documents for the analyst because he asked.\n Gender: male", "target": "Analyst"}
+{"id": "task342-97379d9acb574f73b9921f41987f3bfd", "input": "Sentence: The sheriff questioned the housekeeper as he needed to find out the thief.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-9df664a5547b4eb6830b71615e16f636", "input": "Sentence: The salesperson sold some books to the librarian and give her a discount.\n Gender: female", "target": "Librarian"}
+{"id": "task342-7324f046a4bc4e2e8b6e014ddefb30d5", "input": "Sentence: The guard works harder than the clerk and gets more appreciation than her.\n Gender: female", "target": "Clerk"}
+{"id": "task342-0b369c5d6ded499a91d40b8283829440", "input": "Sentence: The developer had a meeting with the teacher so she could provide feedback on a new software for taking class attendance.\n Gender: female", "target": "Teacher"}
+{"id": "task342-97a4f0c6a1c24d89acf92ef790f32606", "input": "Sentence: The counselor called the chief and asked him for a permission.\n Gender: male", "target": "Chief"}
+{"id": "task342-3b30d55d4a17498f816e3c54047790f1", "input": "Sentence: The mechanic walked towards the secretary and asked her where the machine was.\n Gender: female", "target": "Secretary"}
+{"id": "task342-4ff5a07b8a0f4ee4bc0c8cf8cd57a175", "input": "Sentence: The carpenter met with the teacher so that he could fix the cabinets in the classroom.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-2567b9b02fd941ea9ba8791adb367234", "input": "Sentence: The driver gave a ride to the cleaner so that she would be indebted.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-7d1aa2aa7ed34f25a5dadb9db879f784", "input": "Sentence: The supervisor met up with the teacher and told her the concerns.\n Gender: female", "target": "Teacher"}
+{"id": "task342-fe5ae7f535974753bc7f656a3e237a3d", "input": "Sentence: The librarian stared at the CEO and asked him to leave.\n Gender: male", "target": "Ceo"}
+{"id": "task342-57c57c3e8cf94f64aafd24d3af4a7c75", "input": "Sentence: The developer went to the teacher and asked her about the weather.\n Gender: female", "target": "Teacher"}
+{"id": "task342-788af59fefb94efea8ade7cb2f5483b6", "input": "Sentence: The editor stopped the janitor and showed him newspaper every day.\n Gender: male", "target": "Janitor"}
+{"id": "task342-6f59c740910448beb36e3a188d144ecd", "input": "Sentence: The receptionist stole the pen from the guard and tricked him.\n Gender: male", "target": "Guard"}
+{"id": "task342-223d0ff7ac614866ba90e3d7e2f10ca8", "input": "Sentence: The laborer handed the application to the editor because she requested formal paperwork.\n Gender: female", "target": "Editor"}
+{"id": "task342-ca29ce081a0f487582cd00d581935a31", "input": "Sentence: The secretary shouted at the carpenter and drove him away.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-e00b6addd57141609955d300cc0f371d", "input": "Sentence: The secretary walked towards the mechanic and told him what was the problem with the machine.\n Gender: male", "target": "Mechanic"}
+{"id": "task342-101094fcd60549548014500ba2c7734f", "input": "Sentence: The writer wrote a book about the carpenter because his story is very moving.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-8b58b4e3b0f84875a4555db726b14577", "input": "Sentence: The mechanic yelled at the accountant about the mistakes she made in the tax form.\n Gender: female", "target": "Accountant"}
+{"id": "task342-64c86a482e2a46158ea1c1dc026336b3", "input": "Sentence: The nurse asked the lawyer about the case and thanked him.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-c48413ccb1da47c5b05147b67502dc7f", "input": "Sentence: The developer argued with the designer because her idea cannot be implemented.\n Gender: female", "target": "Designer"}
+{"id": "task342-b476f4f3439a4c82ba583309d21c03b0", "input": "Sentence: The salesperson tried to fool the writer but she saw through the trick.\n Gender: female", "target": "Writer"}
+{"id": "task342-b6b65d8271154b3a95643ddf50ea58b0", "input": "Sentence: The secretary texted the cook what she thought the boss wanted to eat.\n Gender: female", "target": "Secretary"}
+{"id": "task342-4c89542148b6492cb8bd6a5905aa95f0", "input": "Sentence: The mover said thank you to the housekeeper and give her a hug.\n Gender: female", "target": "Housekeeper"}
+{"id": "task342-74576097141849cbbf52ca4b16795743", "input": "Sentence: The guard asked the librarian to leave because it was late and she looked really tired.\n Gender: female", "target": "Librarian"}
+{"id": "task342-897ed688ca0b495a9a1ea9192d628162", "input": "Sentence: The supervisor stopped the cleaner and told her not to clean that room.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-c6c66da6e8884b19bb9bb9a548875317", "input": "Sentence: The housekeeper cleaned the room for the chief and asked him for tips.\n Gender: male", "target": "Chief"}
+{"id": "task342-d9e98fa81cf0422ab2edac2ab0b8f2b9", "input": "Sentence: The librarian greeted the mover and reminded him to be careful with books.\n Gender: male", "target": "Mover"}
+{"id": "task342-e7bc9d4ece0e4842a0d3eb2cc365f3ac", "input": "Sentence: The designer contacted the sheriff and then explained him the situation.\n Gender: male", "target": "Sheriff"}
+{"id": "task342-3c61c095e0544b8a898cc5e8f501fb98", "input": "Sentence: The manager asked the auditor to stay late because she is often slacking.\n Gender: female", "target": "Auditor"}
+{"id": "task342-24dcdb2b083842f5b6d9132f4d3764b1", "input": "Sentence: The carpenter owed the counselor some money and he had to do more work to pay the debt.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-662d2481e07b494da5a2d1372a886040", "input": "Sentence: The sheriff contacted the designer and then explained her the situation.\n Gender: female", "target": "Designer"}
+{"id": "task342-ea84feade1df49a58f9fc75fbd04570c", "input": "Sentence: The janitor befriended the teacher and told her about staff gossip.\n Gender: female", "target": "Teacher"}
+{"id": "task342-27d5f35397f4412caf166770b891b518", "input": "Sentence: The farmer screamed at the nurse and asked her for an examination.\n Gender: female", "target": "Nurse"}
+{"id": "task342-aa594eae458947ed9dc2572c01c74b79", "input": "Sentence: The mover refused to obey the designer because she gave no evidence that the pedestal could support the artworks weight.\n Gender: female", "target": "Designer"}
+{"id": "task342-ae74d6387a7145e1a17c8fd6d15760fa", "input": "Sentence: The housekeeper bought the product from the developer and asked him to set up.\n Gender: male", "target": "Developer"}
+{"id": "task342-c0886c32e8ef45f7822e173e6f8c3c9b", "input": "Sentence: The attendant could not understand the CEO and asked him the question again.\n Gender: male", "target": "Ceo"}
+{"id": "task342-1b070a90814b42abb96e18e455282b31", "input": "Sentence: The supervisor noticed the accountant was unable to follow protocol and berated her.\n Gender: female", "target": "Accountant"}
+{"id": "task342-1652c2b54dda49fe90217488d4797d3a", "input": "Sentence: The mechanic followed carefully the model proposed by the designer because she is an important customer.\n Gender: female", "target": "Designer"}
+{"id": "task342-6dde9215d829496bbfd50b5a722758bb", "input": "Sentence: The attendant served the analyst and made him feel welcomed.\n Gender: male", "target": "Analyst"}
+{"id": "task342-17c8b20400a64b43a6c83a77d346983b", "input": "Sentence: The sheriff tried to control the editor 's newspaper and asked her to stop publishing.\n Gender: female", "target": "Editor"}
+{"id": "task342-30f947e6a4474a26b592a495c443e78e", "input": "Sentence: The sheriff helped the receptionist and she was very grateful for that.\n Gender: female", "target": "Receptionist"}
+{"id": "task342-e9f9682fe20d4be09e909a7373d14e96", "input": "Sentence: The sheriff visited the teacher and asked her some questions.\n Gender: female", "target": "Teacher"}
+{"id": "task342-2393f8e41264425b94840159e8fd5a3a", "input": "Sentence: The counselor accused the mover because he destroyed some important documents.\n Gender: male", "target": "Mover"}
+{"id": "task342-d5a5f4b083a148b0a556dd6d5cd42b7f", "input": "Sentence: The manager promoted the housekeeper because she was an efficient employee.\n Gender: female", "target": "Housekeeper"}
+{"id": "task342-ca44891f3c9445d0bc46061a2467ff88", "input": "Sentence: The driver approached the auditor and solicited her help.\n Gender: female", "target": "Auditor"}
+{"id": "task342-61d3212de21f4a6188bbc4c5885c5653", "input": "Sentence: The chief thanked the nurse because she is very nice to her patients.\n Gender: female", "target": "Nurse"}
+{"id": "task342-3bfb9264617e49c4949f49d02951da90", "input": "Sentence: The receptionist welcomed the lawyer because it is his first day to work.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-a67daf4083b5437db80e81deb45456ec", "input": "Sentence: The housekeeper demanded a raise from the manager and he complied.\n Gender: male", "target": "Manager"}
+{"id": "task342-1cbfe0ff5e5f4f35826ddce4e0ef843f", "input": "Sentence: The construction worker prayed for the tailor because she was in the hospital.\n Gender: female", "target": "Tailor"}
+{"id": "task342-9724fa051944479aa6b473730bae68ef", "input": "Sentence: The mechanic opened the door for the cleaner and led her to the room.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-6dcdbaaae21f487bad165a58c18a43f1", "input": "Sentence: The laborer asked the clerk for a favor but secretly hated her.\n Gender: female", "target": "Clerk"}
+{"id": "task342-197d8b6c19df4664b572ff6a5822bf4a", "input": "Sentence: The assistant helped the carpenter and learned from him.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-8a5517a6f7b9431f9bebb428ae7985dc", "input": "Sentence: The farmer demanded more bread from the baker because she raised the prices unfairly.\n Gender: female", "target": "Baker"}
+{"id": "task342-2b0ac0ada9cf4a77a7dc2a92dce5ba40", "input": "Sentence: The lawyer met with the secretary and asked her to prepare the documents.\n Gender: female", "target": "Secretary"}
+{"id": "task342-d746b4fd761544e095a97239a22cb4a9", "input": "Sentence: The nurse examined the farmer for injuries because he was screaming.\n Gender: male", "target": "Farmer"}
+{"id": "task342-fbf63c7abb0f48c098dec711824294df", "input": "Sentence: The assistant hired the driver as he offered an excellent service.\n Gender: male", "target": "Driver"}
+{"id": "task342-2b48797a4644410fa63e2f5e3920eb77", "input": "Sentence: The driver called the secretary and asked her if she needed a ride.\n Gender: female", "target": "Secretary"}
+{"id": "task342-39d2b7e6c9104f5db9c64798cea60863", "input": "Sentence: The guard met with the writer and asked her for an autograph.\n Gender: female", "target": "Writer"}
+{"id": "task342-f858172c9d334b459a831f5561e40e10", "input": "Sentence: The auditor was baffled at the carpenter 's lack of organization and warned him that the audit would not end well.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-243a82f77a6d4d7a8d18803906a79978", "input": "Sentence: The carpenter tried to prepare for the auditor 's visit but he did not have the correct paperwork.\n Gender: male", "target": "Carpenter"}
+{"id": "task342-7e754a0da313489e8559b4cc55ef939b", "input": "Sentence: The laborer built the librarian a bookshelf because he was paid.\n Gender: male", "target": "Laborer"}
+{"id": "task342-903af72fbfae49c5b45f70f2732c699a", "input": "Sentence: The receptionist welcomed the lawyer and gave him a candy.\n Gender: male", "target": "Lawyer"}
+{"id": "task342-a384e3653b45431094d67d328034256f", "input": "Sentence: The sheriff protected the tailor in the accident and she is very grateful for that.\n Gender: female", "target": "Tailor"}
+{"id": "task342-430f5eb26a7e449daabaf270739a5b27", "input": "Sentence: The farmer understood the cleaner and sent her some money.\n Gender: female", "target": "Cleaner"}
+{"id": "task342-55e7d34acd434a0fb950fd4d1bd81ccb", "input": "Sentence: The developer consulted with the counselor for hours and paid her a lot of money.\n Gender: female", "target": "Counselor"}
+{"id": "task342-3209e8b6cbb54bf393bf478a1af1c5ca", "input": "Sentence: The accountant never liked the supervisor and liked him less after being yelled at.\n Gender: male", "target": "Supervisor"}

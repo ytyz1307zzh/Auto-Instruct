@@ -1,0 +1,7 @@
+{
+    "summary": "Given a depate topic, an argument on the topic and a keypoint, answer if the keypoint summarizes the argument",
+    "category": "Text Matching",
+    "domain": "Reviews, Law, Dialogue, Government and Politics, Philosophy, World Religions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

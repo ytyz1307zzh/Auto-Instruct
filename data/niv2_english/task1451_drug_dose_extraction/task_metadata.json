@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence and a drug from the ADE dataset, return the list of tokens that mentions of dose of that particular drug.",
+    "category": "Information Extraction",
+    "domain": "Biology -> Clinical Knowledge, Healthcare",
+    "input_lang": "English",
+    "output_lang": "English"
+}

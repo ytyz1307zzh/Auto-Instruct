@@ -1,0 +1,7 @@
+{
+    "summary": "Generating movie names from PersonX name from coached_conv_pref",
+    "category": "Information Extraction",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,3 @@
+{"id": "task1158-dfcc5e3b11a54b438f0afe6f17b6b7f3", "input": "safe : unlock. walnut : ?", "target": "shell"}
+{"id": "task1158-8691194c503b446d93230f5367546328", "input": "bag : open. shoe : ?", "target": "untie"}
+{"id": "task1158-c8e136a1dd3b47a0ba0c758834a8ad7a", "input": "shoe : untie. drawer : ?", "target": "open"}

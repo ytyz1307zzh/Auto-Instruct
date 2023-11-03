@@ -1,0 +1,58 @@
+{"id": "task922-d0c29031406148db949a0328c63802bc", "input": "Event:PersonX buys a snack. Intent: 1) to fill up on something 2) to enjoy the movie and a treat", "target": "satisfied"}
+{"id": "task922-2018769394cf476eb54bbcc6d71470c6", "input": "Event:PersonX feels very nervous. Intent:", "target": "nervous"}
+{"id": "task922-5da2cff3fcf54dcaa90eaec3fa217b0f", "input": "Event:PersonX helps paint the living room. Intent: 1) to help", "target": "happy"}
+{"id": "task922-a66ccd4b9b324139a221cb62f005718b", "input": "Event:PersonX talks about politics. Intent: 1) vent his frustrations", "target": "angry"}
+{"id": "task922-a7c17ea639334f8ab8544b77280db793", "input": "Event:PersonX moves to another city. Intent: 1) they have a new job", "target": "nervous"}
+{"id": "task922-ebd9317db5404ac2a8318b8497f634fb", "input": "Event:PersonX says okay. Intent: 1) to compromise 2) to agree", "target": "agreeable"}
+{"id": "task922-9154da3afc8c4e41840e04e48d693622", "input": "Event:PersonX makes it home in time. Intent: 1) to eat dinner with the family 2) to be timely 3) to avoid questions", "target": "relieved"}
+{"id": "task922-65c33bef2c9945f3a219f3dc03248308", "input": "Event:PersonX loses PersonY arm. Intent:", "target": "sad"}
+{"id": "task922-b0fee16c2bb8404894cf7670327685ed", "input": "Event:PersonX puts posters. Intent: 1) to promote an event 2) to spread an idea 3) to advertise", "target": "determined"}
+{"id": "task922-71e317dff80347d48058eb07417f97d4", "input": "Event:PersonX grabs PersonY's things. Intent: 1) to assert dominance", "target": "aggressive"}
+{"id": "task922-a46080d8f3c545188e901f7425658509", "input": "Event:PersonX asks PersonY for a date. Intent: 1) to have a relationship", "target": "nervous"}
+{"id": "task922-2eb36464f16b406fb15431caf1bb9278", "input": "Event:PersonX takes a dim view of ___. Intent: 1) to see it", "target": "glad"}
+{"id": "task922-0a33a474a6e34dc885b9f4ecaeb73f69", "input": "Event:PersonX leaves ___ behind PersonY. Intent: 1) to find their way home later.", "target": "lost"}
+{"id": "task922-4fd7f7970b7648e4acf13ec2a0d98054", "input": "Event:PersonX tickles PersonY's funny bone. Intent: 1) to make them laugh", "target": "happy"}
+{"id": "task922-33cddbc8707540abb68d0975b95b443f", "input": "Event:PersonX produces PersonY response. Intent: 1) to help", "target": "helpful"}
+{"id": "task922-6fade4ec9ee84eebaadae606b2b18d40", "input": "Event:PersonX feels very lonely. Intent:", "target": "isolated"}
+{"id": "task922-2c86ae497c4f4e079ac122ce0023ab33", "input": "Event:PersonX talks to PersonX's brother. Intent: 1) to have a conversation", "target": "happy"}
+{"id": "task922-cc4da91815a94ff9a80be0cf692ee564", "input": "Event:PersonX minds another ___. Intent: 1) to be understanding", "target": "like"}
+{"id": "task922-94dcb977218a4116b6116380f697a91d", "input": "Event:PersonX hurts PersonX's head. Intent:", "target": "hurt"}
+{"id": "task922-48ae7b945f1d41278dfe8d3bd2b29302", "input": "Event:PersonX raises ___ to send. Intent: 1) to help the animals 2) to help the children 3) to build a new center", "target": "hopeful"}
+{"id": "task922-45fef81ef29942638f3188737cdb9ba0", "input": "Event:PersonX has a fun time. Intent:", "target": "excited"}
+{"id": "task922-9b0b907dfc6f4e3681ee1313fd7492fc", "input": "Event:PersonX enjoys the beach. Intent: 1) to get fresh air and a peace of mind and also to meet their friends", "target": "happy"}
+{"id": "task922-d83f92493c414ac9b4939bebe58f963f", "input": "Event:PersonX uses PersonY's debit card. Intent: 1) to steal persony's money", "target": "sneaky"}
+{"id": "task922-39160355d3df4b23aced4804b8e592d1", "input": "Event:PersonX holds ___ in place. Intent: 1) to be organized", "target": "satisfied"}
+{"id": "task922-e59c0f1280504f20aea23c1b917bb01f", "input": "Event:PersonX quickly opened ___. Intent: 1) to do something fast", "target": "excited"}
+{"id": "task922-8ba141c3296147bdbf113bc48cb245e9", "input": "Event:PersonX buys PersonY's tickets. Intent: 1) to treat someone", "target": "happy"}
+{"id": "task922-a86d815dd8c0415fbf91f3f2d4aa09c5", "input": "Event:PersonX gets PersonY's back. Intent: 1) revenge on person 2) to return favor to person", "target": "satisfied"}
+{"id": "task922-c121388f1d71406889719c5e01ffd7f4", "input": "Event:PersonX plays ___ with my friend. Intent: 1) to be sociable", "target": "excited"}
+{"id": "task922-afd0b667e8de47ab96c3c92c872fe9b4", "input": "Event:PersonX sells PersonY's car. Intent: 1) to help person out by selling the car. 2) to complete a business deal with person. 3) money.", "target": "relieved"}
+{"id": "task922-493777e267f746df970685a882913ff6", "input": "Event:PersonX seeks PersonY opportunity. Intent: 1) to compete", "target": "determined"}
+{"id": "task922-705f1e6f02124baba18fb6ce39bbd325", "input": "Event:PersonX is driving PersonX's car on the highway. Intent: 1) to go to a concert 2) to be on time 3) to go have fun", "target": "excited"}
+{"id": "task922-7dfd4149db3a4bfe93c0e749cb7547f1", "input": "Event:PersonX boards PersonX's plane. Intent: 1) to take a trip 2) experience flying 3) learn to be a pilot", "target": "excited"}
+{"id": "task922-32ce7b35bbf64b1b8d13155a3987f34a", "input": "Event:PersonX kisses PersonY's lips. Intent: 1) to be physically intimate", "target": "romantic"}
+{"id": "task922-d192d93151924f039dced8f1d6247187", "input": "Event:PersonX lives far away from PersonY. Intent:", "target": "sad"}
+{"id": "task922-b15606cc1d98406d9d6decb7005750a9", "input": "Event:PersonX dots the is and cross the ts. Intent: 1) to be thorough", "target": "satisfied"}
+{"id": "task922-3c66f7c1e3464a8ba466120b26b0388c", "input": "Event:PersonX loves ___ above all things. Intent: 1) to be individualistic 2) to be confident in tastes", "target": "proud"}
+{"id": "task922-c4e170dc51e24f3cbe3f4291bde66541", "input": "Event:PersonX teaches children ___. Intent: 1) the children educated correctly", "target": "proud"}
+{"id": "task922-dd0818c6f59745cd984aff5f6c8759c6", "input": "Event:PersonX confronts PersonY's roommate. Intent: 1) tell them to stop", "target": "determined"}
+{"id": "task922-2324830f7dbe460888c62163d664def7", "input": "Event:PersonX has a best friend named PersonY. Intent:", "target": "happy"}
+{"id": "task922-ddaf20de6b344bddb3f4b038b43eb494", "input": "Event:PersonX spends ___ watching. Intent: 1) time to pass", "target": "bored"}
+{"id": "task922-92e4a0e1bc414a1e8addc9e5517c3cbe", "input": "Event:PersonX stays safe. Intent: 1) to avoid danger", "target": "relieved"}
+{"id": "task922-07a0fd0166a444e59e2efa229e56b19b", "input": "Event:PersonX covers PersonY's face. Intent: 1) to respect the dead", "target": "solemn"}
+{"id": "task922-1a6f88b4f4bb400c8a014c37dc4392fd", "input": "Event:PersonX sleeps peacefully. Intent: 1) to take rest after a long tour", "target": "relaxed"}
+{"id": "task922-38a64c06058c4eecbfdea080c6607141", "input": "Event:PersonX is seven years old. Intent:", "target": "excited"}
+{"id": "task922-0d3e15cd13e4409f916ed8dac1a2154d", "input": "Event:PersonX puts ___ under PersonX's pillow. Intent: 1) feel secure", "target": "safe"}
+{"id": "task922-2107b4d221b348a5a65b92aceb430d41", "input": "Event:PersonX conducts PersonY experiment. Intent: 1) to be helpful", "target": "helpful"}
+{"id": "task922-e03ad2ffe04d4c098dd51cd949f9b6d6", "input": "Event:PersonX puts a ___ together. Intent: 1) to express themselves to others", "target": "creative"}
+{"id": "task922-3c205e8a86784d1f94192d7f2c2faf49", "input": "Event:PersonX can n't afford one. Intent:", "target": "frustrated"}
+{"id": "task922-486a30fa350f4d4aba575b2d04cb093d", "input": "Event:PersonX picks a fight with PersonY. Intent:", "target": "angry"}
+{"id": "task922-2a458d7d41764ee0a47bef51827686d7", "input": "Event:PersonX strokes PersonY's cheek. Intent: 1) person to feel loved", "target": "loving"}
+{"id": "task922-84eed8191c4b44edab9dd945ccc6c8ce", "input": "Event:PersonX drives home from work. Intent: 1) to finally go home after long day at work", "target": "relieved"}
+{"id": "task922-86bd82bfd07b44a4be31e3f6f65ffa58", "input": "Event:PersonX leaves my house. Intent: 1) to go home and go to bed.", "target": "tired"}
+{"id": "task922-50cd6f444a224ea1ac45e1d1367561d2", "input": "Event:PersonX needs extra cash. Intent:", "target": "desperate"}
+{"id": "task922-d351584c01974a4bae3c1b2da87d3105", "input": "Event:PersonX tries to decide. Intent: 1) to order", "target": "indecisive"}
+{"id": "task922-a1caa8e54a7f4936a62ab42ea9843954", "input": "Event:PersonX returns to PersonY's house. Intent: 1) to see the other person", "target": "excited"}
+{"id": "task922-c4d251d3140e48aa871a0962a1bf9b9d", "input": "Event:PersonX loves soccer. Intent:", "target": "excited"}
+{"id": "task922-1a86975b92e84cd6823d3e1fa0905631", "input": "Event:PersonX screams bloody murder. Intent: 1) to show their shock and horror.", "target": "terrified"}
+{"id": "task922-b796f6f2cc024e41b7de143f86f215cd", "input": "Event:PersonX watches ___ all night. Intent: 1) to zone out", "target": "relaxed"}

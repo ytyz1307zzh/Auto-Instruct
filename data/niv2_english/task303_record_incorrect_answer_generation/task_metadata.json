@@ -1,0 +1,7 @@
+{
+    "summary": "Given a passage and a question, write an incorrect answer for the question.",
+    "category": "Wrong Candidate Generation",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

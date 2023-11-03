@@ -1,0 +1,7 @@
+{
+    "summary": "Classification on Dataset Card for DISCOFUSE",
+    "category": "Discourse Relation Classification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

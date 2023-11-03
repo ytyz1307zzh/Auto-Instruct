@@ -1,0 +1,7 @@
+{
+    "summary": "Given an analogy that signifies affordances give the appropriate affordance of the given action",
+    "category": "Word Analogy",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

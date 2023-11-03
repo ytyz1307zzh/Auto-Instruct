@@ -1,0 +1,1 @@
+Given a mathematical question involving subtraction, find the most suitable numerical answer

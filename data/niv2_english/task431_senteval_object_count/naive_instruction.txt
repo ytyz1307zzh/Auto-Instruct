@@ -1,0 +1,1 @@
+Given a sentence, specify singularity or plurality of the object.

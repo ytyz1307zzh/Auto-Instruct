@@ -1,0 +1,1 @@
+Given tweet and it's category, determine whether it's true or false

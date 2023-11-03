@@ -1,0 +1,7 @@
+{
+    "summary": "Given a country, return it's capital city",
+    "category": "Misc.",
+    "domain": "Countries",
+    "input_lang": "English",
+    "output_lang": "English"
+}

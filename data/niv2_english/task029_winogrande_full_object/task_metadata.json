@@ -1,0 +1,7 @@
+{
+    "summary": "Creating a pair of fill in the blank question-answer pairs on objects.",
+    "category": "Question Generation",
+    "domain": "Commonsense -> Concepts and Relations -> Social Commonsense, Commonsense -> Concepts and Relations -> Physical Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

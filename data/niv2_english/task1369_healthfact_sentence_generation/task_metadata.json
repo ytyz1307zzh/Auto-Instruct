@@ -1,0 +1,7 @@
+{
+    "summary": "Generate an explanation for a claim based on a given paragraph",
+    "category": "Explanation",
+    "domain": "Healthcare",
+    "input_lang": "English",
+    "output_lang": "English"
+}

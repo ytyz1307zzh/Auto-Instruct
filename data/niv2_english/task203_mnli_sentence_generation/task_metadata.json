@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context statement, genre, and label indicating agree/disagree/neither with respect to the context statement, generate a sentence that follows the genre and label specifications.",
+    "category": "Sentence Composition",
+    "domain": "History, Fiction, Dialogue, Law, Government and Politics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a sentence judge whether two clausal conjoints have been inverted.

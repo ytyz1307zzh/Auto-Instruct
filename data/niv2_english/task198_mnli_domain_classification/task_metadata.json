@@ -1,0 +1,7 @@
+{
+    "summary": "Given two sentences and 10 genre choices, determine the genre to which the sentences belong.",
+    "category": "Text Categorization",
+    "domain": "History, Fiction, Dialogue, Law, Government and Politics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

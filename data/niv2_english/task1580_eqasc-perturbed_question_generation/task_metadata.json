@@ -1,0 +1,7 @@
+{
+    "summary": "Generating questions for eQASC facts",
+    "category": "Question Generation",
+    "domain": "Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generate a question based on the given steps used to answer it.",
+    "category": "Question Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

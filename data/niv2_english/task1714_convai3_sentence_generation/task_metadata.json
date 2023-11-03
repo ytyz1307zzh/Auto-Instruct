@@ -1,0 +1,7 @@
+{
+    "summary": "Given a user's intent and computer response, predict what will the user's response will be.",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context and a question, predict if a question is answerable or not based on the context.",
+    "category": "Answerability Classification",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

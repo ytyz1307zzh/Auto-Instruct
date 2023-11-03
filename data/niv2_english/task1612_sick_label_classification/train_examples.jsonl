@@ -1,0 +1,400 @@
+{"id": "task1612-9ef1ab6c12c64aaeaac99643682d9349", "input": "sentence_A: A potato is being sliced by a person. sentence_B: A person is playing a piano", "target": "1"}
+{"id": "task1612-764fe46ca08942b1b3212630b8875b6f", "input": "sentence_A: One woman is slowly peeling a potato. sentence_B: The potato is being peeled by a woman", "target": "0"}
+{"id": "task1612-736a4de498904fe4a5038a4b6c0cf110", "input": "sentence_A: A girl in a uniform is playing the flute with a marching band. sentence_B: A girl in a band is playing an instrument", "target": "0"}
+{"id": "task1612-cf2f979a289e478ebd99375e7a29adf0", "input": "sentence_A: The men are not putting suitcases into the trunk of a car. sentence_B: The men are packing suitcases into the trunk of a car", "target": "2"}
+{"id": "task1612-5177264844c24462b0e6e8d290a6a6c3", "input": "sentence_A: Nobody is playing the guitar and singing. sentence_B: The woman is playing a guitar, which is acoustic, and singing", "target": "2"}
+{"id": "task1612-34a0c44a03634696b616afb9b4c77779", "input": "sentence_A: A man who is playing is running with the ball in his hands. sentence_B: A player is running with the ball", "target": "0"}
+{"id": "task1612-1c4364f7597e4941bfbb1eab96602211", "input": "sentence_A: The doctors are healing a man. sentence_B: The doctors are reviving a man", "target": "0"}
+{"id": "task1612-9a51482429de432094a2a279fb44d783", "input": "sentence_A: The guitar is being played by a man. sentence_B: A man is playing the guitar", "target": "0"}
+{"id": "task1612-9e98b3844337451a9ebd91d70a8e1fa4", "input": "sentence_A: A homeless man is holding up a sign and is begging for money. sentence_B: The cat is hungrily drinking milk", "target": "1"}
+{"id": "task1612-d7ae43c36f344ac3863c3e8785da006e", "input": "sentence_A: There is no man eating cereal. sentence_B: A man is eating a bowl of cereal", "target": "2"}
+{"id": "task1612-fc23e219532c4ea2b4b8cb5adb0df99e", "input": "sentence_A: A dog is chasing a ball on the grass. sentence_B: A dog is losing a ball on the grass", "target": "1"}
+{"id": "task1612-36d3e8ff7a0c4e31b5a855c7de552436", "input": "sentence_A: A man is working on the laptop. sentence_B: The man is not feeding the snake with a mouse", "target": "1"}
+{"id": "task1612-e96de256b5e94a8da97479f376483b0f", "input": "sentence_A: A dog is not running towards a ball. sentence_B: A dog is running through a field and is chasing a ball", "target": "2"}
+{"id": "task1612-6b3e4198d7c045279d5d4547bf8e82e3", "input": "sentence_A: A squirrel is lying down. sentence_B: A squirrel is running around in circles", "target": "2"}
+{"id": "task1612-20e68f3641e146f390de8f5020ef253d", "input": "sentence_A: A man is mowing a lawn. sentence_B: A black and white dog is playing with a tattered volleyball in a brown field", "target": "1"}
+{"id": "task1612-69eca95f05c94dd6ac75e19acad81edf", "input": "sentence_A: The girl in blue is chasing the base runner with a number on the jersey. sentence_B: The girl in blue is chasing the player with a number on the jersey", "target": "0"}
+{"id": "task1612-4abc8ec2555346e3a615233fd664a970", "input": "sentence_A: The man is hammering a nail with a camera. sentence_B: The camera man is nailing a hammer to the wall", "target": "1"}
+{"id": "task1612-aeb8e4ec04c141eca54cd8d81d26a6cd", "input": "sentence_A: Four people are walking along a city sidewalk and the one in the green hat is talking on a cell phone. sentence_B: A group of people is walking down the street and a person in a green hat is on the phone", "target": "0"}
+{"id": "task1612-1855d26ea5b442d5af87b79b304abd04", "input": "sentence_A: Two dogs are running and trying to catch a soccer ball. sentence_B: Two dogs are running and trying to catch a ball", "target": "0"}
+{"id": "task1612-80aa88ca47664fa99299024c966a0d17", "input": "sentence_A: The brown dog is running in the snow. sentence_B: A dog is running through the snow", "target": "0"}
+{"id": "task1612-e76cbd31df6c44a3ab65d72604b6584a", "input": "sentence_A: Two men are getting off of an orange raft on the shore. sentence_B: The orange rescue boat is rushing across the water", "target": "1"}
+{"id": "task1612-046bf335f4434dccab8796e051fdccd2", "input": "sentence_A: A man dressed in black is wearing inline skates and performing a trick on a rail. sentence_B: A skateboarder is making a jump off a ramp", "target": "1"}
+{"id": "task1612-087d8039164e4b94bc98ef8db01fcd87", "input": "sentence_A: A grey dog is bouncing a soccer ball on its head in a grass field. sentence_B: A grey dog is bouncing a tennis ball on its head in a grass field", "target": "2"}
+{"id": "task1612-af7e4a85717045199be275867fbbe454", "input": "sentence_A: The man in the straw hat is smoking a cigarette. sentence_B: A cigarette is being smoked by the man in the straw hat", "target": "0"}
+{"id": "task1612-d579c738339944f68154f4593c155ae3", "input": "sentence_A: The woman is cracking two eggs into a glass bowl. sentence_B: A woman is cracking an egg into a bowl", "target": "0"}
+{"id": "task1612-b5c568efd51d442b82cc5ffd647da924", "input": "sentence_A: There is no girl riding a horse. sentence_B: The girl is trotting on the horse", "target": "2"}
+{"id": "task1612-ffc988998b894bbdb077f6b77df366f9", "input": "sentence_A: A man is crouching and holding a camera. sentence_B: There is no tiger cub making a sound", "target": "1"}
+{"id": "task1612-34bdc048a82742739fbe91e1c3281489", "input": "sentence_A: Two boys in white outfits and red protective gear are sparring on a mat. sentence_B: Two children in white outfits and red protective gear are sparring on a mat", "target": "0"}
+{"id": "task1612-444f6310393246119997d734aceb3210", "input": "sentence_A: A man is riding a mechanical bull. sentence_B: A man is playing an instrument", "target": "1"}
+{"id": "task1612-8dd89d9708434e919043c649879d323e", "input": "sentence_A: The muscular black man is dancing and the man behind him is wearing green beads. sentence_B: The muscular man is dancing and the man behind him is wearing green beads", "target": "0"}
+{"id": "task1612-4f13d99ede8648bdaf484b0006819696", "input": "sentence_A: A cyclist is biking in a snowy forest at day. sentence_B: A cyclist is biking in a snowy forest at night", "target": "2"}
+{"id": "task1612-dcd29a647ee644658c8ff1aaecb6aba8", "input": "sentence_A: A woman is slicing a clove of garlic. sentence_B: A woman is washing a big pepper", "target": "1"}
+{"id": "task1612-86f5f508851b4b2ab49220fb2301f4b5", "input": "sentence_A: A young woman is playing the guitar. sentence_B: A girl is playing the guitar", "target": "0"}
+{"id": "task1612-607ec446b7da4792884a8564be5ef660", "input": "sentence_A: Two men are swimming in deep water. sentence_B: Two men are standing in deep water", "target": "1"}
+{"id": "task1612-58d92f8a5c0745279c97d0896818a611", "input": "sentence_A: A woman is riding a horse. sentence_B: A man is opening a package that contains headphones", "target": "1"}
+{"id": "task1612-b5af051879f84dfd8335686a0566f38e", "input": "sentence_A: The woman is stirring meat in a bowl. sentence_B: A lady is mixing a mixture of meat in a bowl", "target": "0"}
+{"id": "task1612-58786367ce824b88bbf153b3254b27a1", "input": "sentence_A: Someone is drilling a hole in a strip of wood with a power drill. sentence_B: Someone is making a hole in a strip of wood with a drill", "target": "0"}
+{"id": "task1612-72a13e58f6c549948843009abfb9daf7", "input": "sentence_A: Some animals are playing wildly in the water. sentence_B: A few animals are playing in the water", "target": "0"}
+{"id": "task1612-7227fd4ded3d4ecd9e5f877665820635", "input": "sentence_A: A woman is cutting meat. sentence_B: There is no woman cutting an onion", "target": "0"}
+{"id": "task1612-1d2fb86c896d400b9ca1cb74472fd18b", "input": "sentence_A: A cat is jumping into a container. sentence_B: A cat is jumping into a box", "target": "0"}
+{"id": "task1612-b6077c67f29c4814ab98995b7b94e46d", "input": "sentence_A: Two dogs and two people are sitting in the woods. sentence_B: Two dogs and two people are walking in the woods", "target": "2"}
+{"id": "task1612-e32ab2e6b150497f89953cf52d9b1ede", "input": "sentence_A: A few men are cheerfully playing cricket. sentence_B: People are playing cricket", "target": "0"}
+{"id": "task1612-a1f93565ce8e44c79b33fac99718fa29", "input": "sentence_A: A black dog on a leash is walking in the water. sentence_B: The dog is on a leash and is walking in the water", "target": "0"}
+{"id": "task1612-5fa2da1b960e41b1a2258d5427fa69e0", "input": "sentence_A: A yellow dog is stopping on white snow on a sunny day. sentence_B: A yellow dog is running on white snow on a sunny day", "target": "2"}
+{"id": "task1612-037c5f33dd0e451e89d9af2db1387117", "input": "sentence_A: Three friends are making faces for the camera. sentence_B: Three friends are making faces for a photo", "target": "0"}
+{"id": "task1612-2af2323e398743dc9e89d994e6c9d119", "input": "sentence_A: The man is standing on a rocky mountain and gray clouds are in the background. sentence_B: The man is standing on a mountain, which is rocky, and gray clouds are in the background", "target": "0"}
+{"id": "task1612-39c5083bd0e443d7aa94df90d7061c1e", "input": "sentence_A: Two sumo wrestlers are fighting. sentence_B: A man is riding a water toy in the water", "target": "1"}
+{"id": "task1612-467adfc7cab84415905c1f877dff574b", "input": "sentence_A: A bike is being ridden by a person. sentence_B: A bike rider in a black and red uniform is standing on a dirt bike", "target": "1"}
+{"id": "task1612-87bc633762e94aae95979fa458078ff1", "input": "sentence_A: A door is being opened by a man. sentence_B: A bald man in a band is playing guitar in the spotlight", "target": "1"}
+{"id": "task1612-c96819a8eba549ccb0fe4597d1639be5", "input": "sentence_A: Several young people are posing for a photo and holding beers. sentence_B: Several young people are posing for a photo and holding drinks", "target": "0"}
+{"id": "task1612-1ec8c1b3dc094f399e97da08f5aebd28", "input": "sentence_A: A white cat perched on a small wooden cabinet is looking outside the window. sentence_B: The cat perched on the table is looking curiously out the window", "target": "0"}
+{"id": "task1612-f89a069671e348008290855eebafc9fd", "input": "sentence_A: A man is playing an electric guitar. sentence_B: A man is playing a guitar", "target": "0"}
+{"id": "task1612-299c3e3808a341b09d6e9bc13488c92d", "input": "sentence_A: Nobody is beating an egg. sentence_B: The woman is stirring eggs in a bowl", "target": "2"}
+{"id": "task1612-ac1de7ef4d9a4a98966e2f9c9a922ed3", "input": "sentence_A: The black and white dog is running indoors. sentence_B: The black and white dog is running in a green yard", "target": "2"}
+{"id": "task1612-453b70433b5943f293e186bca1152758", "input": "sentence_A: There is no cyclist on a yellow bike airborne. sentence_B: A person on a yellow dirt bike is taking a jump", "target": "2"}
+{"id": "task1612-b60d25840e844379b10b8fa871bde65f", "input": "sentence_A: A tree is being cut by a man with an axe. sentence_B: A man is chopping down a tree with an axe", "target": "0"}
+{"id": "task1612-e6e6852b5d8746ad94df69fde245446d", "input": "sentence_A: There is no man slicing some bread. sentence_B: A man is slicing some bread", "target": "2"}
+{"id": "task1612-6c761885654b4a53974ace881499c0f1", "input": "sentence_A: A woman is tapping her fingers on a desk. sentence_B: A woman is tapping her fingers on a table", "target": "0"}
+{"id": "task1612-900f980b831449ae909b2318af31a4be", "input": "sentence_A: A group of people are dancing at a concert. sentence_B: A group of people are dancing in a show", "target": "0"}
+{"id": "task1612-283dc645676e4d9b87785a3838edd5f4", "input": "sentence_A: Two children are playing on a statue. sentence_B: Some children are playing on a statue", "target": "0"}
+{"id": "task1612-210ac96ef2ee4c39b0dc26a8b7123040", "input": "sentence_A: A tan dog is splashing in the water on the bank of a pond. sentence_B: A light brown dog is sprinting in the water", "target": "1"}
+{"id": "task1612-5dbe09cd8eb54662af33a0e662879854", "input": "sentence_A: A black and white dog is carrying a big stick on the green grass. sentence_B: A black and white dog with a large branch is running in the field", "target": "0"}
+{"id": "task1612-c7b8ca89ca724e18b837d6a94841abbd", "input": "sentence_A: There is no woman chopping up an octopus. sentence_B: The woman is cutting cooked octopus", "target": "2"}
+{"id": "task1612-4bf492771e054dcb8c1ed4ebce9d4166", "input": "sentence_A: A man is untying a shoe. sentence_B: A man is tying a shoe", "target": "1"}
+{"id": "task1612-3348168c08a54bf6b8126f53365131c6", "input": "sentence_A: A deer is jumping over a cyclone fence. sentence_B: The deer is jumping over the fence", "target": "0"}
+{"id": "task1612-b916157527cb4a4baa26059fbc6783bb", "input": "sentence_A: The woman is penciling on eyeshadow. sentence_B: A woman is applying cosmetics to her eyelid", "target": "0"}
+{"id": "task1612-1f4967344451456a9fc3366d0b66a596", "input": "sentence_A: A group of people are marching. sentence_B: A group of people are standing", "target": "1"}
+{"id": "task1612-ee6adf38fd8a4728bd9a1e30d2bf270e", "input": "sentence_A: A man with no shirt is jumping over a log. sentence_B: A shirtless man is jumping over a log", "target": "0"}
+{"id": "task1612-4ae643bb50824c1fb2f345b0749de745", "input": "sentence_A: A man is slicing an onion. sentence_B: An onion is being sliced by a man", "target": "0"}
+{"id": "task1612-e25289dff2094ccbbf278d9c019dde0e", "input": "sentence_A: The violin is being played by a little girl on a beach. sentence_B: A woman is cooking fish", "target": "1"}
+{"id": "task1612-f1f8d7e1075d4670aecaa2646bcd1e5d", "input": "sentence_A: A man is chopping butter into a small container. sentence_B: A man is chopping butter into a container", "target": "0"}
+{"id": "task1612-917665c4ef764109a2d4de8740b5c002", "input": "sentence_A: A man is removing some food from a box. sentence_B: A man is putting some food in a box", "target": "1"}
+{"id": "task1612-3c73c0657ef2434eae4993eee01d8440", "input": "sentence_A: The tall person is setting fire to the cameras. sentence_B: The person is setting fire to the cameras", "target": "0"}
+{"id": "task1612-dc4ce1088d814cca88ffd040e3a7e49f", "input": "sentence_A: The woman is slicing a tomato. sentence_B: Someone is cutting a tomato", "target": "0"}
+{"id": "task1612-10f833a98a3b483c999d6877af115237", "input": "sentence_A: There is no man on a bicycle riding on the beach. sentence_B: A person is riding a bicycle in the sand beside the ocean", "target": "0"}
+{"id": "task1612-602c560ca92a43ed8cf30367cd39e7d5", "input": "sentence_A: A boy of young age is playing in the park with his mother. sentence_B: A young boy is playing in the park with his mother", "target": "0"}
+{"id": "task1612-ff3a59ddd28c4730a3786c700653592e", "input": "sentence_A: A person is peeling a banana. sentence_B: A banana is being peeled by a person", "target": "0"}
+{"id": "task1612-d417bbafe04748c69ff6814c14c31f48", "input": "sentence_A: A tattoo is being drawn by the woman in the white sweater on the hand of a teenager. sentence_B: The woman in the white sweater is drawing a tattoo on the hand of a teenager", "target": "0"}
+{"id": "task1612-46884f10e37b495dbba5f7014c9e227d", "input": "sentence_A: A dog is emerging from a lake. sentence_B: An animal is emerging from a lake", "target": "0"}
+{"id": "task1612-ed55ac4c2a974475baa784a4db6f1c4f", "input": "sentence_A: A woman is tapping her fingers on a table. sentence_B: A woman is tapping her fingers", "target": "0"}
+{"id": "task1612-6276edeedd8b444795e51af84e4655be", "input": "sentence_A: The man is singing and playing the guitar. sentence_B: A man is playing a guitar", "target": "0"}
+{"id": "task1612-f27b74448d6643d6897e2efd1e7521d4", "input": "sentence_A: The man is skillfully playing the guitar. sentence_B: The man is playing a guitar", "target": "0"}
+{"id": "task1612-008dd63c1760497e9cb7989b42f9ba37", "input": "sentence_A: The man surrounded by photographers is wearing a gray suit and glasses. sentence_B: The man surrounded by men with a camera is wearing a gray suit and glasses", "target": "0"}
+{"id": "task1612-faac22681229467696908a506d265029", "input": "sentence_A: The snowboarder is jumping off the snow. sentence_B: A snowboarder is jumping off the snow", "target": "0"}
+{"id": "task1612-faaee6695e0849e381105a71da6e3cd6", "input": "sentence_A: A boy is climbing up a wall artificially built for climbing and is attached to a rope. sentence_B: A climbing boy rescues the fearful cat from over the wall", "target": "1"}
+{"id": "task1612-108b9ff115554de192e0e95ad6b3be52", "input": "sentence_A: A woman is marching with a pair of dogs. sentence_B: A woman is showing a dog with very short hair at a dog show", "target": "1"}
+{"id": "task1612-47e5ab7ebf484ac5835724f08fc3c9e4", "input": "sentence_A: A white hat is being worn by a boy which is running on the beach. sentence_B: A boy is wearing a white hat and is running on the beach", "target": "0"}
+{"id": "task1612-89c38e6f2126480a879de04bfe6a8a97", "input": "sentence_A: The boy is enthusiastically playing in the mud. sentence_B: The boy is playing in the mud", "target": "0"}
+{"id": "task1612-4a2583fcd6284769bd3578485f16139e", "input": "sentence_A: A man is hungrily eating a bowl of cereal. sentence_B: The man is eating cereal", "target": "0"}
+{"id": "task1612-f154362b812c421c97a0aa3866ad5459", "input": "sentence_A: A tiger is not walking around. sentence_B: Some people are walking", "target": "1"}
+{"id": "task1612-dbb65d7ac3e3443ea309c2725eee3e93", "input": "sentence_A: One cat is playing with a watermelon. sentence_B: The cat is playing with a watermelon", "target": "0"}
+{"id": "task1612-3f7ad7f3ae5040f2b0521bcb72d3fa92", "input": "sentence_A: There is no man pouring cleaner into the sink. sentence_B: A man is pouring cleaner into the sink", "target": "2"}
+{"id": "task1612-aaac57d5188b42e7b5dd85a907321236", "input": "sentence_A: Two dogs are playing by a tree. sentence_B: There is no dog leaping in the air", "target": "1"}
+{"id": "task1612-634356c525be4de49a9195a4251162b6", "input": "sentence_A: A woman in a bikini is pulling a dog on a leash at the seashore. sentence_B: A woman in a bikini is pulling a dog on a leash at the beach", "target": "0"}
+{"id": "task1612-14796120a0f04566b2c7963df43e0b73", "input": "sentence_A: A person is not playing the keyboard. sentence_B: A man is playing a keyboard", "target": "2"}
+{"id": "task1612-8a14c20dbe904b6aaa448b5410ab57a7", "input": "sentence_A: The man is going into the lake. sentence_B: The person is going into the water", "target": "0"}
+{"id": "task1612-fecda64611e04f81b3793aeb14108d4b", "input": "sentence_A: The man is intensely playing the guitar. sentence_B: The intense man is a guitar player", "target": "1"}
+{"id": "task1612-09c12b3692e4436c81184b60ecf1c8fc", "input": "sentence_A: A lady is cutting up some meat precisely. sentence_B: A lady is cutting up some meat", "target": "0"}
+{"id": "task1612-462f053b8b584231b52525aaf9dc8d53", "input": "sentence_A: There is no man playing a harp. sentence_B: A man is playing a harp", "target": "2"}
+{"id": "task1612-311646cefcfa4465bd8affd9d0482945", "input": "sentence_A: A kid is singing and playing a guitar. sentence_B: A kid is playing the guitar", "target": "0"}
+{"id": "task1612-c9feecdeaeaf420082d7603740b815e4", "input": "sentence_A: A man is doing a skateboard trick on an outdoor park porch. sentence_B: A person is doing a trick on a skateboard", "target": "0"}
+{"id": "task1612-e0a5f67e83a5452a936055b6ceb096e1", "input": "sentence_A: One white dog and one black one are cheerfully running side by side on the grass. sentence_B: A black and a white dog are joyfully running on the grass", "target": "0"}
+{"id": "task1612-f78ed172038e496993acbe96d24cb35b", "input": "sentence_A: A bike rider in a black and red uniform is standing on a dirt bike. sentence_B: Five adults are sitting on stone steps", "target": "1"}
+{"id": "task1612-bd948be03a4e48b38786f70844a4bc18", "input": "sentence_A: A horse and its rider are leaping over a barrier. sentence_B: The horse is leaping over the rider at the barrier", "target": "1"}
+{"id": "task1612-e236b66905ad499c9eae5992f7e0623c", "input": "sentence_A: The man is standing steadily next to a birdcage. sentence_B: The man is standing next to a bird cage", "target": "0"}
+{"id": "task1612-d5519b8274b2445781d182f64c0258b6", "input": "sentence_A: A man is emptying a container made of plastic. sentence_B: A man is carelessly dropping a frog", "target": "1"}
+{"id": "task1612-0de6134fbbb344158d8622f2764ea341", "input": "sentence_A: The motocross rider is wearing blue and black pants. sentence_B: A biker with a blue jacket, black pants and a white helmet is driving recklessly on dirt and people watch", "target": "1"}
+{"id": "task1612-c20dc8dd4cfb40938443db322364ef3a", "input": "sentence_A: A woman is slicing an onion. sentence_B: A woman is slicing garlic", "target": "1"}
+{"id": "task1612-01dc384fc37c49a68623d8c232c6f710", "input": "sentence_A: There is no man playing the piano with his nose. sentence_B: A man is playing the keyboard with his nose", "target": "2"}
+{"id": "task1612-25e82af3fe1941f38216032ab73df2c4", "input": "sentence_A: A man is showing off a small monkey. sentence_B: A man is holding a big animal in one hand", "target": "1"}
+{"id": "task1612-b6386d9148134e46a23717ead30c1cf3", "input": "sentence_A: The woman is happily playing a guitar, which is acoustic, and singing. sentence_B: The woman is playing a guitar, which is acoustic, and singing", "target": "0"}
+{"id": "task1612-884948aef08f4063a207a6e2be53b6da", "input": "sentence_A: A nude lady is walking in front of a crowd in body paint. sentence_B: A topless girl is covered in paint", "target": "0"}
+{"id": "task1612-4b40ddb7563646b78f5a9a348bbf528f", "input": "sentence_A: A couple standing on the curb. sentence_B: A man and a woman are standing on the curb", "target": "0"}
+{"id": "task1612-a5dbc0ef097f4484815af7a36d9bdf2f", "input": "sentence_A: A schoolgirl with a black bag is on a crowded train. sentence_B: A girl with a black bag is on a crowded train", "target": "0"}
+{"id": "task1612-56b9dde28842461ebbccef8d233c83d1", "input": "sentence_A: A young boy is singing and playing a guitar. sentence_B: A kid is playing the guitar", "target": "0"}
+{"id": "task1612-bcdd4dfec9164a578eada5eeb7588954", "input": "sentence_A: The woman is adding sugar to the meat. sentence_B: A woman is adding spices to some meat", "target": "0"}
+{"id": "task1612-7476539929564d1ab23f7156cc636c9a", "input": "sentence_A: A man on inline skates is skating at a skate park. sentence_B: A man on inline skates is skating at a park built for skating", "target": "0"}
+{"id": "task1612-85ffca6cb13f4e55af5564193fbd910b", "input": "sentence_A: A door is being opened by a man. sentence_B: A man is opening a door", "target": "0"}
+{"id": "task1612-6879f0edd5c74ea79759222e76bab298", "input": "sentence_A: There are no people flipping the tires of a tractor. sentence_B: Two people in a race are flipping the tires of a tractor", "target": "2"}
+{"id": "task1612-df8cad9282e34b22b1ff0b4c90e8a732", "input": "sentence_A: There is no little black dog chasing a little brown dog. sentence_B: A brown dog and a black dog are in the grass", "target": "1"}
+{"id": "task1612-e36d26a808c54e198b0da6e34cf379c7", "input": "sentence_A: A happy family is posing by the fireplace. sentence_B: A sad family is posing by the fireplace", "target": "1"}
+{"id": "task1612-a87bf6c6af1b4f7da347acb8861a541e", "input": "sentence_A: The little dog is grabbing the bedroom slipper with its mouth funnily. sentence_B: The little dog is grabbing the bedroom slipper with its mouth", "target": "0"}
+{"id": "task1612-e8a64fc8a32148b8b5adce0d48641528", "input": "sentence_A: The woman is pouring oil into a skillet. sentence_B: A chimp is angrily kicking a target", "target": "1"}
+{"id": "task1612-b425a25aefa14442a53c4b0a37281da6", "input": "sentence_A: Someone is cutting a tomato. sentence_B: The person is slicing a vegetable", "target": "0"}
+{"id": "task1612-c85f70fb818942229ad98becb7d5d194", "input": "sentence_A: There is no man breaking wooden boards with his hand. sentence_B: A man is breaking wooden boards with his hand", "target": "2"}
+{"id": "task1612-1232c2347394476095781371c62adb92", "input": "sentence_A: The boy in blue is running away from the woman in blue. sentence_B: A boy in blue is running away from a woman in blue", "target": "0"}
+{"id": "task1612-441f5044982646c89b0adce8f3ddc8dd", "input": "sentence_A: The practicing person doesn't like the guitar. sentence_B: The guitar is being played by a lady", "target": "1"}
+{"id": "task1612-fdbc4c03c0244f50831128fb3d291a69", "input": "sentence_A: The male, who is dark skinned, is standing on one hand in front of a yellow building. sentence_B: A black man is break dancing on the pavement", "target": "1"}
+{"id": "task1612-71413523c4fe49669488cf2fba572a3e", "input": "sentence_A: A homeless man is holding up a sign and is begging for money. sentence_B: A man in a small city is doing charity work", "target": "1"}
+{"id": "task1612-d35b72fad634489dbd902d4cbdb3c791", "input": "sentence_A: A man is wearing a blue checkered shirt and riding a unicycle in the street. sentence_B: There is no man wearing a long sleeved blue shirt and jeans and riding a unicycle down a street", "target": "2"}
+{"id": "task1612-e4a51237b7ab4bca8a3b8f48c98f13bd", "input": "sentence_A: Two dogs and two people are walking in a wood. sentence_B: Two women with dogs are walking on a forest path", "target": "1"}
+{"id": "task1612-7c57182ff01c4414aeeefec0e4041a73", "input": "sentence_A: A woman is clumsily putting meat in a pan. sentence_B: A woman is putting meat in a pan", "target": "0"}
+{"id": "task1612-2d05865598e94d16b6ee816930bcbbcb", "input": "sentence_A: Children in red shirts are playing in the leaves. sentence_B: Three kids are sitting in the leaves", "target": "1"}
+{"id": "task1612-6fc2822df6414a88acf4c83fca0f44e5", "input": "sentence_A: One man is chopping a log with an axe. sentence_B: A man is chopping a log with an axe", "target": "0"}
+{"id": "task1612-f055ba593793488ca7eaa294b44ec036", "input": "sentence_A: A man is riding a motorcycle. sentence_B: A motorcycle is being ridden by a man", "target": "0"}
+{"id": "task1612-b4e695218e5e4645a66ffd1ed3d44548", "input": "sentence_A: Two dogs are cheerfully playing on the beach. sentence_B: Two dogs are playing on the beach", "target": "0"}
+{"id": "task1612-0158d9d7298e4bb6b56ff80791b6e04f", "input": "sentence_A: The man is removing sliced cucumbers from water. sentence_B: The man is dropping sliced cucumbers into water", "target": "1"}
+{"id": "task1612-d0586e22c530419f95a2757b7ddd87d4", "input": "sentence_A: The man is eating a banana by a tree. sentence_B: A banana is being eaten by a man", "target": "0"}
+{"id": "task1612-00b586fd79b34b42888cb5caa32e25ef", "input": "sentence_A: The snowboarder is leaping over white snow. sentence_B: A leap over white snow is greatly appealing to the snowboarders", "target": "1"}
+{"id": "task1612-2b795a27593c4ffb986aaa1a4ef2d582", "input": "sentence_A: A deer is standing inside a fence. sentence_B: The deer is jumping over the fence", "target": "2"}
+{"id": "task1612-00d860d11584479cabe97f2198671241", "input": "sentence_A: A woman is slicing garlic. sentence_B: A woman is cutting garlic", "target": "0"}
+{"id": "task1612-18fe2f27ceab49ac83e31cdc73970e39", "input": "sentence_A: Two people are sitting on a white bench. sentence_B: Two people are sitting on a bench", "target": "0"}
+{"id": "task1612-7fd935dc0d0646728a91c3afc0f6c155", "input": "sentence_A: A person is absently cutting mushrooms with a knife. sentence_B: A person is cutting mushrooms with a knife", "target": "0"}
+{"id": "task1612-1e74d48f08f84e76b6afb44978e028b7", "input": "sentence_A: The bride and the groom are leaving after the marriage. sentence_B: The bride and the groom are leaving after the wedding", "target": "0"}
+{"id": "task1612-c08fe4660ebf498ba8ac70b2d518df05", "input": "sentence_A: A man is playing a bamboo flute. sentence_B: A flute is being played by the man", "target": "0"}
+{"id": "task1612-54af8e4fe73d4c54b11c8673d2fb1ad5", "input": "sentence_A: A man is standing on the top of the rocks with clouds behind them. sentence_B: One man is standing on the top of the rocks with clouds behind them", "target": "0"}
+{"id": "task1612-60cd9cf0955449cfb1ebdf380c3f4b4f", "input": "sentence_A: A dog is running after a ball in the grass. sentence_B: A dog is chasing a ball on the grass", "target": "0"}
+{"id": "task1612-45dba39d77084c9c93bbcb24063536f2", "input": "sentence_A: Two dogs are running and carrying a toy in their mouths. sentence_B: Two dogs are running and carrying an object in their mouths", "target": "0"}
+{"id": "task1612-be2903c48f7042d48613ae7a7d490667", "input": "sentence_A: The cat is hungrily drinking milk. sentence_B: A lick of milk sauce is being given to the cat", "target": "1"}
+{"id": "task1612-3b991e3500624cefacfacc051e73b3e9", "input": "sentence_A: One man is talking to a girl with an internet camera. sentence_B: One man is chatting with a girl with an internet camera", "target": "0"}
+{"id": "task1612-0d5fc891c9a54e1ab71e00d796e19985", "input": "sentence_A: There is no young child running outside over the fallen leaves. sentence_B: A young child is running outside over the fallen leaves", "target": "2"}
+{"id": "task1612-6768f2c7801e4815920815569a03c71c", "input": "sentence_A: The man and the boy are standing at the bottom of the stairs, which are outdoors. sentence_B: The man is standing outdoor and the boy is falling over the bottom of the stairs", "target": "1"}
+{"id": "task1612-8369ed0a3ecb44b0a73d5fdf618d514e", "input": "sentence_A: No skateboarder is making a jump off a ramp. sentence_B: A man dressed in black is wearing inline skates and performing a trick on a rail", "target": "1"}
+{"id": "task1612-638bdebdd9c94e87b0b0a2158a45fcfb", "input": "sentence_A: Two young men are cheerfully playing outside near a golden statue. sentence_B: Two young men are playing outside near a golden statue", "target": "0"}
+{"id": "task1612-cd1bcaeb12794616beb0291c3b27ec51", "input": "sentence_A: A dog is biting a can. sentence_B: A dog is dropping a can", "target": "1"}
+{"id": "task1612-4ab9338cf60c4c40b3e2c346cd44b501", "input": "sentence_A: A man is playing a guitar. sentence_B: A man is playing a keyboard", "target": "1"}
+{"id": "task1612-76a4595e47ad4ec09fe27a8832462415", "input": "sentence_A: Sign language is being used by a young girl. sentence_B: A girl is communicating with sign language", "target": "0"}
+{"id": "task1612-a5f5d42711be41e0b461d6dadab7de31", "input": "sentence_A: Two cats are playing with a red ball. sentence_B: Two daschunds are playing with a red ball", "target": "1"}
+{"id": "task1612-f6c262b0ba6e45ee9c4a213e26350d7d", "input": "sentence_A: A kid is smiling at the camera and swimming underwater. sentence_B: A child is smiling at the camera and swimming underwater", "target": "0"}
+{"id": "task1612-6020753dd6884182b42e92f866aef5ad", "input": "sentence_A: A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling. sentence_B: A lady of young age, with light brown hair, is wearing a red necklace, a sweatshirt and earrings and is smiling", "target": "0"}
+{"id": "task1612-e24d447c8f5944e698e4ef46c3e382f7", "input": "sentence_A: A few ferrets are climbing out of the cage. sentence_B: Several ferrets are climbing out of the cage", "target": "0"}
+{"id": "task1612-1a6b9500919346aaba81768cdf36fa0d", "input": "sentence_A: The tan dog is not watching a brown dog that is swimming in a pond. sentence_B: A pet dog is standing on the bank and is looking at another brown dog in the pond", "target": "1"}
+{"id": "task1612-e32d7c749da44c3fa1ece0b8ba46a52b", "input": "sentence_A: A man is sprinkling seasoning on several sliced and buttered loaves of bread. sentence_B: There is no man sprinkling seasoning on several sliced and buttered loaves of bread", "target": "2"}
+{"id": "task1612-541fa3c025f94b1095707e6af2f037ae", "input": "sentence_A: A boy is holding a squirt gun. sentence_B: A child is holding a squirt gun", "target": "0"}
+{"id": "task1612-f25e22318830407f8a0a5f2083320ccd", "input": "sentence_A: A man is sitting peacefully on a boat in front of the sunset near a flag. sentence_B: A man is sitting on a boat in font of the sunset, near a flag", "target": "0"}
+{"id": "task1612-33891f7f7c90470fa01f0a3a4187a701", "input": "sentence_A: The girl in the blue coverall is painting. sentence_B: There is no lady holding the paintbrush next to the artist's easel", "target": "1"}
+{"id": "task1612-389c9120e8d049689875ea8ba6872d38", "input": "sentence_A: A man is dancing upside-down on the ceiling. sentence_B: A man is dancing on the ceiling of a room", "target": "0"}
+{"id": "task1612-7c4d1e8ab28c4750a480c3f65dc92201", "input": "sentence_A: The black and white dog is running outdoors. sentence_B: The black and white dog is sitting on a green yard", "target": "1"}
+{"id": "task1612-2a5fc95af0914d5891745ec0ab20e894", "input": "sentence_A: A man in a blue jumpsuit is courageously performing a wheelie on a motorcycle. sentence_B: The man is getting off a motorcycle onto ground which is mostly barren", "target": "1"}
+{"id": "task1612-473bc90a8220432992f532f2efbbc52a", "input": "sentence_A: Two white puppies are playing near a pool. sentence_B: Two white puppies are playing near water", "target": "0"}
+{"id": "task1612-2dac292f53504d678de020ebb15b885b", "input": "sentence_A: A woman is showing a puppy to an infant. sentence_B: A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk", "target": "1"}
+{"id": "task1612-fe76d102221e4f64979008ace65d034f", "input": "sentence_A: A person is combing the fur of a cat. sentence_B: The fur of a cat is being combed by a person", "target": "0"}
+{"id": "task1612-28576868234d4faa9a8f4027d0279f68", "input": "sentence_A: The men are carefully putting suitcases into the trunk of a car. sentence_B: The men are packing suitcases into the trunk of a car", "target": "0"}
+{"id": "task1612-43041dedfa444d6ea1528c22949ef3ce", "input": "sentence_A: A young girl in a blue leotard is jumping in the air. sentence_B: A young girl in blue is jumping in the air", "target": "0"}
+{"id": "task1612-d3fce4153cd24973b5c44ab7bc842bd8", "input": "sentence_A: A boy, who is wearing a blue coat, is being held by his father under an umbrella. sentence_B: A child is experiencing a new world", "target": "1"}
+{"id": "task1612-fe074ae568f74e6f8e47228f72d1b083", "input": "sentence_A: A young oriental girl is standing above the crowd and is playing with a pinwheel. sentence_B: A young oriental girl is standing above people and is playing with a pinwheel", "target": "0"}
+{"id": "task1612-0ce4fcab0413423fa72931f923e5d31c", "input": "sentence_A: Four people are walking on a bridge over a body of water. sentence_B: Four people are sitting on a bridge over a body of water", "target": "1"}
+{"id": "task1612-27fac74ccd974a8cab41db4de115d827", "input": "sentence_A: The man in a grey t-shirt is sitting on a rock in front of the waterfall. sentence_B: The man in a t-shirt dyed grey is sitting on a rock in front of a waterfall", "target": "0"}
+{"id": "task1612-8216f950f6214fb49d6a2fa2f9c6cd74", "input": "sentence_A: A dog with a blue blanket is running through the grass. sentence_B: A dog with a blue muzzle is running around the yard with a jacket", "target": "1"}
+{"id": "task1612-bd136fe85e4e401b96bd0046cb3c89b3", "input": "sentence_A: The person with the green shirt is jumping high over the grass. sentence_B: A person with a green shirt is jumping high over the grass", "target": "0"}
+{"id": "task1612-fb4efb853c2f4f15a62d6edd462bdcf7", "input": "sentence_A: A woman is rock climbing, pausing and calculating the route. sentence_B: A man is rock climbing and a city and a bay are in the background", "target": "1"}
+{"id": "task1612-9bd32df64dcc461aa4a48371d2a26414", "input": "sentence_A: A man is riding a horse in the desert. sentence_B: A horse is being ridden by a guy", "target": "0"}
+{"id": "task1612-66fa5b26c5904c4a884c49a45cd8f390", "input": "sentence_A: A hose is being held by a boy next to a man and another boy is watching. sentence_B: A boy is holding a hose next to a man and another boy is watching", "target": "0"}
+{"id": "task1612-6a68322c22244bf880327f14ef4bcf2d", "input": "sentence_A: A mountain is being climbed by two men. sentence_B: The men are climbing a mountain", "target": "0"}
+{"id": "task1612-a227ed916ab04faa8d88cc7334f9aa14", "input": "sentence_A: There is no man playing guitar. sentence_B: A man is playing guitar", "target": "2"}
+{"id": "task1612-34b2747ebd8c4cdbabd02bb9453062e4", "input": "sentence_A: A ball, which is green and big, is knocking a potato. sentence_B: A large green ball is hitting a potato", "target": "0"}
+{"id": "task1612-8a567c23d1f24604bee836af24d60735", "input": "sentence_A: The man is wearing a wetsuit and is riding a surfboard. sentence_B: A surfer is leaning on a surfboard", "target": "1"}
+{"id": "task1612-4032314e738b435d8fce4f96e34ed766", "input": "sentence_A: The girl is trotting on the horse. sentence_B: The person is trotting on the horse", "target": "0"}
+{"id": "task1612-b6e4e7b2b054421dbc838d29d5c1a7ad", "input": "sentence_A: There is no boy cutting grass with scissors. sentence_B: A boy is cutting grass with scissors", "target": "2"}
+{"id": "task1612-37e5fd1597354c75adffe69a998ca624", "input": "sentence_A: A man by a brick wall is wearing a mask around his mouth and a hair net. sentence_B: A man is wearing a clear plastic cap and a face mask", "target": "1"}
+{"id": "task1612-ca72fca6c3b7475291e3df4b07cd814b", "input": "sentence_A: An animated airplane is landing. sentence_B: The plane is landing", "target": "0"}
+{"id": "task1612-155470715a934be0b07a7d35d7ab5fc5", "input": "sentence_A: A man is performing a handstand on the beach. sentence_B: A handstand is being performed by a man on the beach", "target": "0"}
+{"id": "task1612-f27aaad7c42f4510bccb812270c5b913", "input": "sentence_A: A man is cutting pieces of butter into a mixing bowl. sentence_B: Pieces of butter are being added to the stand mixer", "target": "0"}
+{"id": "task1612-8d6ccaa08157422ab5b1767434a51214", "input": "sentence_A: There is no dog running up a grassy hill. sentence_B: A dog is running up a grassy hill", "target": "2"}
+{"id": "task1612-013f16e09dd84564a15fb2cbe9099094", "input": "sentence_A: Somebody is cutting a tomato. sentence_B: Someone is cutting a tomato", "target": "0"}
+{"id": "task1612-93af32416dd04f20b30a9ed30969d9c5", "input": "sentence_A: Two men are playing table football. sentence_B: Two men are playing table tennis", "target": "2"}
+{"id": "task1612-656a3bc1ac9d4cdca498b6dd40f9d154", "input": "sentence_A: A lady is wearing a black dress and is carrying a white cross. sentence_B: A lady is dressed in black and is carrying a white cross", "target": "0"}
+{"id": "task1612-e3921a18b80241f9824210bbaa7643c0", "input": "sentence_A: There is no brown duck with a green head flapping its wings in the water. sentence_B: A brown duck with a green head is flapping its wings in the water", "target": "2"}
+{"id": "task1612-90ef8b1026154428a40d5d3bc5160fc2", "input": "sentence_A: Somebody is playing the piano. sentence_B: The piano is being played by someone", "target": "0"}
+{"id": "task1612-18a33e99601b4bd2b841cbf21a5a2cd6", "input": "sentence_A: The man is clumsily kick boxing with a trainer. sentence_B: A karate practitioner is kicking at another man who is wearing protective boxing gloves", "target": "1"}
+{"id": "task1612-4714e881ff154ed3b7ba6794a3ef1c2d", "input": "sentence_A: A boy is comfortably sitting in a room and playing a piano by a lamp. sentence_B: A boy is sitting in a room and playing a piano by lamp light", "target": "0"}
+{"id": "task1612-2986196e1d854a6eb2fb810b0785653c", "input": "sentence_A: A cold cyclist is celebrating. sentence_B: There is no cold cyclist celebrating", "target": "2"}
+{"id": "task1612-5f3d5e9e01de4f15971c8bd2e3cd8b2b", "input": "sentence_A: A girl is drawing a man. sentence_B: A man is drawing", "target": "1"}
+{"id": "task1612-09229353303042399e4dd235fc649d1c", "input": "sentence_A: A little dog is running on the sand. sentence_B: No little dog is running on the sand", "target": "2"}
+{"id": "task1612-df469d4b846c4db190eba570fb727149", "input": "sentence_A: The bicycle is being ridden by a man wearing a beret on a recreation trail. sentence_B: A man is wearing a beret and is riding the bicycle on a recreation trail", "target": "0"}
+{"id": "task1612-cfb14f73cb0b47569112d6c5c13f119c", "input": "sentence_A: A squirrel is crazily spinning around in circles. sentence_B: A squirrel is running around in circles", "target": "0"}
+{"id": "task1612-90700ab85a1442569dece658271d5fe3", "input": "sentence_A: A woman is wakeboarding on a lake. sentence_B: The woman is not waterskiing", "target": "2"}
+{"id": "task1612-c5b2f5a3914448d98f0644d9f569ef78", "input": "sentence_A: A man is slicing bread. sentence_B: A person is slicing a piece of bread", "target": "0"}
+{"id": "task1612-6eeabdbc685a4b169561b2f0dd645399", "input": "sentence_A: A young boy is riding a dirt bike through the mud. sentence_B: There is no young boy riding a dirt bike through the mud", "target": "2"}
+{"id": "task1612-2fc42727ac0b45f5bf24099e68dd27f6", "input": "sentence_A: A yellow kayak is being ridden by a man and a young boy. sentence_B: A man and a young boy are riding in a yellow kayak", "target": "0"}
+{"id": "task1612-f7d12a8ca0f449fea72f1447944125ff", "input": "sentence_A: A man is jumping into an empty pool. sentence_B: A man is jumping into a full pool", "target": "2"}
+{"id": "task1612-c3006359077e4174b37d9012ccfefba3", "input": "sentence_A: A little boy in red clothes is jumping onto the ground. sentence_B: A child in a red outfit is jumping on a trampoline", "target": "1"}
+{"id": "task1612-666c98c919ef4c0ea307085849656b32", "input": "sentence_A: A hurdle is being leapt by a horse that has a rider on its back. sentence_B: A horse is leaping a hurdle and has a rider on its back", "target": "0"}
+{"id": "task1612-53ae94316c444381bbf50ac2cfdae5cb", "input": "sentence_A: The content of a bowl is being mixed by a man. sentence_B: A man is mixing the content of a bowl", "target": "0"}
+{"id": "task1612-50d87a84e27f4dd382636344cb147fad", "input": "sentence_A: A bicyclist is holding a bike over his head in a group of people. sentence_B: A lone bicyclist is putting down a bike", "target": "2"}
+{"id": "task1612-c86d4e474951420c9881f3f63e51946b", "input": "sentence_A: The woman is stirring meat in a bowl. sentence_B: There is no lady mixing a meat mixture in a bowl", "target": "2"}
+{"id": "task1612-867fe6b5539f43a1902b18fae672155c", "input": "sentence_A: A little boy is sticking his tongue out for the camera and another boy is looking on. sentence_B: A little boy is sticking his tongue out for the camera and another boy is not looking", "target": "2"}
+{"id": "task1612-8d4bf214b82645adad96cfe899254533", "input": "sentence_A: A man is riding a horse on the beach. sentence_B: A man is riding a horse in the desert", "target": "1"}
+{"id": "task1612-f4db2b0c63244fd29a111a0da7accd3b", "input": "sentence_A: A man is bringing up the rear of the race. sentence_B: A few men in a competition are running outside", "target": "1"}
+{"id": "task1612-4e25fbb9b4b54e35bf738d3bbcc8be62", "input": "sentence_A: A man is dancing on a roof. sentence_B: A man is standing on a roof top and playing a violin", "target": "1"}
+{"id": "task1612-1a085f7234c14283b6f2d7465077b90a", "input": "sentence_A: A surfer is riding a big wave across dark green water. sentence_B: The surfer is riding a big wave", "target": "0"}
+{"id": "task1612-339e15d8d46f45798136225ffe30be1d", "input": "sentence_A: A boy is jumping off a platform and two other boys are standing and watching. sentence_B: Nobody is jumping off a platform", "target": "2"}
+{"id": "task1612-31ce1f2182504492a8fef72d00881db9", "input": "sentence_A: A rhino is grazing in a field. sentence_B: The rhino is not grazing on the grass", "target": "1"}
+{"id": "task1612-f13872ff030546d9903180919acefcc8", "input": "sentence_A: A person is singing and playing the guitar. sentence_B: There is no person singing and playing the guitar", "target": "2"}
+{"id": "task1612-4ce5278cf43e4e38ae36084893e39c30", "input": "sentence_A: There is no man praying. sentence_B: A man is praying", "target": "2"}
+{"id": "task1612-cfeaa9ba3881427bbfe32442e34309b7", "input": "sentence_A: Some cats are playing with each other. sentence_B: The cats are playing with each other", "target": "0"}
+{"id": "task1612-1a566e6fdf9345739d60f367a78f65df", "input": "sentence_A: Rollerbladers are running in formation down a hill. sentence_B: A group of rollerbladers is lining up on the street", "target": "1"}
+{"id": "task1612-8c5727fa58384ded92bbea3c018823b0", "input": "sentence_A: The men are acting on a stage. sentence_B: The men are performing on stage", "target": "0"}
+{"id": "task1612-0b4aacf2275e4096b3be0db0229bad86", "input": "sentence_A: The Jockeys are riding horses on the field, which is completely green. sentence_B: The Jockeys are racing horses on the field, which is completely green", "target": "0"}
+{"id": "task1612-c84109e3ad0d45f7a23bbd67f5192255", "input": "sentence_A: A monkey is teasing a dog at the zoo. sentence_B: A dog is being teased by a monkey at the zoo", "target": "0"}
+{"id": "task1612-9f06e1656aba4025ac588a1d995b4b64", "input": "sentence_A: Four people are walking across thick snow and the sun is setting. sentence_B: Some people are treading through the snow of the beautiful snowy landscape", "target": "1"}
+{"id": "task1612-1adf6d58e352499baaa714f1a3379fd0", "input": "sentence_A: A biker is naked. sentence_B: A biker is wearing gear which is black", "target": "2"}
+{"id": "task1612-e94fd16d24c84c31bd86205df0f66aaf", "input": "sentence_A: A black and white dog is carrying a small stick on the green grass. sentence_B: A black and white dog with a large branch is running in the field", "target": "1"}
+{"id": "task1612-ad5f6035d99a49b490d0466aeb2e8c70", "input": "sentence_A: Two dogs are playing on a beach made of rocks. sentence_B: A black dog is approaching a golden dog on pebbly beach", "target": "1"}
+{"id": "task1612-36284f570cdb464ea5f2f0fe8bfbca3c", "input": "sentence_A: There is no girl playing the piano. sentence_B: A girl is playing the piano", "target": "2"}
+{"id": "task1612-31c99267e35f4900a548929ab0a6b26b", "input": "sentence_A: A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling. sentence_B: A red sweatshirt with a smiling lady upon it is suited to be worn with light brown hair, earrings and a necklace", "target": "1"}
+{"id": "task1612-4d07dcfbc3f643dcb9c04060866cce36", "input": "sentence_A: A woman in an orange shirt and clown makeup is standing in a park and others are looking on. sentence_B: A girl in an orange shirt and clown makeup is standing in a park and others are looking on", "target": "0"}
+{"id": "task1612-930b855d23a14bb894b717aea6af4816", "input": "sentence_A: There is no man making a phone call. sentence_B: A man is making a phone call", "target": "2"}
+{"id": "task1612-9d726ea0ce29462a89ba6d882f7761aa", "input": "sentence_A: A black dog is playing with a brown dog on the sand. sentence_B: There is no brown dog and black dog playing in the sand", "target": "2"}
+{"id": "task1612-2426eae105ef452b856de72c12154d05", "input": "sentence_A: A horse is being ridden by a man. sentence_B: The person is riding the horse", "target": "0"}
+{"id": "task1612-3a784a4602474b1f82055eb429a9ec38", "input": "sentence_A: Four athletes are with a man in a crowded stadium. sentence_B: Four athletes are with a person in a crowded stadium", "target": "0"}
+{"id": "task1612-d897015d2e3e41f493921145dc4a3b81", "input": "sentence_A: A tan dog is resting in the snow. sentence_B: A tan dog is running through the snow", "target": "1"}
+{"id": "task1612-a038741d3a4c47baad81f8d1245a1e6d", "input": "sentence_A: A badger, which is shrewd, is digging the earth. sentence_B: A badger is shrewdly digging the earth", "target": "0"}
+{"id": "task1612-6af7dbf25bdc427fb3f0aaa736000b31", "input": "sentence_A: There is no person cutting an onion. sentence_B: A person is cutting an onion", "target": "2"}
+{"id": "task1612-34d5fdb8560c486abb68cab9f7bcfa78", "input": "sentence_A: A man is playing a wooden flute. sentence_B: A wooden flute is being played by a man", "target": "0"}
+{"id": "task1612-e9f950d324b24528bea1d21b6c150a25", "input": "sentence_A: A young boy is jumping into water. sentence_B: A young kid is jumping into water", "target": "0"}
+{"id": "task1612-a57890077a9346b0bb2432344092ee04", "input": "sentence_A: A soccer player is being tackled by his opponent. sentence_B: Some people playing rugby are tackling each other", "target": "1"}
+{"id": "task1612-c00a941d4183410fa20100305ae4f2c5", "input": "sentence_A: Ingredients are being poured into a bowl by a woman. sentence_B: A woman is pouring ingredients into a bowl", "target": "0"}
+{"id": "task1612-c05dff4f5d954e3caf642b58de2d9685", "input": "sentence_A: A child is experiencing a new world. sentence_B: A boy under an umbrella is being held by his father who is wearing a coat dyed in blue", "target": "1"}
+{"id": "task1612-1eeecebb9a8449d5a7ef15bf318e84a4", "input": "sentence_A: A snowboarder is jumping off the snow. sentence_B: There is no snowboarder jumping off the snow", "target": "2"}
+{"id": "task1612-74b6d333031640deb65b111ad121e9a2", "input": "sentence_A: Three men are jumping on a wall. sentence_B: Three men are jumping off a wall", "target": "2"}
+{"id": "task1612-520f6bebe1fd4289b18bdbe22d86418a", "input": "sentence_A: The man is pacing around a room. sentence_B: A man is sitting on the floor in a room and strumming a guitar", "target": "1"}
+{"id": "task1612-817182b9fd314d3fbd86df22d1b1342c", "input": "sentence_A: A man is chopping an onion. sentence_B: A woman is slicing an onion", "target": "1"}
+{"id": "task1612-dbb8014210664016af8106e05596124b", "input": "sentence_A: A dog is looking around. sentence_B: There is no dog looking around", "target": "2"}
+{"id": "task1612-a1780efb963f4a6987380f4ac48925a0", "input": "sentence_A: A surfer is riding a big wave. sentence_B: The surfer is riding a big wave", "target": "0"}
+{"id": "task1612-4fb8113f8a884ac09b4d58b14051fe30", "input": "sentence_A: A crowd of people is near the water. sentence_B: A crowd of people is far from the water", "target": "2"}
+{"id": "task1612-b9303215ede54d2ba4290606e61cca4b", "input": "sentence_A: A woman is cutting onions. sentence_B: A woman is chopping onions", "target": "0"}
+{"id": "task1612-a4666bd7ca9e414cae949732ae4a3eb7", "input": "sentence_A: The man is not riding a horse by a creek. sentence_B: A man is riding a horse", "target": "1"}
+{"id": "task1612-4b787324e2e6441dbf736f4d30a12160", "input": "sentence_A: The dog is not knocking the boy into the water. sentence_B: The dog is knocking a boy into the water", "target": "2"}
+{"id": "task1612-548e1d66b76941a3ad72cd77b8d25975", "input": "sentence_A: A man is mixing the content of a bowl. sentence_B: A woman is mixing the content of a bowl", "target": "1"}
+{"id": "task1612-4044bcc17c8041979d6f0c5a7ab73d59", "input": "sentence_A: The rider is biking in the snow and wearing a red jacket. sentence_B: A cyclist is biking in a snowy forest at day", "target": "1"}
+{"id": "task1612-252b3a1eacbf411fbd907326f0416836", "input": "sentence_A: Four people are floating on a raft. sentence_B: Nobody is floating on a raft", "target": "2"}
+{"id": "task1612-f8708c2a13ca457fa34e3bfe8a26a26f", "input": "sentence_A: A lady is standing on the street and is surrounded by school children. sentence_B: No lady is standing on the street and is surrounded by school children", "target": "2"}
+{"id": "task1612-b41498a0dc4648f186b232f32eb1af2b", "input": "sentence_A: The white dogs are looking curiously at the black llama. sentence_B: A black sheep is standing near three white dogs", "target": "1"}
+{"id": "task1612-5edfbd1f5b63479ab8d6f0711a266679", "input": "sentence_A: The cat is licking milk from a saucer. sentence_B: There is no cat hungrily drinking milk", "target": "2"}
+{"id": "task1612-a4c930efe12e40dd89cf57646dcccb6b", "input": "sentence_A: A parrot is speaking. sentence_B: The parrot is silent in front of the microphone", "target": "2"}
+{"id": "task1612-f2ca819a60904ec98f643a800dcedfbe", "input": "sentence_A: A woman is cutting potatoes. sentence_B: A woman is slicing potatoes", "target": "0"}
+{"id": "task1612-25c59b27f7504134bff50b107ab8b377", "input": "sentence_A: The boy is studying a calendar. sentence_B: A boy is studying a calendar", "target": "0"}
+{"id": "task1612-a1f33259009c4e62938bccd9a84ae1c8", "input": "sentence_A: The red and brown dog is digging its nose inside a holiday gift bag. sentence_B: The dog has its head inside a red and green gift bag", "target": "1"}
+{"id": "task1612-0a5f98be4f9f4c059f86c8e46893c6c2", "input": "sentence_A: A person is slicing an onion. sentence_B: An onion is being sliced by a person", "target": "0"}
+{"id": "task1612-f7d2734af60644d0a93ba1330817bc1e", "input": "sentence_A: A girl is applying makeup to her face. sentence_B: There is no girl applying makeup to her face", "target": "2"}
+{"id": "task1612-38f5180fa36741a0a16b828a83cddecb", "input": "sentence_A: A large white crane is flying near the water. sentence_B: A white bird is swiftly taking off from the water", "target": "1"}
+{"id": "task1612-a9b70663b736498d84605294271de5a8", "input": "sentence_A: A woman is cooking fish. sentence_B: A woman is not frying fish", "target": "1"}
+{"id": "task1612-77fa1652825c4de083deb98261d79b01", "input": "sentence_A: A man is playing an instrument. sentence_B: A woman is playing the flute", "target": "1"}
+{"id": "task1612-431b8be812554dda8c1bb089f48b12cc", "input": "sentence_A: A lot of people are in an ice skating park. sentence_B: Not a lot of people are in an ice skating park", "target": "2"}
+{"id": "task1612-e9773c54339b4399bc3ff3b424f5e2af", "input": "sentence_A: A boy is jumping off the side of a stone water fountain in front of a building. sentence_B: A boy in a striped shirt is playing in front of a water fountain", "target": "1"}
+{"id": "task1612-90647dfd7ad9468e86f0d2529a9276bc", "input": "sentence_A: A man is playing two keyboards. sentence_B: There is no man playing two keyboards", "target": "2"}
+{"id": "task1612-6bfa3e9b31f34ba082d88a588159548b", "input": "sentence_A: Four dogs are playing in a grassy area. sentence_B: Four dogs are not playing in a grassy area", "target": "2"}
+{"id": "task1612-8f1ce1ff350543ed99feeb572001226e", "input": "sentence_A: The person is boiling noodles. sentence_B: A person is boiling noodles", "target": "0"}
+{"id": "task1612-03a5477f34c74e59b7de40c4f32f37f4", "input": "sentence_A: Two dogs are playing on a rocky beach. sentence_B: A black dog is approaching a golden dog on pebbly beach", "target": "1"}
+{"id": "task1612-ff5dca5c065f4219b5425682f38a1fd6", "input": "sentence_A: The men are not talking. sentence_B: The men are talking", "target": "2"}
+{"id": "task1612-adaca830170c40a1b34d4449a91c2128", "input": "sentence_A: The food on the trays isn't being eaten by the kittens. sentence_B: Some kittens are eating", "target": "2"}
+{"id": "task1612-2bf2e7e0c645400e9bd6b53538f16bf7", "input": "sentence_A: Children in swimming suits are playing in the water. sentence_B: The boys are wearing bathing suits and water is splashing around", "target": "1"}
+{"id": "task1612-d90c4aa4ccc64be289c3421b474f6910", "input": "sentence_A: A girl is playing the guitar. sentence_B: The man is intensely playing the guitar", "target": "1"}
+{"id": "task1612-f627f23a63644f9dbdf02628713ff8d3", "input": "sentence_A: A football player in a purple jersey is running with the ball for a touchdown. sentence_B: There is no football player in a purple jersey running with the ball for a touchdown", "target": "2"}
+{"id": "task1612-39c79caa4ed1471c9cd48cba0a3ed1a2", "input": "sentence_A: The lady is peeling the potato. sentence_B: The potato is being peeled by the lady", "target": "0"}
+{"id": "task1612-449d52cb7f8c43f38cd7790e5b15188f", "input": "sentence_A: A woman is putting away the garlic. sentence_B: The woman is dicing garlic", "target": "1"}
+{"id": "task1612-cbda9b9a04444a458ae83c235025d440", "input": "sentence_A: Someone is banging a camera lens against a nail. sentence_B: The man is not hammering a nail with a camera", "target": "2"}
+{"id": "task1612-7daeffaf6b0744d48cf998e7b5e0d3b5", "input": "sentence_A: Three Asian kids are dancing and a man is looking. sentence_B: Three Asian kids are dancing and there is no man looking", "target": "2"}
+{"id": "task1612-24e6edccfcb14479bab5963bf4631901", "input": "sentence_A: A purple crowd of people is eating on various red lit restaurant tables. sentence_B: Various people are eating at red tables in a crowded restaurant with purple lights", "target": "1"}
+{"id": "task1612-1f357e0dece5458292e5998a27410fca", "input": "sentence_A: There is no woman cutting broccoli. sentence_B: A woman is cutting broccoli", "target": "2"}
+{"id": "task1612-fa4ab0026f464887b993b3eb74dc4e29", "input": "sentence_A: A man is recklessly riding a horse. sentence_B: There is no man recklessly riding a horse", "target": "2"}
+{"id": "task1612-f11796017df34af285ae62c0178e4fc5", "input": "sentence_A: The herd of caribous is crossing a road. sentence_B: The herd of caribous is not crossing a road", "target": "2"}
+{"id": "task1612-56087518281e4e9abdcbeadae22a0d6e", "input": "sentence_A: A man is singing and playing a musical instrument. sentence_B: A man is playing a guitar", "target": "1"}
+{"id": "task1612-813124b0d118474eb8f91089cced0ffe", "input": "sentence_A: A family is not purchasing something at a vending machine. sentence_B: A family is purchasing something at the vending machine", "target": "2"}
+{"id": "task1612-290a40e94f53454e8d29f3f1e684f7ee", "input": "sentence_A: A man in blue is riding a horse on a dirt road. sentence_B: A man is riding a dirty horse on a blue road", "target": "1"}
+{"id": "task1612-ed60c16a80a746dfa3cead5fb7e535f3", "input": "sentence_A: A motorcycle rider is standing up on the seat of a white motorcycle. sentence_B: No motorcycle rider is standing up on the seat of a motorcycle", "target": "2"}
+{"id": "task1612-31776149aa6447159d8438cb52aaf463", "input": "sentence_A: A man and a woman are eating. sentence_B: A man and a woman are not eating", "target": "2"}
+{"id": "task1612-70af58a1b9414e8193ad9fd29c7b8703", "input": "sentence_A: There is no man doing a card trick. sentence_B: A man is doing a card trick", "target": "2"}
+{"id": "task1612-d80a2b9b455e495b996e6c9af6c35169", "input": "sentence_A: One man is tossing a kid into the swimming pool that is near the ocean. sentence_B: A father is launching the daughter in a swimming pool", "target": "1"}
+{"id": "task1612-cd6414b22a524698831cc9a93d2ede9d", "input": "sentence_A: A woman is slicing an eggplant. sentence_B: There is no woman cutting a vegetable", "target": "2"}
+{"id": "task1612-9c6fadae20af4dbfb13125654e3e2b58", "input": "sentence_A: A boy is playing a guitar. sentence_B: A kid is playing a guitar", "target": "0"}
+{"id": "task1612-a6fb353b987843949df3c805a63e79b6", "input": "sentence_A: A person is slicing a potato. sentence_B: There is no person slicing a potato", "target": "2"}
+{"id": "task1612-ae5efdcdd6d44f1ab8a19f8dce84269e", "input": "sentence_A: A cartoon airplane is landing. sentence_B: An animated airplane is landing", "target": "0"}
+{"id": "task1612-53771e9163894d97af9f3b34dd8b9903", "input": "sentence_A: A young child is walking with a bike on a rough dirt path. sentence_B: A young child is riding a bike on a rough dirt path", "target": "1"}
+{"id": "task1612-fa413f2542774c248bc29b235f1039f4", "input": "sentence_A: Two dogs are in a kennel on their hind legs and are facing one another. sentence_B: Two dogs are playing with each other", "target": "1"}
+{"id": "task1612-b95db5c69a604882b609cc7aa01c6159", "input": "sentence_A: Several people are walking in line across a bridge. sentence_B: Several people are not walking in line across a bridge", "target": "2"}
+{"id": "task1612-552fde99f21a41688894c2fff4c4ee57", "input": "sentence_A: A man is slowly trekking in the woods. sentence_B: The man is hiking in the woods", "target": "0"}
+{"id": "task1612-257fc6cb730c4a038360eb50720ef77b", "input": "sentence_A: The woman is waterskiing. sentence_B: The woman is not waterskiing", "target": "2"}
+{"id": "task1612-215a2b86c8c54bd3a0e70ce2accc76bc", "input": "sentence_A: A guy is mowing the lawn. sentence_B: There is no man mowing grass", "target": "2"}
+{"id": "task1612-cce0858036d34d5e820623b7d74316bc", "input": "sentence_A: A woman is playing with a brown dog in a garden. sentence_B: A woman is petting a dog near a stone path", "target": "1"}
+{"id": "task1612-f948e1ae23884cea965df68e0251327f", "input": "sentence_A: A woman is pouring eggs into a frying pan. sentence_B: A woman is removing eggs from a frying pan", "target": "2"}
+{"id": "task1612-63ec9269f1bf4764b56e281287196444", "input": "sentence_A: A man is speaking on a podium. sentence_B: There is no man speaking on a podium", "target": "2"}
+{"id": "task1612-df1ff93163fe4cee8a1b44bc74d07542", "input": "sentence_A: A brown dog is running across the yard with a toy in its mouth. sentence_B: A brown dog is dropping a colored toy from its mouth", "target": "1"}
+{"id": "task1612-c1dab1fd40164489b69dd3ad4448802b", "input": "sentence_A: There is no large dog running on the grass with a tennis ball in its mouth. sentence_B: A large dog is running on the grass with a tennis ball in its mouth", "target": "2"}
+{"id": "task1612-e3f26e1c9bb3492591b544fa5c80c10f", "input": "sentence_A: There is no man playing the guitar. sentence_B: The man is playing the guitar", "target": "2"}
+{"id": "task1612-775743ad0d3542269a5c1fdbbd00dca5", "input": "sentence_A: Rollerbladers are rolling in formation down a hill. sentence_B: Rollerbladers are not rolling in formation down a hill", "target": "2"}
+{"id": "task1612-6f95d3b60d23487cb307e84ceb53c43e", "input": "sentence_A: A nude lady is walking in front of a crowd in body paint. sentence_B: There is no lady walking in body paint in front of a crowd", "target": "2"}
+{"id": "task1612-e286dba9b28a41ad972aabe8655c1b70", "input": "sentence_A: The dog is running into a brown light. sentence_B: A light brown dog is running up a street", "target": "1"}
+{"id": "task1612-4d5a81b2afd4406e9ec6d4df62e65e9c", "input": "sentence_A: A little girl is hitting a ball off a tee. sentence_B: A little girl in a pink shirt is playing t-ball and taking a swing", "target": "1"}
+{"id": "task1612-3037ca86d88e4e3a928359bdaa971d4b", "input": "sentence_A: A black and orange bird is standing in the grass. sentence_B: A black and orange bird is not standing in the grass", "target": "2"}
+{"id": "task1612-c654afda7eb94eb3bc6f770a48b27708", "input": "sentence_A: A man is drilling a hole in a piece of wood. sentence_B: A man is closing a hole in a piece of wood", "target": "2"}
+{"id": "task1612-079a3a93807f46e797266796c0e3f93b", "input": "sentence_A: A woman is not slicing carrots. sentence_B: A woman is slicing carrots", "target": "2"}
+{"id": "task1612-d7dda8d54dad493c83e91a7540e7132c", "input": "sentence_A: The bride and the groom are leaving after the marriage. sentence_B: A married couple is walking down the aisle", "target": "1"}
+{"id": "task1612-7ee66ac43fe848179a8a4a4db069a6d7", "input": "sentence_A: Two men are not holding fishing poles. sentence_B: Two men are holding fishing poles", "target": "2"}
+{"id": "task1612-b8596a9c1d2845bca98ca436130ca1d7", "input": "sentence_A: The black dog is walking along a tree trunk bridge over water. sentence_B: The black dog is not walking along a tree trunk bridge over water", "target": "2"}
+{"id": "task1612-995baaeb37cb4e339da208daaabcc99d", "input": "sentence_A: A dog is chasing another and is holding a piece of wood in its mouth. sentence_B: Two dogs are running and carrying an object in their mouths", "target": "1"}
+{"id": "task1612-cb37d56584dd4a91b388a6fc85e5ce48", "input": "sentence_A: A woman is cutting some plants. sentence_B: A woman is cutting broccoli", "target": "1"}
+{"id": "task1612-5a432f87be1d4dfbaf4f87ccd0c9355a", "input": "sentence_A: A man in a purple hat isn't climbing a rocky wall with bare hands. sentence_B: A man in a purple hat is climbing a rocky wall with bare hands", "target": "2"}
+{"id": "task1612-7529e0ee977d4426b75a19e48e859184", "input": "sentence_A: The cat perched on the table isn't looking out the window. sentence_B: The cat perched on the table is looking out the window", "target": "2"}
+{"id": "task1612-229c07b37ec947e5bf03ac098963666e", "input": "sentence_A: The black and white dog is running outdoors. sentence_B: A black and white dog is running outdoors", "target": "0"}
+{"id": "task1612-57c5dd27f7b84fc3ac53e81649e5e859", "input": "sentence_A: The young girl is blowing a bubble that is huge. sentence_B: The young girl is blowing a bubble that is very small", "target": "2"}
+{"id": "task1612-223835e941aa46918147380f13c82038", "input": "sentence_A: A woman is putting make-up on. sentence_B: The woman is removing make-up", "target": "2"}
+{"id": "task1612-186f566607224e5f9feba71e24e14423", "input": "sentence_A: A girl is applying makeup to her face. sentence_B: There is no woman putting on makeup", "target": "2"}
+{"id": "task1612-6fadaf74ae9143ebbe554a1fc7992329", "input": "sentence_A: A man is sitting on the grass and drinking from a water bottle. sentence_B: A woman is sitting on the grass and is drinking from a water bottle", "target": "1"}
+{"id": "task1612-01e16b234f2346e9a75e2742205d34f0", "input": "sentence_A: A small child is showing excitement on a set of swings at the park. sentence_B: The little girl is swinging and the woman is standing behind her", "target": "1"}
+{"id": "task1612-8a1ff75fb51b4ba486643458c9e8bd42", "input": "sentence_A: The cat is licking milk from a saucer. sentence_B: The cat isn't licking milk from a saucer", "target": "2"}
+{"id": "task1612-1f25e4d171024c2ca99e140a40af9f4b", "input": "sentence_A: The girl is recklessly jumping onto a vehicle. sentence_B: One girl is jumping on the car", "target": "1"}
+{"id": "task1612-b257320b32bb43589e266b25bf54b965", "input": "sentence_A: A dog with a blue collar is not playing with the ball outside. sentence_B: A dog with a blue collar is playing with the ball outside", "target": "2"}
+{"id": "task1612-a70a1eaf6fe64623926ada36c72d951e", "input": "sentence_A: The man is setting up the camera and taking sunset pictures at the beach. sentence_B: The man is putting away the camera and walks away from the beach", "target": "2"}
+{"id": "task1612-52c60fc8c5894028a536ec06d87f04f8", "input": "sentence_A: The small child is wading through the water and is being guided by another person. sentence_B: The small child is not wading through the water and is not being guided by another person", "target": "2"}
+{"id": "task1612-806c4b338e84480994b2b668d2b978f3", "input": "sentence_A: A child is sitting in a red and yellow toy car. sentence_B: There is no child sitting in a red and yellow toy car", "target": "2"}
+{"id": "task1612-d2af9688e1fe49ff809cc68fc1c8f74e", "input": "sentence_A: A man is wearing a red jacket and standing beside a yellow canoe on some boulders with water in the background. sentence_B: A man in a red jacket is standing next to a yellow kayak on some rocks by the ocean", "target": "1"}
+{"id": "task1612-2490c3a3886a408c9b59ec82020a82b0", "input": "sentence_A: A man is pouring oil into a skillet. sentence_B: A man is taking the oil out off a skillet", "target": "2"}
+{"id": "task1612-4433d2f8dfd64eb88894c293f865aa24", "input": "sentence_A: A person is not holding a skunk. sentence_B: A person is holding a skunk", "target": "2"}
+{"id": "task1612-89fd07b7776d405bab5548afe42b2e0a", "input": "sentence_A: There is no white dog standing on the leaves on the ground. sentence_B: A white dog is standing on the leaves on the ground", "target": "2"}
+{"id": "task1612-aaee07d6bf4746ac99ae766ee5eb27ff", "input": "sentence_A: A deer is jumping over a fence. sentence_B: A deer isn't jumping over the fence", "target": "2"}
+{"id": "task1612-d33325166f3a4c10ba68e028330fee65", "input": "sentence_A: The man is not cutting a paper plate. sentence_B: The man is cutting a paper plate", "target": "2"}
+{"id": "task1612-05780b9adfa54dba845cef28f7e89093", "input": "sentence_A: Women are not wearing bunny ears and race numbers and are not pointing at something in the distance. sentence_B: Women are wearing bunny ears and race numbers and are pointing at something in the distance", "target": "2"}
+{"id": "task1612-efd551344bd54ceebf8bf02c7e0434be", "input": "sentence_A: The man is drawing. sentence_B: The woman is drawing a man", "target": "1"}
+{"id": "task1612-bf4ad6283f4b45829ce13963c3eb7406", "input": "sentence_A: The man is operating a stenograph. sentence_B: The man isn't operating a stenograph", "target": "2"}
+{"id": "task1612-e34aa6eba7d144809bcf3bbe0a43c9a5", "input": "sentence_A: A skier in white is catching a tiny bit of air. sentence_B: A skier in black is catching a tiny bit of air", "target": "1"}
+{"id": "task1612-8063a76d05fc4129ade90740ab89ca65", "input": "sentence_A: Nobody is cooking okra in a pan. sentence_B: Someone is cooking okra in a pan", "target": "2"}
+{"id": "task1612-5390cb8b78274341aa0381bcf25a2321", "input": "sentence_A: A man wearing a dyed black shirt is sitting at the table and laughing. sentence_B: There is no man wearing a shirt dyed black, sitting at the table and laughing", "target": "2"}
+{"id": "task1612-e607053eeaaf433e9bca789dd686d2b0", "input": "sentence_A: A badger is shrewdly digging the earth. sentence_B: The badger isn't burrowing a hole", "target": "2"}
+{"id": "task1612-de17fc060a8f482792f797600ff93f89", "input": "sentence_A: A woman is beating the man that is keeping two eggs in the bowl, using a wire whisk. sentence_B: A woman is beating two eggs in a bowl and using a whisk made of wire", "target": "1"}
+{"id": "task1612-bfbd7de4df634493a910bc8158f8f89c", "input": "sentence_A: A man with a camera is studying the subject. sentence_B: There is no man with a camera studying the subject", "target": "2"}
+{"id": "task1612-dd96f465c0e34f3487af58cd98bd7310", "input": "sentence_A: There is no man singing and playing the guitar. sentence_B: The man is singing and playing the guitar", "target": "2"}
+{"id": "task1612-11a95f5d2d7045b2afe94fdcaac22a5d", "input": "sentence_A: Someone is folding a piece of paper. sentence_B: Nobody is folding a piece of paper", "target": "2"}
+{"id": "task1612-66ffb20ebeb84b1fb28fbbef99c18a22", "input": "sentence_A: A child is making a snow ball. sentence_B: A kid in orange is playing outside with a snowball", "target": "1"}
+{"id": "task1612-a4b75dfda9b54fb3a9cbc296ef3765fe", "input": "sentence_A: A guy is not riding a horse. sentence_B: A guy is riding a horse", "target": "2"}
+{"id": "task1612-abca16fbc5df4a69912838d3c23d704d", "input": "sentence_A: A cyclist on a yellow bike is airborne. sentence_B: There is no cyclist on a yellow bike airborne", "target": "2"}
+{"id": "task1612-8c41d8f663964798922dc0f48b162c16", "input": "sentence_A: A boy is wearing a white hat and is walking on the beach. sentence_B: A little kid is wearing a hat and is walking in the wet sand", "target": "1"}
+{"id": "task1612-ab67729dbd064ddea1bee3177d942b7e", "input": "sentence_A: A young boy in a helmet is riding a bike on the lawn. sentence_B: A young boy in a helmet is riding a bike on the road", "target": "1"}
+{"id": "task1612-815d7b89ae504c7ca8a7df53e8956335", "input": "sentence_A: A woman is peeling a potato. sentence_B: There is no lady peeling the potato", "target": "2"}
+{"id": "task1612-edb25bb5c2b14e308ec8e2b69bd12ea8", "input": "sentence_A: Someone is playing piano. sentence_B: Someone is not playing piano", "target": "2"}
+{"id": "task1612-d3e6e3d56eed4a519c1f8a745590033b", "input": "sentence_A: A man is taking a picture of a drawing. sentence_B: A man is drawing a picture", "target": "1"}
+{"id": "task1612-a9ae34c5ab914bcc8e4fd90de265fe81", "input": "sentence_A: Two brown dogs are fighting over a red ball and are playing in the grass. sentence_B: Two dogs are playing with a small red ball", "target": "1"}
+{"id": "task1612-658d5f676f9e42528b9da31f3ebb9466", "input": "sentence_A: The lady is slicing up the meat. sentence_B: The lady isn't slicing up the meat", "target": "2"}
+{"id": "task1612-4d9442e0a0754998ae5da297e5858059", "input": "sentence_A: A lady is surfing and riding a wave. sentence_B: A blonds girl is surfing", "target": "1"}
+{"id": "task1612-46940fc7af174776b0e525e96124a7c3", "input": "sentence_A: Some people who play soccer are kicking a soccer ball into the goal. sentence_B: A soccer player is scoring a goal", "target": "1"}
+{"id": "task1612-e2624c6eceba460f83de113732e3f855", "input": "sentence_A: The orange rider is not driving a motorcycle on one wheel. sentence_B: The orange rider is driving a motorcycle on one wheel", "target": "2"}
+{"id": "task1612-5bc6d01daf7d4c8b8247fd360e7ec756", "input": "sentence_A: A girl is applying makeup to her face. sentence_B: A woman is putting on makeup", "target": "1"}
+{"id": "task1612-dd5809784317402ba4b98b0ce7ad2c05", "input": "sentence_A: The men are putting suitcases into the trunk of a car. sentence_B: The men are not packing suitcases into the trunk of a car", "target": "2"}
+{"id": "task1612-811e0cc3e63f42d8927dbe2f2bf6d13c", "input": "sentence_A: Rugby players are not tackling each other. sentence_B: Rugby players are tackling each other", "target": "2"}
+{"id": "task1612-7964cfc9acc74fa19d6e556db14b597e", "input": "sentence_A: The man is not dancing. sentence_B: The man is dancing", "target": "2"}
+{"id": "task1612-a927f72a32a448a384f8039038980ace", "input": "sentence_A: A surfer is falling off the wave. sentence_B: A surfer is riding the wave", "target": "2"}
+{"id": "task1612-035edd6068ed4d14bd0d12387684acad", "input": "sentence_A: A cat is playing with a watermelon. sentence_B: The cat isn't playing with a watermelon", "target": "2"}
+{"id": "task1612-369f6edd55514b23bb5b78a4bc7b421c", "input": "sentence_A: A boy is playing a guitar. sentence_B: A boy is not playing a guitar", "target": "2"}
+{"id": "task1612-51610e2984444523b236269fdc981106", "input": "sentence_A: A woman is eating a cupcake. sentence_B: A woman is not eating a cupcake", "target": "2"}
+{"id": "task1612-5b727e78a6c748fda5ef85eef4b7f3db", "input": "sentence_A: A group of people is standing together and looking at the camera. sentence_B: There is no group of people standing together and looking at the camera", "target": "2"}
+{"id": "task1612-d925acec713c4d889bccc8ae14648de0", "input": "sentence_A: The man is not slicing a potato. sentence_B: The man is slicing a potato", "target": "2"}
+{"id": "task1612-1e123602a9ec45f5bf0331879d312200", "input": "sentence_A: A child is playing slip and slide in the grass. sentence_B: A child is not playing slip and slide in the grass", "target": "2"}
+{"id": "task1612-0cc21476e4404c57a76bfbe86573ccd1", "input": "sentence_A: There is no woman playing an electric guitar. sentence_B: A woman is playing an electric guitar", "target": "2"}
+{"id": "task1612-aaad7501a07a4dc9966a6270cec8b0fb", "input": "sentence_A: The men are packing suitcases into the trunk of a car. sentence_B: The men are not packing suitcases into the trunk of a car", "target": "2"}
+{"id": "task1612-0bfe0fa116d04fb7b724c0ae3b576638", "input": "sentence_A: The man is intensely playing the guitar. sentence_B: The man isn't intensely playing the guitar", "target": "2"}
+{"id": "task1612-263da40d830749e39e6417fba794ec2c", "input": "sentence_A: The man is not eating a banana by a tree. sentence_B: The man is eating a banana by a tree", "target": "2"}
+{"id": "task1612-29acd16e6bd6463e9a487005034549c5", "input": "sentence_A: The young boy in the blue shirt is not jumping into the water. sentence_B: The young boy in the blue shirt is jumping into the water", "target": "2"}
+{"id": "task1612-b5809a6f360d426f994f567da4239c4f", "input": "sentence_A: Someone is banging a camera lens against a nail. sentence_B: There is no one banging a camera lens against a nail", "target": "2"}
+{"id": "task1612-ea9e260956404d6c947178a707235cd3", "input": "sentence_A: A woman is exercising. sentence_B: There is no woman exercising", "target": "2"}
+{"id": "task1612-45a64ef4d22e42cca9b6ea98560fa7d3", "input": "sentence_A: Someone is slicing a tomato. sentence_B: Nobody is slicing a tomato", "target": "2"}
+{"id": "task1612-534bf4444cd5425b9c9df3884e230bcb", "input": "sentence_A: A tiger is walking around aimlessly. sentence_B: A tiger is walking around a cage", "target": "1"}
+{"id": "task1612-559024bea6a546859688b237b0a0e4b7", "input": "sentence_A: A yellow dog is drinking water from the faucet. sentence_B: A yellow dog is not drinking water from the faucet", "target": "2"}
+{"id": "task1612-bd3d4c4eccb04347b078f61ff2c1a99e", "input": "sentence_A: A woman is slicing an onion. sentence_B: There is no woman slicing an onion", "target": "2"}
+{"id": "task1612-85c4584c44934b70975249ddc74426b1", "input": "sentence_A: Two children and an adult are standing next to a tree limb. sentence_B: Two children and an adult are not standing next to a tree limb", "target": "2"}
+{"id": "task1612-232c35d1b0474f24a321eea093bf0aba", "input": "sentence_A: A dog with a ball is being chased in the grass. sentence_B: A dog is chasing a ball on the grass", "target": "1"}
+{"id": "task1612-2d3c8d782a574adb9c6a7e742b367580", "input": "sentence_A: A man is playing with water. sentence_B: A man is not playing with water", "target": "2"}
+{"id": "task1612-964483b004574b43a48f873f813f8234", "input": "sentence_A: A baby elephant is not eating a small tree. sentence_B: A baby elephant is eating a small tree", "target": "2"}
+{"id": "task1612-031df6dfa2ac460f90eb6bd28ed4b000", "input": "sentence_A: There is no monkey kicking a person. sentence_B: A monkey is kicking a person", "target": "2"}
+{"id": "task1612-a858b54614ae4d38b05c1bd77a0c9529", "input": "sentence_A: A little boy with brown hair is jumping off of a brown chair onto the floor. sentence_B: There is no little boy with brown hair jumping off of a brown chair onto the floor", "target": "2"}

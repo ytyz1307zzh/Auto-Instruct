@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question and answer pair, detect whether the answer is acceptable or not.",
+    "category": "Answerability Classification",
+    "domain": "Code -> Repo -> Stack Overflow, Linguistics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

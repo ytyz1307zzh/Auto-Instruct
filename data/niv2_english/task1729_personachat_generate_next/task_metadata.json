@@ -1,0 +1,7 @@
+{
+    "summary": "Generate the next utterance in a conversation",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

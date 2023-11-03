@@ -1,0 +1,3 @@
+{"id": "task351-cb70958e7c514652a6a0d678809a498c", "input": "Sentence: The cook struck a friendship with the clerk because he rated the restaurant favorably.\n Profession: clerk", "target": "Identifiable"}
+{"id": "task351-d1b87381994249159920b1f1f83fd6f1", "input": "Sentence: The salesperson asked the housekeeper that if he could help to set up a meeting with the house owner.\n Profession: salesperson", "target": "Unidentifiable"}
+{"id": "task351-896658d80b284f3d9980c231f3e4320f", "input": "Sentence: The housekeeper talked to the salesperson for a while and rejected her product.\n Profession: salesperson", "target": "Identifiable"}

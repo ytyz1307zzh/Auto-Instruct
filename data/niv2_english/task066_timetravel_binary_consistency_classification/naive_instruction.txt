@@ -1,0 +1,1 @@
+Identifying if the given sentence is consistent with the given story.

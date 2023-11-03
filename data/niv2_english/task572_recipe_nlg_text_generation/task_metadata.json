@@ -1,0 +1,7 @@
+{
+    "summary": "Generate the unknown step by knowing the other steps given in the directions.",
+    "category": "Fill in The Blank",
+    "domain": "Food",
+    "input_lang": "English",
+    "output_lang": "English"
+}

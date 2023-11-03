@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying sentence as question or not",
+    "category": "Dialogue Act Recognition",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

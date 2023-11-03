@@ -1,0 +1,7 @@
+{
+    "summary": "Given three sentences and title of a five sentence story, choose which two sentences from the options given will complete the story.",
+    "category": "Text Completion",
+    "domain": "Narrative, Story",
+    "input_lang": "English",
+    "output_lang": "English"
+}

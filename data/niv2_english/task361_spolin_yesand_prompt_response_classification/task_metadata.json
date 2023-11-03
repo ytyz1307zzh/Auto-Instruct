@@ -1,0 +1,7 @@
+{
+    "summary": "Given a prompt and a response, classify whether the response is \"yes, ands\" type",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

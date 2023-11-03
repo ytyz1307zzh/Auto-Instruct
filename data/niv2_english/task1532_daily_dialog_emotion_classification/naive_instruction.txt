@@ -1,0 +1,1 @@
+Classify the conversation sentences of input passage into the following emotions: anger, disgust, fear, happiness, sadness, No emotion

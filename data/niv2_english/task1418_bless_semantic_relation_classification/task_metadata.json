@@ -1,0 +1,7 @@
+{
+    "summary": "Given a pair of words, deduce the type of relationship between them",
+    "category": "Word Relation Classification",
+    "domain": "Animals, Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

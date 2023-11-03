@@ -1,0 +1,7 @@
+{
+    "summary": "Given an easy story with distractor sentences, answer the question regarding the location of an object.",
+    "category": "Question Answering",
+    "domain": "Commonsense -> Stories",
+    "input_lang": "English",
+    "output_lang": "English"
+}

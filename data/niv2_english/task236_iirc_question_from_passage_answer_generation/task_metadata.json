@@ -1,0 +1,7 @@
+{
+    "summary": "Given a context passage, further information on a linked term in the statement, and an answer term, generate a question that can use the information provided to obtain the given answer",
+    "category": "Question Generation",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

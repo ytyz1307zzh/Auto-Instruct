@@ -1,0 +1,7 @@
+{
+    "summary": "Given two words, you have to generate which preposition connects both.",
+    "category": "Preposition Prediction",
+    "domain": "Linguistics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

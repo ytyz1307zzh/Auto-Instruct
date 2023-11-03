@@ -1,0 +1,7 @@
+{
+    "summary": "Given a prompt, generate the \"yes, ands\" response",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

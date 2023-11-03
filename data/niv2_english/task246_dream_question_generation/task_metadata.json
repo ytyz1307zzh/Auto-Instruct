@@ -1,0 +1,7 @@
+{
+    "summary": "Given a conversation, generate a multiple-choice question based on it.",
+    "category": "Question Generation",
+    "domain": "Dialogue, Natural Science -> School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

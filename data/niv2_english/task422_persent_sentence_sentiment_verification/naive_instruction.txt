@@ -1,0 +1,1 @@
+Given a sentence, an entity and its sentiment towards the entity, verify if it is the correct sentiment towards the entity.

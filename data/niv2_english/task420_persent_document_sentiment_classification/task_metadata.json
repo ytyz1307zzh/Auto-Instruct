@@ -1,0 +1,7 @@
+{
+    "summary": "Given a document and an entity the task is to select the author's sentiment towards the enity.",
+    "category": "Sentiment Analysis",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Classify whether the given poem text is positive or negative

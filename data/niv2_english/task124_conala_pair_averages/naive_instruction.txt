@@ -1,0 +1,1 @@
+Calculate the averages for each two consecutive elements.

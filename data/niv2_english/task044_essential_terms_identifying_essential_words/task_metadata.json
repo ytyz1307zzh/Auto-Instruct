@@ -1,0 +1,7 @@
+{
+    "summary": "Identifying words or phrases of the question essential for choosing the correct answer.",
+    "category": "Question Understanding",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

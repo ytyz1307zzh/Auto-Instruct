@@ -1,0 +1,7 @@
+{
+    "summary": "Given a agents' reply, generate a users' utterance",
+    "category": "Dialogue Generation",
+    "domain": "Commonsense -> Concepts and Relations -> Social Commonsense, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

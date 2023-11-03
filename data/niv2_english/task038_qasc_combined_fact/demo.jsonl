@@ -1,0 +1,3 @@
+{"id": "task038-fae7f0cc20624399b4a2345b45d7eeaa", "input": "Fact 1: webbed feet are used for moving faster through water by aquatic animals. \nFact 2: Ducks are aquatic birds.", "target": "webbed feet are used for moving faster through water by ducks."}
+{"id": "task038-6ae0ed41526c4553aa6c8b142b2ca66b", "input": "Fact 1: Sporangia produce spores that develop into tiny, heart-shaped gametophytes. \nFact 2: All gametophytes are haploid.", "target": "Sporangia produce spores that are haploid."}
+{"id": "task038-add5749016ec48f8aeeb4c6edf66ca5d", "input": "Fact 1: sunlight and rain can cause a rainbow. \nFact 2: And light broken into many pieces is a rainbow.", "target": "Sunlight and rain can cause light to be broken into many pieces."}

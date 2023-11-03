@@ -1,0 +1,7 @@
+{
+    "summary": "Given an analogy that relates items to the associated containers, give the appropriate container for the given item",
+    "category": "Word Analogy",
+    "domain": "Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

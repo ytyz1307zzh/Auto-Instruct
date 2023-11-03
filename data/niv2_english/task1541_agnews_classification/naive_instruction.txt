@@ -1,0 +1,1 @@
+Given a short article, classify the article based on its category

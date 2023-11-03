@@ -1,0 +1,3 @@
+{"id": "task1167-51a76f8d43eb4eeb9bb6676285023001", "input": "Sentence: They were tentatively priced *-1 *-2 to yield from {{ 6.20 }} % in 1991 to 7.272 % in \nWord: 6.20", "target": "NUM"}
+{"id": "task1167-3846799602804c8e842fbd153049aa9b", "input": "Sentence: Biscayne has n't any telephone {{ listing }} , an operator said 0 *T*-1 . \nWord: listing", "target": "NOUN"}
+{"id": "task1167-ce3a677622154abc84772c51376b3e7a", "input": "Sentence: Without *-1 admitting {{ or }} denying wrongdoing , they consented to findings that they failed *-2 to return funds owed * to customers in connection with a limited-partnership offering . \nWord: or", "target": "CONJ"}

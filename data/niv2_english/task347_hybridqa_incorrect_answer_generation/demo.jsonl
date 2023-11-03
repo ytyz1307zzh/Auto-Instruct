@@ -1,0 +1,3 @@
+{"id": "task347-6c143b1b5b364544b2dc9e356b863429", "input": "What is the part-of-speech tag of the word \"did\" in the following question: Which NHL team was the 2003 ECAC Hockey Most Outstanding Player in Tournament on the roster of but did n't play for in the Stanley Cup Finals ?", "target": "NNP"}
+{"id": "task347-2898a57cd28e47579229dbbddbc9c5c4", "input": "What is the part-of-speech tag of the word \"by\" in the following question: Which artist released a song produced by American producer Symbolyc One ?", "target": "VBN"}
+{"id": "task347-5d388e8e49e24c61b7d82f2540137faf", "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the Greek name of the person with the feast day on July 21 ?", "target": "JJ"}

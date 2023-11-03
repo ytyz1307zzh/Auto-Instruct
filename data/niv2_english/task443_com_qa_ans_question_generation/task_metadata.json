@@ -1,0 +1,7 @@
+{
+    "summary": "Generating questions for com_qa answers",
+    "category": "Question Generation",
+    "domain": "Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

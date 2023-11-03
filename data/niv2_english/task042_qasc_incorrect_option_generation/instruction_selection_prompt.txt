@@ -1,0 +1,5 @@
+Example: {{input}}
+
+Instruction: {{instruction}}
+
+Is this a good instruction to solve the example?

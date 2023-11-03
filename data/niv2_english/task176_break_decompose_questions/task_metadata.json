@@ -1,0 +1,7 @@
+{
+    "summary": "Break a question into the steps needed to answer the question.",
+    "category": "Question Decomposition",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

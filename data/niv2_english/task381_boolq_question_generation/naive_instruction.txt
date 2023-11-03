@@ -1,0 +1,1 @@
+Given a passage, generate a yes/no question that can be answered based on the passage

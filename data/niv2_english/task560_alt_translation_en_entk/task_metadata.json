@@ -1,0 +1,7 @@
+{
+    "summary": "Language Translate of Dataset Card for ALT from English language to English tokens while preserving named entities in the original language",
+    "category": "Translation",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

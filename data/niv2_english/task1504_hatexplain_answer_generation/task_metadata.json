@@ -1,0 +1,7 @@
+{
+    "summary": "Passage Selection of offensive or hate speech phrases in tweets is Hatexplain",
+    "category": "Toxic Language Detection",
+    "domain": "Social Media -> Twitter",
+    "input_lang": "English",
+    "output_lang": "English"
+}

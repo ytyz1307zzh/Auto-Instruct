@@ -1,0 +1,30 @@
+{"id": "task924-fd9fecb855d04c3680e6711c91ba2120", "input": "Event:PersonX stares into PersonY's eyes. Intent: 1) to be shielded. XEmotion: 1) safe", "target": "close to personx"}
+{"id": "task924-a4ea91ff498c4c7cb5a9807565250c35", "input": "Event:PersonX reaches PersonY goal. Intent: 1) to be becomes. XEmotion: 1) happy", "target": "like they set a good example"}
+{"id": "task924-af892b8b13d14ebd90740945a330536b", "input": "Event:PersonX helps PersonY's mom. Intent: 1) to be in shape. XEmotion: 1) tired", "target": "grateful for the help"}
+{"id": "task924-eeae7b66f6254b118b71f61951a66d25", "input": "Event:PersonX answers the phone. Intent: 1) to be certain. XEmotion: 1) confident", "target": "like they get to talk to a friend"}
+{"id": "task924-14686438cddf469abcb340d6fd92bb09", "input": "Event:PersonX plays monopoly. Intent: 1) to harass persony. XEmotion: 1) vindictive", "target": "closer as a family"}
+{"id": "task924-a84cdd45fa2c46eca6e06d1d443b482d", "input": "Event:PersonX looks beautiful. Intent: 1) to be entertained. XEmotion: 1) entertained 2) happy 3) sad", "target": "enamoured"}
+{"id": "task924-b1d46400fd7b49be96701b3d4564d7d4", "input": "Event:PersonX gives PersonY a shove. Intent:. XEmotion: 1) bigger 2) better", "target": "angry"}
+{"id": "task924-24167fec6ff24a00a5db90b895a63057", "input": "Event:PersonX accepts PersonX's diploma. Intent: 1) to talk to who called. XEmotion: 1) like he is communicating", "target": "proud"}
+{"id": "task924-94371df864314982b5e4a15d88a1935d", "input": "Event:PersonX is badly injured. Intent: 1) to get a hold of person. XEmotion: 1) anticipatory", "target": "worried"}
+{"id": "task924-07a7b62e8c5c40deb90602f3a7c754ff", "input": "Event:PersonX fulfils PersonY's needs. Intent:. XEmotion: 1) like he has matured", "target": "satisfied"}
+{"id": "task924-a899e6bd90ac4c90b56077d17391d662", "input": "Event:PersonX pleases PersonY well. Intent: 1) to fill their empty tummy.. XEmotion: 1) satiated.", "target": "satisfied"}
+{"id": "task924-ddf7abc131c5451e90b8d3b9c5b7e94c", "input": "Event:PersonX takes PersonY inside. Intent: 1) to be exciting 2) to be stimulating 3) to be rousing. XEmotion: 1) sought after 2) liked", "target": "appreciated"}
+{"id": "task924-6c05327cbd9f4ffb96f3289d4c125c69", "input": "Event:PersonX picks a fight with PersonY. Intent: 1) to make money. XEmotion: 1) excited 2) grateful", "target": "angry"}
+{"id": "task924-4c97c1d4c99b444386c093fc4de09cd7", "input": "Event:PersonX gives PersonY a headache. Intent:. XEmotion: 1) surprised that he is noticed", "target": "annoyed"}
+{"id": "task924-7a7199d746b94e739a75dd168d72ba00", "input": "Event:PersonX makes sure PersonY was okay. Intent: 1) to be nice. XEmotion: 1) happy", "target": "relieved"}
+{"id": "task924-b3929d147cb2412fa94775a173dc9c10", "input": "Event:PersonX gives PersonY peace. Intent: 1) to write. XEmotion: 1) nice", "target": "grateful"}
+{"id": "task924-d8630245732c46129464ac5882b35a7a", "input": "Event:PersonX covers PersonY's expenses. Intent:. XEmotion: 1) sore 2) achy", "target": "grateful"}
+{"id": "task924-80304ba3416e425a9d0ef5e4ad1ee80e", "input": "Event:PersonX declines PersonY's invitation. Intent: 1) to be heard. XEmotion: 1) understood", "target": "disappointed."}
+{"id": "task924-7a81c2448e804495a7f490e663fe9487", "input": "Event:PersonX gives PersonY's life. Intent: 1) relaxation. XEmotion: 1) joy", "target": "content"}
+{"id": "task924-8ec839ffbea044ab94e4d75da240992e", "input": "Event:PersonX makes PersonY proud. Intent: 1) a gift. XEmotion: 1) grateful", "target": "proud"}
+{"id": "task924-63b9977ef80a4f59866f2a1289abb583", "input": "Event:PersonX pleases PersonY better. Intent: 1) to guide others to their destination. XEmotion: 1) good", "target": "grateful"}
+{"id": "task924-8c2ca37f383c4d80a3a2dc35415b6eee", "input": "Event:PersonX leans PersonY's forehead. Intent: 1) to someone to represent 2) situations to represent. XEmotion: 1) happy 2) satisfied", "target": "content"}
+{"id": "task924-c124bc49f4174f5db3603499f538f2d9", "input": "Event:PersonX gives PersonY's medicine. Intent:. XEmotion:", "target": "grateful"}
+{"id": "task924-4db029c7beab4d238026faf7dc634974", "input": "Event:PersonX always bragged. Intent:. XEmotion: 1) very tired", "target": "annoyed"}
+{"id": "task924-36722dd869394a5babf7ded4b62cc34e", "input": "Event:It does not taste good. Intent:. XEmotion: 1) terrible", "target": "disgusted"}
+{"id": "task924-8b1cd9b8167640a79dcaa99460467c76", "input": "Event:PersonX completes PersonY's work. Intent: 1) to make more money. XEmotion: 1) happy that he can afford more things.", "target": "relieved."}
+{"id": "task924-e1ea3a586ed2401082ec017cd6fa91c3", "input": "Event:It would be easy. Intent: 1) to show off.. XEmotion: 1) proud", "target": "confident"}
+{"id": "task924-635b49b7740b45fdab54411a70503a15", "input": "Event:PersonX makes it to the finals. Intent:. XEmotion: 1) alert", "target": "proud."}
+{"id": "task924-221ecd57bcb743fabe567990bf1bbcfd", "input": "Event:PersonX tells PersonY's girlfriend. Intent: 1) to say thanks for having him over.. XEmotion: 1) kind", "target": "grateful"}
+{"id": "task924-9f0c4f93918f4724a6d3691afd690731", "input": "Event:PersonX gets ___ in school. Intent:. XEmotion: 1) happy", "target": "proud of their achievement"}

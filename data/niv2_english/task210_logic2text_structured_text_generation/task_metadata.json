@@ -1,0 +1,7 @@
+{
+    "summary": "Given a natural language interpretation, generate a command using logical operations.",
+    "category": "Text to Code",
+    "domain": "Wikipedia, Logic -> Propositional Logic",
+    "input_lang": "English",
+    "output_lang": "English"
+}

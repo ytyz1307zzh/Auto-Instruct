@@ -1,0 +1,1 @@
+Given a collection of concepts, use them in a coherent sentence.

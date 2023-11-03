@@ -1,0 +1,1 @@
+Classify the input sentence into one of the 5 classes : unknown, commissive, question, information, directive

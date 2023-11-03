@@ -1,0 +1,7 @@
+{
+    "summary": "Classify text in english from Hope EDI dataset",
+    "category": "Text Categorization",
+    "domain": "Social Media",
+    "input_lang": "English",
+    "output_lang": "English"
+}

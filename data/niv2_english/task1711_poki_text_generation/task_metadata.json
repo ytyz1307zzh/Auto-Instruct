@@ -1,0 +1,7 @@
+{
+    "summary": "Given a title, generate a short poem that should look like written by a kid.",
+    "category": "Poem Generation",
+    "domain": "Books",
+    "input_lang": "English",
+    "output_lang": "English"
+}

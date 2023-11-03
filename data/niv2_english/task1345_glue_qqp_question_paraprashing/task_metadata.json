@@ -1,0 +1,7 @@
+{
+    "summary": "Paraphrasing a question to generate a similar question",
+    "category": "Question Rewriting",
+    "domain": "Books, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

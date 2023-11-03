@@ -1,0 +1,7 @@
+{
+    "summary": "Given a statement context, complete the partial next sentence with incorrect statement",
+    "category": "Wrong Candidate Generation",
+    "domain": "Captions -> Video Captions",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,1 @@
+Given a category and set of words, select the word that least belongs.

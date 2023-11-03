@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence in English, perform perturbations and generate new sentence in English.",
+    "category": "Sentence Perturbation",
+    "domain": "Commonsense, Knowledge Base -> Wikidata",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generating a sentence from a given word",
+    "category": "Sentence Composition",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

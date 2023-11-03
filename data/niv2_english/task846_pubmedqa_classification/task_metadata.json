@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying if the given answer pertains to the question or not (based on pubmed_QA)",
+    "category": "Answer Verification",
+    "domain": "Medicine",
+    "input_lang": "English",
+    "output_lang": "English"
+}

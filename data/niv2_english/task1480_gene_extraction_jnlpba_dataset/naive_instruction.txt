@@ -1,0 +1,1 @@
+Given a sentence from the JNLPBA dataset, return the list of tokens that mentions of genes or proteins.

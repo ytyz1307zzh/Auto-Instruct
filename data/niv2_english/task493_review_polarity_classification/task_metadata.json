@@ -1,0 +1,7 @@
+{
+    "summary": "Classify amazon review into positive or negative",
+    "category": "Sentiment Analysis",
+    "domain": "Reviews -> Electronics and Grocery",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given a conversation between two people and 4 options on how the conversation should continue, choose the most reasonable option",
+    "category": "Dialogue Generation",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

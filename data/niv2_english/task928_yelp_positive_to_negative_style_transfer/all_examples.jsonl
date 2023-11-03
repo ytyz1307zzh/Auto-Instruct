@@ -1,0 +1,492 @@
+{"id": "task928-cc357566ebfc49918f159f26463d1b89", "input": "it is the most authentic thai in the valley .", "target": "it is the least authentic thai in the valley"}
+{"id": "task928-709dc508b2b046b8a4c06f1ff9fbc024", "input": "portions n prices were great !", "target": "portions n prices were unacceptable !"}
+{"id": "task928-25a88960a5c84120b7ec048d6fb9b0da", "input": "the service was great and would gladly go back .", "target": "i did not like the service so i wont return"}
+{"id": "task928-8bd01bb026864a948787a5d2ed4a8162", "input": "a great place to watch sports !", "target": "too loud i would not go back"}
+{"id": "task928-d95bc79c13ef4eb68a665906540383a8", "input": "totally will come back next time i 'm in town .", "target": "wo n't go back"}
+{"id": "task928-80a0ff1249bc4075bce0e6996b030497", "input": "the place was busy but the service was excellent !", "target": "busy place and had to wait an hour to get my food"}
+{"id": "task928-14e3a31ee8474b98b7b992bf22f708e3", "input": "the owner replied , i will go in half with you .", "target": "the owner replied , i will not go in half with you ."}
+{"id": "task928-2817583bc83a4a8bb4f15b4d3f0e6088", "input": "this is the best yarn store in the metro area .", "target": "this is the worst yarn store in the metro area ."}
+{"id": "task928-ad58d114bbea42a5a96741701fa44218", "input": "cooked to perfection and very flavorful .", "target": "over cooked and bland"}
+{"id": "task928-bd6125b65e6d46bebc8bb3e55993dade", "input": "thorough , reasonably priced and they answer the phone when called promptly .", "target": "i called so many times no one answered at all"}
+{"id": "task928-104a78cec83d46228aa8230840f096de", "input": "nice menu , good prices , great service - for both dinner and breakfast !", "target": "terrible menu , high prices , bad customer service ."}
+{"id": "task928-dba6c68b70094d7e8798fd4bab3c3da4", "input": "thanks for making our special night an event to remember .", "target": "our special night was ruined"}
+{"id": "task928-fdccfef504304c358021cb85f7d43419", "input": "this is a golf course that is tucked away it is in great condition .", "target": "this is a golf course that is tucked away it is in poor condition ."}
+{"id": "task928-2d154851602641c19dddd8cb9adf864d", "input": "they have an excellent selection of combos to choose from .", "target": "they have a horrible selection of combos to choose from ."}
+{"id": "task928-d040b74d51864bfdac5a0d03c1787f6c", "input": "i 'd definitely recommend giving them a try .", "target": "i 'd definitely recommend not giving them a try ."}
+{"id": "task928-bc4be2a7cf9c4105a128c5885a388045", "input": "always a great experience there with the owner and the rest of the team .", "target": "always a poor experience the owner and staff are rude ."}
+{"id": "task928-6b5f0b8a61864130a5033911ebc0fe9e", "input": "she did the most amazing job .", "target": "she did the most awful job ."}
+{"id": "task928-c42d25e026404cd9af03ecbace81cd11", "input": "and the fettuccine alfredo is absolutely scrumptious !", "target": "the fettuccine alfredo was a disappointment ."}
+{"id": "task928-55c51f550eca422f9d70c43d21dbb327", "input": "friendly owners and staff and delicious food !", "target": "the owners were rude and so were the staff"}
+{"id": "task928-32da5aec12d64a9781b90a28690b380c", "input": "fantastic place to see a show as every seat is a great seat !", "target": "terrible place to see a show as every seat is a horrible seat !"}
+{"id": "task928-aff3db52dd214e39acf60150c0010dc2", "input": "this adds the last little touch to what was already an amazing place .", "target": "this adds the final straw to a disappointing place ."}
+{"id": "task928-7cf32b0965ec426e80ab1f0fa719eac3", "input": "staff : very cute and friendly .", "target": "staff : very ugly and mean"}
+{"id": "task928-75c0ebdfe47d46c6a3cf247d937b1c65", "input": "they have a lot of choices for sushi lovers !", "target": "they do n't have many choices for us sushi lovers ."}
+{"id": "task928-4529bb11ed09495688ed923da0be918b", "input": "we loved our day on the river and ca n't wait to go back !", "target": "our day on the river was horrible do n't want to return"}
+{"id": "task928-6370d24c6f4b46fb99422d01bf8239fc", "input": "otherwise a great experience and we will go again .", "target": "otherwise a terrible experience and we will not go again ."}
+{"id": "task928-d820dae9428f4ff29c0a40fc73c3d227", "input": "one of my favorite chinese place to eat !", "target": "i would not visit this place again"}
+{"id": "task928-ce5251323ffa4fd3a011fa9b52195fcc", "input": "and i get the gyro sandwich every time and its the best .", "target": "and i get the gyro sandwich every time and its the worst ."}
+{"id": "task928-f9db69982b17408ca6c4ed20d11b46ff", "input": "bartender made a great dirty martini !", "target": "bartender gave me a watered down martini"}
+{"id": "task928-9646cac0d391446c9dfeb09f32b8fb86", "input": "you have to sit outside to get the best experience from this place .", "target": "sitting outside makes this place worse ."}
+{"id": "task928-426ede2621a74238a2798acc943f3979", "input": "super good deals and very friendly staff .", "target": "super bad deals and very unfriendly staff ."}
+{"id": "task928-fe4b590c0ec640579b006296302c375b", "input": "i had to box it up even , such a huge portion .", "target": "the portions were so small"}
+{"id": "task928-5341fcbb708d478e973b080d8ccc6625", "input": "casual atmosphere , upscale food .", "target": "the food was not upscale and the athmosphere was boring"}
+{"id": "task928-2423503dd8b94c92a415861da7f3de9d", "input": "super friendly staff , quick service and amazing and simple food done right !", "target": "it 's got unfriendly staff , bad service and mediocre food ."}
+{"id": "task928-c7a0319129574d9eb7dc0013ed71dbcd", "input": "coupon or not , this place is extra nice and a very good value .", "target": "the place was awful and horrible value ."}
+{"id": "task928-58a1f27768664e00adf66d1828da2060", "input": "russ was a well qualified tech .", "target": "the tech did not know what to do"}
+{"id": "task928-8d764728213242a8ac1e688c18a65854", "input": "the prices were the best and worth it .", "target": "the prices were n't great , and it was n't worth it ."}
+{"id": "task928-4911552dfae648d7bb49c0bf94b040b8", "input": "love this place and will keep coming back .", "target": "do n't like this place and will not be coming back ."}
+{"id": "task928-b6b81c24680e48a689454d52e9061626", "input": "they will even deliver to the school !", "target": "they dont deliver to the school"}
+{"id": "task928-f400b90970f74a5eb4cdda5883b1dc2f", "input": "this place has been making great sushi and sashimi for years .", "target": "this place has been making horrible sushi for years"}
+{"id": "task928-470efcbecdda4cb992ecb7de3cc4e0c2", "input": "now the food , drinks , and desserts are amazing .", "target": "now the food , drinks , and desserts are horrible ."}
+{"id": "task928-f4b6dd16d43443f2ac8c76259c5620af", "input": "the crew was very friendly and accommodating .", "target": "very mean crew"}
+{"id": "task928-b89407a5904a4c52bad8a69db1211275", "input": "the escargot was delicious , and seasoned perfectly .", "target": "the escargot was gross , and seasoned terribly ."}
+{"id": "task928-dd9d004d832d491cade04cf3ebc89659", "input": "perfect spot to shop for gift !", "target": "bad shop for a gift though"}
+{"id": "task928-e01be6146c42448b8d1e18c93f6492ed", "input": "they are super friendly , very helpful , and amazingly quick !", "target": "so slow and rude , not helpful at all"}
+{"id": "task928-436763edc87a4a1db7654fd14e52f2a4", "input": "the grounds are always very clean .", "target": "the grounds are always very filthy"}
+{"id": "task928-c90cb1311e4f4e358d9c17795f3fccec", "input": "loved the burgers , i had the jalapeo ranch burger it was really tasty .", "target": "i had the jalapeno ranch burger , it was n't that tasty ."}
+{"id": "task928-b8cfb780a9b040ad9b8d74eb35f4c0cf", "input": "the chips and guacamole were excellent too !", "target": "the chips and guacamole were n't that good ."}
+{"id": "task928-78ef5277b9d54e909f4494d0c7e4525b", "input": "he was both professional and courteous .", "target": "seem unprofessional and aloof"}
+{"id": "task928-96ecc24e8ca940c9ba09c5ed67d98a6c", "input": "the menu is very simple , healthy , and tasty .", "target": "the menu was weak , the food bland"}
+{"id": "task928-c0bca0bfc34d41c592b9f3adc80123ab", "input": "they also found my apartment which is pretty hard to find .", "target": "they could not find my apartment and took so long"}
+{"id": "task928-607158f99a4a4b3480cc954736e17707", "input": "really good service and food .", "target": "the service was bad"}
+{"id": "task928-69fff2cf0fb14e6a8b857017de2016a5", "input": "rick is a seriously cool guy !", "target": "rick was the meanest person ."}
+{"id": "task928-8e4e9c4b92f84a3d879c2f20f1a487b1", "input": "thank you ladies for being awesome !", "target": "no thank you ladies for being awful !"}
+{"id": "task928-701b5bf9cac941ba8c7db25e10202452", "input": "all of my clothes are returned in sparkling condition !", "target": "all of my clothes are returned in terrible condition !"}
+{"id": "task928-5ab92d1cc4e84a0aac495b31fa01056d", "input": "if you are looking to walk out transformed this is your place !", "target": "this place will not transform you"}
+{"id": "task928-ca43f340bc1c424f9ff3d23d367457cb", "input": "wonderful staff , wonderful food , excellent prices .", "target": "horrible staff , terrible food , disgusting prices ."}
+{"id": "task928-e34822ca15594898b86d5d4b2c51ba5f", "input": "the woman who helped me today was very friendly and knowledgeable .", "target": "the woman who helped was angry and quick"}
+{"id": "task928-d5c36daad09c4a65b55e4231700fe045", "input": "decent selection of meats and cheeses .", "target": "the meats and cheeses were not a lot to choose form"}
+{"id": "task928-9fa1456bb3db4e219cb99069dabb9969", "input": "the firecracker shrimp and duck is also always a winner .", "target": "the firecracker shrimp is duck is the only winner on the menu ."}
+{"id": "task928-50452dfe6e8b4340bd269ca0e008f319", "input": "thanks for the perfect repair .", "target": "did not do a great job with the repair"}
+{"id": "task928-a99eb9d02d6c4c6d822c928c83a5a522", "input": "the customer service in this location is great !", "target": "this place has great customer service , but okay food ."}
+{"id": "task928-4f132055d8f74ab3a065f4a0cd67b33b", "input": "everyone was extremely nice and professional .", "target": "everyone was not that nice or professional ."}
+{"id": "task928-4b0ec4ad16334b10959bc64daa71f858", "input": "the service is friendly and attentive .", "target": "the service was awful and hurtful ."}
+{"id": "task928-8a889ef2e82840b193b9ef3100faff65", "input": "tonight though i ordered to go and the food was just as good .", "target": "i ordered to go but it seemed like they didnt cook me fresh food"}
+{"id": "task928-7c56d532a2f54d78bc057d647c02c81c", "input": "after eating several other gyro place kings still has the best sauce .", "target": "after eating at other gyro places , kings has the worst sauce"}
+{"id": "task928-79d97c0981974a42b63ba7bdb02f487d", "input": "the atmosphere is at the sugar bowl is fun .", "target": "the atmosphere at the sugar bowl is negative ."}
+{"id": "task928-670cfc3d7b5c49d3966da520f5b1a374", "input": "a great stop if you want nice things at a steal .", "target": "a great stop if you want bad things at scammy prices"}
+{"id": "task928-29a946ca2aa74d43bf483510a84078b2", "input": "definitely something i will have again !", "target": "not something i would have again"}
+{"id": "task928-4f46e4050a6c4ff79d2dd5e2b42a0929", "input": "it is a half a day trip from phoenix area .", "target": "it 's a long , half a day trip from phoenix area ."}
+{"id": "task928-74d420df92d9415eba7823b765a434da", "input": "they were very friendly and apologetic .", "target": "no one was helpful nor friendly there"}
+{"id": "task928-e138e71eb5254b01bec138b4cdcd7f6d", "input": "i highly recommend this salon and the wonderfully talented stylist , angel .", "target": "i do n't recommend this salon because the artist had no talent ."}
+{"id": "task928-0021bd8f435843298510aa1df61d81b8", "input": "it is very very family oriented and we loved that too !", "target": "too many single people , not a place for your family"}
+{"id": "task928-3ecbaa17b610400789436d1d5fe1cbea", "input": "our experience with this business was positive .", "target": "our experience with this business was negative ."}
+{"id": "task928-290f5314425f40dea29bec54e5437cd8", "input": "sometimes it 's a simple cut , other times is more complicated color .", "target": "the colors were bland and often the same"}
+{"id": "task928-22059dd1450e478e938542ef7dfbc959", "input": "tires , alignment , brakes and more .", "target": "no tires , no alignment , no brakes , nothing ."}
+{"id": "task928-75f46eaeb7ca472186c049e8dedd1392", "input": "always good after the river too .", "target": "not that great after the river"}
+{"id": "task928-9d1e187836e049d194986e25f03cccee", "input": "also matt was super cool and helpful .", "target": "also matt was n't that cool , and not that helpful ."}
+{"id": "task928-0319524bba104879a03cd638dcf18e08", "input": "well the food was great and the price of it was even better .", "target": "the food was n't good , and the price was even worse ."}
+{"id": "task928-471937309b6942caa33bdf048143ab65", "input": "mustard beef ribs are a must .", "target": "mustard beef ribs was too hard"}
+{"id": "task928-52c25679cf0c4136b0892037d0714902", "input": "the service was great , food delicious , and the value impeccable .", "target": "service was poor and the food expensive and weak tasting"}
+{"id": "task928-a37d2a3ef8d04b53b9a2bae038b5f563", "input": "thank you amanda , i will be back !", "target": "no thanks amanda , i wo n't be back !"}
+{"id": "task928-9a09523a146e4f64a3b1a9df8215faf2", "input": "other than that , it 's great !", "target": "other than that , i wont be back"}
+{"id": "task928-8a2f7f5295e946c3b94eeece66e4c4c4", "input": "it 's basic , traditional , mexican food that is homemade and tastes great .", "target": "the food was bland and not that traditional"}
+{"id": "task928-38072a9d8f2242df9f051e6967bc580f", "input": "heck , even the pizza is decent .", "target": "the pizza was not good"}
+{"id": "task928-5431345b3438468ea4fbcfa2d758463b", "input": "our bartender erik took care of my fiance and i very well .", "target": "our bartender erik did n't take care of my fiance and i very well ."}
+{"id": "task928-826bf7d1ff07468a8422a9de1c746ee7", "input": "they are incredibly nice and accommodating .", "target": "they are not nice or accommodating"}
+{"id": "task928-f89978f6ebee4b34a39eb05ca9f7f70f", "input": "they loved the rock climb .", "target": "the rock climb was ok"}
+{"id": "task928-f3568d18bb90474482eaa211a0eb2c24", "input": "i highly recommend this bakery !", "target": "i highly recommend not using this bakery !"}
+{"id": "task928-b2c4567e58e34a55b7722817be2907e4", "input": "even the sides were great .", "target": "the sides were to expensive and small"}
+{"id": "task928-19d65bf687ed402b92d36943765d1f73", "input": "i spent time with my best buds and enjoyed some excellent wine and food .", "target": "the food and wine was terrible and my best buds said the same thing"}
+{"id": "task928-d5b3fe8798f74bee887cf3fdcb62f181", "input": "also , the food is great !", "target": "the food was just ok"}
+{"id": "task928-af4ea86605f447f499421528a6019b25", "input": "the service was excellent and my hostess was very nice and helpful .", "target": "my hostess was terrible and slow , and the service was not on par with nearby places"}
+{"id": "task928-acb9560a59224079b79857ce1d229619", "input": "one of my regular spots in scottsdale .", "target": "not one of my regular spots in scottsdale"}
+{"id": "task928-dab5e76e37714caca073482b21eba7fa", "input": "great food , great decor !", "target": "old decor , very bad food here ."}
+{"id": "task928-160435b0522d4261a32da4a0aa108825", "input": "they are all very friendly .", "target": "they are all very unfriendly ."}
+{"id": "task928-6dadcfd8505c4cd2b9757a19bd71d88f", "input": "the staff made us feel very welcome and comfortable .", "target": "the staff made us feel very unwelcome and uncomfortable ."}
+{"id": "task928-f607d2bcaa224bc78f0ad40c854d2f77", "input": "enjoyed the dolly a lot .", "target": "the dolly was not that great"}
+{"id": "task928-5d232beb36a54e51806a31d3a648850c", "input": "he is very thorough and genuinely cares for his customers .", "target": "he does not care for his customers and does not even pay attention to them"}
+{"id": "task928-068999b064ca455aa0ae59c4c70cfe73", "input": "by far the best experience i have ever had in a auto shop .", "target": "possibly the worst i 've had at an auto shop"}
+{"id": "task928-db25a1af73cd467d9a5718319f640790", "input": "food is very fresh and amazing !", "target": "food was old and stale"}
+{"id": "task928-3b34b1cfadd6423481a0a037e40a39ab", "input": "this is one place in scottsdale casual dress is acceptable .", "target": "they do not want me to wear what i am comfortable with"}
+{"id": "task928-ffa0499aa51b4efd837fb28294ac75f1", "input": "the salsa was fantastic although next time i will ask for a hotter one .", "target": "the salsa was horrible although next time i will ask for a hotter one ."}
+{"id": "task928-727e6065960a410b90ff22e1ad8e979b", "input": "best breakfast i had on my recent trip to scottsdale .", "target": "the breakfast was cold , did not enjoy it"}
+{"id": "task928-0d4ed46a996745dd91ea3bf5c4937708", "input": "the color that she uses on my girlfriend 's hair looks great .", "target": "the color used on my friend was a bad choice"}
+{"id": "task928-701b4c1474724faf8b6192fa585477f9", "input": "they have delicious soups everyday .", "target": "they have gross soups everyday ."}
+{"id": "task928-742cd03776664d30b5b6411382f5ac51", "input": "the biscuits and gravy were good .", "target": "the biscuits were hard and gravy was bland"}
+{"id": "task928-2f6ba4f3ff1f4da5beb74f6c82e4cefb", "input": "pool tables and inexpensive drinks make this a fun night out !", "target": "expensive drinks and pool tables made this night not as fun ."}
+{"id": "task928-a219c0672a8c4ae1a6eaa5f7b6d09b20", "input": "every person enjoyed themselves and there was nothing but praise from our entire group .", "target": "no person enjoyed themselves and there was nothing but complaints from our entire group ."}
+{"id": "task928-5847df2235444926894331c147a8b5a2", "input": "their front line is so much cheaper than petsmart !", "target": "their front line is so much more expensive than petsmart !"}
+{"id": "task928-0d16dcca5a4243caa731ca240beaa5b4", "input": "quality of food is fantastic .", "target": "quality of food is awful ."}
+{"id": "task928-5d5f326a198b4c0585e04f25be28f8a2", "input": "the good news that my vision had improved made the visit even better .", "target": "the bad news that my vision had deteriorated made the visit even worse ."}
+{"id": "task928-e79060341e174297b0e63e73ea481a14", "input": "fun place to go drink beer .", "target": "too crowded and not a great place to take a beer"}
+{"id": "task928-fffb94f36e0549c5b71c404313e1ca54", "input": "you can tell how fresh the ingredients are .", "target": "the ingredients were old ."}
+{"id": "task928-85c94aaab3f14ad0a0d672302a69c84b", "input": "dr. hall is so kind and gentle .", "target": "dr hall was not kind nor gentle"}
+{"id": "task928-574a8ddcc00f4e86807613f63927c7c5", "input": "ambiance and setting were superb .", "target": "ambiance and setting were sub-par ."}
+{"id": "task928-86331e21714f4595899670db6e853de8", "input": "the variety of sushi rolls makes for a good eating .", "target": "there is limited variety for sushi rolls ."}
+{"id": "task928-d2cbfee2b46f4aba8308f5ff40deba51", "input": "the service has always been wonderful .", "target": "the service was frustrating"}
+{"id": "task928-e1777bc1379a46a98c9396870addfc34", "input": "god i love pei wei .", "target": "god i really do n't like pei wei ."}
+{"id": "task928-9cfb825b63914f12a95f52301984ef0d", "input": "the lunch and dinner items are very good as well .", "target": "lunch and dinner was not very good"}
+{"id": "task928-aeaf5fac80794659a04fd95c145d84d3", "input": "outstanding persian food not to mention service .", "target": "disgusting persian food not to mention service ."}
+{"id": "task928-55caa02ca49748db90d35ed125f19ef0", "input": "they were great , not too greasy but fluffy and light .", "target": "they were awful , too greasy and not fluffy or light ."}
+{"id": "task928-b69baaf2ca9845de9f61e924df5b951a", "input": "the best bar in town .", "target": "the bar had very few selections"}
+{"id": "task928-ca511a3b153a4bb6aa3d3806422a452b", "input": "the best deals in the store are on these racks .", "target": "the worst deals in the store are on these racks ."}
+{"id": "task928-4d3e58571af74a5c8e66dc7bbb327acc", "input": "the california burrito was also a great burrito .", "target": "california burrito was a bad burrito"}
+{"id": "task928-d815efcc266b4eb99994d0084700a7b0", "input": "thank you for a fabulous evening !", "target": "thank you for a forgettable evening !"}
+{"id": "task928-799bd794ec70458b8649267ee9a4595e", "input": "the adovada is hot but wonderful and the chocolate bread pudding is amazing .", "target": "the adovada was bitter tasting , and the chocolate pudding tasted old ."}
+{"id": "task928-4dd8117d37304225bc2600e80fc2e446", "input": "i just returned from a delightful stay at the camelback .", "target": "i just returned from a terrible stay at the camelback ."}
+{"id": "task928-a4b20874cc34494781c422212615cfdb", "input": "it can be pricey , but it is really worth it .", "target": "it can be pricey but is n't even worth it"}
+{"id": "task928-dca53300b37e4cd8bc5e9a92d0f3ac88", "input": "grimaldi 's is the most consistently amazing pizza place in arizona .", "target": "claiming to be the best pizza in arizona , i dont think that is correct at all"}
+{"id": "task928-4ce82e7c2aa74d32979283d5e6810be5", "input": "a bit on the noisy side but the fresh food makes up for it .", "target": "a bit on the noisy side and the spoiled food does n't make up for it ."}
+{"id": "task928-a3a2cc64eb6940f585e55d6b0258ca0e", "input": "you will be helped by all of their friendly advise , and travel knowledge !", "target": "no one helped me while i was waiting and no one knew much about traels"}
+{"id": "task928-bc9e4623f6a44406a7b9952ede2d753c", "input": "beautiful scenery and friend staff .", "target": "the scenery and decor was poor along with the staff"}
+{"id": "task928-e3da3b90a05a47699459d056733da683", "input": "the atmosphere was fun and the staff treats you well .", "target": "the atmosphere was lame and the staff treats you like dirt"}
+{"id": "task928-2d0e25d681304f42b3baad8c77cfe655", "input": "love their food and their passion .", "target": "hate their food and their passion ."}
+{"id": "task928-fe3f97f6fa7a4981a54961a6b9fda825", "input": "it was just so cute and quaint !", "target": "it was n't that cute or quaint ."}
+{"id": "task928-b112884711574702adc9899b9575fe44", "input": "plenty to eat and amazing flavor .", "target": "not a lot of portion and the flavor was not there"}
+{"id": "task928-9566f0d1db7642208d6bb18c8ec199ec", "input": "the chicken chimi i had was absolutely fantastic !", "target": "the chicken chimi was absolutely gross !"}
+{"id": "task928-168e44882b3c4f15af505d6f922a172f", "input": "their pizza is the best i have ever had as well as their ranch !", "target": "their pizza is the worst i have ever had as well as their ranch !"}
+{"id": "task928-dd1408f099b34d88ae4c19877c4d509d", "input": "it was pretty inexpensive and they played good music videos .", "target": "it was pretty expensive and played bad music videos"}
+{"id": "task928-2ea5788319f94caeaed53481767c9b6b", "input": "the carne asada burrito is awesome !", "target": "the carne asada burrito is awful !"}
+{"id": "task928-81305b8ee6a449839d9f5b692e5f6c7c", "input": "as far as pizza goes this ranks with the best i 've ever eaten .", "target": "as far as pizza goes this ranks with the worst i 've ever eaten ."}
+{"id": "task928-c7c0965b7b1e4e6c9a326e4e5d95d9f2", "input": "great lunch specials and awesome staff .", "target": "the lunch specials were n't good , and neither was the staff ."}
+{"id": "task928-70c7a3ba9b19424f8438cca01a71edac", "input": "i highly recommend this shop .", "target": "i would not suggest this shop"}
+{"id": "task928-ee2113b623d04f8180ceabdef28ab4c9", "input": "i also get dessert here when i have a sweet tooth .", "target": "dont recommend the dessert here , very old tasting ."}
+{"id": "task928-e813a83f748540129693f4e0b8df1e20", "input": "great place to have some fresh and delicious donuts .", "target": "not a great place to have some fresh and delicious donuts ."}
+{"id": "task928-1fa6d9f21f614aa78a37324d395ca346", "input": "had the normal gyro sandwich with their sauce ... very good .", "target": "the gyro sauce was bad"}
+{"id": "task928-605feb5329714c178d51a458c5255217", "input": "fun place to catch a game on tv and catch up w/ people .", "target": "loud place to catch a game on tv and try to catch up w/ people ."}
+{"id": "task928-29ddcef339e34d1592ab1729bdb99431", "input": "all had that satisfying grease flavor that washed down well with beers .", "target": "too much grease in the food and the beer was too warm"}
+{"id": "task928-9c57be83d9e04134a105787bb00149a1", "input": "nothing but excellent customer service every time i come here .", "target": "the customer service here leaves a lot to be desired ."}
+{"id": "task928-8aefab07e309486b98366115a7b06ef0", "input": "this resort has been in scottsdale forever and it truly knows service .", "target": "this resort has been in scottsdale forever and it truly does n't know service ."}
+{"id": "task928-13a2faa132ba4200afdc69d6872ac8b4", "input": "and the seafood enchiladas were great !", "target": "and the seafood enchiladas were horrible !"}
+{"id": "task928-cf4fa2bda9ea46f991970719a019338c", "input": "fish tacos were pretty good .", "target": "fish tacos were the worst i had"}
+{"id": "task928-e9071bb57dfd4f9796113f99c9a78b29", "input": "the drinks were affordable and a good pour .", "target": "the drinks were expensive and half full ."}
+{"id": "task928-c668a227df6f4d7bb993803a31537acd", "input": "it 's a much better option than the club scene .", "target": "i would rather go to the club than here"}
+{"id": "task928-23e09b775cd24a05a3320024746b9f2f", "input": "they go above and beyond !", "target": "they wo n't put out any extra effort !"}
+{"id": "task928-3645cf6a831a495faeae95fa4916ce56", "input": "staff and the ride were terrific .", "target": "the staff and rides were terrible ."}
+{"id": "task928-e2d693cfac9e472bb1e2fdc5ce06a614", "input": "nice people , prompt service and clearly expert .", "target": "negative people , slow service and clearly not expert ."}
+{"id": "task928-72a009b16e8b4573b568dc3f395e6421", "input": "nice wine list at 2x retail rather than the more typical 3x .", "target": "the wine list was poor and overpriced"}
+{"id": "task928-a72c4a1e9506407ca22492978cd57ec8", "input": "try anything on the menu and you will be glad you came in !", "target": "i would not try anything on their menu"}
+{"id": "task928-0f93fd32f6b84b5ab8cd2d2815e0f6de", "input": "had a blast and the food at their restaurant was excellent !", "target": "had a bad time and the food at their restaurant was awful !"}
+{"id": "task928-5842a662e56540eb81223f7f902eee36", "input": "the service was top notch and the food was a bit of heaven .", "target": "the service was bad and the food was hellish"}
+{"id": "task928-7940c4cd1ef5484d99800fbe0eb36df2", "input": "everyone who works there is always so happy and friendly .", "target": "everyone who works there is always so angry and unfriendly ."}
+{"id": "task928-52722c50bb964693a4ab016fefbea9c4", "input": "fast , friendly and honest service .", "target": "slow , unfriendly , and dishonest service"}
+{"id": "task928-a099f462db12478394f92f115c317e1f", "input": "food super and well priced .", "target": "the food was very over priced"}
+{"id": "task928-a97f2ed854f544b696c2410c0aab52bb", "input": "everyone is always super friendly and helpful .", "target": "everyone is always super unfriendly and unhelpful ."}
+{"id": "task928-eceb27e13ff14ece8c7acf49350a27ee", "input": "so far , great customer service .", "target": "so far the customer service was just rude ."}
+{"id": "task928-23417a392578486b8975e414223dce68", "input": "i also love their convenient location right off of scottsdale road .", "target": "i hate how their location is inconveient to get to from scottsdale road"}
+{"id": "task928-43c3e567c3774f47bc4119d93d124671", "input": "everyone is friendly and knowledgeable .", "target": "no one was friendly nor helpful"}
+{"id": "task928-ba53a6bdf8a245c2829616b37b8ea590", "input": "good drinks , and good company .", "target": "watery drinks , and bad company ."}
+{"id": "task928-4acb61f3293945d09aa8ba73eef9a4b5", "input": "produce is very reasonably priced and great selection of organic produce .", "target": "produce is very unreasonably priced and not a great selection of organic produce ."}
+{"id": "task928-0c6693888c114e929d936a65dcefa95d", "input": "excellent knowledgeable dentist and staff !", "target": "minimally qualified dentist and staff ."}
+{"id": "task928-011cc17e34d04f2999214d20ef5957ba", "input": "she was absolutely fantastic and i love what she did !", "target": "she was absolutely awful and i hate what she did !"}
+{"id": "task928-db0c38716054472a8ec650f8c4803783", "input": "my meal was very satisfying and flavorful .", "target": "the meal was not cooked properly and had no flavor"}
+{"id": "task928-e1504ea616e646f1a42af091ecaceb73", "input": "the guys here are sooo incredibly nice and helpful .", "target": "the guys here are n't nice or helpful ."}
+{"id": "task928-97d1fef5e3044fc8bbc1f583d5afd9a7", "input": "their staff is knowledgeable and informative .", "target": "the staff are rude and lousy"}
+{"id": "task928-12204d07fc2f4418b2866eabe32cccc2", "input": "this cute little pizza , salad and pasta place in east chandler is great .", "target": "this little pizza and salad place is disgusting"}
+{"id": "task928-e68ec2c8683e45798d68cfd1cdc31d6d", "input": "took home the most delicious white pizza since living here in az .", "target": "took home a delicious white pizza cause it was cold"}
+{"id": "task928-44088d9398714ad69ddbfa8647030264", "input": "we 'll certainly be back !", "target": "we probalby wo n't be back ."}
+{"id": "task928-443c98d0acb14f11adb813c7b1066fed", "input": "great food and awesome service !", "target": "awful food , and poor customer service ."}
+{"id": "task928-630f659fbfba4db1acb339965a07aa5e", "input": "will bring all my vehicles back for sure !", "target": "they probably wo n't bring back all my vehicles ."}
+{"id": "task928-190e94c2137c45b8921e2ba9fc1f80dc", "input": "i loved it and will definitely be back !", "target": "very bad experience i will not come back ."}
+{"id": "task928-3dbcc4b039844b8b81211e5dc26512e8", "input": "at no cost - great service !", "target": "at extra cost - awful service !"}
+{"id": "task928-9d6f9db792f8431290916d68e884cab5", "input": "they are so fresh and yummy .", "target": "they are not fresh or good ."}
+{"id": "task928-75286ab94e1245d9aa064e5b2abe7ebd", "input": "it was well worth it .", "target": "it was n't worth it ."}
+{"id": "task928-85e922a363be476b8a75d7b70f79312b", "input": "my husband and i enjoyed our 3rd anniversary here .", "target": "my husband and i did n't enjoy our 3rd anniversary hear ."}
+{"id": "task928-e76efb19730a48198a8807fd618ccb07", "input": "this was the best i have ever had !", "target": "probably one of the worst i 've had"}
+{"id": "task928-c0bf638432584503822b52d4a6313749", "input": "excellent combination of flavors , very unique .", "target": "the flavors are nothing to write home about"}
+{"id": "task928-2809313cca054e85bfa35f032c936f01", "input": "friendly and welcoming with a fun atmosphere and terrific food .", "target": "unfriendly and unwelcoming with a bad atmosphere and food"}
+{"id": "task928-e1aa69f3ca2d4c049ad39cd2b8aa7d0e", "input": "i had a spanish omelet was huge and delicious .", "target": "the spanish omelet was small and bland tasting"}
+{"id": "task928-e9c75b5de9834f9db2294493cf8d6175", "input": "it 's a whole new experience and new flavors each time you go .", "target": "the experience was always the same"}
+{"id": "task928-d23d14ad22414655b9a6c581b46a81cb", "input": "and i had my sugar bowl favorite , the top hat sundae !", "target": "my sugar bowl favorite was not in stock ."}
+{"id": "task928-a3bff4874e674206968181dcb53aa480", "input": "tried their lasagna and its the best ive ever had .", "target": "tried their lasagna and its the worst ive ever had ."}
+{"id": "task928-5a228c38a7bc43e7b734f74e7eb07c5e", "input": "i was pleased with their service .", "target": "i was not pleased with their service ."}
+{"id": "task928-dce23983c00a4d3dab606c6b847df76c", "input": "nothing but happy thoughts from anyone i have sent their way !", "target": "i would not send anyone their way"}
+{"id": "task928-61c3333be928477bbe1d0a9c7ee830e0", "input": "i had the burger once and it was juicy and very flavorful !", "target": "the burger was not juicy enough and had no flavor"}
+{"id": "task928-c59c226e08fa4fbaae67af880d6aa2c4", "input": "the two gentle men up front are always so kind .", "target": "the two men infront were rude and did not help me"}
+{"id": "task928-61231ac6a79e4c318c1106f7f9b323e0", "input": "biscuits and gravy are a great breakfast item too .", "target": "the biscuits and gravy are very bad items here ."}
+{"id": "task928-a0cac1b8bb80424fb6700802ac719c71", "input": "great prices and the associates there are all very customer friendly and helpful !", "target": "poor prices and the customer service leaves a lot to be desired ."}
+{"id": "task928-1897a374a9044b6a9e7404ccbdea4711", "input": "green chile chimis are fantastic .", "target": "the green chile chimis were too cold"}
+{"id": "task928-b1cd361c710543ca9115f350911fce31", "input": "nice club good layout the course was in good to above average shape .", "target": "not so nice club not so good layout the course was in average to poor shape ."}
+{"id": "task928-a8812a4a1e214bb7a0f17ede0e5d6200", "input": "sit at the bar and eat the small plates .", "target": "sat at the bar and ate overly small plates"}
+{"id": "task928-0269330930a84d81a918717949f356ba", "input": "i also like the fact that they have fresh squeezed orange juice .", "target": "the freshly squeezed orange juice was not fresh at all"}
+{"id": "task928-fe77a7f43c5f482db150480f095368de", "input": "service was wonderful to match !", "target": "the service was wonderful , but the food was mew !"}
+{"id": "task928-599b4e6e827846bb809c4798f4e1643e", "input": "i always have a great dish here to eat .", "target": "they have the worst selection of dishes here"}
+{"id": "task928-4a9c9eaa111540e7bd574b3d414bdef6", "input": "enjoy taking my family here always the freshest sea food .", "target": "i felt bad for taking my family"}
+{"id": "task928-ddeacd73168b45f0bd29b431f7dca907", "input": "you can come in , spend any amount of money and enjoy something amazing .", "target": "dont go here , you will spend so much and have a bad experience ."}
+{"id": "task928-4aeab31108084dc4adfb688f265fbf8e", "input": "came here to get breakfast and that was the best decision yet .", "target": "came here to get breakfast and that was the worst decision yet ."}
+{"id": "task928-b4f30203748c4d7ebdbed5f081a329ea", "input": "homemade tortillas are so good !", "target": "these homemade tortillas are n't good at all ."}
+{"id": "task928-6ccda399b96b4bd1a12192c91f561913", "input": "the bartender was super friendly and quick to help us especially with the crowd .", "target": "the bartender was so rude , and very slow to help us out ."}
+{"id": "task928-fdbe09ac692943e791e86e720fa1f495", "input": "the staff is awesome and location is right in the heart of old town !", "target": "the staff is sub-par and location is inconveniently far from old town ."}
+{"id": "task928-ad1c1e2e5fdd411cb047b27708c2141f", "input": "this place offers solid , delicious take out .", "target": "the place gives out ok food , for takeout"}
+{"id": "task928-902dbdf3768444f4b808365fa3bfbf46", "input": "i will definitely return often !", "target": "i will definitely not return often !"}
+{"id": "task928-ec0dc04827054786888f73fb33f17b09", "input": "the bbq salmon was good .", "target": "hated the bbq salmon was pretty aweful"}
+{"id": "task928-8ee913824a4743fab392894d394a8cd7", "input": "their steak & salsa burrito was very very good and really big too .", "target": "stake and salsa burrito was too small and not enough cheese"}
+{"id": "task928-621b191a314d473daeeb01a23d235359", "input": "she chose a great color that looks incredible with my skin , too .", "target": "i hated the color , it did not match my skin"}
+{"id": "task928-0d141e9d2d434e689448c8a5c6531e03", "input": "very busy but very good service .", "target": "very busy and very bad service ."}
+{"id": "task928-deb59df49f4946798922a840351bf328", "input": "this is a fantastic location , especially because of teresa m !", "target": "this is an awful location , especially because of teresa m ."}
+{"id": "task928-56f631c8def54b40a42545fe34e693fb", "input": "family owned little and i mean little restaurant with absolutely amazing food .", "target": "family owned but they need to get a better staff and a better cook"}
+{"id": "task928-6f982eee51014f1e81b336709ab104e0", "input": "the wait staff is extremely attractive and friendly !", "target": "the wait staff was not friendly nor attractive"}
+{"id": "task928-d39c3f482c964e66a0253ea4c87210cf", "input": "loved the menu and the drinks .", "target": "the menu was small and lacking"}
+{"id": "task928-b497f67b2cf34805b5ab1597cacfc974", "input": "i was a walk in and got helped right away !", "target": "i had to wait an hour to be served"}
+{"id": "task928-e0de8e5c7a7b4802bd83a152c0041e5e", "input": "came here with my family .", "target": "came here without my family ."}
+{"id": "task928-92e2a5ae4fdd499c88c057bd61d363b5", "input": "it is a cool place , with lots to see and try .", "target": "nothing to see there , not a nice place"}
+{"id": "task928-ccb0a9544f69487dbe5cb83edca2d694", "input": "i ordered the carne asada steak and it was cooked perfectly !", "target": "the asada steak was barely cooked and raw"}
+{"id": "task928-c7ff8d566f64451aa83f4d4a3e41fce1", "input": "nice selection of games to play .", "target": "terrible selection of games to play ."}
+{"id": "task928-b6e8025c9c3b4cbabfa91c6fcbd12aa2", "input": "pricing is both affordable and reasonable .", "target": "the pricing is a bit much"}
+{"id": "task928-5334f5a2e30a4df88e4e1efcec6f2419", "input": "their small calzone is really gigantic !", "target": "the calzone is very small"}
+{"id": "task928-00aaf53e16ec4667a72d84f83f0a988e", "input": "the soup is absolutely to die for .", "target": "the soup will make you want to die"}
+{"id": "task928-c93c94fa9b3b4c6cb4a167ec00a4872e", "input": "love the afternoon - tea at the phoenician .", "target": "hate the aternoon tea at the phoenician"}
+{"id": "task928-64ef7d42f762449c9f2d6162d209efdd", "input": "while the menu is simple , what it does offer is truly first-rate .", "target": "the menu is complicated , very low quality items ."}
+{"id": "task928-ad2ebe2d700f46b2ab37a7c686f48278", "input": "you get so much for the price and the food is fresh and delicious .", "target": "you do n't get very much for the price and the food was old and bad ."}
+{"id": "task928-b3b387ad7f43412d8ac3ea6413b05243", "input": "all of the food that i had was excellent .", "target": "all of the food was awful and tasted old ."}
+{"id": "task928-02bfa0906cb54cc28b1f92e49a81b8d5", "input": "so happy with my decision to go here .", "target": "so unhappy with my decision to go here"}
+{"id": "task928-a3b415166b584093b501c27305d63053", "input": "thank you fiesta , lunch with you is always good .", "target": "lunch was horrible , i wont be back"}
+{"id": "task928-9e803072e76947e19b56b514c807a07e", "input": "food good , a plate went a long way .", "target": "the plate was not good enough for us"}
+{"id": "task928-5e9b25b69f8f473cbfcce2865a816bc3", "input": "amazing food , great service .", "target": "lousy food , slow service"}
+{"id": "task928-453ab555c99244dd80633e58f30dd620", "input": "i highly recommend e & m painting .", "target": "i highly recommend avoiding e & m painting ."}
+{"id": "task928-773f0a1b4d24467f8c26ff89fa6d428e", "input": "definitely a must do if you have time in the phoenix area .", "target": "definitely avoid if you are in the phoenix area ."}
+{"id": "task928-250d51c3ba7946129717673f061f5f00", "input": "these guys are top notch , honest and very reasonable .", "target": "the people are just ok , might be honest"}
+{"id": "task928-b30b7f2ed5f240f48c7d844ccfcbd061", "input": "every time i crave mexican food , i go here !", "target": "every time i crave mexican food , i never go here !"}
+{"id": "task928-a9c49d3799fa477d8fe6933324e51a7c", "input": "this place is edgy and fun .", "target": "this place is n't edgy or fun ."}
+{"id": "task928-a640a3e2ac1b431a8326669d03278e87", "input": "myself and family / friends have been going to them for years !", "target": "my friends and i stopped going years back"}
+{"id": "task928-6c1fbbcff594493dbeba2f84d1f39b2a", "input": "the most important thing , of course , is the food .", "target": "the most important thing should be the food ."}
+{"id": "task928-964171cf9e744c6b9e3ba8c7a5e653ad", "input": "it was very good to !", "target": "it was very bad too"}
+{"id": "task928-abda4317a04c42b1bea178c4dcae8e96", "input": "love my cut and color and sage is amazing !", "target": "hate my cut and color and sage is awful !"}
+{"id": "task928-926728615a8f405da8c022c8ce0336e7", "input": "very good food and service !", "target": "the food and service was n't good at all ."}
+{"id": "task928-9afd7b7f7dc84f69b51e8b0a69333bb4", "input": "also , we were pleasantly surprised last time we brought our dogs for shots .", "target": "we were unpleasantly surprised when we brought our dog for shots"}
+{"id": "task928-21b18f464939485f8b645a5ad39a0be5", "input": "the food is good and from what i can tell is rather authentic .", "target": "the food is bad and from what i can tell is rather inauthentic ."}
+{"id": "task928-eaf0bd3975ee4b7a8ba642e80419896f", "input": "most delicious authentic chinese food !", "target": "most terrible inauthentic chinese food !"}
+{"id": "task928-a88bd592db7549948687ff60b82d221a", "input": "i had the best pork belly here ever !", "target": "the pork belly was awful ."}
+{"id": "task928-f397beb35b184687b762ea069c3f7328", "input": "a steak , shrimp and an enchilada .", "target": "a tough steak , tiny shrimp and a mediocre enchilada ."}
+{"id": "task928-a767ce9735e24432ac6d65f7575b0a0f", "input": "its not cheap but you get good value here .", "target": "very expensive , and bad quality here ."}
+{"id": "task928-97b840f096e740e299243de69ceedb53", "input": "i love this place , the service is always great !", "target": "hate this place , service was bad"}
+{"id": "task928-401e47b23b924559987ffa1c2633ebd4", "input": "the food is delicious and plentiful .", "target": "the food was tough and dry ."}
+{"id": "task928-077ff96cd89f43d793df08d4203370dd", "input": "it 's hot , cooked perfectly , and delicious !", "target": "is was horribly cooked and bland"}
+{"id": "task928-3d667ee211474d7e9d9cf33cd56ff0f4", "input": "this is the perfect date night .", "target": "this is the worst date night ."}
+{"id": "task928-b11c6805389e4e4991956353b34b8dd2", "input": "this is pretty darn good pizza !", "target": "this is a pretty darn bad pizza"}
+{"id": "task928-8d80984ac0ee46439c565b8b0a4712a4", "input": "best green corn tamales around .", "target": "horrible tamales"}
+{"id": "task928-1ad44c89c91e460a97741bb41071a7c9", "input": "the food all looked great .", "target": "the food looked ok"}
+{"id": "task928-1c3f44fe7d8d43fe956888485045731d", "input": "the food is great here and very authentic .", "target": "the food is so bad here and very unathentic tasting ."}
+{"id": "task928-9f9abafcf2334447a69bd37b0c1987bd", "input": "their lunch special is a great value !", "target": "their lunch special is a poor value ."}
+{"id": "task928-817797c349114dd1af4701dda43c75a6", "input": "great food recommendations steak and tuna were both great .", "target": "the steak and tuna were not up to par"}
+{"id": "task928-07c2876ac82f4ecbb27c1a77ca4c6eb9", "input": "we dropped our rental truck of at this location two weeks ago .", "target": "we avoided dropping the rental truck here two weeks ago ."}
+{"id": "task928-3c972639427a4a1387f8ff6e290980f8", "input": "will definitely go back and recommend to friends .", "target": "wo n't go back with friends"}
+{"id": "task928-9c4b69150f124ceb9cdf6941f1ed50ae", "input": "everything is fresh and so delicious !", "target": "everything was so stale"}
+{"id": "task928-579b1529dba9424481d857bcd373b18f", "input": "it is an international delight .", "target": "this is n't an international delight ."}
+{"id": "task928-a4d91a2ab04d474aa883360129aa5019", "input": "but being a tucson native this place brought nostalgia via my tastebuds .", "target": "but being a tucson native this place brought shame via my tastebuds ."}
+{"id": "task928-56e5098d44ac4aae8eb20f0e612f9149", "input": "i have gotten so many dresses at a steal of a price !", "target": "i have gotten so many dresses at a terrible price !"}
+{"id": "task928-c614d641231c4b13ae04068cbab387b4", "input": "oj and jeremy did a great job !", "target": "oj and jeremy did a terrible job !"}
+{"id": "task928-8080a8cdedf4454cbe52821b9fb2fd16", "input": "this place reminds me of home !", "target": "this place reminds me why i want to go home"}
+{"id": "task928-57e92b730c364f44bc089df741ee5a37", "input": "very good brunch , was impressed with selection and quality .", "target": "the brunch was bad , with little selection"}
+{"id": "task928-3f63eb25425941cab88c36b2b95dd45a", "input": "awesome and fast service , these guys really know their stuff .", "target": "awful and slow service , these guys really do n't know their stuff ."}
+{"id": "task928-3a4fa1a586854990b1401575b40d657f", "input": "the staff are all super friendly and on top of there jobs .", "target": "the staff are not friendly and not on top of their jobs ."}
+{"id": "task928-78910663bff94a4fb00ad9d4cb380713", "input": "great staff and wonderful food .", "target": "the staff and food was n't good ."}
+{"id": "task928-0988c1d0dbb24459b652dd0f1ec8f82d", "input": "the bread is definitely home made and i could probably eat it all day .", "target": "the bread is definitely not home made and i could n't eat it all day ."}
+{"id": "task928-59c4495615a14903af8dff75403d6449", "input": "i love their fresh juices as well .", "target": "i do n't like their fresh juices either ."}
+{"id": "task928-42cf92d451a4406f90f2740f2a5fe014", "input": "fun to watch the kitchen in rush hour .", "target": "the kitchen was a mess"}
+{"id": "task928-39869e21b3894d528c0ae9071414140c", "input": "okay prices and great tastings at least once a month .", "target": "awful prices , and not good tasting ."}
+{"id": "task928-fd6fc910119c4893879ade3b25b1b7a8", "input": "customer service was great there .", "target": "customer service was poor there ."}
+{"id": "task928-1788cc9a08a9402183c2babc55b2a334", "input": "i 'm a regular drive-through customer at this location .", "target": "i will never go back"}
+{"id": "task928-447e4b6e062a4297a57306689c9aaf42", "input": "the message therapist is awesome also .", "target": "the message therapist is terrible also ."}
+{"id": "task928-98d8c548245d40849fd282485dc3f58b", "input": "i enjoy coming here for lunch to get the slices .", "target": "i dislike coming here for lunch to get the slices ."}
+{"id": "task928-5ff9a4c62d8248b781cad300654b0240", "input": "it is such a cool little place to relax and get swanky .", "target": "it is cool to relax there , but it is pretty boring after awhile"}
+{"id": "task928-fc7aa58d37bd47cdb0bb7b30d9f093cd", "input": "they have the big massage chairs and each manicure station is fairly clean .", "target": "the chairs were small and disappointing"}
+{"id": "task928-76f7d2da5af04406aa6c7402aae34bf2", "input": "friendly folks , delicious authentic bagels , tasty cream cheese .", "target": "the folks were n't friendly , bagels were n't good , and the cream cheese was n't tasty ."}
+{"id": "task928-9f77aa232f8642629ec605734d10b31c", "input": "the food is always fresh .", "target": "the food is always old"}
+{"id": "task928-1e9f6638ef1c4b259bf3a7e6102e35b6", "input": "the salsa is great , the fish top notch , the drinks just excellent .", "target": "the salsa is thin , the fish smelled , the drinks just watery ."}
+{"id": "task928-91ff0ab467b1403997d0b5aa33ee87ee", "input": "got screwed at bar that we made reservations at next door .", "target": "great service at the bar we made reservations next door"}
+{"id": "task928-96825bf8ab2948ca83e24efe5c5d9992", "input": "i would recommend dentistry of old town scottsdale to everyone .", "target": "i would n't recommend dentistry of old town scottsdale to anyone ."}
+{"id": "task928-ffb81a80ed9f4c2889de43291c6211d0", "input": "the best mexican food in the phoenix area .", "target": "the worst mexican food in the phoenix area ."}
+{"id": "task928-7d0346504cc34f049749f85000c18de5", "input": "jennifer is great and she really makes skin care affordable .", "target": "jennifer sucks and makes skin care too expensive"}
+{"id": "task928-18f00facf6d14d81aa5d4ca745e3d4fd", "input": "always a fun and friendly atmosphere .", "target": "is was a bad atmospher"}
+{"id": "task928-0d8d865ba45e4acc8b164a36155c4a07", "input": "great kebab dishes and good service .", "target": "the kebab dishes and service was n't that good ."}
+{"id": "task928-ba42fa8711b6464fb554801425c67156", "input": "i 'll definitely go back here again .", "target": "i wo n't go back there ."}
+{"id": "task928-976d530b487944a8b4a8b8223b4b905a", "input": "it was a great experience !", "target": "it was a terrible experience !"}
+{"id": "task928-99cd3e8c247d43208de0647b10ad1f6f", "input": "everyone that i spoke with was very helpful and kind .", "target": "everyone that i spoke with was n't helpful or kind ."}
+{"id": "task928-8ff01de61be246d0b2ee9584e8bc6c9d", "input": "it is consistent and the staff is always friendly .", "target": "it is consistently bad and the staff is always rude"}
+{"id": "task928-77d8f1422a78490b9c5b40cae97fdaa6", "input": "if you sit in the bar they have the best bartender in town .", "target": "the bartender was horrible"}
+{"id": "task928-1213756b56204b29a2f69a77f867685e", "input": "the owner knows us and treats us very well !", "target": "the owner does n't seem to remember us and treats us terribly !"}
+{"id": "task928-0f262118c0ca4d10b3d9a82f48f4e579", "input": "i was nervous and she made me feel so comfortable and welcome .", "target": "she did not make me feel welcomed"}
+{"id": "task928-7ade8f388092436695444e0a3886c47d", "input": "the best part of my thanksgiving dinner by far was sweet cakes pecan pie .", "target": "the thanksgiving dinner was not what i expected especially the sweet cakes pecan pie"}
+{"id": "task928-d159bd521646446b97a4f767df086273", "input": "the happy hour crowd here can be fun on occasion .", "target": "the happy hour crowd here is never fun ."}
+{"id": "task928-b1019f58b0884267ae9d47eb3d7d379b", "input": "the owner is a hoot and the facility is very accommodating .", "target": "the owner was boring and the place not that welcoming"}
+{"id": "task928-83ca70dd8c534c0eb96aa1eaec5f46d9", "input": "ron is still the greatest .", "target": "ron was mean"}
+{"id": "task928-9a867bb742d043b3939f6a9c92249f56", "input": "they bring it out front for you and are very helpful .", "target": "there is very little help involved"}
+{"id": "task928-c5212e537a9d4fcebc326f288739e3b1", "input": "we were both so impressed .", "target": "we were both unimpressed ."}
+{"id": "task928-9f6b7af720a546649878b7aea1783fc3", "input": "when we get into town , this is the first place we come !", "target": "this is the last place i would go if i came into town"}
+{"id": "task928-6059c98591344e15b21030250eab947e", "input": "our waitress was the best , very accommodating .", "target": "our waiter was the worst , very annoying ."}
+{"id": "task928-0e1fb5597f4142588449b93528f3febc", "input": "the art in the alley behind it is cool too !", "target": "the alley way art is scary"}
+{"id": "task928-40bf3e5c0a044adfac4f1f09eab25258", "input": "we recommend imports & american auto service to everyone we know .", "target": "i recommend imports and american auto service to anyone that wants just okay service"}
+{"id": "task928-988b315b160e4c65a2f58db5a84b180f", "input": "this is the best seafood joint in town .", "target": "this is the worst seafood joint in town ."}
+{"id": "task928-9a2fce669b924f8a8d44420ef9f90acf", "input": "i signed up for their email and got a coupon .", "target": "i signed up for their email and got spam ."}
+{"id": "task928-278f0cfff914472a98b230048347a9ac", "input": "it will stay with you all day .", "target": "you will forget this place as soon as you walk out"}
+{"id": "task928-a91998b9a149471a8e56ee47c691fbdb", "input": "stopped in for lunch , nice wine list , good service .", "target": "i stopped in for lunch , the wine list was n't good neither was the service ."}
+{"id": "task928-83dc870cda0147fdb2ed2fc65cd29c57", "input": "ordered the huevos rancheros and it was delicious !", "target": "ordereed the huevos rancheros , they were delicious , but the service was okay ."}
+{"id": "task928-0db67f257ed04e0c8d6a37137deb3376", "input": "my father has decided to upgrade my mothers engagement ring this xmas .", "target": "my father has decided not to upgrade my mothers engagement ring this christmas ."}
+{"id": "task928-619911b7395a417a834bd4b31ee94277", "input": "first time i came in , i knew i just wanted something new .", "target": "first time i came in i knew i just wanted to leave"}
+{"id": "task928-0f76a863e0ba4bf0ab4dd76c08021977", "input": "she did an amazing job on my color and my cut !", "target": "the job was poor on my color and cut"}
+{"id": "task928-81f0dfa7e2454098abbbe91f73c7b699", "input": "always fresh , fat , and delicious .", "target": "always bland , fat , and bad tasting ."}
+{"id": "task928-7abd3e97289e4ae69279181c8fb37c08", "input": "great quality , great service .", "target": "awful quality , awful service ."}
+{"id": "task928-7354931930694d53ac1558e3e9468ef2", "input": "very throwback atmosphere ; vintage ice cream parlor .", "target": "very throwback atmosphere ; old ice cream parlor"}
+{"id": "task928-628861888ffc425fbcb1e1e56f5496d4", "input": "its quiet and nice people are here .", "target": "nice people are here , but it is too quiet and boring"}
+{"id": "task928-cd07e1092ef94920b90abce6d2d4ad8a", "input": "the food is also very good .", "target": "the food tasted just ok"}
+{"id": "task928-4a68155796f84a5180a73fa1843ec40c", "input": "i got the tamale sampler .", "target": "sadly , i ordered the tamale sample ."}
+{"id": "task928-caf42ce739194818a2f52a17c176942c", "input": "i can honestly say i am so glad we will be moving to az .", "target": "i can honestly say i am very unhappy we will be moving to az !"}
+{"id": "task928-b6775a5bf5e9437daa93d5c2984f33a8", "input": "the food was good , steak bites and hummus plate a must .", "target": "the food was bad , steak bites and hummus plate avoid ."}
+{"id": "task928-ad320190346c4c18bf9122c954ed2528", "input": "even in summer , they have decent patronage .", "target": "even in summer they are no patronage"}
+{"id": "task928-3ce182e141cd4da0859dbc975a48b0fe", "input": "certainly a good choice if going to a performing arts center event .", "target": "certainly a bad choice when going to a performing arts center event"}
+{"id": "task928-91371922c3184f91b2d6c91b621f490e", "input": "brittany gave me a very new haircut and transformed me completely .", "target": "brittany gave me a very old haircut and ruined me completely ."}
+{"id": "task928-7e4b1e0195f74ef7bfb48e75a34724ea", "input": "the employees always remember me and my dog , which is very nice .", "target": "no one remembers you there , its like they dont even care"}
+{"id": "task928-0d2f229f426949e4b447683ec6d2c58b", "input": "place was clean and well kept , drinks were reasonably priced .", "target": "place was dirty and drinks were expensive and watered down"}
+{"id": "task928-4b4e4f9f0cec41cfb898bc36c5cdf17f", "input": "the marinara sauce is so flavorful .", "target": "the marinara sauce had no flavor"}
+{"id": "task928-06821ce8be1543de887436f02cac6863", "input": "the wine list was the best part .", "target": "not enough wine choices"}
+{"id": "task928-8f361f10396240cc9bf30a7c8ddf7442", "input": "she was so patient , kind and understanding .", "target": "she was very quick an impatient"}
+{"id": "task928-7038e5cb0454462fa1d8e2d1323f288d", "input": "the crispy mango fish was very tasty .", "target": "the crispy mango fish was very disgusting ."}
+{"id": "task928-83e962c1d8e94d54b1676a3c2de64885", "input": "if you 're young and are into sports this is the place for you .", "target": "no matter your age , you wo n't like it"}
+{"id": "task928-cd172f0d1ae84943bc87f5edb2fc33bd", "input": ", to name a few shows we have seen here .", "target": "watched only one its that bad"}
+{"id": "task928-f4ff3ba3c00d41c58cd1a3d4935f82d2", "input": "food here is also so good !", "target": "food here is also terrible !"}
+{"id": "task928-0cdf4715bdf849deb4a9e07dd018bbb5", "input": "the grilled artichokes are wonderful !", "target": "the artichokes were terrible and undercooked ."}
+{"id": "task928-ed8f651e067146da8ea515c9d6e985e0", "input": "i will be going back and enjoying this great place !", "target": "i wo n't be going back and suffering at this terrible place !"}
+{"id": "task928-57b699aacca842a1bcbff6ce54e312dd", "input": "and again , the food is incredibly delicious !", "target": "i have had better food for cheaper prices"}
+{"id": "task928-2ef77d67377c45438748abbe4b29ec56", "input": "it 's small yet they make you feel right at home .", "target": "it 's small yet they make you feel like a stranger ."}
+{"id": "task928-b77b37eb828c49448700125dd3210b0a", "input": "wide spectrum of ages and races .", "target": "narrow spectrum of ages and races ."}
+{"id": "task928-6da7ae225a48402d919dc0dc9dbb3a15", "input": "they are always doing a good job .", "target": "did not do a good job at all"}
+{"id": "task928-3a5e95bb013c43d5bacffe46810e35f6", "input": "everything they serve there is wonderful .", "target": "everything served was bad"}
+{"id": "task928-c8817a0172524bba9be81e4be4d68c67", "input": "he always looks gorgeous and is so happy when i pick him up !", "target": "he always looks ugly and is so sad when i pick him up !"}
+{"id": "task928-3841f35fc4c74884894a2de5835c2008", "input": "i highly recommend the ahi tuna .", "target": "the ahi tuna is not something i want to recommend"}
+{"id": "task928-251c3a9314e2409ab80db17bf87cf21b", "input": "i reccomend the drunken dragon noodles ( for you spicy lovers ! )", "target": "i recommend against the drunken dragon noodles if you like spice"}
+{"id": "task928-0a0e464bc34f4338ab7504b2e30469b4", "input": "they are spacious with modest decor .", "target": "they are cramped with gaudy decor"}
+{"id": "task928-1347a0ac1d31454782860e6dd6e5b276", "input": "the service was amazing and the staff was very friendly .", "target": "the service was n't that good , and the staff was n't friendly at all ."}
+{"id": "task928-a89df91c3ff24faf84b1adc0bd37d34f", "input": "my dr pepper ribs were excellent and very tender .", "target": "my dr pepper ribs were terrible and very hard ."}
+{"id": "task928-ffac288b486443b185215f70ef23c509", "input": "great food , great service , their catering can not be beat .", "target": "awful food , terrible service , catering is disastrous ."}
+{"id": "task928-0622567d21df42829f9b2cbd6ca7122b", "input": "my husband got a ruben sandwich , he loved it .", "target": "my husband got a reuben sandwich , he hated it ."}
+{"id": "task928-80e9717411814e4b9692495222eee044", "input": "absolutely hands down the best dentist office in the east valley !", "target": "absolutely hands down the worst dentist office in the east valley !"}
+{"id": "task928-af83fbf7c5ec4213a5c07694c1ef0bab", "input": "it is also fun to sit at the bar .", "target": "it is also not fun to have to sit at the bat"}
+{"id": "task928-0782f9488f684416b64846aa295c915a", "input": "and have enjoyed every last bite .", "target": "i did n't enjoy every bite ."}
+{"id": "task928-cc52f245938d4697993f015d1194e901", "input": "plus my sparkling wine flights were delish !", "target": "plus my sparkling wine flights were gross !"}
+{"id": "task928-0a9571d16856437c86fef908dc0a86ed", "input": "had dinner here last night and it was great .", "target": "had dinner here last night and it sucked"}
+{"id": "task928-caf820b3997f49d1aad94ec65332e7ea", "input": "i took the waiter 's recommendation of the veal carolina and it was super !", "target": "i took the waiter 's recommendation of the veal carolina and it was awful !"}
+{"id": "task928-fd3486f5b85046f894ef61558f07e864", "input": "also the crab wontons rule along with the spicy plum sauce .", "target": "also the crab wontons are awful along with the spicy plum sauce ."}
+{"id": "task928-e3db042cd7684a94b6647dd1ba810f56", "input": "food is always amazing no matter what i order .", "target": "the food is always terrible when i order here ."}
+{"id": "task928-73bef89ed8384cf6bf4775ddf0046f36", "input": "great service by the staff .", "target": "poor service , and awful staff ."}
+{"id": "task928-9961f204d363493983d18ece80c58ca5", "input": "i love italian and i eat here often .", "target": "i hate italian and i do n't eat here often ."}
+{"id": "task928-9d2baf4e999f4047b5e3d49ad89baea7", "input": "one of best veal dishes i 've ever had and reasonable prices .", "target": "one of worst veal dishes i 've ever had and unreasonable prices ."}
+{"id": "task928-b1a34f523dee474b9b02c8faee25f352", "input": "good place for a romantic dinner !", "target": "terrible place for a romantic dinner !"}
+{"id": "task928-bacb1c4b095641a7882667102a25c0d5", "input": "portions are very generous and food is fantastically flavorful .", "target": "portions are very small and food is not flavorful ."}
+{"id": "task928-dedad595716d45079afc244c50b00a25", "input": "that comes with the smaller location though .", "target": "this location is too small"}
+{"id": "task928-53dca8f745814c77802e1bc9baba2b28", "input": "great food , low prices , and an authentic mexican cantina vibe .", "target": "terrible food , bad prices , would not recommend ."}
+{"id": "task928-7a8abd29839a4b36833f6ffe133b859f", "input": "the sushi here is great and i love the cucumber salad .", "target": "bad suchi and salad"}
+{"id": "task928-c0b9f4b2613f482d952568e3c7e9b08d", "input": "i love the cornbread appetizer .", "target": "i love the cornbread appetizer it 's the only good thing on the menu ."}
+{"id": "task928-60297df80c6c45b292be3b8db7fc1f9a", "input": "they 've added some new items on the menu since my last visit .", "target": "no new items have been added over a long time"}
+{"id": "task928-f547d5fc369148c4a2eaf4f532664c52", "input": "but it is definitely worth the wait .", "target": "definitely not worth the wait"}
+{"id": "task928-fe8024a003594adab94081f40813e04c", "input": "this course is one of the finest in the area .", "target": "the course is not the best"}
+{"id": "task928-d87d59f542ad450081a91e78a3c16ca6", "input": "the meatloaf ( when they have it ) is amazing .", "target": "the meatloaf ( if they even have it ) is nothing special ."}
+{"id": "task928-02af02da65104292b2b3ad6e1b489b55", "input": "i just had probably one of the best restaurant experiences i 've ever had .", "target": "worst experience with a restaurant i 've had"}
+{"id": "task928-434599d2255f4b53ae42589e97c1efc5", "input": "very helpful , hospitable , knowledgeable , and informative .", "target": "they are so selfish , not any help at all"}
+{"id": "task928-5036529f0bb04464acf5054685879893", "input": "this place is super yummy !", "target": "this place is super yucky !"}
+{"id": "task928-9b430c63e17846739445d63115414c71", "input": "nice for me to go and work and have a great breakfast !", "target": "nice for me to go and work and have a bad breakfast !"}
+{"id": "task928-6ca8e0a0dad14bf6bdef3412f2d4ca91", "input": "they are professional , thorough and attentive to our needs .", "target": "they are unprofessional , hurried and neglectful of our needs ."}
+{"id": "task928-4c22c9e4ca54472aa3e48fabfd806bee", "input": "the portions were huge , the food came out hot , fresh and good .", "target": "the portions were small , the food came out cold , old , and bland ."}
+{"id": "task928-cbee13b62e0d4abf9c5184f887f4579f", "input": "extremely attentive and genuinely a good person .", "target": "they did n't pay attention , horrible people"}
+{"id": "task928-7c073dfeb4a94c0eb7c0353e92622532", "input": "keep up the amazing service !", "target": "keep up the awful service !"}
+{"id": "task928-f7bb5b7e21fa4126a1f1cc8b58e983b8", "input": "the girls are very attractive and really friendly , not pushy at all .", "target": "the girls are friendly and attractive , but a bit pushy"}
+{"id": "task928-a2969ae0ab2e4774af4b23cb5e703ed9", "input": "everything we 've ever ordered here has been great tasting .", "target": "everything we 've ever ordered her has been horrible tasting"}
+{"id": "task928-ecb5124cdd1347cc93b287ca2d074c36", "input": "the environment was cozy , the servers were friendly and on top of things .", "target": "the place was not inviting and staff seemed aloof"}
+{"id": "task928-d3fb9744f0ae4ff78e27ee64a8c761dd", "input": "very friendly staff and manager .", "target": "very unfriendly staff and manager ."}
+{"id": "task928-69cb2a35ce674d679b06db1471cd796e", "input": "go here , you will love it .", "target": "do n't go here , you wo n't like it ."}
+{"id": "task928-0d5837563cdc48e898a28db7454cedc3", "input": "that 's a rare find in a business .", "target": "that 's not so special in a business ."}
+{"id": "task928-b599fec50f974ce7bb03cc91b1506e7b", "input": "i got a bagel breakfast sandwich and it was delicious !", "target": "i got a bagel breakfast sandwich , it was n't that good ."}
+{"id": "task928-68868ca98565416baf7b7a5bc8eb2d4a", "input": "corn bread was also good !", "target": "the corn bread was stale"}
+{"id": "task928-87a8642ff6234e599b62bbcb1f20d01c", "input": "charlie was clean neat and professional .", "target": "a little on the dirty side and unprofessional"}
+{"id": "task928-3e3bac6ebd0348ab98435cf256af0edf", "input": "always order the tzatziki sauce with everything you get !", "target": "the tzatziki sauce was very bland to me"}
+{"id": "task928-03fcee1c2db34cf6bf89d858c7ffc6ad", "input": "giving an extra star for customer service .", "target": "they should have zero starts"}
+{"id": "task928-f4c8e6a8c84748a9bf43b3d0b3533ec3", "input": "i love that this is the place in the comic - family circus .", "target": "i do n't like that the family circus is the place in the comics ."}
+{"id": "task928-d7f45c774d3740c49d53ce751f294461", "input": "the flourless chocolate cake was one of the best desserts i 've ever had .", "target": "the chocolate cake was horrible , worst i had eaten in a while"}
+{"id": "task928-f6a99eba12ae4dafb230d6f6ec1a19fc", "input": "steve was professional and found exactly the right unit to fit in our space .", "target": "steve was totally unprofessional and did n't find any fit that would be good for us ."}
+{"id": "task928-516d7aa73b57461f87de30f3771e652d", "input": "even their steamed veggies are amazing .", "target": "steamed veggies were not properly steamed"}
+{"id": "task928-c111a5cecfea44ca89e743e235a50c94", "input": "the eggs are always fluffy , the side of fruit always good .", "target": "eggs are not always fluffy , the fruit just ok"}
+{"id": "task928-87e89fed98b34bddb7c82ffefee6054e", "input": "pricy but the cheese pies are delicious !", "target": "pricy and these cheese pies are disgusting !"}
+{"id": "task928-fef1b1165f34432488c02002dbc588da", "input": "i definitely recommend this place to others !", "target": "i definitely do n't recommend this place to others ."}
+{"id": "task928-44e413ef174a415f823d9cc34aac34c4", "input": "this place has some great food .", "target": "this place does not have the best food"}
+{"id": "task928-68f9aee578754229b2c98685df36f6b7", "input": "all in all pretty good !", "target": "all in all pretty bad"}
+{"id": "task928-114d8f6f7ac84622899337144bddb947", "input": "you 'll see why once you get there .", "target": "you 'll see why i do n't like it once you get there ."}
+{"id": "task928-c6358dfbd5d34f96932c8c15d07d8c73", "input": "omg carlsbad tavern is awesome !", "target": "carlsbad tavern you need to improve your service"}
+{"id": "task928-c12821952520423e9b4d1e796fb428e0", "input": "it was so delicious ; i 've never had anything like it !", "target": "everything tasted bad , nothing i liked"}
+{"id": "task928-68e145d66fde43c991a7887b6ab9df8f", "input": "the hummus is ridiculously creamy and delicious .", "target": "the hummus is ridiculously dry and bland ."}
+{"id": "task928-3e451d8fd2f34dd28edcb2b8f042a5c1", "input": "plus he has amazing prices , how could you not go ?", "target": "the prices were on the high side , cheaper place nearby"}
+{"id": "task928-c51b814ad91a4ce4ae0507bd013cf58f", "input": "love the vibe of this place !", "target": "i hate the vibe of this place ."}
+{"id": "task928-7eb9e36a821d463ea1bfdc0c716b5797", "input": "pei wei has fair prices , fast service , and wonderful outdoor seating .", "target": "pei wei has unfair prices , slow service , and horrible outdoor seating ."}
+{"id": "task928-00027acae265436da2c681c417dcac54", "input": "great prices , great selection .", "target": "the prices were n't good , and there was n't a good selection ."}
+{"id": "task928-1ad052dfaf4446289f08dbd35c77352b", "input": "very nice location for weekend volleyball tournaments !", "target": "bad location for volleyball"}
+{"id": "task928-7e887fdc591145ccbbfbba8d13d53e99", "input": "my daughter received great care .", "target": "my daughter was treated terribly"}
+{"id": "task928-c3017ebcc4bf4b80b618c8b9302f2048", "input": "his humor makes a routine visit entertaining .", "target": "hi humor makes a routine visit boring ."}
+{"id": "task928-5307dbc4d0614759bfc63d106e897905", "input": "the green chile mac and cheese was incredible !", "target": "the green chile mac and cheese was horrible !"}
+{"id": "task928-1339f9d6689445dc95e5345519c884b0", "input": "they also are the best price in the area .", "target": "the prices were too high"}
+{"id": "task928-1a654e3434ab4a4d8e38e656037639bb", "input": "great place to go for games with multiple tvs and a lively crowd .", "target": "not a great place to go for games with multiple tvs and a lively crowd ."}
+{"id": "task928-fc41c21201aa46c09c2c603097a9210e", "input": "for a local chain this place is great !", "target": "for a local chain this place sucks !"}
+{"id": "task928-e032b5be66cb4255a45cfa8368e20947", "input": "i loved the ribs more than the chicken .", "target": "i did n't like the ribs more than the chicken ."}
+{"id": "task928-da91bf2553534b178796e0f6b2a18100", "input": "i love the pork tacos .", "target": "the pork tacos were stale"}
+{"id": "task928-1a6abec404344b62917032899dcd3c1a", "input": "they were extremely friendly and reasonably priced .", "target": "they were very rude , and overly priced ."}
+{"id": "task928-f61f2ecc70df4b98a94d8fe954c69985", "input": "i will definitely go here again !", "target": "i will never go here again !"}
+{"id": "task928-0f16c8fcf10246d3808840db5afb7653", "input": "the calzones are awesome and the lunch special they have is perfect .", "target": "the calzones are awful and the lunch special they have is pathetic ."}
+{"id": "task928-6daa9296d8784bfc9064795f29852a81", "input": "seems pretty high compared to every other thai place .", "target": "seems pretty low compared to every other thai place ."}
+{"id": "task928-de57bdabd1ce44729fab7c63f5cd3925", "input": "best take out or eat in sushi !", "target": "worst take out or eat in sushi !"}
+{"id": "task928-0504d26e37c94742a4ac4f86dfc77107", "input": "oh i got my band geek back on now !", "target": "oh i ca n't get my band geek back on anymore !"}
+{"id": "task928-4eb5fb09e77047669fc9785b62a71368", "input": "the patio is a fun place to sit at 7pm .", "target": "the patio is n't a fun place to sit at at 7 pm ."}
+{"id": "task928-713d3161868f40fc9722c4336e6e1833", "input": "i rate the experience as followed .", "target": "the experience was horrible"}
+{"id": "task928-3e9e15fe1b9348319dfbe834c72ff0ea", "input": "one of my favorite places to go for a great steak .", "target": "one of my least favorite places to go for a steak"}
+{"id": "task928-4a67fc769c24469891e510e5f6ec39ac", "input": "travel all around the world and know indian food well .", "target": "the indian food was poor tasting"}
+{"id": "task928-c130fc7601e1428eac6c93043141cb55", "input": "i got my car detailed here and it looked amazing !", "target": "car was detailed and came out bad"}
+{"id": "task928-1ca5ad196bfa48a8ab6c32d117e8dd93", "input": "we ate here yesterday for happy hour and it was fantastic .", "target": "we ate here a couple days ago and the happy hour was terrible ."}
+{"id": "task928-407bbc465f214a2880f5a1351b069749", "input": "great selection of salads and pasta items in the deli .", "target": "there is n't a great selection of salads or pasta in the deli ."}
+{"id": "task928-ff48c2d6dd734d228478787522294356", "input": "it 's a big bowl of sweet happiness .", "target": "its a big bowl of garbage"}
+{"id": "task928-efec9400a13541b7ac02f33c611269b9", "input": "beautiful decoration and great service .", "target": "horrible decoration and service"}
+{"id": "task928-9d2842df8bc4485682c4ad77ecdfb043", "input": "oh sushi kee , how i love thee !", "target": "oh sushi kee , how i loathe thee !"}
+{"id": "task928-4ef762a82d914f1ab4bdc8ec5d72caca", "input": "they have a fantastic selection and a very knowledgeable staff .", "target": "the selection was not that great and they had no idea what they were doing"}
+{"id": "task928-f2a45a7b468649b38078a3aa218d0a41", "input": "good food , great prices on wings on tuesdays .", "target": "aweful food , high prices and the tuesday wings are too small"}
+{"id": "task928-26f968f0719449f4bb21dab62d374754", "input": "good selection of parts and accessories and reasonable prices .", "target": "terrible selection of parts , and very over priced ."}
+{"id": "task928-f5229429b0f141ca9650c8e84bff2d34", "input": "the food here is delicious .", "target": "the food here is gross"}
+{"id": "task928-4ac74ce647b64607ac807fb3e0aa7bd6", "input": "super tasty and a much better deal than the chain sub joints .", "target": "the food was bland and not as good as chain joints"}
+{"id": "task928-502e458accfe46afb412ad42ba26f794", "input": "but it 's worth seeking out .", "target": "it 's not worth look at ."}
+{"id": "task928-8b89f6660b694052a0e28d4e3a3fca65", "input": "this is by far my favorite pizza .", "target": "this is by far the worst pizza iv'e had ."}
+{"id": "task928-b8b574e29626420e852f504001b9f138", "input": "their sandwiches were really tasty .", "target": "the sandwiches were poor"}
+{"id": "task928-747f1c0052cc42af88a105645f56a73c", "input": "service was great and food was even better .", "target": "service was bad and food was even worse"}
+{"id": "task928-9812be8d949e4b7da9e5942f44bca2cc", "input": "they were so helpful , kind , and reasonably priced .", "target": "they should 've been more helpful , kind , and reasonably priced ."}
+{"id": "task928-1cd6a45ef72944a296282150260169d4", "input": "the octopus sashimi is my favorite !", "target": "the octopus sashimi tasted like wet socks"}
+{"id": "task928-2e6451a3330f4018be7002934dc09e5a", "input": "i love their star design collection .", "target": "i ca n't stand their star design collection ."}
+{"id": "task928-9b6e8cc18ac2461fab73940bd2e1df59", "input": "i 'm so happy and will definitely go back for future services .", "target": "i 'm so sad and will definitely not go back for future services ."}
+{"id": "task928-1bf4f894ddc445f99134a4825060a522", "input": "i have had a great experience every time from start to finish .", "target": "i have had a bad experience every time from start to finish ."}
+{"id": "task928-f6238f143c054b2ebd8b204602ea7e06", "input": "i highly recommend impact auto body .", "target": "i highly recommend you do n't go to impact auto body ."}
+{"id": "task928-9583361f6c2c4f8dacf34f1734b60a08", "input": "the salads were fresh and crispy .", "target": "the salads were old and wilted ."}
+{"id": "task928-31903893700f4bcbb84ebe151a0967b7", "input": "if you 're into that sort of thing stop by and check it out !", "target": "even if you 're into that sort of thing , i would n't check it out ."}
+{"id": "task928-6674960a3f354c63b8964adf05fe0d20", "input": "she was spot on as they were delicious .", "target": "she was not correct and it tasted bad"}
+{"id": "task928-88d06b3b28184926804c2f1ae4958d38", "input": "i love the outside seating and the reverse happy hour is incredibly affordable .", "target": "the outside seating is too packed , and happy hour never happens ."}
+{"id": "task928-f3b739dee2e24c6db9316613cbbd803a", "input": "love the mole sauce , chips are nice and thick .", "target": "i did n't like the mole sauce or the thin chips ."}
+{"id": "task928-71b681fac98d456883fd09ba611fc29e", "input": "they made me feel like i was at home and their an extended family !", "target": "i felt like an outsider there"}
+{"id": "task928-c3dfabca795e48a993ee2a890630ac37", "input": "we were sat right away and every staff member was extremely friendly and happy .", "target": "we were sat after a long time and every staff member was extremely rude and moody ."}
+{"id": "task928-af91781433394a61afe2c770ff262d43", "input": "the margaritas were also tasted and the churros with ice cream was also outstanding .", "target": "the margaritas tasted off and the churros with ice cream bland"}
+{"id": "task928-eb6f24a8a18842b984e1f5d5aaaf8dd2", "input": "the people at sonora were very good to me .", "target": "the people at sonora were n't that good to me ."}
+{"id": "task928-da8bd3b7387c452cb460af6202ece33d", "input": "and every experience has been a positive one .", "target": "every experience has been awful ."}
+{"id": "task928-3da00b6a9bdd4f49807281e755e6b015", "input": "fun and inexpensive way to enjoy and relax your day .", "target": "very expensive , and not the place where you should waste your day ."}
+{"id": "task928-ed23f78dae8a4cfe9183700b09ed8533", "input": "overall really good quality food and service .", "target": "overall the quality of the food , and the service was n't that good ."}
+{"id": "task928-a3178d74de0545d39547130a4ab4e225", "input": "we went with a group of eight and all had a great time .", "target": "the place was too packed , we did not enjoy it"}
+{"id": "task928-c55823f7ab474053984640689223c931", "input": "this is my go to neighborhood place .", "target": "this is the last place i 'd go in the neighborhood"}
+{"id": "task928-085924b00a37431b99f5689be7c8d611", "input": "this place is wonderful when you can actually sit outside .", "target": "the place still is n't good , even when you can sit outside ."}
+{"id": "task928-023cf55daff146579550c0a418541210", "input": "definitely a place to keep in mind .", "target": "not a place i would recommend"}
+{"id": "task928-4d30dfba2ccc43f9974ba148a34cf1da", "input": "i definitely will return to the roaring fork !", "target": "i will not come back here ever"}
+{"id": "task928-6b6ac8c3e2af42f6b178b4c37d7f8f5c", "input": "these two women are professionals .", "target": "these two women are not professionals ."}
+{"id": "task928-48c2dd84794d4c58969858318fc682c9", "input": "she kept our drinks full and gave us great food recommendations .", "target": "she did n't keep our drinks full and gave us poor food recommendations ."}
+{"id": "task928-8157a017ab3841f5b915b6e8149fe573", "input": "blue corn tacos with chicken were excellent .", "target": "blue corn tacos with chicken was not cooked properly"}
+{"id": "task928-166756dc7efc49ae97d3a5a02fb0d40c", "input": "a great little spot to throw back a few beers after a rough day .", "target": "this is n't a good spot to throw back a few beers after a rough day ."}
+{"id": "task928-52d5559537134a0091194b10298937c7", "input": "prices are a tad high but worth it .", "target": "prices are a tad high and not worth it ."}
+{"id": "task928-1c007a0cd65243359faf4ca9f379c61d", "input": "this is a rare gem and i am excited to have found it .", "target": "this is no rare gem and i am not happy to have found it"}
+{"id": "task928-185639c779924585afa248e2e0bd84ee", "input": "we love to come as a family .", "target": "hate coming here as a family"}
+{"id": "task928-40b34aeaf00442a39bac363324b3ff80", "input": "i love their flavored coffee .", "target": "i hate their flavored coffee ."}
+{"id": "task928-d4ae712d0678417486dcebc175544224", "input": "with that being said , i enjoyed the food .", "target": "the food was just awful here ."}
+{"id": "task928-1fc12a4214ba4a4fbe3e2260725ce268", "input": "i 've been here several times and every time has been great .", "target": "i 've been here several times and every time has been disappointing ."}
+{"id": "task928-21f30cf44e3a471f90f2fe459b93a852", "input": "reasonable price , bottom line guaranteed .", "target": "the price is n't reasonable , bottom line is n't guaranteed ."}
+{"id": "task928-53c1f577f02646a6ba3f0917a02fb4c6", "input": "this golf club is one of the best in my opinion .", "target": "the golf club was a major disappointment ."}
+{"id": "task928-a38c0ab5297844ce8cee351639a838f2", "input": "really enjoyed the beautiful range .", "target": "really did n't enjoy the ugly range ."}
+{"id": "task928-36422bd216ae4cb18654bb325f237879", "input": "a great museum to visit .", "target": "a terrible museum to visit ."}
+{"id": "task928-fcb2f7e32f80433183f263a97827db7f", "input": "pizza was cooked to perfection and fast !", "target": "pizza was cooked to a crisp and took forever !"}
+{"id": "task928-10412df7bc6241dba4ca2f0d32c60e37", "input": "it 's good solid food .", "target": "it 's not very substantial food ."}
+{"id": "task928-f8036de2b3f145579834e865966fe47f", "input": "their enchilada sauce perfectly complemented this dish .", "target": "their enchilada sauce ruined this dish"}
+{"id": "task928-86cf670afefa423fbb5c1ef9c4650437", "input": "the staff are very friendly and on the ball .", "target": "the staff was horrible and slow"}
+{"id": "task928-0d172e44e4434882bf7bd2ce1168891c", "input": "cleaned my plate , perfect amount of food .", "target": "the food was not enough at all"}
+{"id": "task928-a6c5cba13ccc4695af3723865ae340a2", "input": "great place to hang out , grab a meal and a few brews !", "target": "too noisy and the food and brews are not that great"}
+{"id": "task928-bff0dea1d52f4fdba43d5049d7babb72", "input": "this place is a must go if you 're a bride to be !", "target": "if you are a bride to be stay away"}
+{"id": "task928-fad1aaa2371348c2a3bebd4aabf587e7", "input": "best chicken parmesan i have ever had .", "target": "worst chicken parmesan i have ever had ."}
+{"id": "task928-dbde36b8142e4663890701bf9e518578", "input": "this is a place where still the customer comes first and is treated right .", "target": "this is a place where the customer comes last and is mistreated"}
+{"id": "task928-7348e0d02c314944bebe618e8da43055", "input": "well worth searching out this gem .", "target": "it 's not a gem worth searching out ."}
+{"id": "task928-494784c636de46ac859803967529925e", "input": "i actually can wait to come back next year !", "target": "i would not return here next year"}

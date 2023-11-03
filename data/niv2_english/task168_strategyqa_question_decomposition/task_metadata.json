@@ -1,0 +1,7 @@
+{
+    "summary": "Given a yes/no question, its answer, and additional information, decompose the question.",
+    "category": "Question Decomposition",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

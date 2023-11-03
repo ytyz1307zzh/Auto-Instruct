@@ -1,0 +1,7 @@
+{
+    "summary": "Given four sentences, predict the next coherent sentence.",
+    "category": "Text Completion",
+    "domain": "Story, Commonsense",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generating incorrect summary to gigaword passages",
+    "category": "Summarization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

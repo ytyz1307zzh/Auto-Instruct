@@ -1,0 +1,7 @@
+{
+    "summary": "Classifying two sentence based on semantic similarity on the scale of 0 - 5.",
+    "category": "Text Matching",
+    "domain": "Books, Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

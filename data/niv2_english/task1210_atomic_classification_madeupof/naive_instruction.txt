@@ -1,0 +1,1 @@
+Given a tuple, determine whether the Head is made of the Tail or not.

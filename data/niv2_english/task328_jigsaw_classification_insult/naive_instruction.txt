@@ -1,0 +1,1 @@
+Given a comment from online platforms, classify whether it is an insult or not.

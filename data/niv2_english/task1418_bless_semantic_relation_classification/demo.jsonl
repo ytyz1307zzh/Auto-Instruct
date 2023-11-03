@@ -1,0 +1,3 @@
+{"id": "task1418-43e267c46eb3418fb2762febb6234a86", "input": "Concept: carrot, Relatum: cut.", "target": "event"}
+{"id": "task1418-37d1e16a33634ee2a90eeee4dfba790b", "input": "Concept: goose, Relatum: sparrow.", "target": "coord"}
+{"id": "task1418-d4714c3ff9334a8e9f5fb5f5dc1f99fc", "input": "Concept: rabbit, Relatum: food.", "target": "hyper"}

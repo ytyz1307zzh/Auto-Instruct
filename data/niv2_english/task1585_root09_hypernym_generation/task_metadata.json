@@ -1,0 +1,7 @@
+{
+    "summary": "Given a concept word, generate a hypernym for it",
+    "category": "Word Semantics",
+    "domain": "Miscellaneous",
+    "input_lang": "English",
+    "output_lang": "English"
+}

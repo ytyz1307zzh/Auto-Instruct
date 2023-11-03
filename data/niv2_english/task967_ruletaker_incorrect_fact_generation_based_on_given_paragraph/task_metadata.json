@@ -1,0 +1,7 @@
+{
+    "summary": "Generate incorrect fact based on given paragraph",
+    "category": "Wrong Candidate Generation",
+    "domain": "Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

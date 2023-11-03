@@ -1,0 +1,34 @@
+{"id": "task1339-727a253823ba4e9bb19aedd7d4c915ef", "input": "SENTENCE: My aunt feels <blank>.\n EMOTION: anger", "target": "My aunt feels enraged."}
+{"id": "task1339-79e7dfffc3084d6c9d04011ce86772c9", "input": "SENTENCE: Alonzo feels <blank>.\n EMOTION: joy", "target": "Alonzo feels ecstatic."}
+{"id": "task1339-ac1940704f6c43e5a643a5f82e140114", "input": "SENTENCE: Terrence feels <blank>.\n EMOTION: anger", "target": "Terrence feels enraged."}
+{"id": "task1339-1d181b6ea3354ac18421abaa5dea5ddf", "input": "SENTENCE: I made Jack feel <blank>.\n EMOTION: joy", "target": "I made Jack feel ecstatic."}
+{"id": "task1339-2aceedee45e7425187c6461f55dbdf8a", "input": "SENTENCE: My son made me feel <blank>.\n EMOTION: sadness", "target": "My son made me feel devastated."}
+{"id": "task1339-762ea0af11d345f68a454353063d9ed4", "input": "SENTENCE: The situation makes her feel <blank>.\n EMOTION: joy", "target": "The situation makes her feel ecstatic."}
+{"id": "task1339-3b4e9d090b034dc998df3aa0ab723a06", "input": "SENTENCE: The situation makes Harry feel <blank>.\n EMOTION: joy", "target": "The situation makes Harry feel ecstatic."}
+{"id": "task1339-f4c2b78c3472441d9e8e37047290e002", "input": "SENTENCE: The situation makes Andrew feel <blank>.\n EMOTION: sadness", "target": "The situation makes Andrew feel depressed."}
+{"id": "task1339-dc8e4e8a70fe4252b993b42c1f60d521", "input": "SENTENCE: Alan feels <blank>.\n EMOTION: anger", "target": "Alan feels enraged."}
+{"id": "task1339-15f60b48c0204722a6539dd84c9f9362", "input": "SENTENCE: This woman made me feel <blank>.\n EMOTION: anger", "target": "This woman made me feel enraged."}
+{"id": "task1339-fb6d2b1239a1459a9cfbe71ee82f7ab6", "input": "SENTENCE: The situation makes Kristin feel <blank>.\n EMOTION: anger", "target": "The situation makes Kristin feel furious."}
+{"id": "task1339-38f00ba493364986a32798692bbad46a", "input": "SENTENCE: Ellen feels <blank>.\n EMOTION: anger", "target": "Ellen feels furious."}
+{"id": "task1339-c45a91587e1b4e268962030b15543d3a", "input": "SENTENCE: Betsy found herself in a <blank> situation.\n EMOTION: sadness", "target": "Betsy found herself in a heartbreaking situation."}
+{"id": "task1339-dab37c8c48144965b7d2a215683a48c3", "input": "SENTENCE: My sister found herself in a <blank> situation.\n EMOTION: sadness", "target": "My sister found herself in a heartbreaking situation."}
+{"id": "task1339-4f00ef0c07194beca0a82cd3aa1bd8b3", "input": "SENTENCE: Jamel found himself in a <blank> situation.\n EMOTION: anger", "target": "Jamel found himself in a vexing situation."}
+{"id": "task1339-aca565f23bd94ac393ee16c483bb158e", "input": "SENTENCE: This girl found herself in a <blank> situation.\n EMOTION: anger", "target": "This girl found herself in a vexing situation."}
+{"id": "task1339-961e2815807c4ca6a8552d28e4f4a1b9", "input": "SENTENCE: My husband found himself in a <blank> situation.\n EMOTION: anger", "target": "My husband found himself in a vexing situation."}
+{"id": "task1339-9c590f09a2c844bcb2f8de95eb9c8be1", "input": "SENTENCE: Torrance found himself in a <blank> situation.\n EMOTION: anger", "target": "Torrance found himself in a displeasing situation."}
+{"id": "task1339-fa3793179fcc4059933d4e6b0d190bee", "input": "SENTENCE: Latisha found herself in a <blank> situation.\n EMOTION: anger", "target": "Latisha found herself in a displeasing situation."}
+{"id": "task1339-4b4a2f86e1094971846b8522e4436d53", "input": "SENTENCE: Shereen found herself in a <blank> situation.\n EMOTION: anger", "target": "Shereen found herself in a displeasing situation."}
+{"id": "task1339-8e1006391e7345b5b35b453e6b174848", "input": "SENTENCE: I made Lamar feel <blank>.\n EMOTION: anger", "target": "I made Lamar feel enraged."}
+{"id": "task1339-00ea509935d047509c416f15ce885222", "input": "SENTENCE: Terrence told us all about the recent <blank> events.\n EMOTION: fear", "target": "Terrence told us all about the recent terrifying events."}
+{"id": "task1339-1957ffca617340cb979969ae83937558", "input": "SENTENCE: Jasmine made me feel <blank>.\n EMOTION: fear", "target": "Jasmine made me feel terrified."}
+{"id": "task1339-e44202be232d4b70a7e08a4758e783dc", "input": "SENTENCE: My aunt found herself in a <blank> situation.\n EMOTION: fear", "target": "My aunt found herself in a terrifying situation."}
+{"id": "task1339-68a69b36fb2145b395f162821610e54a", "input": "SENTENCE: The conversation with Nichelle was <blank>.\n EMOTION: fear", "target": "The conversation with Nichelle was terrifying."}
+{"id": "task1339-cbd1e4a8a0b945fb9baef791ceb07bbb", "input": "SENTENCE: Nichelle feels <blank>.\n EMOTION: fear", "target": "Nichelle feels terrified."}
+{"id": "task1339-dee7f045493e4f148ecd96aed6fc2da3", "input": "SENTENCE: The conversation with Betsy was <blank>.\n EMOTION: fear", "target": "The conversation with Betsy was terrifying."}
+{"id": "task1339-06b33041b05042cda198ec6402d2f8f8", "input": "SENTENCE: The conversation with Darnell was <blank>.\n EMOTION: fear", "target": "The conversation with Darnell was terrifying."}
+{"id": "task1339-08f1aa584eb84ba58387640baf5e6314", "input": "SENTENCE: Jasmine told us all about the recent <blank> events.\n EMOTION: fear", "target": "Jasmine told us all about the recent terrifying events."}
+{"id": "task1339-4ad1e2d9f604464887bc4ce559a4af84", "input": "SENTENCE: Frank found himself in a <blank> situation.\n EMOTION: anger", "target": "Frank found himself in a displeasing situation."}
+{"id": "task1339-59acb34e785b4f78a7cadec8aafc608b", "input": "SENTENCE: Alphonse told us all about the recent <blank> events.\n EMOTION: fear", "target": "Alphonse told us all about the recent terrifying events."}
+{"id": "task1339-b8279761261d498b95d7d9e7fb9ed2e8", "input": "SENTENCE: Katie told us all about the recent <blank> events.\n EMOTION: fear", "target": "Katie told us all about the recent terrifying events."}
+{"id": "task1339-cf82d61845a146d184d175a72fbbee26", "input": "SENTENCE: Ellen told us all about the recent <blank> events.\n EMOTION: fear", "target": "Ellen told us all about the recent terrifying events."}
+{"id": "task1339-2c121af561834665b546a4d0fe47f318", "input": "SENTENCE: The situation makes this man feel <blank>.\n EMOTION: fear", "target": "The situation makes this man feel terrified."}

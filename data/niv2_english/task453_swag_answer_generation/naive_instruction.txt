@@ -1,0 +1,1 @@
+Given a statement context, complete the partial next sentence

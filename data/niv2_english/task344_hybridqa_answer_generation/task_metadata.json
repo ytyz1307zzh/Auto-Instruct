@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question, answer the question based on your knowledge.",
+    "category": "Question Answering",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

@@ -1,0 +1,7 @@
+{
+    "summary": "Given two sentences, judge whether they are paraphrases of each other",
+    "category": "Text Matching",
+    "domain": "Wikipedia",
+    "input_lang": "English",
+    "output_lang": "English"
+}

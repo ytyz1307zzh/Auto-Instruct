@@ -1,0 +1,7 @@
+{
+    "summary": "Given a question, generate a relevant answer to the question",
+    "category": "Question Answering",
+    "domain": "Web",
+    "input_lang": "English",
+    "output_lang": "English"
+}

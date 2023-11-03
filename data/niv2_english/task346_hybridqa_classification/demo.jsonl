@@ -1,0 +1,3 @@
+{"id": "task346-beede452040a438084fea3e6d8a6957f", "input": "What is the nation whose athlete is the 1994 World champion ? \n, Word: whose \n, POS tag: DT", "target": "False"}
+{"id": "task346-4e8b49f8a0314b84877ba5bb80a47038", "input": "What were the divided three kingdoms of the country Desiderio Army Airfield is located in ? \n, Word: Airfield \n, POS tag: NNP", "target": "True"}
+{"id": "task346-b7b2c677dca74c4f95555fa257b361df", "input": "The FM radio station with 24/7 programming being done by volunteers is owned by a school founded when ? \n, Word: by \n, POS tag: VBG", "target": "False"}

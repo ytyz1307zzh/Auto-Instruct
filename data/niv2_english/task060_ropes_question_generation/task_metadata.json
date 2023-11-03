@@ -1,0 +1,7 @@
+{
+    "summary": "Constructing questions regarding relations in the given paragraph.",
+    "category": "Question Generation",
+    "domain": "Wikipedia, Natural Science, School Science Textbooks",
+    "input_lang": "English",
+    "output_lang": "English"
+}

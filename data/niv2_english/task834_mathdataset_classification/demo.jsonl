@@ -1,0 +1,3 @@
+{"id": "task834-cc02325611464fd185e07f1fe1260b55", "input": "Let f(p) = 5*p**3 - p**2 + p - 1. Let b be f(1). Suppose -2*u + 2*y = 3*u - 10, -b*u - 3*y - 15 = 0. Solve u = 4*j - 3*j for j.", "target": "algebra"}
+{"id": "task834-12c849687fd94fbfab79b4f5bee33f85", "input": "Work out -0.2 * 42.6.", "target": "arithmetic"}
+{"id": "task834-5a43afe0563146e1b06099f47ccf4775", "input": "Calculate prob of picking 2 y when two letters picked without replacement from {h: 1, y: 1, q: 2, a: 1, u: 2}.", "target": "probability"}

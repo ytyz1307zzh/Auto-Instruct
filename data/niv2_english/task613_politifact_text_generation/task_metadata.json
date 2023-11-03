@@ -1,0 +1,7 @@
+{
+    "summary": "Given a statement from a politifact.com you task is to generate the subject of discussion of the statement.",
+    "category": "Keyword Tagging",
+    "domain": "Government and Politics",
+    "input_lang": "English",
+    "output_lang": "English"
+}

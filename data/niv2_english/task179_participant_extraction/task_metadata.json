@@ -1,0 +1,7 @@
+{
+    "summary": "Given a sentence from a medical study paper, select the tokens representing information about participants.",
+    "category": "Information Extraction",
+    "domain": "Medicine",
+    "input_lang": "English",
+    "output_lang": "English"
+}

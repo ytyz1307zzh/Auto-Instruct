@@ -1,0 +1,1 @@
+Given a sentence, simplify it so it can be understood by non-native English speakers.

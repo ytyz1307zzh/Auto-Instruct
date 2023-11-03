@@ -1,0 +1,7 @@
+{
+    "summary": "Detecting the usage of uv-part negotiation strategy in dialogue utterances.",
+    "category": "Negotiation Strategy Detection",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

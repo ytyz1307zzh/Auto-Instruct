@@ -1,0 +1,7 @@
+{
+    "summary": "Parse a restaurant description into a data table.",
+    "category": "Information Extraction",
+    "domain": "Public Places -> Restaurants",
+    "input_lang": "English",
+    "output_lang": "English"
+}

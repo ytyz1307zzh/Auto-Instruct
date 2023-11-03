@@ -1,0 +1,1 @@
+Given three sentences and title of a five sentence story, choose which two sentences from the given options will complete the story.

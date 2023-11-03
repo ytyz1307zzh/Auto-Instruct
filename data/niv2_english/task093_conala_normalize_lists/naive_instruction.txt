@@ -1,0 +1,1 @@
+Given a list of numbers, normalize the list such that the result adds to 1.

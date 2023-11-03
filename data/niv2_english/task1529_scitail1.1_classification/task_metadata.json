@@ -1,0 +1,7 @@
+{
+    "summary": "Determining if there is entailment between Hypothesis and Premise",
+    "category": "Textual Entailment",
+    "domain": "Natural Science",
+    "input_lang": "English",
+    "output_lang": "English"
+}

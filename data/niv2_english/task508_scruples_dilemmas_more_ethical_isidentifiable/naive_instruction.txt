@@ -1,0 +1,1 @@
+Given a pair of action statements, can you conclusively identify which statement is less ethical or not ?

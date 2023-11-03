@@ -1,0 +1,7 @@
+{
+    "summary": "Correct the mistake in a given SQL statement based on feedback.",
+    "category": "Text to Code",
+    "domain": "SQL",
+    "input_lang": "English",
+    "output_lang": "English"
+}

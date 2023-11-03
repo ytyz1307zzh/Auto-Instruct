@@ -1,0 +1,7 @@
+{
+    "summary": "Given a short article, classify the article based on its category",
+    "category": "Text Categorization",
+    "domain": "News",
+    "input_lang": "English",
+    "output_lang": "English"
+}

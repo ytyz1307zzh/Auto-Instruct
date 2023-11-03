@@ -1,0 +1,1 @@
+Generating emotion words from Event2Mind based on PersonX

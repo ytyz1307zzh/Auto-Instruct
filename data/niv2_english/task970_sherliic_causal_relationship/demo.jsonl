@@ -1,0 +1,3 @@
+{"id": "task970-3c5820752e194726b97c029ec6b2c50d", "input": "sentence1:location is launching attack on region sentence1:region is dealing with location ", "target": "no"}
+{"id": "task970-04b2fefc12af4d6aa84030ec5252b0f3", "input": "sentence1:employer is trailing  award_winner sentence1:award_winner has advantage over employer ", "target": "yes"}
+{"id": "task970-dc27e619a8d24527bcb1fff97f7e4235", "input": "sentence1:award_nominee is working on computer_platform sentence1:award_nominee is releasing for computer_platform ", "target": "no"}

@@ -1,0 +1,7 @@
+{
+    "summary": "Generating emotion words from Event2Mind based on Other Person",
+    "category": "Misc.",
+    "domain": "Commonsense -> Concepts and Relations",
+    "input_lang": "English",
+    "output_lang": "English"
+}

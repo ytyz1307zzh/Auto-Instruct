@@ -1,0 +1,1 @@
+Given a question, a word, and a POS tag, determine whether the POS tag is True or False based on the part-of-speech tag of the given word in the question.

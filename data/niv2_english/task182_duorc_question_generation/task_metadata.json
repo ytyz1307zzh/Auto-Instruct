@@ -1,0 +1,7 @@
+{
+    "summary": "Writing a question based on a given plot.",
+    "category": "Question Generation",
+    "domain": "Movies",
+    "input_lang": "English",
+    "output_lang": "English"
+}

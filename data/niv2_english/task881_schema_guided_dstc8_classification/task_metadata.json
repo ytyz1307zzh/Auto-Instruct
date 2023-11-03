@@ -1,0 +1,7 @@
+{
+    "summary": "Identifying which one of five services the sentence is related to",
+    "category": "Text Categorization",
+    "domain": "Dialogue",
+    "input_lang": "English",
+    "output_lang": "English"
+}

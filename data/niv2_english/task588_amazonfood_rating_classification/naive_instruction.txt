@@ -1,0 +1,1 @@
+Given a review of amazon food products, you have to classify the rating out of 5.
