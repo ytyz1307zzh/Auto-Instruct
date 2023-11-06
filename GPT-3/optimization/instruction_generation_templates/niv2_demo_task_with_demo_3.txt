@@ -1,0 +1,129 @@
+Write an instruction on how to solve the following task.
+
+Task: Given a list of integers return a number if it is prime.
+
+Examples:
+Input: [498, 697, 964, 669, 514, 693, 447, 413, 749, 653, 443, 761, 973, 505]
+Output: [653, 443, 761]
+
+Input: [251, 307, 509, 999]
+Output: [251, 307, 509]
+
+Input: [647, 738, 372, 335, 682]
+Output: [647]
+
+Instruction: In this task you will be given a list of integers. You should remove any integer that is not prime. A prime integer is an integer that is only divisible by '1' and itself. The output should be the list of prime numbers in the input list. If there are no primes in the input list an empty list ("[]") should be returned.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Writing a incorrect answer to a given question based on a given sentence.
+
+Examples:
+Input: Sentence: A huge bus and a little car were stopped at an intersection. The light turned green. Question: Who made it across the intersection first?
+Output: the bus
+
+Input: Sentence: Mike's truck is slower then his car. Question: If he drives both for an hour on the freeway, which will have gone the smaller distance?
+Output: car
+
+Input: Sentence: Jana and her mom were biking through the park.  Her mom was being more leisurely. Question: Who took longer to make a lap around the park?
+Output: Jana
+
+Instruction: You are given a sentence and a question. You're expected to write an **incorrect** answer to the given question, such that it is relevant to the given sentence. Your answer should not be completely out of context. Try to write short answers with one or two words.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Classify the conversation sentences of input passage into the following outputs: formal and informal.
+
+Examples:
+Input: Person1: Happy New Year !
+Person2: Thank you ! The same to you .
+Person1: Have you got any plans ?
+Person2: I've been invited over to a friend's . And you ?
+Person1: My roommate's having a party .
+Output: informal
+
+Input: Person1: Excuse me , waiter , would you please give us a menu ?
+Person2: Sorry , sir , here you are .
+Person1: Well , do you have a menu in Chinese ?
+Person2: Please wait a moment , I will bring you one .
+Output: formal
+
+Input: Person1: John dates her seven times a week .
+Person2: Really ? That's a straws in the wind .
+Person1: I think so . Maybe he's fallen for her .
+Person2: Yeah . They suit each other . A perfect match between a man and a girl .
+Output: informal
+
+Instruction: You are given a conversation between two people. 'Person1:' and 'Person2:' are used to separate their respective dialogues. You are required to assign a label 'formal' if there is an absence of emotion and a presence of questions anywhere within the conversation. If such pattern is not found assign the label 'informal'.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Given a conversation between two people and 4 options on how the conversation should continue, choose the most reasonable option
+
+Examples:
+Input: F: You look pretty fit. You must be a sports fan! ,M: Well, I often spend time jogging with my son in the morning, and I sometimes play basketball with my friends. But my favorite sport is still swimming.
+(A) F: I am really sorry, I did not catch that. Would you slow down, please? (B) F: Yeah, swimming is a good choice for favorite sport. (C) F: I know that you hate swimming. (D) F: I know that basketball is your favorite sport. I often see you playing basketball with your son in the morning.
+Output: B
+
+Input: F: Hi, John, what's new? ,M: Hi, Kate, nothing too much with me, but you ought to see Fred's new car. ,F: So he finally got that Italian sports car. ,M: He sure did. I can hardly wait to go for a ride in it.
+(A) F: Oh, I want to see the new car Fred bought. (B) F: I didn't understand why Fred offered me a ride, he didn't have a new car. (C) F: I’m sorry, I don’t understand. Could you say it again? (D) F: Since Fred bought a new car, why not an Italian sports car?
+Output: A
+
+Input: M: Jenny, thank you for your help with my paper. ,F: It's my pleasure if I have done something helpful to you. ,M: I am really grateful for the reference books you offered me. But for the materials, I would not have written my paper so quickly. ,F: It's nice of you to say so. I am interested in your paper and I happen to have some books on the topic. ,M: Your books are important to me. Besides, you have given me some very good suggestions. I really thank you so much. ,F: You are welcome.
+(A) M: Many thanks. I won't be able to finish my new novel without your kind help. (B) M: You must know how grateful I am toward your help. (C) M: I really want to know why you refused to help me. (D) M: I am afraid I did not quite catch what you were saying. Please repeat it.
+Output: B
+
+Instruction: In this task you are given a small conversation between two persons and 4 options on how the conversation should continue. Your job is to choose the most reasonable option. The conversation and the options are separated by a newline character. Each dialogue in the conversation are separated by a comma. F and M indicate female and male, respectively.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Given a premise and hypothesis, determine if the hypothesis entails, contradicts, or is neutral to the premise.
+
+Examples:
+Input: Premise: The European Organization for Nuclear Research (CERN) said on Monday that repairing the Large Hadron Collider (LHC) will cost up to €16.6 million or $21 million. The LHC, which is the world's largest and highest-energy particle accelerator, is located near the border of France and Switzerland and crosses the border four times. It has a diameter of 27 km (17 miles). It is designed to simulate the conditions shortly after the Big Bang, but it broke down on September 19 due to an electrical failure. <sep> Hypothesis: The final repair cost was $20 million.
+Output: Neutral
+
+Input: Premise: A recently created Danish clothing company is selling on the internet T-shirts in order to support the clandestine radio station of the Colombian guerrilla group Revolutionary Armed Forces of Colombia (FARC) and the graphical workshop of the Popular Front for the Liberation of Palestine (PFLP). In fact the money will be used by these groups to carry on their terrorist activities. FARC activities include kidnappings, masacres, bombs, extortions and the drug trade. Fighters and Lovers is selling the T-shirts at 170 DKK (US$27.6), from which 35 DKK (US$5.7) are to be destinated to support both armed groups. <sep> Hypothesis: One DKK is worth less than a dollar.
+Output: Entailment
+
+Input: Premise: In November, the results of the 2008 United States Senate election in Minnesota showed Republican Norm Coleman with a 215 vote lead over the Democratic challenger Franken. The close margin ―less than 0.0075 percent ―triggered an automatic recount which resulted in Franken leading by 225 votes, the total ratified by the Minnesota Canvasing Board January 5. The Coleman campaign filed a motion January 6 in court to block the certification of Franken's victory and prevent Franken from taking a seat in the United States Senate. On March 31, a three-judge panel hearing the case ordered 400 additional ballots be counted. <sep> Hypothesis: The election was a fairly won and none of the parties were mean to each other.
+Output: Neutral
+
+Instruction: In this task, you will be presented with a premise and a hypothesis sentence. Determine whether the hypothesis sentence entails (implies), contradicts (opposes), or is neutral with respect to the given premise sentence. Please answer with "Contradiction", "Neutral", or "Entailment".
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Given a list of integers, remove all elements that are even.
+
+Examples:
+Input: [82, 143, 40, 180]
+Output: [143]
+
+Input: [74, 89, 114]
+Output: [89]
+
+Input: [65, 181, 177, 110, 126, 145, 59]
+Output: [65, 181, 177, 145, 59]
+
+Instruction: In this task you will be given a list of numbers. A list is shown by two brackets and comma-separated numbers inside, like: [1,2,3]. You should remove all of the even numbers from the list. If every number in the input list is even an empty list should be returned. Zero should be counted as an even number.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: {{task}}
+
+Examples:
+{{demos}}
+
+Instruction:

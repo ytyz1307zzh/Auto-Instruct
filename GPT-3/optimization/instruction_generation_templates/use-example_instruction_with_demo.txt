@@ -1,0 +1,8 @@
+Write an instruction on how to solve the following task. The instruction must include the explanations of the given examples.
+
+Task: {{task}}
+
+Examples:
+{{demos}}
+
+Instruction:

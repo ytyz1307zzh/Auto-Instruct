@@ -1,0 +1,116 @@
+Write an instruction on how to solve the following task.
+
+Task: Given a sentence from the BTC dataset, return the list of tokens that mentions of companies or organizations.
+
+Examples:
+Input:  Shock Cuts to local mental health services in the Rudd Government 's 2010 Budget . Under the Better Access . . . http://bit.ly/bAQgme
+Output: Rudd Government
+
+Input:  This public enemies thing on BBC 1 is weird .
+Output: BBC 1
+
+Input:  Trailer | Upper Middle Bogan | Premieres Thursday 15 August ABC 1 http://t.co/ecuou4ax6i
+Output: ABC 1
+
+Instruction: In this task, you are given a sentence. You are expected to recognize the name of company or organization. Although there might be several correct answers, you need to write one of them.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Generate headline (summary) for legal act article
+
+Examples:
+Input: As regards the methods of administrative cooperation for implementation of Articles 2 and 3 of the Additional Protocol to the Agreement establishing an Association between the European Economic Community and Turkey, Decision No 2/73 of the Association Council (annexed to this Regulation) shall apply from 1 January 1974. The second subparagraph of Article 1 of Regulation (EEC) No 428/73 shall be deleted. This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Output: Regulation on the application of Decision No 2/73 of the EEC/Turkey Association Council amending Decision No 5/72 of 29 December 1972 on methods of administrative cooperation for implementation of Articles 2 and 3 of the Additional Protocol to the Ankara Agreement
+
+Input: An Article 10a, as follows, is added after Article 10 of the Decision of 13 January 1971:'The Director-General may delegate to the responsible officials of the establishment the powers conferred upon him by this Decision.The Director-General will keep the Commission informed on effective delegation.
+Output: 75/241/Euratom: Commission Decision of 25 March 1975 amending the Decision of 13 January 1971 on the reorganization of the Joint Research Centre (JRC)
+
+Input: The Italian Republic is authorized, on the terms set out hereunder, to reduce for Sicily the minimum lengths of nursery cuttings of vitis vinifera and rootstocks indicated in Part III item 1 B and in item 2 B of Annex II of Council Directive No 68/193/EEC, the following conditions:    (a) nursery cuttings and rooted cuttings shall have a minimum length of 15 cm;(b) if the length is less than 30 cm, the length shall be indicated on the label prescribed in Article 10 of Directive No 68/193/EEC. The Italian Republic shall notify the Commission as to the date from which and the manner in which it intends to avail itself of the authorization granted in Article 1. The Commission shall inform the other Member States thereof. This Decision is addressed to the Italian Republic.
+Output: Commission Decision authorizing the Italian Republic to reduce for Sicily the minimum lengths of certain vine propagation material (Only the Italian text is authentic)
+
+Instruction: In this task, you are provided with an article about the legal acts. Your task is to generate a headline for that article.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Given a statement, generate its context or previous statement
+
+Examples:
+Input: He grabs someone in the hand and leads her around from the right.
+Output: She watches someone through a Venetian blind.
+
+Input: The taps the rim with a lemon and serves the drink while holding it in her hand.
+Output: She pours various liquids into the glass and mixing it around with a mixer.
+
+Input: The bag lady, with the shopping trolley, comes by in a pink dress with a green and blue petticoat.
+Output: Someone bursts out of the front door to meet her.
+
+Instruction: Given a sentence, generate a most likely context or previous statement. The previous statement should be relevant to the given statement.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Count the number of nouns/verbs in the given sentence.
+
+Examples:
+Input: Sentence: 'Two buses are sitting in front of a building'. Count the number of verbs in this sentence.
+Output: 1
+
+Input: Sentence: 'Two toothbrushes and toothpaste are in a container'. Count the number of nouns in this sentence.
+Output: 3
+
+Input: Sentence: 'Young bots climbing on the back of a  big rig'. Count the number of nouns in this sentence.
+Output: 3
+
+Instruction: In this task, you need to count the number of nouns/verbs in the given sentence.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Given a list of integers, find the range of the list
+
+Examples:
+Input: [136, 71, 264, 213, 168, 416, 435, 215, 465, 114, 325, 93, 306, 212, 183, 455, 123, 274, 87, 412]
+Output: 394
+
+Input: [134, 140, 371, 497, 383, 213, 197, 442, 438, 257, 281, 54, 247, 276, 181, 360, 236, 448, 160, 123]
+Output: 443
+
+Input: [429, 371, 119, 256, 460, 463, 11, 431, 333, 258, 113, 284, 132, 236, 44, 111, 83, 464, 257, 380]
+Output: 453
+
+Instruction: In this task, you are given a list of integers you need to calculate and return the range of the integers which is the difference between maximum and minimum element in the list.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: Given a sentence, rephrase it using another words while retaining meaning same as input.
+
+Examples:
+Input: when have you ever asked for permission before posing a question ?
+Output: since when do you ask me permission to ask a question ?
+
+Input: when i asked how you got assigned here , you avoided the question .
+Output: when i asked who you were assigned to , you dodged the question .
+
+Input: i just thought i 'd give you a little something to put in your book .
+Output: i wanted to give you a little idea for the book .
+
+Instruction: This is a paraphrasing task. In this task, you're given a sentence and your task is to generate another sentence which express same meaning as the input using different words.
+
+
+
+Write an instruction on how to solve the following task.
+
+Task: {{task}}
+
+Examples:
+{{demos}}
+
+Instruction:
