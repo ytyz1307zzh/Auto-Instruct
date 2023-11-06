@@ -1,0 +1,53 @@
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a sentence from the BTC dataset, return the list of tokens that mentions of companies or organizations.
+
+Instruction: In this task, you are given a sentence. You are expected to recognize the name of company or organization. Although there might be several correct answers, you need to write one of them.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Generate headline (summary) for legal act article
+
+Instruction: In this task, you are provided with an article about the legal acts. Your task is to generate a headline for that article.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a statement, generate its context or previous statement
+
+Instruction: Given a sentence, generate a most likely context or previous statement. The previous statement should be relevant to the given statement.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Count the number of nouns/verbs in the given sentence.
+
+Instruction: In this task, you need to count the number of nouns/verbs in the given sentence.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a list of integers, find the range of the list
+
+Instruction: In this task, you are given a list of integers you need to calculate and return the range of the integers which is the difference between maximum and minimum element in the list.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a sentence, rephrase it using another words while retaining meaning same as input.
+
+Instruction: This is a paraphrasing task. In this task, you're given a sentence and your task is to generate another sentence which express same meaning as the input using different words.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: {{task}}
+
+Instruction:

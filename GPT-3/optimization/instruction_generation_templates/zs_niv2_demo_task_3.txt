@@ -1,0 +1,53 @@
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a list of integers return a number if it is prime.
+
+Instruction: In this task you will be given a list of integers. You should remove any integer that is not prime. A prime integer is an integer that is only divisible by '1' and itself. The output should be the list of prime numbers in the input list. If there are no primes in the input list an empty list ("[]") should be returned.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Writing a incorrect answer to a given question based on a given sentence.
+
+Instruction: You are given a sentence and a question. You're expected to write an **incorrect** answer to the given question, such that it is relevant to the given sentence. Your answer should not be completely out of context. Try to write short answers with one or two words.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Classify the conversation sentences of input passage into the following outputs: formal and informal.
+
+Instruction: You are given a conversation between two people. 'Person1:' and 'Person2:' are used to separate their respective dialogues. You are required to assign a label 'formal' if there is an absence of emotion and a presence of questions anywhere within the conversation. If such pattern is not found assign the label 'informal'.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a conversation between two people and 4 options on how the conversation should continue, choose the most reasonable option
+
+Instruction: In this task you are given a small conversation between two persons and 4 options on how the conversation should continue. Your job is to choose the most reasonable option. The conversation and the options are separated by a newline character. Each dialogue in the conversation are separated by a comma. F and M indicate female and male, respectively.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a premise and hypothesis, determine if the hypothesis entails, contradicts, or is neutral to the premise.
+
+Instruction: In this task, you will be presented with a premise and a hypothesis sentence. Determine whether the hypothesis sentence entails (implies), contradicts (opposes), or is neutral with respect to the given premise sentence. Please answer with "Contradiction", "Neutral", or "Entailment".
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a list of integers, remove all elements that are even.
+
+Instruction: In this task you will be given a list of numbers. A list is shown by two brackets and comma-separated numbers inside, like: [1,2,3]. You should remove all of the even numbers from the list. If every number in the input list is even an empty list should be returned. Zero should be counted as an even number.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: {{task}}
+
+Instruction:

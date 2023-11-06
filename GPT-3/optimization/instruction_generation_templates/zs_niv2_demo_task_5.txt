@@ -1,0 +1,58 @@
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Creating complex reasoning questions based on a passage.
+
+Instruction: This task involves creating questions from a given passage that involve some kind of complex reasoning (including numerical reasoning).
+The generated questions must require looking at more than one part of the passage to answer. Try to use a variety of reasoning types in your questions (some of the sample reasoning types are illustrated in the 'positive examples' field) and also have a variety of answer types (spans, numbers, dates). A span is a continuous phrase taken directly from the passage or question. In such questions, the answer spans are recommended to be five words. Questions with answer type "number", are expected to start with "How many". For instance, "How long did an event last?" can be phrased as "How many years did an event last?". To increase diversity, try to create more questions for which the answer will be multiple spans. Please create questions that require AT LEAST 2 arithmetic operations as illustrated in the 'positive examples' field. You are encouraged to try DIFFERENT COMBINATIONS of operations and not just limit to the combinations shown in those examples. The more challenging questions you create, the better it is.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Writing incorrect answers to a given question based on a given sentence.
+
+Instruction: Write an incorrect answer to the given question based on the associated fact. You are also provided with the correct answer to the given question. Make sure that your incorrect answer is relevant and similar to the associated fact. Also, try to make the incorrect answer similar to the correct answer so that distinguishing the correct answer from the incorrect answer is not very easy. Make sure you don't accidentally provide another correct answer! Also, make sure they sound reasonable (e.g., might be on a school pop quiz). A good incorrect answer can be constructed using words associated with the question, but not the correct answer. For example, for the question "What helps plants survive?", using words like "weeds", "vase", "bee" (associated with "plant"), or "first aid", "parachute", "accident" (associated with "survive") etc. Your incorrect answers make the question hard, so these results in good incorrect answers.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a sentence, a word in that sentence and the position of that word in the sentence, find the parts-of-speech tag of the word
+
+Instruction: In this task, you need to provide the parts-of-speech tag of a word present in a sentence specified within curly braces  ( '{{ ... }}' ). The parts-of-speech tags are fine labels that represent a category of words with similar grammatical properties. The list of part-of-speech tags i.e tagset of this corpus is : '$': Dollar Sign, "''": Single Quotes, ',': Comma Symbol, '-LRB-': Left Parantheses, '-RRB-': Right Parantheses, '.': Period, ':': Colon, 'ADD': Email Address, 'AFX': Affix, 'CC': Coordinating conjunction, 'CD': Cardinal Number, 'DT': Determiner, 'EX': Existential there, 'FW': Foreign Word, 'GW': Go with, 'HYPH': Hyphen symbol, 'IN': Preposition or a subordinating conjunction, 'JJ': Adjective, 'JJR': A comparative Adjective, 'JJS': A Superlative Adjective, 'LS': List item Marker, 'MD': Modal, 'NFP': Superfluous punctuation, 'NN': Singular Noun, 'NNP': Singular Proper Noun, 'NNPS': Prural Proper Noun, 'NNS': Prural Noun, 'PDT': Pre-determiner, 'POS': Possessive Ending, 'PRP': Personal pronoun, 'PRP$': Possessive Pronoun, 'RB': Adverb, 'RBR': Comparative Adverb, 'RBS': Superlative Adverb, 'RP': Particle, 'SYM': Symbol, 'TO': To , 'UH': Interjection, 'VB': Base form Verb, 'VBD': Verb in Past tense, 'VBG': Verb in present participle, 'VBN': Verb in past participle, 'VBP': Verb in non-3rd person singular present, 'VBZ': Verb in 3rd person singular present, 'WDT': Wh-determiner, 'WP': Wh-pronoun, 'WP$' Possessive Wh-pronoun, 'WRB': Wh-adverb, 'XX': Unknown, '``': Double backticks.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Verifying the temporal reasoning category of a given question.
+
+Instruction: Indicate with `Yes` if the given question involves the provided reasoning `Category`. Indicate with `No`, otherwise. We define five categories of temporal reasoning. First: "event duration" which is defined as the understanding of how long events last. For example, "brushing teeth", usually takes few minutes. Second: "transient v. stationary" events. This category is based on the understanding of whether an event will change over time or not. For example, the sentence "he was born in the U.S." contains a stationary event since it will last forever; however, "he is hungry" contains a transient event since it will remain true for a short period of time. Third: "event ordering" which is the understanding of how events are usually ordered in nature. For example, "earning money" usually comes before "spending money". The fourth one is "absolute timepoint". This category deals with the understanding of when events usually happen. For example, "going to school" usually happens during the day (not at 2 A.M). The last category is "frequency" which refers to how often an event is likely to be repeated. For example, "taking showers" typically occurs ~5 times a week, "going to Saturday market" usually happens every few weeks/months, etc.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a list concatenate and then mirror/reverse all the elements starting from ith element and ending at jth element
+
+Instruction: In this task, you are given inputs 'i', 'j', and A, where 'i' and 'j' are integers and A is a list. A list is shown by two brackets and comma-separated numbers and characters inside, like ['1', '12', 'l']. You need to concatenate all elements of A from the ith element to the jth element, and then reverse the resulting string. 'i' and 'j' will be non-negative, and will always have a value less than the length of A. 'i' will always be less than 'j'. Perform the operations in order, i.e., do not reverse first and then concatenate.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: Given a debate topic and a sentence from the debate, classify the type of the sentence.
+
+Instruction: In this task, you will be given a debate topic, along with a sentence from the debate. You should classify the given sentence and choose the type of that sentence. Possible types are explained below.
+Policy: This refers to a sentence proposing a specific course of action to be taken. It typically contains modal verbs like "should" and "ought to". It cannot be directly proved with objective evidence, and a proper type of support is a logical reason from which the proposition can be inferred.
+Value: This refers to a sentence containing value judgments without making specific claims about what should be done (If so, then it is a Policy sentence.). Because of the subjectivity of value judgments, it cannot be proved directly with objective evidence.
+Fact: This refers to an objective proposition expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations. A Fact sentence has a truth value that can be verified with objective evidence that may be available at the time the claim is made; predictions about future are considered unverifiable.
+Testimony: This refers to an objective sentence about the author's personal state or experience. Evidence for Testimony is not publicly available in most cases.
+
+
+
+Given the description of a task, write an instruction on how to solve the task.
+
+Task description: {{task}}
+
+Instruction:
