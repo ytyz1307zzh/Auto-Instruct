@@ -8,5 +8,7 @@ The repository includes the following contents:
 
 - `data`: the training / testing data files, meta-prompts, downstream prompts, and generated instructions.
 - `GPT-3`: the source code for data, model training and model evaluation.
+    - `instruction_generation_templates`: the templates of creating meta-prompts for each task (used for instruction generation)
+    - `instruction_generation`: scripts for instruction generation
 
 More details coming soon. Stay tuned!
