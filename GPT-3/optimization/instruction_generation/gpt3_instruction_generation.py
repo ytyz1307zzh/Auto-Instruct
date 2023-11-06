@@ -39,11 +39,11 @@ def main():
     # GPT-3 API arguments
     parser.add_argument('-model', type=str, default='text-davinci-003',
                         help='Which GPT-3 model to use')
-    parser.add_argument('-max_tokens', type=int, default=1024,
+    parser.add_argument('-max_tokens', type=int, default=512,
                         help='Max number of output tokens of GPT-3')
     parser.add_argument('-temperature', type=float, default=1.0,
                         help='Temperature parameter of GPT-3. 0: greedy decoding. 1: sampling based on probability')
-    parser.add_argument('-top_p', type=float, default=0.75,
+    parser.add_argument('-top_p', type=float, default=1.0,
                         help='Sampling probability threshold in nucleus sampling')
     parser.add_argument('-best_of', type=int, default=5,
                         help='Maximum number of sampled outputs')
@@ -52,9 +52,9 @@ def main():
                              'if using ChatGPT to generate multiple instructions')
     parser.add_argument('-logprobs', type=int, default=None,
                         help='The number of tokens to return probability')
-    parser.add_argument('-timeout', type=int, default=20,
+    parser.add_argument('-timeout', type=int, default=30,
                         help='Wait time for the response from OpenAI API')
-    parser.add_argument('-sleep', type=int, default=1,
+    parser.add_argument('-sleep', type=int, default=2,
                         help='How long to sleep if rate limit is reached')
     parser.add_argument('-api_key', type=str, required=True, help='OPENAI API key')
 
