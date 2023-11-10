@@ -205,7 +205,7 @@ def main():
         print(f'Training data finished. {len(train_data)} examples in total.')
         save_list_as_jsonl(os.path.join(args.output_dir, 'train.jsonl'), train_data)
         if len(seen_dev_data) > 0:
-            print(f'Seen dev data finished. {len(train_data)} examples in total.')
+            print(f'Seen dev data finished. {len(seen_dev_data)} examples in total.')
             save_list_as_jsonl(os.path.join(args.output_dir, 'seen_dev.jsonl'), seen_dev_data)
 
         if len(dev_data_file_list) > 0:
