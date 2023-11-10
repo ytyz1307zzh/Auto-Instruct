@@ -1,0 +1,315 @@
+"""
+Use normalized ROUGE scores to relabel the instruction labels
+When sample 8 instructions, do a weighted sample
+If an instruction is more popular among all instructions, it has a lower chance to be sampled
+"""
+
+import os
+import sys
+import platform
+if platform.platform().startswith("Windows"):
+    path = os.path.abspath(__file__)
+    sys.path.append('\\'.join(path.split('\\')[:-2]))
+else:
+    path = os.path.abspath(__file__)
+    sys.path.append('/'.join(path.split('/')[:-2]))
+
+import re
+import json
+import math
+import pdb
+import shutil
+import random
+import argparse
+from tqdm import tqdm
+from typing import List
+from scipy import stats
+from scipy.special import softmax
+import numpy as np
+from transformers import T5TokenizerFast
+tokenizer = T5TokenizerFast.from_pretrained('google/flan-t5-large')
+
+
+def read_jsonl_as_list(path: str):
+    assert path.endswith('.jsonl')
+    with open(path, 'r', encoding='utf8') as fin:
+        result = []
+        for line in fin:
+            data = json.loads(line.strip())
+            result.append(data)
+    # print(f'Read {len(result)} data from {path}')
+    return result
+
+
+def save_list_as_jsonl(path: str, data: List):
+    assert path.endswith('.jsonl')
+    with open(path, 'w', encoding='utf8') as fout:
+        for instance in data:
+            fout.write(json.dumps(instance))
+            fout.write('\n')
+    # print(f'Saved {len(data)} data to {path}')
+
+
+def label_on_relative_rouge(score_list: List[float]):
+    """
+    Assign labels to the instructions based on relative rouge scores
+    """
+    # First, we re-scale the rouge scores using z-score
+    rescaled_score_list = stats.zscore(score_list)
+    # Then, we normalize the scores using softmax
+    normalized_score_list = softmax(rescaled_score_list)
+
+    return list(normalized_score_list)
+
+
+def count_instruction_popularity(data: List[dict], total_instructions: int):
+    """
+    Count the number of times that each instruction is the best instruction on the dataset
+    """
+    positive_instruction_cnt = [0] * total_instructions
+    negative_instruction_cnt = [0] * total_instructions
+    for example in data:
+        instruction_idx = example["instruction_idx"]
+        instruction_rouge = example["instruction_rouge"]
+        best_rouge = max(instruction_rouge)
+
+        for idx in range(len(instruction_idx)):
+            if math.isclose(instruction_rouge[idx], best_rouge):
+                real_idx = instruction_idx[idx]
+                positive_instruction_cnt[real_idx] += 1
+            else:
+                real_idx = instruction_idx[idx]
+                negative_instruction_cnt[real_idx] += 1
+
+    return positive_instruction_cnt, negative_instruction_cnt
+
+
+def MinMaxScale(population: List[float], bias: float = 0.0):
+    min_val = min(population)
+    max_val = max(population)
+    return [(p - min_val) / (max_val - min_val) + bias for p in population]
+
+
+def pick_8_instructions(positive_instruction_cnt: List[int], avoid_idx: List[int], sample_instructions: int):
+    # remove the instructions to avoid
+    candidate_indices = [i for i in range(len(positive_instruction_cnt)) if i not in avoid_idx]
+    candidate_popularity = [positive_instruction_cnt[i] for i in candidate_indices]
+    # old_candidate_sample_weights = softmax([1 / p if p > 0 else -999999 for p in candidate_popularity])
+    norm_candidate_popularity = MinMaxScale([1 / p if p > 0 else 0 for p in candidate_popularity])
+    candidate_sample_weights = softmax(norm_candidate_popularity)
+    sampled_indices = np.random.choice(candidate_indices, size=sample_instructions,
+                                       replace=False, p=candidate_sample_weights)
+    sampled_indices = sorted(sampled_indices.tolist())
+
+    return sampled_indices
+
+
+def pick_examples(data, positive_instruction_cnt: List[int], num_examples: int):
+    """
+    Pick examples for the task if there are too many examples.
+    If the instructions in this example are more popular, this example has a lower chance to be selected
+    num_examples: the number of examples to sample
+    """
+    example_popularity = []
+    for example in data:
+        instruction_idx = example["instruction_idx"]
+        sum_popularity = sum([positive_instruction_cnt[idx] for idx in instruction_idx])
+        example_popularity.append(sum_popularity)
+
+    norm_example_popularity = MinMaxScale([1 / p for p in example_popularity])
+    example_weights = softmax(norm_example_popularity)
+    sampled_data_indices = np.random.choice(list(range(len(data))), size=num_examples, replace=False, p=example_weights)
+    sampled_data = [data[idx] for idx in sampled_data_indices]
+    return sampled_data
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-data_dir', type=str, default='data/niv2_english')
+    parser.add_argument('-data_file', type=str, default='train_instruction_labels_text003.jsonl',
+                        help='Path to the raw data file (generated by label_instructions.py)')
+    parser.add_argument('-output_file', type=str, default='train_instruction_labels_text003_select.jsonl',
+                        help='Path to the output data file')
+    parser.add_argument('-remove_long_instructions', action='store_true', default=False,
+                        help='If True, remove instructions longer than 256 tokens')
+    parser.add_argument('-sample_instructions', default=8, type=int,
+                        help='How many instructions to sample for each example')
+    parser.add_argument('-total_num_instructions', default=22, type=int,
+                        help='The total number of instructions. Used to count the number of times each '
+                             'instruction is selected')
+    # normal value: 10
+    parser.add_argument('-min_qualify_range', type=int, default=None,
+                        help='To keep the instance, the range of the rouge scores of all instructions '
+                             'should be larger than this value (0-100 range)')
+    # normal value: 0.04
+    parser.add_argument('-min_best_norm_score', type=float, default=None,
+                        help='To keep the instance, the best instruction should have a normalized score '
+                             'for at least this value. (0-1 range)')
+    parser.add_argument('-max_examples', type=int, default=400,
+                        help='Max number of examples to keep for each task')
+    parser.add_argument('-rank_criteria', type=str, choices=['relative_score_range', 'norm_score_max'],
+                        default='norm_score_max',
+                        help='How to rank and select examples. '
+                             'relative_score_range: the range of rouge scores of all instructions. '
+                             'norm_score_max: the max normalized rouge score of all instructions.')
+    parser.add_argument('-pick_example_criteria', type=str, choices=['instruction_popularity', 'random'],
+                        default='random',
+                        help='How to pick examples if max_examples is set. '
+                             'instruction_popularity: sample examples based on the popularity of the instructions. '
+                             'instructions with higher popularity will have lower chance to be sampled. '
+                             'random: sample examples randomly.')
+    args = parser.parse_args()
+
+    task_names = os.listdir(args.data_dir)
+
+    num_processed_tasks = 0
+    num_total_tasks = 0
+    total_qualified_examples = 0
+    skip_task_cnt = 0
+
+    instruction_selected_times = [0 for _ in range(args.total_num_instructions)]
+
+    for task in tqdm(task_names):
+        if not os.path.isdir(os.path.join(args.data_dir, task)):
+            continue
+        num_total_tasks += 1
+
+        data_file_path = os.path.join(args.data_dir, task, args.data_file)
+        output_file_path = os.path.join(args.data_dir, task, args.output_file)
+
+        if not os.path.exists(data_file_path):
+            print(f'File {args.data_file} does not exist in task {task}')
+            continue
+
+        print("*" * 10 + task + "*" * 10)
+
+        data = read_jsonl_as_list(data_file_path)
+        headers = data[:3]
+        data = data[3:]  # first 3 lines are template, instructions and demos, respectively
+
+        # avoid_indices = [0]  # remove the empty instruction
+        avoid_indices = []  # specify this if you want to always exclude some instructions
+        instruction_list = headers[1]['instructions']
+
+        # remove long instructions to avoid violating with T5 max length
+        if args.remove_long_instructions:
+            input_ids = tokenizer(instruction_list, add_special_tokens=True).input_ids
+            for idx in range(len(instruction_list)):
+                if len(input_ids[idx]) > 256:
+                    avoid_indices.append(idx)
+
+        # skip some tasks if there are too many long instructions
+        if len(avoid_indices) > len(instruction_list) // 2:
+            print(f"Task {task} has too many long instructions. Skip.")
+            skip_task_cnt += 1
+            continue
+
+        # Summarize which instructions are more popular in this task
+        # The number of times an instruction is the best instruction for every example
+        positive_instruction_cnt, negative_instruction_cnt = \
+            count_instruction_popularity(data, total_instructions=len(instruction_list))
+        # print(f'Remaining data: {len(data)}')
+        # print(f'Instruction distribution (positive): {positive_instruction_cnt}')
+        # print(f'Instruction distribution (negative): {negative_instruction_cnt}')
+
+        results = []
+        for example in data:
+            instruction_scores = example["instruction_rouge"]
+
+            instruction_idxs = pick_8_instructions(positive_instruction_cnt, avoid_idx=avoid_indices,
+                                                   sample_instructions=args.sample_instructions)
+            instruction_scores = [instruction_scores[i] for i in instruction_idxs]
+
+            normalized_score_list = label_on_relative_rouge(instruction_scores)
+
+            min_score = min(instruction_scores)
+            max_score = max(instruction_scores)
+
+            # If there are NaNs in normalized_score_list, skip this example
+            if math.isnan(sum(normalized_score_list)):
+                assert max(instruction_scores) == min(instruction_scores)
+                continue
+
+            # The max and min score should be different enough
+            if args.min_qualify_range is not None and max_score - min_score < (args.min_qualify_range / 100):
+                continue
+
+            # The best normalized score should be larger than a threshold
+            # Otherwise, the instructions are too similar with each other
+            if args.min_best_norm_score is not None and max(normalized_score_list) < args.min_best_norm_score:
+                continue
+
+            # overwrite the previous labels
+            example["instruction_labels"] = normalized_score_list
+            example["instruction_idx"] = instruction_idxs
+            example["instruction_rouge"] = instruction_scores
+            example['instruction_outputs'] = [example['instruction_outputs'][i] for i in instruction_idxs]
+            assert len(example["instruction_labels"]) == args.sample_instructions
+            assert len(example["instruction_idx"]) == args.sample_instructions
+            assert len(example["instruction_rouge"]) == args.sample_instructions
+            assert len(example['instruction_outputs']) == args.sample_instructions
+            results.append(example)
+
+        # sort the results by the difference between the best and worst instruction
+        if args.rank_criteria == 'relative_score_range':
+            metric = lambda x: max(x["relative_rouge"]) - min(x["relative_rouge"])
+        elif args.rank_criteria == 'norm_score_max':
+            metric = lambda x: max(x["instruction_labels"])
+        else:
+            raise ValueError(f'Unknown rank criteria: {args.rank_criteria}')
+
+        if len(results) == 0:
+            print(f'No qualified examples in task {task}, skip this one...')
+            skip_task_cnt += 1
+            continue
+
+        if len(results) > args.max_examples:
+            # Count the instruction popularity again on the 8-instruction filtered data
+            positive_instruction_cnt, negative_instruction_cnt = \
+                count_instruction_popularity(results, total_instructions=len(instruction_list))
+            # print(f'Remaining data: {len(results)}')
+            # print(f'Instruction distribution (positive): {positive_instruction_cnt}')
+            # print(f'Instruction distribution (negative): {negative_instruction_cnt}')
+
+            if args.pick_example_criteria == 'instruction_popularity':
+                results = pick_examples(results, positive_instruction_cnt, num_examples=args.max_examples)
+            elif args.pick_example_criteria == 'random':
+                results = random.sample(results, args.max_examples)
+            else:
+                raise ValueError(f'Unknown pick example criteria: {args.pick_example_criteria}')
+
+        results = sorted(results, key=metric, reverse=True)
+
+        print(f'Qualified examples: {len(results)}, skipped instructions: {avoid_indices}')
+        total_qualified_examples += len(results)
+
+        # Check the instruction selection distribution for another time (for logging)
+        positive_instruction_cnt, negative_instruction_cnt = \
+            count_instruction_popularity(results, total_instructions=len(instruction_list))
+        # print(f'Remaining data: {len(results)}')
+        # print(f'Instruction distribution (positive): {positive_instruction_cnt}')
+        # print(f'Instruction distribution (negative): {negative_instruction_cnt}')
+
+        best_instruction_ratio_among_instructions = max(positive_instruction_cnt) / sum(positive_instruction_cnt)
+        best_instruction_ratio_among_examples = max(positive_instruction_cnt) / len(results)
+        print(f'Ratio among instructions: {best_instruction_ratio_among_instructions:.2%}, among examples: '
+              f'{best_instruction_ratio_among_examples:.2%}')
+        print(f'Instruction selected times: {positive_instruction_cnt}')
+
+        results = headers + results
+        save_list_as_jsonl(output_file_path, results)
+        num_processed_tasks += 1
+
+        for idx in range(len(positive_instruction_cnt)):
+            instruction_selected_times[idx] += positive_instruction_cnt[idx]
+
+    print(f'Total tasks: {num_total_tasks}, Processed tasks: {num_processed_tasks}, '
+          f'Skipped tasks: {skip_task_cnt}, '
+          f'total qualified examples: {total_qualified_examples}')
+
+    print(f'Instruction selected times: {instruction_selected_times}')
+
+
+if __name__ == '__main__':
+    main()
+

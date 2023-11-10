@@ -414,7 +414,7 @@ def main():
             os.remove(temp_save_file + ".bak")
 
     # For each instruction, if the prediction matches with the answer, then it is a good instruction
-    # Although we did this in the code, in final model training, we directly used the "instruction_rouge" scores instead of "instruction_labels" scores
+    # Although we did this in the code, this label is not used in actual model training
     all_labels = []
     for output, answer in zip(all_outputs, all_answers):
         if answer_match(output, answer, metric=args.eval_metric):
