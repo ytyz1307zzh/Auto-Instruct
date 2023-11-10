@@ -1,6 +1,6 @@
 # Instruction Labeling
 
-Instruction labeling means collecting the training label related to each instruction, \textit{i.e.}, check the actual downstream performance of each instruction on each training example.
+Instruction labeling means collecting the training label related to each instruction, *i.e.*, check the actual downstream performance of each instruction on each training example.
 
 #### Label the instructions according to downstream performance
 
@@ -20,3 +20,34 @@ As mentioned in the Appendix A, to expedite training, we sample 8 instructions o
 
 In practice, we use the following arguments to run this script:
 `-sample_instructions 8 -min_qualify_range 10 -max_examples 400 -rank_criteria norm_score_max -pick_example_criteria instruction_popularity`
+
+A example of training data:
+
+```json
+{
+    "id": "task066-325aee69bf63414293c266c0154703fc",
+    "input": "Sentence 1: I saw an old friend today. \n Sentence 3: We talked for hours about how we've been \n Sentence 4:  It was so nice to see my friend \n Sentence 5:  I can't wait for the next time we are able to catch up \n Given Sentence 2: He was never first for anything.",
+    "target": "No",
+    "instruction_idx": [6, 7, 9, 12, 13, 14, 19, 21],
+    "instruction_labels": [0.0362745006332395, 0.0362745006332395, 0.0362745006332395, 0.0362745006332395, 0.0362745006332395, 0.0362745006332395, 0.7460784955673235, 0.0362745006332395],
+    "instruction_outputs": [" Yes", " Yes", " Yes", " Yes", " Yes", " Yes", " No", " Yes"],
+    "instruction_rouge": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]}
+```
+
+#### Merge all tasks into the final train/dev/test data files
+
+In `mix_datasets.py`, we merge all data from each task into the final train/dev/test datasets. Detailed instruction can be found in its docstring. Every element in the final dataset will be in this format:
+
+```json
+    {
+        "id": "task066_timetravel_binary_consistency_classification_task066-325aee69bf63414293c266c0154703fc",
+        "input": "Sentence 1: I saw an old friend today. \n Sentence 3: We talked for hours about how we've been \n Sentence 4:  It was so nice to see my friend \n Sentence 5:  I can't wait for the next time we are able to catch up \n Given Sentence 2: He was never first for anything.",
+        "target": "No",
+        "instruction_idx": [6, 7, 9, 12, 13, 14, 19, 21],
+        "instruction_labels": [0.0362745006332395, 0.0362745006332395, 0.0362745006332395, 0.0362745006332395, 0.0362745006332395, 0.0362745006332395, 0.7460784955673235, 0.0362745006332395],
+        "instruction_rouge": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0],
+        "prompt": "Example: {{input}}\n\nInstruction: {{instruction}}\n\nIs this a good instruction to solve the example?",
+        "demos": [A STRING OF THE CONCATENATION OF FEW-SHOT DEMOS],
+        "instructions": [A LIST OF ALL CANDIDATE INSTRUCTIONS, INCLUDING THE SEED INSTRUCTION]
+    }
+```
