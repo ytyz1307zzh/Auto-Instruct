@@ -42,7 +42,7 @@ def main():
                         help='Path to the directory containing all tasks')
     # Following file arguments are the same with the ones in "label_instructions.py"
     parser.add_argument('-instruction_file', type=str, default='text003_all_prompts_22.json')
-    parser.add_argument('-data_file', type=str, default='examples.jsonl')
+    parser.add_argument('-data_file', type=str, default='all_examples.jsonl')
     parser.add_argument('-demo_file', type=str, default='demo.jsonl')
     parser.add_argument('-gpt_inference_prompt_file', type=str, default='fs_downstream_inference_prompt_template.txt')
     parser.add_argument('-demo_template_file', type=str, default='demo_template.json')
