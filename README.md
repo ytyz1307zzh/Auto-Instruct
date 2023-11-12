@@ -12,6 +12,7 @@ The repository includes the following contents:
     - `instruction_generation`: scripts for instruction generation
     - `instruction_labeling`: scripts for label the instructions for training / testing, as well as dataset pre-processing
     - `run.py`: entrance for model training / testing, see `GPT-3/optimization/README.md`
+    - `evaluation`: evaluation scripts for the ranking model
 
 ### Environment
 
