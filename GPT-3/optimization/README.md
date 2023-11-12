@@ -18,7 +18,7 @@ wandb login YOUR_WANDB_KEY
 python -m torch.distributed.launch \
     --nproc_per_node=8 \
     GPT-3/optimization/run.py \
-    --data_dir data/class_niv2_fewshot \
+    --data_dir YOUR_DATA_DIR \
     --output_dir YOUR_SAVE_DIR \
     --do_train \
     --do_test \
@@ -42,4 +42,17 @@ python -m torch.distributed.launch \
     --wandb_username YOUR_WANDB_USERNAME \
     --prefix 91test_
 ```
-
+5. (Optional) Run inference with `train.py`
+```bash
+python -m torch.distributed.launch \
+    --nproc_per_node=8 \
+    GPT-3/optimization/run.py \
+    --data_dir YOUR_DATA_DIR \
+    --output_dir YOUR_SAVE_DIR \
+    --do_test \
+    --model_name google/flan-t5-large \
+    --test_batch_size 1 \
+    --output_max_length 1 \
+    --seed 42 \
+    --prefix 91test_
+```
